@@ -1,11 +1,14 @@
 group:
-  name: "Jmeno skupiny používající web - př Pirástá strana"
-  short_name: "Název skupiny"
-  facebook_page: "https://www.facebook.com/ceska.piratska.strana/"
-  twitter: "https://twitter.com/piratskastrana"
+  name: "Česká pirátská strana - místní sdruženi na Praze 8"
+  short_name: "Piráti Praha 8"
+  facebook_page: "https://www.facebook.com/piratipraha8/"
   local_contact_uid: "jakub.pirat"  # uid mistniho kontaktu definovane v _people
   github_repository: "https://github.com/pirati-web/example.pirati.cz/"
 
+parent_group:
+  name: "Pražské sdružení"
+  web_url: "https://praha.pirati.cz"
+
 calendar:
-  bar: "https://calendar.google.com/calendar/r?cid=kddvdvu3adcjef2kro4j6mm838@group.calendar.google.com"
-  bar_title: "Celostátní kalendář"
+  bar: "https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=rm0h4oqjk2j2o0615sc4d1slfk%40group.calendar.google.com&amp;color=%23B1365F&amp;src=lpvmfpogihrca3lqs9p2udae0k%40group.calendar.google.com&amp;color=%238D6F47&amp;ctz=Europe%2FPrague"
+  bar_title: "Celopražský kalendář"
