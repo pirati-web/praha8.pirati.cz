@@ -17,18 +17,17 @@ title: Pirati
 email: info@pirati.cz
 description: >- # this means to ignore newlines until "baseurl:"
   Česká pirátská strana - místní sdruženi na Praze 8
-baseurl: "example.pirati.cz" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
-# Loccalhost setting
-baseurl: ""
-theme: jekyll-theme-pirati
+# Localhost setting
+#baseurl: ""
+#theme: jekyll-theme-pirati
 
 # Github pages setting
-#baseurl: "example.pirati.cz" # the subpath of your site, e.g. /blog
-#remote_theme: jitka/jekyll-theme-pirati
+baseurl: "example.pirati.cz" # the subpath of your site, e.g. /blog
+remote_theme: jitka/jekyll-theme-pirati
 
 
 
