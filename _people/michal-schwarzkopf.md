@@ -5,7 +5,8 @@ fullname: Michal Schwarzkopf
 category:  clenove
 img: people/michal-schwarzkopf.jpg 
 description: 
-mail: michal.schwarzkopf@pirati.cz
+mail: 
+  - michal.schwarzkopf@pirati.cz
 profiles:
   facebook: https://www.facebook.com/michal.schwarzkopf
 ---

@@ -5,7 +5,8 @@ fullname: Tereza Vovesová
 category:  clenove
 img: people/tereza-vovesová.jpg 
 description: 
-mail: tereza.vovesova@pirati.cz
+mail: 
+  - tereza.vovesova@pirati.cz
 profiles:
   facebook: https://www.facebook.com/tereza.vovesova
 ---

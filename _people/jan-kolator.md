@@ -5,7 +5,8 @@ fullname: Jan Kolátor
 category:  clenove
 img: people/jan-kolator.jpg 
 description: 
-mail: jan-kolator
+mail: 
+  - jan.kolator@pirati.cz
 profiles:
   facebook: https://www.facebook.com/jan.kolator.1
 ---

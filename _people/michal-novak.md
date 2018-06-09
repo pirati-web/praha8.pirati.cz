@@ -5,7 +5,8 @@ fullname: Michal Novák
 category: clenove
 img: people/michal-novak.jpg  
 description: Předseda místního sdružení
-mail: michal.novak@pirati.cz
+mail: 
+  - michal.novak@pirati.cz
 profiles:
   facebook: https://www.facebook.com/icydicey
 ---

@@ -5,7 +5,8 @@ fullname: Anna Filínová
 category:  clenove
 img: people/anna-filinova.jpg  
 description: 1. místopředsedkyně MS Praha 8, koordiátorka Senioři
-mail: anna.filinova@pirati.cz
+mail: 
+ - anna.filinova@pirati.cz
 profiles:
   facebook: https://www.facebook.com/anna.filinova
 ---

@@ -5,7 +5,8 @@ fullname: Ivo Slávka
 category:  clenove
 img: people/ivo-slavka.jpg 
 description: 
-mail: ivo.slavka@pirati.cz
+mail: 
+ - ivo.slavka@pirati.cz
 ---
 
 Ivo Slávka (nar. 29. 9. 1966)

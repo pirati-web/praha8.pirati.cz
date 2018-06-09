@@ -5,7 +5,8 @@ fullname: Mgr. Jitka Novotná
 category:  clenove
 img: people/jitka-novotna.jpg  
 description: web, spolupráce s KS Praha
-mail: jitka.novotna@pirati.cz
+mail: 
+  - jitka.novotna@pirati.cz
 profiles:
   facebook: https://www.facebook.com/jitka.novotna.7528 
 ---

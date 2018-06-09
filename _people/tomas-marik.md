@@ -5,7 +5,8 @@ fullname: Tomáš Mařík
 category:  clenove
 img: people/.jpg 
 description: koordinátor Libeňsky most a rozpočet 2018
-mail: temas.marik@pirati.cz
+mail: 
+  - temas.marik@pirati.cz
 profiles:
   facebook: https://www.facebook.com/tomas.marik.129
 ---

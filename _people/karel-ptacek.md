@@ -5,7 +5,8 @@ fullname: Karel Ptáček
 category:  clenove
 img: people/karel-ptacek.jpg  
 description: koordinátor Správa majetku
-mail: karel.ptacek@pirati.cz
+mail: 
+  - karel.ptacek@pirati.cz
 profiles:
   facebook: https://www.facebook.com/karel.ptacek.1
 ---

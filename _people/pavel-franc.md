@@ -5,7 +5,8 @@ fullname: Pavel Franc
 category:  clenove
 img: people/pavel-franc.jpg  
 description: koordánátor Školství
-mail: pavel.franc@pirati.cz
+mail: 
+ - pavel.franc@pirati.cz
 profiles:
   facebook: https://www.facebook.com/pfranc
 ---

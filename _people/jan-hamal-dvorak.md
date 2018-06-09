@@ -5,7 +5,8 @@ fullname: Jan Hamal Dvořák
 category:  clenove
 img: people/jan-hamal-dvorak.jpg  
 description: koordinátor Trasparentnost a funkování MČ
-mail: TODO
+mail: 
+  - TODO
 profiles:
   facebook: https://www.facebook.com/jan.mordae.dvorak
 ---

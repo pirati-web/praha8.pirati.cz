@@ -5,7 +5,8 @@ fullname: Květa Maříková
 category:  clenove
 img: people/kveta-marikova.jpg 
 description: organizace schůzek
-mail: kveta.marikova@pirati.cz
+mail: 
+  - kveta.marikova@pirati.cz
 profiles:
   facebook: https://www.facebook.com/kveta.kvitek?ref=br_rs
 ---
