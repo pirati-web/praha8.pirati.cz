@@ -22,12 +22,12 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Localhost setting
-#baseurl: ""
-#theme: jekyll-theme-pirati
+baseurl: ""
+theme: jekyll-theme-pirati
 
 # Github pages setting
-baseurl: "praha8.pirati.cz" # the subpath of your site, e.g. /blog
-remote_theme: jitka/jekyll-theme-pirati
+#baseurl: "praha8.pirati.cz" # the subpath of your site, e.g. /blog
+#remote_theme: jitka/jekyll-theme-pirati
 
 
 
@@ -53,7 +53,7 @@ collections:
     permalink: /lide/:path/
   program:
     output: true
-    permalink: /program/:path/
+    permalink: /komunalni-volby-2018/:path/
 
 defaults:   # defaults values for collection scope
   -
@@ -67,6 +67,6 @@ defaults:   # defaults values for collection scope
       path: "_program"
     values:
       layout: "page"
-      rbar: "volby-2018"
+      rbar: "garant, program"
 
 emptyArray: []
