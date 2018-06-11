@@ -22,12 +22,12 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Localhost setting
-baseurl: ""
-theme: jekyll-theme-pirati
+#baseurl: ""
+#theme: jekyll-theme-pirati
 
 # Github pages setting
-#baseurl: "praha8.pirati.cz" # the subpath of your site, e.g. /blog
-#remote_theme: jitka/jekyll-theme-pirati
+baseurl: "praha8.pirati.cz" # the subpath of your site, e.g. /blog
+remote_theme: jitka/jekyll-theme-pirati
 
 
 
