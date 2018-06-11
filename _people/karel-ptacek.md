@@ -2,8 +2,13 @@
 uid: karel.ptacek
 name: Karel Ptáček
 fullname: Karel Ptáček
-category:  clenove
-img: people/karel-ptacek.jpg  
+category:  
+  - clenove
+  - kandidat-obec
+#img: people/karel-ptacek.jpg  
+cityCandidatePosition: 2
+profession: development
+candidateDescription: Koordinátor Správy majetku, nějaký karlínský spolek?
 description: koordinátor Správa majetku
 mail: 
   - karel.ptacek@pirati.cz
