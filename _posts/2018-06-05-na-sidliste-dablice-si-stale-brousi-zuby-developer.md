@@ -9,6 +9,8 @@ authorId: michaela.krupickova
 image: assets/img/posts/obrazek.u.tohoto.postu.jpg
 ---
 
+!!!TEST!!!
+
 Navzdory tomu, že petici STOP VÝSTAVBĚ VYSOKOPODLAŽNÍCH BUDOV podepsalo již 6700 petentů, 29 zástupců bytových domů vydalo Společné prohlášení, v němž zdůrazňují potřebu respektovat vůli místních občanů, usnesení o nesouhlasu s výstavbou přijal vloni v září jak MHMP, tak MČ Prahy 8, IPR a další odborníci označují výstavbu za nekoncepční, společnost CPI chce svůj záměr na sídlišti Ďáblice uskutečnit. 
 Jak je to možné?
 
