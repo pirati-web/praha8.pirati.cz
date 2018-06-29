@@ -5,7 +5,7 @@ fullname: Karel Ptáček
 category:  
   - clenove
   - kandidat-obec
-#img: people/karel-ptacek.jpg  
+img: people/karel-ptacek.jpg  
 cityCandidatePosition: 2
 profession: development
 candidateDescription: Koordinátor Správy majetku, nějaký karlínský spolek?

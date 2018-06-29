@@ -3,7 +3,7 @@ uid: jan.hamal.dvorak
 name: Jan Hamal Dvořák 
 fullname: Jan Hamal Dvořák
 category:  clenove
-#img: people/jan-hamal-dvorak.jpg  
+img: people/jan-hamal-dvorak.jpg  
 description: koordinátor Trasparentnost a funkování MČ
 mail: 
   - TODO

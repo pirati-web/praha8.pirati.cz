@@ -5,7 +5,7 @@ fullname: Alice Hamalová
 category:  
   - clenove
   - kandidat-obec
-#img: people/alice-hamalova.jpg  
+img: people/alice-hamalova.jpg  
 profession: chemik, výzkumný pracovník
 candidateDescription: Leadr kondidátky, 1. místopřědsedkyně MS, koordinátorka Životní prostředí
 cityCandidatePosition: 1

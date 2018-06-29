@@ -3,7 +3,7 @@ uid: ivo-slavka
 name: Ivo Slávka
 fullname: Ivo Slávka
 category:  clenove
-#img: people/ivo-slavka.jpg 
+img: people/ivo-slavka.jpg 
 description: 
 mail: 
  - ivo.slavka@pirati.cz

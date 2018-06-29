@@ -18,18 +18,50 @@ email: info@pirati.cz
 description: >- # this means to ignore newlines until "baseurl:"
   Česká pirátská strana - místní sdruženi na Praze 8
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+keywords: piráti, česká pirátská strana, svoboda, demokracie, kontrola moci a mocných, zjednodušení státu pomocí technologií, ochranu občanů před šikanou, obranu svobody, černá na bílé, ivan bartoš, e-government, politika pro 21. století # dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
 twitter_username: jekyllrb
 github_username:  jekyll
 
-# Localhost setting
-#baseurl: ""
-#theme: jekyll-theme-pirati
+theme: jekyll-theme-pirati
 
-# Github pages setting
-baseurl: "praha8.pirati.cz" # the subpath of your site, e.g. /blog
-remote_theme: jitka/jekyll-theme-pirati
+sass:
+  style: compressed
+  sass_dir: _sass
 
+group:
+  facebook_page: "https://www.facebook.com/piratipraha8/"
+  local_contact_uid: "jakub.pirat"  # uid mistniho kontaktu definovane v _people
+  github_repository: "https://github.com/pirati-web/example.pirati.cz/"
 
+parent_group:
+  name: "Pražské sdružení"
+  web_url: "https://praha.pirati.cz"
+
+calendar:
+  bar: "https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=rm0h4oqjk2j2o0615sc4d1slfk%40group.calendar.google.com&amp;color=%23B1365F&amp;src=lpvmfpogihrca3lqs9p2udae0k%40group.calendar.google.com&amp;color=%238D6F47&amp;ctz=Europe%2FPrague"
+  bar_title: "Celopražský kalendář"
+
+organization:
+  name: "Česká pirátská strana - místní sdruženi na Praze 8"
+  short_name: "Piráti Praha 8"
+  contactUid: jakub.pirat
+  email: praha8@pirati.cz
+  phone: +420 777 123 456 789
+  address: |
+      Řehořova 943/19 |
+      130 00 Praha 3
+  residenceImg:
+  mapLink: https://mapy.cz/s/2N7Yv
+  redmineLink: https://redmine.pirati.cz/projects
+
+homepageBanner:
+  display: false
+  link: /komunalni-volby/
+  title: Komunální volby 2018
+  breakpoint: 640 # breakpoint in pixels when to start showing `default` instead of `mobile`
+  image:
+    default: path/to/img.jpg
+    mobile: path/to/img.jpg
 
 # Build settings
 markdown: kramdown
@@ -45,6 +77,8 @@ exclude:
   - readme.md
   - Gemfile
   - Gemfile.lock
+  - vendor
+
 
 permalink: /aktuality/:title.html
 collections:
@@ -54,6 +88,9 @@ collections:
   program:
     output: true
     permalink: /komunalni-volby-2018/:path/
+  # Sole purpose is to create candidate lists in separate files.
+  candidatelists:
+    output: false
 
 defaults:   # defaults values for collection scope
   -
@@ -61,7 +98,7 @@ defaults:   # defaults values for collection scope
       path: "_people"
     values:
       layout: "page"
-      rbar: "foto"
+      rbar: "people, foto, personContact"
   -
     scope:
       path: "_program"
@@ -70,3 +107,26 @@ defaults:   # defaults values for collection scope
       rbar: "garant, program"
 
 emptyArray: []
+
+assets:
+  source_maps: true
+  compression: true
+  gzip: false
+  plugins:
+    css: { autoprefixer: {}}
+    img:
+      optim:
+        jpegoptim:
+          strip: all
+          max_quality: 80
+  autoprefixer:
+    browsers:
+      - "last 2 versions"
+      - "IE > 9"
+  sources:
+    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-4.2.2/_sass
+    - assets/css
+    - assets/fonts
+    - assets/video
+    - assets/img
+    - _sass
