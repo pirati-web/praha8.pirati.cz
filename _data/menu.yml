@@ -19,9 +19,12 @@ main:
   - link: /komunalni-volby
     name: Komunální volby
     match: komunalni-volby
-  - link: /lide/lukas.wagenknet.html
+  - link: /lide/lukas-wagenknecht/
     name: Volby do senátu
     match: senat
+  - link: /kontakt/
+    name: Kontakt
+    match: kontakt
 
 bottom:
   - class: small-12 medium-4
