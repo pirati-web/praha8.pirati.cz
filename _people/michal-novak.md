@@ -2,7 +2,8 @@
 uid: michal.novak
 name: Michal Novák
 fullname: Michal Novák
-category: clenove
+category: 
+    - pms
 img: people/michal-novak.jpg  
 description: Předseda místního sdružení
 mail: 

@@ -2,7 +2,8 @@
 uid: pavel.franc
 name: Pavel Franc
 fullname: Pavel Franc
-category:  clenove
+category:  
+    - pms
 img: people/pavel-franc.jpg  
 description: koordánátor Školství
 mail: 

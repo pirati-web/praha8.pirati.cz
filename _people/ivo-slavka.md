@@ -2,7 +2,8 @@
 uid: ivo-slavka
 name: Ivo Slávka
 fullname: Ivo Slávka
-category:  clenove
+category:  
+    - pms
 img: people/ivo-slavka.jpg 
 description: 
 mail: 

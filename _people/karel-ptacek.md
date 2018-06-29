@@ -2,11 +2,9 @@
 uid: karel.ptacek
 name: Karel Ptáček
 fullname: Karel Ptáček
-category:  
-  - clenove
-  - kandidat-obec
+category: 
+  - pms
 img: people/karel-ptacek.jpg  
-cityCandidatePosition: 2
 profession: development
 candidateDescription: Koordinátor Správy majetku, nějaký karlínský spolek?
 description: koordinátor Správa majetku
