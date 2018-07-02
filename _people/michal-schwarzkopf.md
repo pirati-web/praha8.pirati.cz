@@ -8,7 +8,6 @@ description:
 mail: 
   - michal.schwarzkopf@pirati.cz
 profiles:
-  facebook: https://www.facebook.com/michal.schwarzkopf
 ---
 
 Michal Schwarzkopf je součástí místního sdružení na Praze 8, kde byl v uplynulých dnech přijat za řádného člena strany.

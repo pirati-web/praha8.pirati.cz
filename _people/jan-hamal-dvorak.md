@@ -8,7 +8,6 @@ description: koordinátor Trasparentnost a funkování MČ
 mail: 
   - TODO
 profiles:
-  facebook: https://www.facebook.com/jan.mordae.dvorak
 ---
 
 Jan Hamal Dvořák (* 11. září 1987 v Praze) Vystudoval gymnázium Vítězslava Nováka v Jindřichově Hradci, kde maturoval z informatiky. Navázal praxí jako správce Linuxových systémů a programátor. V současnosti pracuje především v Národní technické knihovně, kde spravuje infrastrukturu a vyvíjí otevřené aplikace. V oblasti IT také podniká.

@@ -11,7 +11,6 @@ description: koordinátor Správa majetku
 mail: 
   - karel.ptacek@pirati.cz
 profiles:
-  facebook: https://www.facebook.com/karel.ptacek.1
 ---
 
  narodil jsem se na Praze 8 a stále zde bydlím. Praha 8, konkrétně Karlín mi velice přirostl k srdci a zažil jsem ještě průmyslový Karlín, ale i jeho velmi rychlou přeměnu po povodních v roce 2002.

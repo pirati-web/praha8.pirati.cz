@@ -8,5 +8,4 @@ description:
 mail: 
   - tereza.vovesova@pirati.cz
 profiles:
-  facebook: https://www.facebook.com/tereza.vovesova
 ---

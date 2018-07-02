@@ -8,6 +8,5 @@ description:
 mail: 
   - jan.kolator@pirati.cz
 profiles:
-  facebook: https://www.facebook.com/jan.kolator.1
 ---
 TODO

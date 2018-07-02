@@ -8,7 +8,6 @@ description: koordinátor Bydlení a výstavba
 mail: 
   - michaela.krupickova@pirati.cz
 profiles:
-  facebook: https://www.facebook.com/profile.php?id=100009980493881
 ---
 
 Michaela Krupičková (`*`29.června 1973) je členkou Pirátské strany od roku 2011. Narodila se v Kolíně, od 2 let žije v Praze.

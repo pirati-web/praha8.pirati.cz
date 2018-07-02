@@ -8,7 +8,6 @@ description: organizace schůzek
 mail: 
   - kveta.marikova@pirati.cz
 profiles:
-  facebook: https://www.facebook.com/kveta.kvitek?ref=br_rs
 ---
 
 Květa Maříková se narodila v roce 1976 v malém středočeském městečku Sedlčany, od roku 2005 žila na různých místech v Praze, od roku 2013 trvale žije v Libni.

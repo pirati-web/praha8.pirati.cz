@@ -9,7 +9,6 @@ description: koordánátor Školství
 mail: 
  - pavel.franc@pirati.cz
 profiles:
-  facebook: https://www.facebook.com/pfranc
 ---
 
 Pavel Franc (`*` 6. prosince 1978) je člen Pirátské strany - místního sdružení Praha 8. Pavel pochází z Liberce a od roku 2006 žije trvale (přechodně už od 1996) v Praze 8 - Kobylisích.
