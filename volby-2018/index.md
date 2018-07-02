@@ -1,7 +1,8 @@
 ---
-layout: komunalni-volby
-title: Komunální volby 2018
-note: Primárky stále běží. Zbytek kandidátky zveřejníme, jakmile doběhnou.
+layout: communal-elections
+title: Komunální volby v Praze
+campaignCategoryUid: praha2018
+candidateListUid: radnice # uid z `_candidates/radnice.md`
 ---
 
 Úvodní text. Např vysvětlení koalice, podpory.

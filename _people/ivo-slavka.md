@@ -1,5 +1,5 @@
 ---
-uid: ivo-slavka
+uid: ivo.slavka
 name: Ivo Slávka
 fullname: Ivo Slávka
 category:  
