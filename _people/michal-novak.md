@@ -3,7 +3,7 @@ uid: michal.novak
 name: Michal Novák
 fullname: Michal Novák
 category: 
-    - pms
+    - praha
 img: people/michal-novak.jpg  
 description: Předseda místního sdružení
 mail: 

@@ -1,50 +1,15 @@
 # Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
 title: Pirati
 email: info@pirati.cz
 description: >- # this means to ignore newlines until "baseurl:"
   Česká pirátská strana - místní sdruženi na Praze 8
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-keywords: piráti, česká pirátská strana, svoboda, demokracie, kontrola moci a mocných, zjednodušení státu pomocí technologií, ochranu občanů před šikanou, obranu svobody, černá na bílé, ivan bartoš, e-government, politika pro 21. století # dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
-twitter_username: jekyllrb
-github_username:  jekyll
+keywords: piráti, česká pirátská strana, svoboda, demokracie, pirati na osmičce # dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
 
-theme: jekyll-theme-pirati
-
-sass:
-  style: compressed
-  sass_dir: _sass
-
-group:
-  facebook_page: "https://www.facebook.com/piratipraha8/"
-  local_contact_uid: "jakub.pirat"  # uid mistniho kontaktu definovane v _people
-  github_repository: "https://github.com/pirati-web/example.pirati.cz/"
-
-parent_group:
-  name: "Pražské sdružení"
-  web_url: "https://praha.pirati.cz"
-
-calendar:
-  bar: "https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=rm0h4oqjk2j2o0615sc4d1slfk%40group.calendar.google.com&amp;color=%23B1365F&amp;src=lpvmfpogihrca3lqs9p2udae0k%40group.calendar.google.com&amp;color=%238D6F47&amp;ctz=Europe%2FPrague"
-  bar_title: "Celopražský kalendář"
 
 organization:
   name: "Česká pirátská strana - místní sdruženi na Praze 8"
   short_name: "Piráti Praha 8"
-  contactUid: jakub.pirat
   email: praha8@pirati.cz
   phone: +420 777 123 456 789
   address: |
@@ -54,15 +19,49 @@ organization:
   mapLink: https://mapy.cz/s/2N7Yv
   redmineLink: https://redmine.pirati.cz/projects
 
-homepageBanner:
-  display: false
-  link: /komunalni-volby/
-  title: Komunální volby 2018
-  breakpoint: 640 # breakpoint in pixels when to start showing `default` instead of `mobile`
-  image:
-    default: path/to/img.jpg
-    mobile: path/to/img.jpg
 
+calendar:
+  apiKey: AIzaSyBdjZxz4r9lPyD3CiSxQa6G3mf47ezI7Ks
+  id: rm0h4oqjk2j2o0615sc4d1slfk@group.calendar.google.com
+  title: "Celopražský kalendář"
+  page: "https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=rm0h4oqjk2j2o0615sc4d1slfk%40group.calendar.google.com&amp;color=%23B1365F&amp;src=lpvmfpogihrca3lqs9p2udae0k%40group.calendar.google.com&amp;color=%238D6F47&amp;ctz=Europe%2FPrague"
+
+facebook:
+  loadSDK: true
+  profilePage: "https://www.facebook.com/piratipraha8/"
+  appId: 1526197851008996
+
+twitter:
+  loadSDK: true
+  profile: piratipraha
+
+instagram:
+  profilePage: https://www.instagram.com/pirati.cz/
+
+gplus:
+  profilePage: https://plus.google.com/u/0/+piratskastrana
+
+flicker:
+  profilePage: https://www.flickr.com/photos/pirati/
+
+forum:
+  page: https://forum.pirati.cz/
+
+github:
+  url: https://github.com/pirati-web/praha8.pirati.cz/
+  branch: master
+
+
+############### SETTINSG #################
+#
+twitter_username: jekyllrb
+github_username:  jekyll
+
+theme: jekyll-theme-pirati
+
+sass:
+  style: compressed
+  sass_dir: _sass
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-pirati
@@ -98,13 +97,18 @@ defaults:   # defaults values for collection scope
       path: "_people"
     values:
       layout: "page"
-      rbar: "people, foto, personContact"
+      rbar: 
+        - foto
+        - personContact
+        - people
   -
     scope:
       path: "_program"
     values:
-      layout: "page"
-      rbar: "garant, program"
+      layout: "program-post"
+      rbar: 
+         - garant
+         - program
 
 emptyArray: []
 
@@ -124,7 +128,7 @@ assets:
       - "last 2 versions"
       - "IE > 9"
   sources:
-    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-4.2.2/_sass
+    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-5.0.0/_sass
     - assets/css
     - assets/fonts
     - assets/video
