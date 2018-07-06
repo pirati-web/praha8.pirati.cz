@@ -38,7 +38,7 @@ title: Kontaktní informace
       <div class="o-section-inner">
         <div class="o-section-block">
           <h2>Kontakt pro média</h2>
-            {% assign contactPerson = site.people | where_exp: "item","item.uid contains 'martin.sterba'" | first%}
+            {% assign contactPerson = site.people | where_exp: "item","item.uid contains 'alice.hamalova'" | first%}
             {% include people/profile-badge.html item=contactPerson imgSize='big' imgStyle='round' headlineClass='t-h3' %}
         </div>
       </div>
@@ -50,7 +50,7 @@ title: Kontaktní informace
       <div class="o-section-inner">
         <div class="o-section-block">
           <h2>Kontakt pro členy a příznivce</h2>
-            {% assign contactPerson = site.people | where_exp: "item","item.uid contains 'martin.stanek'" | first%}
+            {% assign contactPerson = site.people | where_exp: "item","item.uid contains 'anna.filinova'" | first%}
             {% include people/profile-badge.html item=contactPerson imgSize='big' imgStyle='round' headlineClass='t-h3' %}
         </div>
       </div>
