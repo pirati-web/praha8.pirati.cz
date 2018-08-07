@@ -6,8 +6,7 @@ category:
   - pms
 img: people/alice-hamalova.jpg  
 profession: chemik, výzkumný pracovník
-candidateDescription: Leadr kondidátky, 1. místopřědsedkyně MS, koordinátorka Životní prostředí
-description: Leadr kondidátky, 1. místopřědsedkyně MS, koordinátorka Životní prostředí
+description: Leadr kondidátky
 mail: 
  - alice.hammalova@pirati.cz
 profiles:
