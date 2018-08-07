@@ -1,33 +1,32 @@
 ---
-title: Otevřená radnice
-category: praha2018
+title: Otevřená a moderní radnice
 campaignCategoryUid: praha2018
-approved: https://forum.pirati.cz/viewtopic.php?f=349&t=41530
-garant: jakub.pirat
-perex: Uděláme z Prahy nejtransparentnější město v Česku. Dnes má Praha problém hlavně s neprůhlednými městskými firmami, které hospodaří s desítkami miliard korun ročně.  Občané a protikorupční analytici musí mít k dispozici dostatek informací, aby mohli politiky a úředníky kontrolovat. Zapojíme občany do rozhodování o městě.
+campaignGroupUid: volby-2018  # identifier of the group, to be used in program point
+approved: https://forum.pirati.cz/viewtopic.php?f=945&t=42882
+perex: >
+  Uděláme z Prahy nejtransparentnější město v Česku. Dnes má Praha problém hlavně s neprůhlednými městskými firmami, které hospodaří s desítkami miliard korun ročně.  Občané a protikorupční analytici musí mít k dispozici dostatek informací, aby mohli politiky a úředníky kontrolovat. Zapojíme občany do rozhodování o městě.*
 ---
 
-**Uděláme z Prahy nejtransparentnější město v Česku. Dnes má Praha problém hlavně s neprůhlednými městskými firmami, které hospodaří s desítkami miliard korun ročně.  Občané a protikorupční analytici musí mít k dispozici dostatek informací, aby mohli politiky a úředníky kontrolovat. Zapojíme občany do rozhodování o městě.**
+*Uděláme z Prahy nejtransparentnější město v Česku. Dnes má Praha problém hlavně
+s neprůhlednými městskými firmami, které hospodaří s desítkami miliard korun ročně.
+Občané a protikorupční analytici musí mít k dispozici dostatek informací, aby mohli
+politiky a úředníky kontrolovat. Zapojíme občany do rozhodování o městě.*
+
 
 ## Všechno to zveřejníme
-
-- Ukážeme data veřejnosti. Přehled faktur a nájemních smluv, analýzy, které si město nechává zpracovat - to vše a mnohé další údaje budou na portálu otevřených dat.
-- Zavedeme rozklikávací rozpočet až na úroveň faktur. Občané tak budou mít dokonalý přehled o tom, za co město utrácí jejich peníze.  
-- Zveřejníme majetková přiznání politiků. Každý bude moci kontrolovat, že zastupitelé nezískávají v souvislosti se svou funkcí neoprávněné výhody.
+- Obnovíme a vylepšíme rozklikávací rozpočet na úroveň faktur
+- Otevřeme jednání Komisí a Výborů, zveřejníme zápisy z Komisí včas
+- Zabezpečíme transparentní elektronické zadávání všech výběrových řízení pro radnici i městské firmy
+- Zavedeme otevřené kalendáře radních a registr kontaktů a schůzek
+- Prosadíme transparentní poskytování dotací a veřejných zakázek, o které se budou moci ucházet pouze společnosti s jasným vlastníkem
 
 ## Odpovědné hospodaření
-- Vypovíme nevýhodné nájemní smlouvy na nebytové prostory v centru Prahy.  Praha na nich ztrácí desítky milionů korun ročně. Pronájmy budeme inzerovat na realitních webech, aby se přihlásilo co nejvíce uchazečů.  
-- Zajistíme větší konkurenci u veřejných zakázek. Pomocí otevřených řízení, dostatečných lhůt pro přihlášení a nepřemrštěných požadavků pro účast umožníme účast ve výběrových řízení všem zájemcům. Tím dosáhneme lepších cen i 
-kvalitnějších služeb.
-- Zavedeme osobní odpovědnost úředníků i politiků, zprůhledníme úřední procesy. Nastavíme na Magistrátu projektové řízení tak, aby bylo jasné, kdo je odpovědný za jednotlivé kroky. Na jednání Rady zavedeme jmenovité hlasování - aby občané věděli, jak kdo hlasoval.
-
-## Fungující městské firmy
-- Stop politickým trafikám. Funkce v městských firmách budeme obsazovat transparentním způsobem, funkcionáři budou muset prokazovat, že odvádějí reálnou práci.  
-- Schválíme vlastnickou politiku města. Vedení firem bude hodnoceno a odměňováno podle schopnosti naplňovat předem stanovené cíle.  
-- Ztransparentníme městské firmy, které hospodaří s desítkami miliard korun ročně.  Zajistíme, aby aktivně zveřejňovaly všechny důležité informace, které nespadají pod obchodní tajemství. Už se nebudou účelově vyhýbat zveřejňování smluv.
-
-## Participace - spoluúčast občanů na rozhodování
-- Agenda občanských podnětů. Občanské podněty nezůstanou bez odpovědi.  Veřejné vedení agendy umožní i ostatním občanům vidět všechny podněty včetně jejich řešení. Zásadní podněty budou zařazovány na jednání výborů, komisí i zastupitelstva.  
-- Ankety. Ankety a dotazníky umožní analyzovat skutečné potřeby občanů města.  
-- Veřejné besedy. K aktuálním problémům nebo záměrům metropole budeme pořádat veřejné besedy za účasti odborné i laické veřejnosti.
-- Participativní rozpočty. Část městských peněz bude rozdělena na projekty
+- Budeme hledat způsoby, jak získat další prostředky na investice
+- Prověříme smlouvy uzavřené v minulosti
+- Nepodporujeme “trafiky” - Do vedení městských firem prosadíme odborníky na základě otevřených výběrových řízení
+- Prosadíme veřejnou diskusi před schvalováním rozpočtu
+## Spoluúčast občanů na rozhodování
+- Podpoříme větší informovanost všech obyvatel o možnosti čerpání participativního rozpočtu
+- Petice a interpelace občanů budeme brát vážně
+## Přístup k informacím
+- Navrhneme projekt pokrytí WiFi ve veřejných institucích zdarma (školy, úřady, knihovny)
