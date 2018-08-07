@@ -4,9 +4,7 @@ name: Martin Staněk
 fullname: Martin Staněk
 category: 
     - priznivec
-#img: people/michal-novak.jpg  
-description: 
-mail: 
+img: people/martin-stanek.jpg  
 ---
 
 

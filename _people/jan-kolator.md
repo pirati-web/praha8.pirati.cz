@@ -1,5 +1,5 @@
 ---
-uid: jan.kalotor
+uid: jan.kolator
 name: Jan Kolátor
 fullname: Jan Kolátor
 category:  clenove
