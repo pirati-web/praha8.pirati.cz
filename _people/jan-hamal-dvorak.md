@@ -6,7 +6,7 @@ category:  clenove
 img: people/jan-hamal-dvorak.jpg  
 description: koordinátor Trasparentnost a funkování MČ
 mail: 
-  - TODO
+  - jan.hamal.dvorak@pirati.cz
 profiles:
 ---
 
