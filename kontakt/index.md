@@ -6,14 +6,8 @@ keywords: kontakt, adresa, telefon, mail, facebook, kde najdu, kde jsou
 
 ## Přidejte se
 
-Zajámá vás co piráti dělají? Ozvěte se Jakubu Pirátovy nebo přijďte k nám 
-na schůzi kterou pořádáme v XY.
+Zajímá vás co Piráti dělají a jak? Ozvěte se [Anničce Filínové](/lide/anna-filinova) a přijďte k nám na otevřenou schůzi. Pořádáme je obvykle první pondělí na různých místech Prahy 8. 
 
-Chcete přístup k pirátskym systémum? Regitrujte se na nalodění. TODO odkaz.
+Finanční dary na podporu našeho fungování můžete posílat na [dary](https://dary.pirati.cz).
 
-Financí dary můžete posílat na [dary](https://dary.pirati.cz). 
-Pokud chcete darovat přimo naší MS poradtě se s XY
-
-
-Strany našeho kraje jsou TODO.
-
+Webové stránky pražského sdružení najdete na [praha.pirati.cz](https://praha.pirati.cz/).
