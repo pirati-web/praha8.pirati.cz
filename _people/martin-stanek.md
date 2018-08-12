@@ -2,8 +2,7 @@
 uid: martin.stanek
 name: Martin Staněk
 fullname: Martin Staněk
-category: 
-    - priznivec
+category:  clenove
 img: people/martin-stanek.jpg  
 ---
 
