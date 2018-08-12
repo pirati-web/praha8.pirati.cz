@@ -30,6 +30,16 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
 tail: # zbytek kandidatky
       # jedinná povinná položka je name zbytek můžete vynechat
       # věk se uvádí k poslednímu dni voleb
+  - name: Alix Guillard
+    profession:     webmaster
+  - name: Ing. Michal Schwarzkopf, PhDd.
+    profession:     bankovní poradce
+  - name: Mgr. Martin Štěrba
+    profession:     manažer on-line komunikace
+  - name: Jan Horn
+    profession:     kovář
+  - name: Mgr. Lukáš Kost	
+    profession:     ZŠ a SŠ učitel
   - name: Bc. Anna Marešová	 
     profession: 	linuxačka
   - name: Ing. Luděk Markvart	 
