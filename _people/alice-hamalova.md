@@ -6,7 +6,7 @@ category:
   - pms
 img: people/alice-hamalova.jpg  
 profession: chemik, výzkumný pracovník
-description: Leadr kondidátky
+description: Leadr kandidátky
 mail: 
  - alice.hammalova@pirati.cz
 profiles:
