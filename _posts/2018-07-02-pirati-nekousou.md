@@ -1,11 +1,11 @@
 ---
 date: 2018-07-02
 category: blog
-tags: tag1 tag2
+tags: transparentnost myty 
 layout: post
 title: Piráti nekoušou! (Tedy většinou, viz P.S. pod článkem)
 author: Michal Novák
-authorId: michal-novak    # uid nekoho z _people (nepoviné)
+authorId: michal.novak    # uid nekoho z _people (nepoviné)
 image: posts/michal-kouse.jpg
 ---
 
