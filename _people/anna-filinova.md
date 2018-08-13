@@ -4,7 +4,7 @@ name: Anna Filínová
 fullname: Anna Filínová 
 category:  clenove
 img: people/anna-filinova.jpg  
-description: koordiátorka Senioři
+#description: koordiátorka Senioři
 mail: 
  - anna.filinova@pirati.cz
 profiles:

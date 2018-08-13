@@ -4,7 +4,7 @@ name: Jan Hamal Dvořák
 fullname: Jan Hamal Dvořák
 category:  clenove
 img: people/jan-hamal-dvorak.jpg  
-description: koordinátor Trasparentnost a funkování MČ
+#description: koordinátor Trasparentnost a funkování MČ
 mail: 
   - jan.hamal.dvorak@pirati.cz
 profiles:

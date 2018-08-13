@@ -4,7 +4,7 @@ name: Michaela Krupičková
 fullname: Michaela Krupičková
 category:  clenove
 img: people/michaela-krupickova.jpg  
-description: koordinátor Bydlení a výstavba
+#description: koordinátor Bydlení a výstavba
 mail: 
   - michaela.krupickova@pirati.cz
 profiles:

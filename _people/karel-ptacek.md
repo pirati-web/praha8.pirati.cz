@@ -5,9 +5,8 @@ fullname: Karel Ptáček
 category: 
   - pms
 img: people/karel-ptacek.jpg  
-profession: development
-candidateDescription: Koordinátor Správy majetku, nějaký karlínský spolek?
-description: koordinátor Správa majetku
+#profession: development
+#description: koordinátor Správa majetku
 mail: 
   - karel.ptacek@pirati.cz
 profiles:

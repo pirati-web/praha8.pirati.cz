@@ -5,7 +5,7 @@ fullname: Michal Novák
 category: 
   - pms
 img: people/michal-novak.jpg  
-description: Předseda místního sdružení
+#description: Předseda místního sdružení
 mail: 
   - michal.novak@pirati.cz
 profiles:

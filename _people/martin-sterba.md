@@ -5,7 +5,7 @@ fullname: Martin Štěrba
 category: 
     - priznivec
 #img: people/michal-novak.jpg  
-description: Social media guru 
+#description: Social media guru 
 mail: 
 ---
 

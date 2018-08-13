@@ -6,7 +6,7 @@ category:
   - priznivci
 img: people/lukas-wagenknecht.jpg  
 profession: ekonom, interní auditor
-description: Kandidát na senátora
+#description: Kandidát na senátora
 mail: 
  - info@lukaswagenknecht.cz
 profiles:
