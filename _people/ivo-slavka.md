@@ -5,6 +5,7 @@ fullname: Ivo Slávka
 category:  
     - pms
 img: people/ivo-slavka.jpg 
+ordpms: 3
 description: 
 mail: 
  - ivo.slavka@pirati.cz

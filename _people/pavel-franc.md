@@ -6,6 +6,7 @@ category:
     - pms
 img: people/pavel-franc.jpg  
 #description: koordánátor Školství
+ordpms: 4
 mail: 
  - pavel.franc@pirati.cz
 profiles:

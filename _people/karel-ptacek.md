@@ -7,6 +7,7 @@ category:
 img: people/karel-ptacek.jpg  
 #profession: development
 #description: koordinátor Správa majetku
+ordpms: 5
 mail: 
   - karel.ptacek@pirati.cz
 profiles:

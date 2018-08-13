@@ -6,6 +6,7 @@ category:
   - pms
 img: people/michal-novak.jpg  
 #description: Předseda místního sdružení
+ordpms: 1
 mail: 
   - michal.novak@pirati.cz
 profiles:
