@@ -6,10 +6,10 @@ category:
   - pms
 img: people/alice-hamalova.jpg  
 profession: chemik, výzkumný pracovník
-#description: Leadr kandidátky
+description: 1. místopředsedkyně
 ordpms: 2
 mail: 
- - alice.hammalova@pirati.cz
+ - alice.hamalova@pirati.cz
 profiles:
   facebook: https://www.facebook.com/alice.hamalova
 ---

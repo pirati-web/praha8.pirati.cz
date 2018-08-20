@@ -27,7 +27,7 @@ asistenti:
         <a href="https://lukaswagenknecht.cz" target="_blank" style="width: 350px; margin-top: 10px; text-align: center; padding: 22px; font-size: 22px; background-color: #A9A9A9;border-color: #5cb85c; color: white;" class="c-cta-button c-cta-button--primary">
           Přejdi na
           <br>
-          lukaswagenchecht.cz
+          lukaswagenknecht.cz
         </a>
     </div>
   </div>

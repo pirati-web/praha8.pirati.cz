@@ -5,7 +5,7 @@ fullname: Pavel Franc
 category:  
     - pms
 img: people/pavel-franc.jpg  
-#description: koordánátor Školství
+description: 3. místopředseda
 ordpms: 4
 mail: 
  - pavel.franc@pirati.cz

@@ -6,7 +6,7 @@ category:
     - pms
 img: people/ivo-slavka.jpg 
 ordpms: 3
-description: 
+description: 2. místopředseda
 mail: 
  - ivo.slavka@pirati.cz
 ---
