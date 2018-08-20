@@ -16,9 +16,12 @@ main:
   - link: /lide/
     name: Naši lidé
     match: lide
-  - link: /volby-2018
-    name: Komunální volby
-    match: komunalni-volby
+  - link: /program/
+    name: Program
+    match: program
+  - link: /volby-2018/
+    name: Kandidátka
+    match: kandaditka
   - link: /lide/lukas-wagenknecht/
     name: Volby do senátu
     match: senat
