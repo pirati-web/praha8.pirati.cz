@@ -1,7 +1,7 @@
 ---
 uid: pavel.franc
 name: Pavel Franc
-fullname: Pavel Franc
+fullname: Mgr. Pavel Franc
 category:  
     - pms
 img: people/pavel-franc.jpg  
@@ -12,7 +12,7 @@ mail:
 profiles:
 ---
 
-Pavel Franc (`*` 6. prosince 1978) je člen Pirátské strany - místního sdružení Praha 8. Pavel pochází z Liberce a od roku 2006 žije trvale (přechodně už od 1996) v Praze 8 - Kobylisích.
+Pavel Franc (narozen 6. prosince 1978) je člen Pirátské strany - místního sdružení Praha 8. Pavel pochází z Liberce a od roku 2006 žije trvale (přechodně už od 1996) v Praze 8 - Kobylisích.
 
 Vystudoval magisterský obor Matematické struktury na MFF UK. Rovněž studoval matematiku dva roky na KSU v USA, kde získal titul M.S.
 
