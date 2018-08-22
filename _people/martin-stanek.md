@@ -4,6 +4,8 @@ name: Martin Staněk
 fullname: Martin Staněk
 category:  clenove
 img: people/martin-stanek.jpg  
+mail:
+ -  martin.stanek@pirati.cz
 ---
 
 
