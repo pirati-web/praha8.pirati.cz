@@ -1,7 +1,7 @@
 ---
 uid: michal.novak
 name: Michal Novák
-fullname: Michal Novák
+fullname: Michal Novák, MBA
 category: 
   - pms
 img: people/michal-novak.jpg  
