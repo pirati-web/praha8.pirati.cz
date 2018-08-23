@@ -1,7 +1,7 @@
 ---
 uid: karel.ptacek
 name: Karel Ptáček
-fullname: Karel Ptáček
+fullname: Karel Ptáček, DiS.
 category: 
   - pms
 img: people/karel-ptacek.jpg  
@@ -14,7 +14,7 @@ mail:
 profiles:
 ---
 
- narodil jsem se na Praze 8 a stále zde bydlím. Praha 8, konkrétně Karlín mi velice přirostl k srdci a zažil jsem ještě průmyslový Karlín, ale i jeho velmi rychlou přeměnu po povodních v roce 2002.
+Narodil jsem se na Praze 8 a stále zde bydlím. Praha 8, konkrétně Karlín mi velice přirostl k srdci a zažil jsem ještě průmyslový Karlín, ale i jeho velmi rychlou přeměnu po povodních v roce 2002.
 
 Pracovně se pohybuji v developmentu. Někteří lidé si řeknou „opět nějaký developer, co chce zastavět každou louku“. Opak je pravdou. Pracuji jako projektový manažer a snažíme se rekonstruovat staré vybydlené domy s důrazem právě na historické prvky.
 
