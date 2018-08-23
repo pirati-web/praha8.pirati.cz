@@ -3,11 +3,7 @@ uid: ondrej.profant
 name:     Ondřej Profant  	# běžně používáné jméno
 fullname: Ondřej Profant  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- praha
-- pks
-- ga
-- carousel
-- pos
+- clenove
 img: people/ondrej-profant.jpg # 165 x 220
 description: poslanec, předseda krajského sdružení Pirátské strany v Praze             	# kratký popis, max 160 znaků
 mail:
