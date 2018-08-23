@@ -1,7 +1,7 @@
 ---
 uid: ivo.slavka
 name: Ivo Slávka
-fullname: Ivo Slávka
+fullname: Mgr. Ivo Slávka
 category:  
     - pms
 img: people/ivo-slavka.jpg 
