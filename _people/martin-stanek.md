@@ -1,9 +1,11 @@
 ---
 uid: martin.stanek
 name: Martin Staněk
-fullname: Martin Staněk
+fullname: Mgr. Martin Staněk, Ph.D.
 category:  clenove
 img: people/martin-stanek.png 
+mail:
+ -  martin.stanek@pirati.cz
 ---
 
 

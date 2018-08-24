@@ -1,7 +1,7 @@
 ---
 uid: anna.filinova
 name: Anna Filínová 
-fullname: Anna Filínová 
+fullname: Bc. Anna Filínová 
 category:  clenove
 img: people/anna-filinova.png 
 #description: koordiátorka Senioři

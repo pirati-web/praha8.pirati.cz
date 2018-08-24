@@ -1,7 +1,7 @@
 ---
 uid: jan.kolator
 name: Jan Kolátor
-fullname: Jan Kolátor
+fullname: Mgr. Jan Kolátor
 category:  clenove
 img: people/jan-kolator.png 
 #description: 

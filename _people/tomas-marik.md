@@ -5,7 +5,7 @@ fullname: Tomáš Mařík
 category:  clenove
 img: people/tomas-marik.jpg 
 mail: 
-  - temas.marik@pirati.cz
+  - tomas.marik@pirati.cz
 profiles:
 ---
 
