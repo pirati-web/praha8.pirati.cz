@@ -4,7 +4,7 @@ name: Michal Novák
 fullname: Michal Novák
 category: 
   - pms
-img: people/michal-novak.jpg  
+img: people/michal-novak.png 
 description: předseda
 ordpms: 1
 mail: 

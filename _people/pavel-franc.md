@@ -4,7 +4,7 @@ name: Pavel Franc
 fullname: Pavel Franc
 category:  
     - pms
-img: people/pavel-franc.jpg  
+img: people/pavel-franc.png  
 description: 3. místopředseda
 ordpms: 4
 mail: 

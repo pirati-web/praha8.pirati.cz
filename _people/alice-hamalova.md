@@ -4,7 +4,7 @@ name: Alice Hamalová
 fullname: Alice Hamalová
 category:  
   - pms
-img: people/alice-hamalova.jpg  
+img: people/alice-hamalova.png 
 profession: chemik, výzkumný pracovník
 description: 1. místopředsedkyně
 ordpms: 2

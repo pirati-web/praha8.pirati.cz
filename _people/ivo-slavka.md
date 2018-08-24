@@ -4,7 +4,7 @@ name: Ivo Slávka
 fullname: Ivo Slávka
 category:  
     - pms
-img: people/ivo-slavka.jpg 
+img: people/ivo-slavka.png 
 ordpms: 3
 description: 2. místopředseda
 mail: 

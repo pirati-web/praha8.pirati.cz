@@ -4,7 +4,7 @@ name: Karel Ptáček
 fullname: Karel Ptáček
 category: 
   - pms
-img: people/karel-ptacek.jpg  
+img: people/karel-ptacek.png  
 #profession: development
 description: koordinátor Správa majetku
 description: 4. místopředseda
