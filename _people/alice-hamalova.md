@@ -1,9 +1,9 @@
 ---
 uid: alice.hamalova
 name: Alice Hamalová 
-fullname: Alice Hamalová
 category:  
   - pms
+  - kontaktni_osoba
 img: people/alice-hamalova.png 
 profession: chemik, výzkumný pracovník
 description: 1. místopředsedkyně

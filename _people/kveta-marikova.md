@@ -1,7 +1,6 @@
 ---
 uid: kveta.marikova
 name: Květa Maříková
-fullname: Květa Maříková
 category:  clenove
 img: people/kveta-marikova.jpg 
 #description: organizace schůzek

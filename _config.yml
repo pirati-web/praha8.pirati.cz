@@ -10,10 +10,10 @@ administrator:
   email: jitka.novotna@pirati.cz # mail kam pujdou chybove vystupy
 
 organization:
-  name: "Česká pirátská strana - místní sdruženi na Praze 8"
+  name: "<br>Praze 8</br>, místní sdružení"
   short_name: "Piráti Praha 8"
   email: praha8@pirati.cz
-  phone: +420 777 123 456 789
+  #phone: +420 777 123 456 789
   address: |
       Řehořova 943/19 |
       130 00 Praha 3
@@ -130,7 +130,7 @@ assets:
       - "last 2 versions"
       - "IE > 9"
   sources:
-    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-5.0.0/_sass
+    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-6.4.0/_sass
     - assets/css
     - assets/fonts
     - assets/video

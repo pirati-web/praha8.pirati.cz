@@ -1,7 +1,9 @@
 ---
 uid: michal.schwarzkopf
 name: Michal Schwarzkopf
-fullname: Ing. Michal Schwarzkopf, Ph.D.
+titles:
+  before: Ing.
+  after: Ph.D.
 category:  clenove
 img: people/michal-schwarzkopf.jpg 
 description: 

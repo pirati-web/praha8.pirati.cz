@@ -1,7 +1,9 @@
 ---
 uid: karel.ptacek
 name: Karel Ptáček
-fullname: Karel Ptáček, DiS.
+titles:
+  before:
+  after: Dis.
 category: 
   - pms
 img: people/karel-ptacek.png  

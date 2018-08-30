@@ -1,7 +1,6 @@
 ---
 uid: martin.sterba
 name: Martin Štěrba
-fullname: Martin Štěrba
 category: 
     - priznivec
 #img: people/michal-novak.jpg  

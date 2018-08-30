@@ -1,7 +1,8 @@
 ---
 uid: jitka.novotna
 name: Jitka Novotná
-fullname: Mgr. Jitka Novotná
+titles:
+  before: Mgr.
 category:  clenove
 img: people/jitka-novotna.png 
 #description: web, spolupráce s KS Praha

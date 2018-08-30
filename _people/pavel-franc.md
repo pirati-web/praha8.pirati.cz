@@ -1,7 +1,8 @@
 ---
 uid: pavel.franc
 name: Pavel Franc
-fullname: Mgr. Pavel Franc
+titles:
+  before: Mgr.
 category:  
     - pms
 img: people/pavel-franc.png  

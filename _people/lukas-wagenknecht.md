@@ -1,7 +1,8 @@
 ---
 uid: lukas.wagenknecht
 name: Lukáš Wagenknecht 
-fullname: Mgr. Lukáš Wagenknecht
+titles:
+  before: Mgr.
 category:  
   - priznivci
 img: people/lukas-wagenknecht.jpg  

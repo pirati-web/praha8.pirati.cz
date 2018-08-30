@@ -1,7 +1,6 @@
 ---
 uid: michaela.krupickova
 name: Michaela Krupičková
-fullname: Michaela Krupičková
 category:  clenove
 img: people/michaela-krupickova.jpg  
 #description: koordinátor Bydlení a výstavba

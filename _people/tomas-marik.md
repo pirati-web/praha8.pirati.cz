@@ -1,7 +1,6 @@
 ---
 uid: tomas.marik
 name: Tomáš Mařík
-fullname: Tomáš Mařík
 category:  clenove
 img: people/tomas-marik.jpg 
 mail: 

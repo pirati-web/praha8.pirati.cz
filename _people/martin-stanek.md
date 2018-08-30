@@ -1,7 +1,9 @@
 ---
 uid: martin.stanek
 name: Martin Staněk
-fullname: Mgr. Martin Staněk, Ph.D.
+titles:
+  before: Mgr.
+  after: Ph.D.
 category:  clenove
 img: people/martin-stanek.png 
 mail:
