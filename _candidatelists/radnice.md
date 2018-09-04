@@ -96,8 +96,8 @@ tail: # zbytek kandidatky
     profession: 	administrativní pracovnice
   - name: Ing. Tereza Vovesová	 
     profession: 	monitor klinických hodnocení
-  - name: Ondřej Profant	 
-    profession: 	poslanec Parlamentu ČR
   - name: Mgr. MgA. Markéta Čermáková	 
     profession: 	psycholožka
+  - name: Ondřej Profant	 
+    profession: 	poslanec Parlamentu ČR
 ---
