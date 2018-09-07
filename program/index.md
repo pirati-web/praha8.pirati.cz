@@ -9,44 +9,6 @@ rbar:
    - program
 ---
 
-# Bezpečnost 
-
-## Bezpečnost ano, velký bratr ne!
-- Zkrotíme zakázky na městský kamerový systém
-- Zajistíme více strážníků v ulicích - zejména v blízkosti škol a dětských hřišť
-- Podpoříme efektivní regulaci hazardu 
-
-<br>
-# Doprava
-
-*Zvýšíme plynulost dopravy podporou kapacitních a nejméně prostorově náročných
-druhů dopravy, zejména metra, vlaků a tramvají. Chceme MHD dostupnější,
-pohodlnější a jednoduše použitelnou nejen pro Pražany, ale i pro návštěvníky Prahy.
-V oblasti automobilové dopravy zlepšíme veřejnou kontrolu investic a oprav
-infrastruktury.*
-
-## Zlepšíme dostupnost a kvalitu MHD pro všechny - podpoříme:
-- Prodloužení tramvajové trati do Zdib
-- Tramvajové spojení s Prahou 6
-- Vytvoření železničních zastávek v Karlíně a Libni
-- Plánovanou výstavbu lávky mezi Karlínem a Holešovicemi
-
-## Zlepšíme situaci v oblasti parkování
-- Vylepšíme systém parkovacích zón a parkování pro rezidenty
-- Podpoříme výstavbu a užívání P+R parkovišť
-
-## Investice do silniční infrastruktury musí pokračovat
-- Podporujeme zahloubení ulice V Holešovičkách
-- Uděláme maximum pro dostavbu vnějšího okruhu
-- Podporujeme finančně a architektonicky šetrnou opravu Libeňského mostu
-- Nepodporujeme současnou verzi projektu Blanka II
-- Při rekonstrukcích a revitalizacích budeme myslet na bezpečnost a bezbariérovost
-
-## Moderní a ekologické způsoby dopravy - podpoříme:
-- Vznik dobíjecích stanic pro elektromobily
-- Smysluplnou cyklodopravu
-
-<br>
 # Otevřená a moderní radnice
 
 *Uděláme z Prahy nejtransparentnější město v Česku. Dnes má Praha problém hlavně
@@ -72,29 +34,6 @@ politiky a úředníky kontrolovat. Zapojíme občany do rozhodování o městě
 - Petice a interpelace občanů budeme brát vážně
 ## Přístup k informacím
 - Navrhneme projekt pokrytí WiFi ve veřejných institucích zdarma (školy, úřady, knihovny)
-
-<br>
-# Školství, sport a volný čas
-
-*Pražské školy vychovávají budoucí občany schopné se prosadit v rychle se měnících
-podmínkách, zdaleka ne jen pro potřeby pracovního trhu. Budeme školám poskytovat
-dostatek financí na mzdy, provoz a meziškolní aktivity, ale i na profesní rozvoj učitelů
-a na zavedení a rozvoj inovativních vzdělávacích směrů podle poptávky Pražanů.*
-
-## Preferujeme investice do vzdělání
-- Zajistíme více peněz pro aktivní učitele např. ve formě netarifních odměn
-- Podpoříme učitele pomocí nabídky obecního bydlení, služebních počítačů, zvýhodněného mobilního tarifu nebo jízdného MHD
-- Prosazujeme využití IT technologií v komunikaci mezi školou a rodiči
-- Prosadíme kvalitnější výuku IT a otevřený software
-- Zajistíme transparentní výběr ředitelů s moderními způsoby výuky
-
-## Podpora volnočasových, kulturních a sousedských aktivit
-- Chceme sdílená sportoviště - dopoledne školy, odpoledne kroužky a veřejnost
-- Podpoříme vznik nových volnočasových aktivit pro děti, mládež i teenagery
-- Pomůžeme vytvořit kroužky s výukou počítačových dovedností
-- Podpoříme vzdělávání seniorů, zvyšování počítačové gramotnosti a možnosti lepšího přístupu k internetu
-- Podporujeme sousedská setkávání (např. oslavy masopustu, farmářské trhy)
-
 
 <br>
 # Bydlení a územní rozvoj
@@ -139,4 +78,66 @@ respektu a účasti veřejnosti.*
 ## Nejlepší je odpad, který nevznikne
 - Zajistíme větší efektivitu vyvážení odpadů
 - Podpoříme třídění odpadů včetně bioodpadů
+
+<br>
+# Doprava
+
+*Zvýšíme plynulost dopravy podporou kapacitních a nejméně prostorově náročných
+druhů dopravy, zejména metra, vlaků a tramvají. Chceme MHD dostupnější,
+pohodlnější a jednoduše použitelnou nejen pro Pražany, ale i pro návštěvníky Prahy.
+V oblasti automobilové dopravy zlepšíme veřejnou kontrolu investic a oprav
+infrastruktury.*
+
+## Zlepšíme dostupnost a kvalitu MHD pro všechny - podpoříme:
+- Prodloužení tramvajové trati do Zdib
+- Tramvajové spojení s Prahou 6
+- Vytvoření železničních zastávek v Karlíně a Libni
+- Plánovanou výstavbu lávky mezi Karlínem a Holešovicemi
+
+## Zlepšíme situaci v oblasti parkování
+- Vylepšíme systém parkovacích zón a parkování pro rezidenty
+- Podpoříme výstavbu a užívání P+R parkovišť
+
+## Investice do silniční infrastruktury musí pokračovat
+- Podporujeme zahloubení ulice V Holešovičkách
+- Uděláme maximum pro dostavbu vnějšího okruhu
+- Podporujeme finančně a architektonicky šetrnou opravu Libeňského mostu
+- Nepodporujeme současnou verzi projektu Blanka II
+- Při rekonstrukcích a revitalizacích budeme myslet na bezpečnost a bezbariérovost
+
+## Moderní a ekologické způsoby dopravy - podpoříme:
+- Vznik dobíjecích stanic pro elektromobily
+- Smysluplnou cyklodopravu
+
+
+<br>
+# Školství, sport a volný čas
+
+*Pražské školy vychovávají budoucí občany schopné se prosadit v rychle se měnících
+podmínkách, zdaleka ne jen pro potřeby pracovního trhu. Budeme školám poskytovat
+dostatek financí na mzdy, provoz a meziškolní aktivity, ale i na profesní rozvoj učitelů
+a na zavedení a rozvoj inovativních vzdělávacích směrů podle poptávky Pražanů.*
+
+## Preferujeme investice do vzdělání
+- Zajistíme více peněz pro aktivní učitele např. ve formě netarifních odměn
+- Podpoříme učitele pomocí nabídky obecního bydlení, služebních počítačů, zvýhodněného mobilního tarifu nebo jízdného MHD
+- Prosazujeme využití IT technologií v komunikaci mezi školou a rodiči
+- Prosadíme kvalitnější výuku IT a otevřený software
+- Zajistíme transparentní výběr ředitelů s moderními způsoby výuky
+
+## Podpora volnočasových, kulturních a sousedských aktivit
+- Chceme sdílená sportoviště - dopoledne školy, odpoledne kroužky a veřejnost
+- Podpoříme vznik nových volnočasových aktivit pro děti, mládež i teenagery
+- Pomůžeme vytvořit kroužky s výukou počítačových dovedností
+- Podpoříme vzdělávání seniorů, zvyšování počítačové gramotnosti a možnosti lepšího přístupu k internetu
+- Podporujeme sousedská setkávání (např. oslavy masopustu, farmářské trhy)
+
+
+<br>
+# Bezpečnost 
+
+## Bezpečnost ano, velký bratr ne!
+- Zkrotíme zakázky na městský kamerový systém
+- Zajistíme více strážníků v ulicích - zejména v blízkosti škol a dětských hřišť
+- Podpoříme efektivní regulaci hazardu 
 
