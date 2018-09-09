@@ -21,6 +21,10 @@ organization:
   mapLink: https://mapy.cz/s/2N7Yv
   redmineLink: https://redmine.pirati.cz/projects
 
+contactSummaryItems:
+  - type: organizationEmail
+  - type: organizationRedmineLink
+  - type: piratiRootWebsite
 
 calendar:
   apiKey: AIzaSyBdjZxz4r9lPyD3CiSxQa6G3mf47ezI7Ks
@@ -130,7 +134,7 @@ assets:
       - "last 2 versions"
       - "IE > 9"
   sources:
-    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-6.4.0/_sass
+    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-6.7.1/_sass
     - assets/css
     - assets/fonts
     - assets/video
