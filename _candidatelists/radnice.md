@@ -1,7 +1,7 @@
 ---
 title: Kandidátka na radnici
 uid: radnice
-# number: 13 # číslo kandidátky odkomentujte až bude známé
+number: 9 # číslo kandidátky odkomentujte až bude známé
 leader:
   uid: alice.hamalova
   #age: 
