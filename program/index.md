@@ -29,9 +29,11 @@ politiky a úředníky kontrolovat. Zapojíme občany do rozhodování o městě
 - Prověříme smlouvy uzavřené v minulosti
 - Nepodporujeme “trafiky” - Do vedení městských firem prosadíme odborníky na základě otevřených výběrových řízení
 - Prosadíme veřejnou diskusi před schvalováním rozpočtu
+
 ## Spoluúčast občanů na rozhodování
 - Podpoříme větší informovanost všech obyvatel o možnosti čerpání participativního rozpočtu
 - Petice a interpelace občanů budeme brát vážně
+
 ## Přístup k informacím
 - Navrhneme projekt pokrytí WiFi ve veřejných institucích zdarma (školy, úřady, knihovny)
 
