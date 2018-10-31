@@ -70,5 +70,7 @@ Opravdu nemohou TOP 09 a STAN prosazovat svůj program s námi? Na magistrátu t
 
 Závěrem bychom rádi připomněli, že jsme ochotni v Zastupitelstvu [MČ Praha 8](https://www.facebook.com/mcpraha8/) podpořit jakýkoliv konstruktivní návrh, se kterým se náš klub ztotožní bez ohledu na to, kdo jej navrhne. Stejně tak jsme i nadále otevřeni koaličním jednáním, ovšem bez lavírování našich potenciálních partnerů mezi zcela odlišnými a často protichůdnými pohledy na řízení Prahy 8. Piráti chtějí opravdovou změnu, ne návrat k fungování minulých radnic, včetně té poslední.
 
+Pokud by Vás zajímal pohled našeho partnera (Osmička žije), naleznete jej na jejich Facebookové stránce pod titulkem [Proč nevznikla koalice Piráti-8žije-TOP09/STAN na Praze 8](https://www.facebook.com/8zije/posts/2125894890995733).
+
 
 <!-- vim:set spell spelllang=cs,en: -->
