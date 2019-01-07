@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title: 'Co si do nového roku pro Prahu 8 přejí její Piráti? '
+title: 'Co si do nového roku pro Prahu 8 přejí její Piráti?'
 date: 2018-12-30T18:10:00.000Z
 author: Zastupitelský klub
 authorId: jitka.novotna

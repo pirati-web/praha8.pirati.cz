@@ -20,3 +20,5 @@ Ve středu 19. prosince se uskutečnilo druhé jednání Zastupitelstva MČ Prah
 4. Radní pro sociální oblast paní Ludková nechce vypisovat otevřené výběrové řízení na ředitele/ředitelku příspěvkové organizace Sociální a ošetřovatelské služby. Nevadí nám rychlé odvolání nyní již bývalého ředitele, ani operativní dosazení bývalé místostarostky Praha 3 za ODS Lucie Vítkovské, ale vadí nám, že své kvality neobhájí v otevřeném výběrovém řízení. Radnice by si neměla počínat nepoticky.
 
 5. Zájmy občanů budeme hájit ve všech odborných komisích, které jsou poradními orgány Rady městské části. Michal Novak je členem kontrolního výboru, Alice Hamalova členkou finančního výboru.
+
+<!-- vim:set spell spelllang=cs,en: -->
