@@ -3,7 +3,7 @@ layout: post
 category: blog
 title: 'Koalice bez programu a prodej pozemku školy bez vědomí její ředitelky. Co dělá koalice na Praze 8?'
 date: 2018-12-20T18:10:00.000Z
-author: Alice Hamalová
+author: 
 authorId:
 image: posts/tym8.jpg
 tags: [klub, koalice]
