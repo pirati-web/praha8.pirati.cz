@@ -15,8 +15,9 @@ organization:
   email: praha8@pirati.cz
   #phone: +420 777 123 456 789
   address: |
-      Řehořova 943/19 |
-      130 00 Praha 3
+      Na Moráni 3,
+      120 00 Praha 2
+  mapLink: https://mapy.cz/zakladni?x=14.4151543&y=50.0733415&z=18&source=addr&id=9018965&q=Na%20Mor%C3%A1ni%203
   residenceImg:
   mapLink: https://mapy.cz/s/2N7Yv
   redmineLink: https://redmine.pirati.cz/projects
