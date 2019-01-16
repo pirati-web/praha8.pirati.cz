@@ -14,7 +14,7 @@ mail:
 
 Ivo Slávka (nar. 29. 9. 1966)
 
-Pocházím z Nového Mesta nad Váhom a od roku 2009 žiji na Praze 8 v Kobylisích. Jsem v registrovaném partnerství a s partnerem máme dítě v dlouhodobé pěstounské péči.
+Pocházím z Nového Mesta nad Váhom a od roku 2009 žiji na Praze 8 v Kobylisích. Jsem v registrovaném partnerství a s partnerem máme 2 děti v dlouhodobé pěstounské péči.
 
 Vystudoval jsem Gymnázium Nové Mesto nad Váhom, Hotelovou akademii Piešťany a pak jsem absolvoval bakalářské studium na Právnické fakultě Univerzity Komenského v Bratislavě a následně jsem úspěšně ukončil magisterské studium na Právnické fakultě Univerzity Mateja Bela v Banské Bystrici.
 
