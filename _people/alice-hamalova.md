@@ -5,7 +5,7 @@ category:
   - clenove
 img: people/alice-hamalova.png 
 profession: chemik, výzkumný pracovník
-#description: 
+description: zastupitelka, místopředsedkyně krajského sdružení 
 ordpms: 2
 mail: 
  - alice.hamalova@pirati.cz

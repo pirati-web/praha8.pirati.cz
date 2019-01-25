@@ -7,7 +7,7 @@ titles:
 category:  
   - pms
 ordpms: 1
-#description: předseda
+description: předseda
 img: people/martin-stanek.png 
 mail:
  -  martin.stanek@pirati.cz

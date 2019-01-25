@@ -5,7 +5,7 @@ titles:
   before: Bc.
 category:  clenove
 img: people/anna-filinova.png 
-#description: koordiátorka Senioři
+description: zastupitelka
 mail: 
  - anna.filinova@pirati.cz
 profiles:

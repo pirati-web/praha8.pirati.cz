@@ -7,7 +7,7 @@ category:
     - clenove
 img: people/ivo-slavka.png 
 ordpms: 3
-# description: 2. místopředseda
+description: zastupitel
 mail: 
  - ivo.slavka@pirati.cz
 ---

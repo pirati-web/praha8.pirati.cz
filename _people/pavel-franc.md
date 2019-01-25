@@ -6,7 +6,7 @@ titles:
 category:  
     - clenove
 img: people/pavel-franc.png  
-#description: 3. místopředseda
+description: zastupitel
 ordpms: 4
 mail: 
  - pavel.franc@pirati.cz

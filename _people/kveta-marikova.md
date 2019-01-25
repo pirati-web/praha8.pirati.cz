@@ -3,7 +3,7 @@ uid: kveta.marikova
 name: Květa Maříková
 category:  clenove
 img: people/kveta-marikova.jpg 
-#description: organizace schůzek
+#description: 
 mail: 
   - kveta.marikova@pirati.cz
 profiles:

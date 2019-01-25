@@ -3,9 +3,10 @@ uid: jitka.novotna
 name: Jitka Novotná
 titles:
   before: Mgr.
-category:  clenove
+category: 
+  - clenove
 img: people/jitka-novotna.png 
-#description: web, spolupráce s KS Praha
+description: zastupitelka, členka republikového výboru
 mail: 
   - jitka.novotna@pirati.cz
 profiles:

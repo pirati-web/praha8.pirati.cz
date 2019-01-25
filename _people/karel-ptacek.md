@@ -8,7 +8,7 @@ category:
   - clenove
 img: people/karel-ptacek.png  
 #profession: development
-# description: koordinátor Správa majetku
+description: zastupitel
 ordpms: 5
 mail: 
   - karel.ptacek@pirati.cz
