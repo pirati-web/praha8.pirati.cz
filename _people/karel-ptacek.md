@@ -5,11 +5,10 @@ titles:
   before:
   after: Dis.
 category: 
-  - pms
+  - clenove
 img: people/karel-ptacek.png  
 #profession: development
-description: koordinátor Správa majetku
-description: 4. místopředseda
+# description: koordinátor Správa majetku
 ordpms: 5
 mail: 
   - karel.ptacek@pirati.cz

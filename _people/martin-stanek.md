@@ -4,7 +4,10 @@ name: Martin Staněk
 titles:
   before: Mgr.
   after: Ph.D.
-category:  clenove
+category:  
+  - pms
+ordpms: 1
+#description: předseda
 img: people/martin-stanek.png 
 mail:
  -  martin.stanek@pirati.cz

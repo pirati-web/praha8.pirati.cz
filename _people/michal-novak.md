@@ -6,8 +6,7 @@ titles:
 category: 
   - pms
 img: people/michal-novak.png 
-description: předseda
-ordpms: 1
+ordpms: 4
 mail: 
   - michal.novak@pirati.cz
 profiles:

@@ -2,7 +2,8 @@
 uid: martin.sterba
 name: Martin Štěrba
 category: 
-    - priznivec
+  - pms
+ordpms: 2
 #img: people/michal-novak.jpg  
 #description: Social media guru 
 mail: 

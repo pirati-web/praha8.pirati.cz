@@ -110,6 +110,11 @@ defaults:   # defaults values for collection scope
         - people
   -
     scope:
+      path: "_posts"
+    values:
+      layout: "post"
+  -
+    scope:
       path: "_program"
     values:
       layout: "program-post"

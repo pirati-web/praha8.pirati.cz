@@ -9,7 +9,7 @@ contentSize: default
   <h1 class="t-h2-alt">Přidejte se</h1>
 </div>
 
-Zajímá vás co Piráti dělají a jak? Ozvěte se [Aničce Filínové](/lide/anna-filinova) a přijďte k nám na otevřenou schůzi. Pořádáme je obvykle první pondělí na různých místech Prahy 8.
+Zajímá vás co Piráti dělají a jak? Ozvěte se [Míše Krupičkové](/lide/michaela-krupickova) a přijďte k nám na otevřenou schůzi. Pořádáme je obvykle první pondělí na různých místech Prahy 8.
 
 Webové stránky pražského sdružení najdete na [praha.pirati.cz](https://praha.pirati.cz/).
 

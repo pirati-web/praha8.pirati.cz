@@ -4,9 +4,9 @@ name: Pavel Franc
 titles:
   before: Mgr.
 category:  
-    - pms
+    - clenove
 img: people/pavel-franc.png  
-description: 3. místopředseda
+#description: 3. místopředseda
 ordpms: 4
 mail: 
  - pavel.franc@pirati.cz

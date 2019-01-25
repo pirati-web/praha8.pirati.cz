@@ -3,7 +3,9 @@ uid: jan.kolator
 name: Jan Kolátor
 titles:
   before: Mgr.
-category:  clenove
+category:  
+  - pms
+ordpms: 3
 img: people/jan-kolator.png 
 #description: 
 mail: 
