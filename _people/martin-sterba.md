@@ -3,10 +3,13 @@ uid: martin.sterba
 name: Martin Štěrba
 category: 
   - pms
+  - kontaktni_osoba
 ordpms: 2
-#img: people/michal-novak.jpg  
-#description: Social media guru 
+img: people/martin-sterba.jpg  
+description: místopředseda
+mob: 732 408 769
 mail: 
+  - martin.sterba@pirati.cz 
 ---
 
 

@@ -3,7 +3,6 @@ uid: alice.hamalova
 name: Alice Hamalová 
 category:  
   - clenove
-  - kontaktni_osoba
 img: people/alice-hamalova.png 
 profession: chemik, výzkumný pracovník
 #description: 
