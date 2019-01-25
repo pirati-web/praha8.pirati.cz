@@ -5,7 +5,7 @@ titles:
   before: Mgr.
 category:  
     - clenove
-img: people/ivo-slavka.png 
+img: people/ivo-slavka.jpg 
 ordpms: 3
 description: zastupitel
 mail: 

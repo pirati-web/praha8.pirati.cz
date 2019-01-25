@@ -5,7 +5,7 @@ titles:
   before: Mgr.
 category:  
     - clenove
-img: people/pavel-franc.png  
+img: people/pavel-franc.jpg 
 description: zastupitel
 ordpms: 4
 mail: 

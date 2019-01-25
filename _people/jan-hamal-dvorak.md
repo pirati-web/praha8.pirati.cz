@@ -2,7 +2,7 @@
 uid: jan.hamal.dvorak
 name: Jan Hamal Dvořák 
 category:  clenove
-img: people/jan-hamal-dvorak.png  
+img: people/jan-hamal-dvorak.jpg 
 description: zastupitel
 mail: 
   - jan.hamal.dvorak@pirati.cz

@@ -5,7 +5,7 @@ titles:
   after: MBA
 category: 
   - pms
-img: people/michal-novak.png 
+img: people/michal-novak.jpg 
 description: zastupitel, místopředseda 
 ordpms: 4
 mail: 

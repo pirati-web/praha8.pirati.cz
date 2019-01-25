@@ -6,7 +6,7 @@ titles:
   after: Dis.
 category: 
   - clenove
-img: people/karel-ptacek.png  
+img: people/karel-ptacek.jpg 
 #profession: development
 description: zastupitel
 ordpms: 5

@@ -5,7 +5,7 @@ titles:
   before: Mgr.
 category: 
   - clenove
-img: people/jitka-novotna.png 
+img: people/jitka-novotna.jpg 
 description: zastupitelka, členka republikového výboru
 mail: 
   - jitka.novotna@pirati.cz

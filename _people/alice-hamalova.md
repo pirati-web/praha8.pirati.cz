@@ -3,7 +3,7 @@ uid: alice.hamalova
 name: Alice Hamalová 
 category:  
   - clenove
-img: people/alice-hamalova.png 
+img: people/alice-hamalova.jpg 
 profession: chemik, výzkumný pracovník
 description: zastupitelka, místopředsedkyně krajského sdružení 
 ordpms: 2
