@@ -22,9 +22,6 @@ main:
   - link: /volby-2018/
     name: Kandidátka
     match: kandaditka
-  - link: /lide/lukas-wagenknecht/
-    name: Volby do senátu
-    match: senat
   - link: /kontakt/
     name: Kontakt
     match: kontakt
