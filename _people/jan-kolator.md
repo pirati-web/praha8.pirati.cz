@@ -7,7 +7,7 @@ category:
   - pms
 ordpms: 3
 img: people/jan-kolator.jpg 
-description: zastupitel, místopředseda
+description: místopředseda
 mail: 
   - jan.kolator@pirati.cz
 profiles:
