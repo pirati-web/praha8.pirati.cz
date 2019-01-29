@@ -2,11 +2,10 @@
 uid: alice.hamalova
 name: Alice Hamalová 
 category:  
-  - pms
-  - kontaktni_osoba
-img: people/alice-hamalova.png 
+  - clenove
+img: people/alice-hamalova.jpg 
 profession: chemik, výzkumný pracovník
-description: 1. místopředsedkyně
+description: zastupitelka, místopředsedkyně krajského sdružení 
 ordpms: 2
 mail: 
  - alice.hamalova@pirati.cz

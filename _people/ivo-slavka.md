@@ -4,10 +4,10 @@ name: Ivo Slávka
 titles:
   before: Mgr.
 category:  
-    - pms
-img: people/ivo-slavka.png 
+    - clenove
+img: people/ivo-slavka.jpg 
 ordpms: 3
-description: 2. místopředseda
+description: zastupitel
 mail: 
  - ivo.slavka@pirati.cz
 ---

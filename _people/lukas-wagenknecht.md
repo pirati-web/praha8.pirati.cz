@@ -5,9 +5,10 @@ titles:
   before: Mgr.
 category:  
   - priznivci
+  - ustavni-cinitele
 img: people/lukas-wagenknecht.jpg  
 profession: ekonom, interní auditor
-#description: Kandidát na senátora
+description: senátor
 mail: 
  - info@lukaswagenknecht.cz
 profiles:

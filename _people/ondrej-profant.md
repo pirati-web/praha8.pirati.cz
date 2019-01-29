@@ -2,9 +2,10 @@
 uid: ondrej.profant
 name:     Ondřej Profant  	# běžně používáné jméno
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- clenove
+ - clenove
+ - ustavni-cinitele
 img: people/ondrej-profant.jpg # 165 x 220
-description: poslanec, předseda krajského sdružení Pirátské strany v Praze             	# kratký popis, max 160 znaků
+description: poslanec
 mail:
 - ondrej.profant@pirati.cz
 mob:			  +420 607 580 015

@@ -3,9 +3,11 @@ uid: jan.kolator
 name: Jan Kolátor
 titles:
   before: Mgr.
-category:  clenove
-img: people/jan-kolator.png 
-#description: 
+category:  
+  - pms
+ordpms: 3
+img: people/jan-kolator.jpg 
+description: místopředseda
 mail: 
   - jan.kolator@pirati.cz
 profiles:

@@ -1,9 +1,11 @@
 ---
 uid: michaela.krupickova
 name: Michaela Krupičková
-category:  clenove
+category: 
+  - pms
+ordpms: 5
 img: people/michaela-krupickova.jpg  
-#description: koordinátor Bydlení a výstavba
+description: místopředsedkyně
 mail: 
   - michaela.krupickova@pirati.cz
 profiles:

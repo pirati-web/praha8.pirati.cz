@@ -5,9 +5,9 @@ titles:
   after: MBA
 category: 
   - pms
-img: people/michal-novak.png 
-description: předseda
-ordpms: 1
+img: people/michal-novak.jpg 
+description: zastupitel, místopředseda 
+ordpms: 4
 mail: 
   - michal.novak@pirati.cz
 profiles:

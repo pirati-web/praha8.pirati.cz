@@ -4,8 +4,8 @@ name: Anna Filínová
 titles:
   before: Bc.
 category:  clenove
-img: people/anna-filinova.png 
-#description: koordiátorka Senioři
+img: people/anna-filinova.jpg 
+description: zastupitelka
 mail: 
  - anna.filinova@pirati.cz
 profiles:
