@@ -48,22 +48,20 @@ V posledních letech se aktivně věnuji prosazování myšlenek dobrého vládn
 Ve svém volném čase rád jezdím na kole a v zimě běžkuji.
 
 
-## Proč kandiduješ do senátu?
+## Proč jsem kandidoval do Senátu?
 
 Význam Senátu v poslední době narůstá. Některé strany zastoupené ve 
 sněmovně mají snahu omezit veřejné instituce, například veřejnoprávní 
 média, či zpochybňují naše členství v Evropské unii nebo NATO. Senát je 
 pojistkou, která těmto snahám bude bránit. 
 
-O fungování Senátu jsem se navíc přesvědčil v loňském roce, kdy minulá 
+O fungování Senátu jsem se navíc přesvědčil v roce 2017, kdy minulá 
 vláda chtěla schválit zákon, týkající se efektivity nakládání s veřejnými 
 prostředky. Touto problematikou se zabývám celý svůj profesní život. 
 Sněmovnou prošel vykostěný text, opravdu smutné čtení. S kolegy jsme obešli 
 několik senátorů, problém jim vysvětlili a Senát v tu chvíli 
 zafungoval. Text, který prošel Sněmovnou a postrádal původní smysl, byl 
-Senátem zamítnut. 
-
-Právě z těchto důvodů jsem se rozhodl pro kandidaturu do 
+Senátem zamítnut. Právě z těchto důvodů jsem se rozhodl pro kandidaturu do 
 Senátu ve volbách 2018. 
 
  
@@ -79,7 +77,7 @@ Nicméně každé místo tvoří lidé. S těmi ze senátního obvodu 23 se potk
 takřka denně a musím říci, že jsou to moc fajn lidé, ať už žijí na velkém 
 sídlišti, v rušném Karlíně či v klidnějších Chabrech. 
 
-## Co se ti na fungování Prahy 8 líbí a co ti naopak vadí?
+## Co se mi na fungování Prahy 8 líbí a co naopak vadí?
 
 Velkým tématem nejen Prahy 8, ale celé metropole, je doprava. Vadí mi, že 
 politici občanům nabízí řešení, ale s realizací si dávají opravdu načas, 
@@ -97,7 +95,7 @@ především místním občanům a ne pro další masivní výstavbu bytů, kanc
 tranzitní dopravní infrastruktury. A jak jsem zmínil již výše, místo 
 dělají lidé, a ti v mém volebním obvodu jsou skvělí! 
 
-## Jakým způsobem hodláš přispět/pomoci jako budoucí senátor Praze 8 v příštích letech?
+## Jakým způsobem chci působit jako senátor Prahy 8 v příštích letech?
 
 Podle mého názoru by měl senátor zastávat roli „ombudsmana“ obyvatel svého 
 obvodu. Jako senátor nemohu sice manažersky o věcech rozhodovat, ale pokud 
