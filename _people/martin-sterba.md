@@ -16,7 +16,7 @@ profiles:
   instagram:		https://www.instagram.com/sterbamartin__
 ---
 
-Martin Štěrba se do Prahy přestěhoval v roce 2013. Pocházím Plzně, která je od Prahy vzdálena asi 88 kilometrů. Vystudoval  pedagogickou fakultu ZČU v Plzni (obor informatika se zaměřením na vzdělávání) a Univerzitu J.A. Komenského v Praze (obor sociální a mediální komunikace). Pracoval ve velkých mediálních domech (TV Nova, Empressa Media, Economia, Seznam.cz), na „volné noze“, a má zkušenosti i z neziskového sektoru. Momentálně pracuje jako manažer on-line komunikace a je poradcem primátora hlavního města Prahy.
+Martin Štěrba se narodil v roce 1987 v Plzni a do Prahy se finálně přestěhoval v roce 2013. Vystudoval pedagogickou fakultu ZČU v Plzni (obor informatika se zaměřením na vzdělávání) a Univerzitu J.A. Komenského v Praze (obor sociální a mediální komunikace). Pracoval ve velkých mediálních domech (TV Nova, Empressa Media, Economia, Seznam.cz), na „volné noze“, a má zkušenosti i z neziskového sektoru. Momentálně pracuje jako manažer on-line komunikace a je poradcem primátora hlavního města Prahy.
 
 Ve volném čase má rád knihy, filmy, hudbu, sociální sítě, cestování do neznáma, sezení na Náplavce, jízdu vlakem a festivaly. Od svých dvanácti let je skautem, oddíl však už nevede, momentálně je v Náčelnictvu Junáka, tedy v jakési Poslanecké sněmovně největší organizace zabývající se výchovou dětí a mládeže. Kromě toho je ředitelem projektu [Svojsíkův sen][], který se s heslem „Budoucnost začíná nyní“ dívá do let příštích a jedním z jeho cílů je v roce 2031 uspořádat v České republice světové skautské jamboree pro 50 tisíc mladých lidí.
 
