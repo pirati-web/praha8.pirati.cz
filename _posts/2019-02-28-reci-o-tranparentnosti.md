@@ -5,8 +5,8 @@ title: 'Řeči o transparentnosti radních Prahy 8 moc dlouho nevydržely'
 date: 2019-02-28T15:10:00.000Z
 author:
 authorId: michal.novak
-image: posts/novak.jpg
-tags: transparentnost
+image: posts/transparenstnost-novak.jpg
+tags: [volby, klub, koalice]
 ---
 
 Tento týden mi jako místopředsedovi kontrolního výboru bylo e-mailem oznámeno, že Rada MČ Praha 8 minulý týden 20. února 2019 zrušila všechna (ano, čtete správně) již naplánovaná osobní projednávání hospodaření podřízených organizací MČ Prahy 8, tedy společností financovaných z rozpočtu městské části. Materiály prý letos dostaneme jen písemně. To prý stačí. Podle vyjádření starosty i odboru interního auditu, prý byly osobní setkání “vždy prakticky již jen společenskou událostí”.
