@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: 'Jak se rozprodávají činžovní domy na Praze 8'
-date: 2019-01-10T18:10:00.000Z
+date: 2019-01-28T18:10:00.000Z
 author:
 authorId: karel.ptacek
 image: posts/dum.jpg
