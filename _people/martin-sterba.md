@@ -13,6 +13,7 @@ mail:
 profiles:
   facebook: 		https://www.facebook.com/sterbamartin
   twitter: 		  https://twitter.com/sterbamartin
+  linkedin:     https://linkedin.com/in/sterbamartin/
   instagram:		https://www.instagram.com/sterbamartin__
 ---
 
