@@ -2,7 +2,7 @@
 uid: martin.sterba
 name: Martin Štěrba
 titles:
-  - before: Mgr.
+  before: Mgr.
 category: 
   - pms
   - kontaktni_osoba
