@@ -12,7 +12,7 @@ gem "jekyll", "~> 3.7.3"
 
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
-gem "jekyll-theme-pirati", "~>7.0.0"
+gem "jekyll-theme-pirati", "~>7.2.0"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
