@@ -6,7 +6,7 @@ titles:
 category: 
   - clenove
 img: people/jitka-novotna.jpg 
-description: zastupitelka, členka republikového výboru
+description: členka republikového výboru
 mail: 
   - jitka.novotna@pirati.cz
 profiles:
