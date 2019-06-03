@@ -1,11 +1,8 @@
 ---
 uid: michaela.krupickova
 name: Michaela Krupičková
-category: 
-  - pms
-ordpms: 5
+category: clenove
 img: people/michaela-krupickova.jpg  
-description: místopředsedkyně
 mail: 
   - michaela.krupickova@pirati.cz
 profiles:
