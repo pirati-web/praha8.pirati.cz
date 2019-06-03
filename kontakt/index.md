@@ -9,9 +9,9 @@ contentSize: default
   <h1 class="t-h2-alt">Přidejte se</h1>
 </div>
 
-Zajímá vás co Piráti dělají a jak? Ozvěte se [Míše Krupičkové](/lide/michaela-krupickova) a přijďte k nám na otevřenou schůzi. Ta se koná obvykle každou čtvrtou středu večer. 
+Zajímá vás co Piráti dělají a jak? Ozvěte se [Martinu Staňkovi](/lide/martin-stanek) a přijďte k nám na otevřenou schůzi. Ta se koná obvykle každou čtvrtou středu v měsíci večer. 
 
-Webové stránky pražského sdružení najdete na [praha.pirati.cz](https://praha.pirati.cz/).
+Webové stránky pražského sdružení najdete na [praha.pirati.cz](https://praha.pirati.cz/). Jsme také na [Facebooku[(https://fb.com/piratipraha8).
 
 Veškerou evidenci kontaktů a schůzek najdete na [evidence.pirati.cz](https://evidence.pirati.cz/).
 
