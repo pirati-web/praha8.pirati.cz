@@ -1,7 +1,6 @@
 ---
 uid: michaela.krupickova
 name: Michaela Krupičková
-category: clenove
 img: people/michaela-krupickova.jpg  
 mail: 
   - michaela.krupickova@pirati.cz
