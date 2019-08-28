@@ -16,7 +16,7 @@ profiles:
   flickr:		  https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=ond%C5%99ej%20profant
 ---
 
-Ondřej Profant (2. května 1988) je předseda krajského [sdružení v Praze][] a poslanec zvolený za Pirátskou stranu. Byl členem přípravného výboru České pirátské strany.
+Ondřej Profant (2. května 1988) je poslanec zvolený za Pirátskou stranu. Byl členem přípravného výboru České pirátské strany. Dříve byl předsedou krajského sdružení.
 
 ### Motivace
 
