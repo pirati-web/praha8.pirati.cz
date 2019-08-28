@@ -5,7 +5,7 @@ titles:
   before: 
 category:  
   - clenove
-#img: people/magdalena-opletalova.png 
+#img: people/magdalena-opletalova.jpg 
 #description: 
 mail: 
   - magdalena.opletalova@pirati.cz
