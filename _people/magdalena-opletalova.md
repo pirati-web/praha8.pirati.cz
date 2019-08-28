@@ -1,6 +1,6 @@
 ---
 uid: magdalena.opletalova
-name: Magdalena "Mahu" Opletalová
+name: Magdalena Opletalová
 titles:
   before: 
 category:  
@@ -8,6 +8,6 @@ category:
 #img: people/magdalena-opletalova.png 
 #description: 
 mail: 
-  - magdalena.opletalovak@pirati.cz
+  - magdalena.opletalova@pirati.cz
 profiles:
 ---
