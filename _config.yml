@@ -6,8 +6,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 keywords: piráti, česká pirátská strana, svoboda, demokracie, pirati na osmičce # dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
 
-administrator:
-  email: jitka.novotna@pirati.cz # mail kam pujdou chybove vystupy
+#administrator:
+#    email: jmeno.prijmeni@pirati.cz # mail kam pujdou maily o webu
 
 organization:
   name: "<b>Praha 8</b>, místní sdružení"
