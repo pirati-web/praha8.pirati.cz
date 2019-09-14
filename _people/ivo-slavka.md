@@ -7,7 +7,7 @@ category:
     - clenove
 img: people/ivo-slavka.jpg 
 ordpms: 3
-description: zastupitel
+description: místopředseda zastupitelského klubu, člen komise RMČP8 pro obecní byty, člen Výboru pro legislativu, veřejnou správu a transparentnost ZHMP
 mail: 
  - ivo.slavka@pirati.cz
 ---
