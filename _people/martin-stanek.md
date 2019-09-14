@@ -7,7 +7,7 @@ titles:
 category:  
   - pms
 ordpms: 1
-description: zastupitel, předseda
+description: zastupitel, předseda MS Praha 8, člen komise pro kulturu a volný čas
 img: people/martin-stanek.jpg 
 mail:
  -  martin.stanek@pirati.cz
