@@ -5,7 +5,7 @@ titles:
   before: Bc.
 category:  clenove
 img: people/anna-filinova.jpg 
-description: zastupitelka
+description: zastupitelka, členka komise RMČP8 pro sociální věci, seniory a národnostní menšiny
 mail: 
  - anna.filinova@pirati.cz
 profiles:
