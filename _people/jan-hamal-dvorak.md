@@ -4,7 +4,7 @@ name: Jan Hamal Dvořák
 category:  pms
 ordpms: 5
 img: people/jan-hamal-dvorak.jpg 
-description: zastupitel, místopředseda
+description: zastupitel, místopředseda MS Praha 8, člen komise RMČP8 pro IT
 mail: 
   - jan.hamal.dvorak@pirati.cz
 profiles:
