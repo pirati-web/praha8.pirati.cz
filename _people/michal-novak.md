@@ -6,7 +6,7 @@ titles:
 category: 
   - pms
 img: people/michal-novak.jpg 
-description: předseda zastupitelského klubu, místopředseda MS Praha 8, člen komise RMČP8 pro pro dopravu, člen komise RMČP8 pro majetek, místopředseda kontrolního výboru MČP8
+description: předseda zastupitelského klubu, místopředseda MS Praha 8, místopředseda kontrolního výboru ZMČP8, člen komise RMČP8 pro pro dopravu, člen komise RMČP8 pro majetek
 ordpms: 4
 mail: 
   - michal.novak@pirati.cz
