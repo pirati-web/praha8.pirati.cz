@@ -8,7 +8,7 @@ category:
   - kontaktni_osoba
 ordpms: 2
 img: people/martin-sterba.jpg  
-description: 1. místopředseda
+description: 1. místopředseda, místopředseda redakční rady časopisu Osmička
 mob: 732 408 769
 mail: 
   - martin.sterba@pirati.cz 
