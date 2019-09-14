@@ -6,8 +6,7 @@ titles:
 category:  
     - clenove
 img: people/pavel-franc.jpg 
-description: zastupitel
-ordpms: 4
+description: zastupitel, člen komise RMČP8 pro sport, mládež a grantovou politiku, člen komise RMČP8 pro školství
 mail: 
  - pavel.franc@pirati.cz
 profiles:
