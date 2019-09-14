@@ -1,6 +1,6 @@
 ---
 uid: magdalena.opletalova
-name: Magdalena Opletalová
+name: Mahu Opletalová
 titles:
   before: 
 category:  
