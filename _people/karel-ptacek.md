@@ -8,8 +8,7 @@ category:
   - clenove
 img: people/karel-ptacek.jpg 
 #profession: development
-description: zastupitel
-ordpms: 5
+description: zastupitel, člen komise RMČP8 pro bytová družstva a SVJ, člen komise RMČP8 pro územní rozvoj a památkovou péči
 mail: 
   - karel.ptacek@pirati.cz
 profiles:
