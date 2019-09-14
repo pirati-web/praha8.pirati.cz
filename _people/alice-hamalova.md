@@ -6,7 +6,6 @@ category:
 img: people/alice-hamalova.jpg 
 profession: chemik, výzkumný pracovník
 description: zastupitelka, místopředsedkyně KS Praha, členka finančního výboru MČP8, členka komise RMČP8 pro životní prostředí
-ordpms: 2
 mail: 
  - alice.hamalova@pirati.cz
 profiles:
