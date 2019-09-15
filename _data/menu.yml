@@ -38,10 +38,10 @@ bottom:
     links:
       - link: /lide/
         name: Lidé
-      - link: /volby-2018
-        name: Volby
       - link: /aktuality/
         name: Aktuality
+      #link: /volby-2018
+      #name: Volby
   - class: small-12 medium-4
     title: Otevřenost
     links:
