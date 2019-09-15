@@ -19,9 +19,9 @@ main:
   - link: /program/
     name: Program
     match: program
-  - link: /volby-2018/
-    name: Kandidátka 2018
-    match: kandaditka
+  - #link: /volby-2018/
+    #name: Kandidátka 2018
+    #match: kandaditka
   - link: /kontakt/
     name: Kontakt
     match: kontakt
