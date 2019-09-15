@@ -19,12 +19,13 @@ main:
   - link: /program/
     name: Program pro Prahu 8
     match: program
-  - #link: /volby-2018/
-    #name: Kandidátka 2018
-    #match: kandaditka
   - link: /kontakt/
     name: Kontakt
     match: kontakt
+    
+    #link: /volby-2018/
+    #name: Kandidátka 2018
+    #match: kandaditka
 
 bottom:
   - class: small-12 medium-4
