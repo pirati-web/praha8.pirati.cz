@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title: Změna v zastupitlském klubu
+title: Změna v zastupitelském klubu
 date: 2019-06-02T15:10:00.000Z
 author:
 authorId: 
