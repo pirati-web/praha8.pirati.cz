@@ -1,10 +1,10 @@
 ---
 layout: post
 category: blog
-title: Ve středu 12. června se konalo řádné jednání zastupitelstva MČ Praha 8. Jaké novinky přineslo? 
+title: Co přineslo červnové řádné jednání zastupitelstva MC Praha 8?
 date: 2019-06-13T15:10:00.000Z
-author:
-authorId: 
+author: Michal Novák
+authorId: michal.novak
 image: posts/zas13-6.jpg
 tags: zastupitelstvo
 ---
