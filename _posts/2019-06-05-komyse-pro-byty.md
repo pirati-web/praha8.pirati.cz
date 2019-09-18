@@ -3,8 +3,8 @@ layout: post
 category: blog
 title: Zpráva z komise městské části pro obecní byty  
 date: 2019-06-05T15:10:00.000Z
-author:
-authorId: 
+author: Ivo Slávka
+authorId: ivo.slavka
 image: posts/seniorum-mame-pomahat.png
 tags: komise
 ---
