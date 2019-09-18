@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title: Zpráva z komise pro byty  
+title: Zpráva z komise městské části pro obecní byty  
 date: 2019-06-05T15:10:00.000Z
 author:
 authorId: 
