@@ -3,8 +3,8 @@ layout: post
 category: blog
 title: 'Situace okolo centra metadonové substituce: Represe rozhodně nepomohou'
 date: 2019-03-05T15:10:00.000Z
-author:
-authorId: 
+author: Jan Kolátor
+authorId: jan.kolator
 image: posts/metadon.jpg
 tags: zdravotnictví
 ---
