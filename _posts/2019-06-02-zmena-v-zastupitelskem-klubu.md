@@ -3,8 +3,8 @@ layout: post
 category: blog
 title: Změna v zastupitelském klubu
 date: 2019-06-02T15:10:00.000Z
-author:
-authorId: 
+author: Martin Štěrba
+authorId: martin.sterba
 image: posts/novy-zastupitel.png
 tags: komise
 ---
