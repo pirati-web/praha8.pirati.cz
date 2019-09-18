@@ -3,8 +3,8 @@ layout: post
 category: blog
 title: 'Jaká bude daň z nemovitosti podle městské části Praha 8 My to víme!'
 date: 2019-09-15T18:10:00.000Z
-author:
-authorId:
+author: Martin Staněk
+authorId: martin.stanek
 image: posts/dan-z-nemovitosti.png
 tags: [volby, klub, koalice]
 ---
