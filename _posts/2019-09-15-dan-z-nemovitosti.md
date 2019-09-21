@@ -28,7 +28,7 @@ nebo
 Jasnou a důvěryhodnu informaci z našeho pohledu přineslo až nedávné 
 [usnesení Rady HMP](http://zastupitelstvo.praha.eu/ina/tedusndetail.aspx?par=024062121129124085075062139129124085072062136129124085072062133129124085072&id=577632)
 , v jehož příloze je přehled výší základních koeficientů za jednotlivé MČ: za Prahu 8 je tam číslo 5. Návrh OZV by mělo 
-[projednat Zastupitelstvo HMP 19. Září](http://zastupitelstvo.praha.eu/ina/tedprgjed.aspx?par=032070129137132093083070147137132093088080070144137132093081070141137132093088081&id=23223).
+[projednat Zastupitelstvo HMP 19. Září](http://www.praha.eu/public/54/f7/83/3022396_1026432_Navrh_programu_jednani_9._zasedani_Zastupitelstva_hl_m__Prahy_d....pdf).
 
 Necháváme pro teď stranou stanovisko Rady MČP8 k výši koeficientu i fakt, že se neopírá o usnesení Zastupitelstva, byť mohlo. To co nás zásadně trápí je, že vedení MČP8 neposkytuje veřejně a pravidelně podstatné části svých rozhodnutí. Výrazně tak občanům komplikuje možnost se samostatně informovat o dění v MČ. Když už si uvědomělý občan dá tu práci a vyhledá si usnesení Rady, zjistí, že ta podstatná informace je “uvedena v ‘Důvodové zprávě’, která není součástí tohoto usnesení”. Ach jo.
 
