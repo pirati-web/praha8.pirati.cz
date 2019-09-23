@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title: Změna v zastupitelském klubu
+title: Martin Staněk střídá v zastupitelském klubu Jitku Novotnou
 date: 2019-06-02T15:10:00.000Z
 author: Martin Štěrba
 authorId: martin.sterba
