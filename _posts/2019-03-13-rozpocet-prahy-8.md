@@ -3,8 +3,8 @@ layout: post
 category: blog
 title: 'Schválení rozpočtu Prahy 8: Co si městská část pořídí?'
 date: 2019-03-13T15:10:00.000Z
-author:
-authorId: 
+author: Martin Štěrba
+authorId: martin.sterba
 image: posts/zastupitelstvo2.jpg
 tags: finance
 ---
