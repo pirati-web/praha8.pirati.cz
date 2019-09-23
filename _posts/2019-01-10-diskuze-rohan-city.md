@@ -3,9 +3,9 @@ layout: post
 category: blog
 title: 'Jak má vypadat Rohan City? Piráti diskutují!'
 date: 2019-01-10T18:10:00.000Z
-author:
-authorId:
-image: posts/noviny.jpg
+author: Martin Štěrba
+authorId: martin.sterba
+image: posts/rohancity.jpg
 tags: [volby, klub, koalice]
 ---
 
