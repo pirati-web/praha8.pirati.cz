@@ -5,7 +5,7 @@ date: 2019-01-25
 author: Martin Staněk
 authorId: martin.stanek
 image: posts/predsednictvo-2019.png
-tags: [volby, predsednitvo]
+tags: [volby, predsednictvo]
 ---
 
 Piráti na Praze 8 si zvolili nové vedení. 🏴 Předsedou místního sdružení
