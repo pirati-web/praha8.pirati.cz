@@ -6,7 +6,7 @@ date: 2019-09-24T16:15:00.000Z
 author: Pavel Franc
 authorId: pavel.franc
 image: posts/osmicka_skolstvi.jpg
-tags: [volby, klub, koalice, Palmovka, kauza]
+tags: [volby, klub, koalice, Osmička]
 ---
 
 
