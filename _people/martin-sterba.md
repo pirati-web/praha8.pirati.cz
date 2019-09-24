@@ -17,6 +17,7 @@ profiles:
   twitter: 		  https://twitter.com/sterbamartin
   linkedin:     https://linkedin.com/in/sterbamartin/
   instagram:		https://www.instagram.com/sterbamartin__
+  web:          http://www.sterba.eu
 ---
 
 Martin Štěrba se narodil v roce 1987 v Plzni a do Prahy se finálně přestěhoval v roce 2013. Vystudoval pedagogickou fakultu ZČU v Plzni (obor informatika se zaměřením na vzdělávání) a Univerzitu J.A. Komenského v Praze (obor sociální a mediální komunikace). Pracoval ve velkých mediálních domech (TV Nova, Empressa Media, Economia, Seznam.cz), na „volné noze“, a má zkušenosti i z neziskového sektoru. [Momentálně pracuje][] jako manažer on-line komunikace a je poradcem primátora hlavního města Prahy. 
