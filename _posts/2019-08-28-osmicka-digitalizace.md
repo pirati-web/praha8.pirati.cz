@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title: 'Záznamy by se měly vést především elektronicky.'
+title: 'Záznamy by se měly vést především elektronicky'
 date: 2019-08-28T20:42:00.000Z
 author: Jan Hamal Dvořák
 authorId: jan.hamal.dvorak
