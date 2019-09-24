@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title: 'Jaká bude daň z nemovitosti podle městské části Praha 8 My to víme!'
+title: 'Jaká bude daň z nemovitosti podle městské části Praha 8? My to víme!'
 date: 2019-09-15T18:10:00.000Z
 author: Martin Staněk
 authorId: martin.stanek
