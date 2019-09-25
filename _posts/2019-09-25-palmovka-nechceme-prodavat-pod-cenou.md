@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: 'Piráti z Prahy 8 mají recept, jak rozvíjet Palmovku. Torzo radnice nechtějí prodávat pod cenou!'
-date: 2019-09-25T09:15:00.000Z
+date: 2019-09-25T09:00:00.000Z
 author: Martin Štěrba
 authorId: martin.sterba
 image: posts/palmovka.jpg
