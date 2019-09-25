@@ -1,16 +1,16 @@
 ---
 layout: post
 category: blog
-title: 'Praha 8 rezignovala na změny ve školství!'
-date: 2019-09-25T10:10:00.000Z
+title: 'Máme recept, jak rozvíjet Palmovku. Torzo radnice nechceme prodávat pod cenou!'
+date: 2019-09-25T09:00:00.000Z
 author: Martin Štěrba
 authorId: martin.sterba
 image: posts/palmovka.jpg
-tags: [volby, klub, koalice, Osmička]
+tags: [volby, klub, koalice, Palmovka, kauza]
 ---
 
 
-Piráti na Praze 8 přicházejí s alternativní variantou, jak dále postupovat ohledně rozestavěné budovy Nová Palmovka, do které městská část v minulých letech investovala více než 500 milionů korun. Vedení městské části ji chce prodat výrazně pod cenou, podle nového posudku by za prodej torza nedokončené radnice bylo možné získat více než miliardu korun. Pirátští zastupitelé dnes chtějí o prodeji či dostavbě jednat na zasedání Zastupitelstva městské části Praha 8.
+**Piráti na Praze 8 přicházejí s alternativní variantou, jak dále postupovat ohledně rozestavěné budovy Nová Palmovka, do které městská část v minulých letech investovala více než 500 milionů korun. Vedení městské části ji chce prodat výrazně pod cenou, podle nového posudku by za prodej torza nedokončené radnice bylo možné získat více než miliardu korun. Pirátští zastupitelé dnes chtějí o prodeji či dostavbě jednat na zasedání Zastupitelstva městské části Praha 8.**
 
 Ani jedno z předchozích vedení městské části Praha 8 nedokázalo projekt nové radnice dotáhnout do zdárného konce, a proto tam budova už řadu let stojí v neutěšeném stavu. “Řadě občanů MČ Praha 8 není kauza Nová Palmovka cizí, mají možnost ji sledovat už dlouhou řádku let, od samých počátků v roce 2010, přes zastavení stavebních prací následnou koalicí, loňské drahé narovnání s Metrostavem a až po současný tlak na rychlý prodej,” vysvětluje vývoj výstavby předseda zastupitelského klubu Pirátů na Praze 8 Michal Novák. 
 
@@ -24,6 +24,6 @@ Zastupitelský klub Pirátů na Praze 8 zastupitelstvu předloží materiály, z
 
 Pirátský návrh počítá také s koncepčním urbanistickým rozvojem celé dosud nevyužité a přitom atraktivní lokality mezi ulicemi Sokolovská, Voctářova a Libeňským mostem. V budoucnu by tady měl vzniknout příjemný a užitečný prostor pro občany nejen městské části Praha 8.
 
-kontakty:
+**kontakty:**
 Michal Novák, předseda zastupitelského klubu Pirátů, tel: 603 170 430
 Ivo Slávka, místopředseda zastupitelského klubu Pirátů, tel: 777 973 573
