@@ -25,5 +25,6 @@ Zastupitelský klub Pirátů na Praze 8 zastupitelstvu předloží materiály, z
 Pirátský návrh počítá také s koncepčním urbanistickým rozvojem celé dosud nevyužité a přitom atraktivní lokality mezi ulicemi Sokolovská, Voctářova a Libeňským mostem. V budoucnu by tady měl vzniknout příjemný a užitečný prostor pro občany nejen městské části Praha 8.
 
 **kontakty:**
+
 Michal Novák, předseda zastupitelského klubu Pirátů, tel: 603 170 430
 Ivo Slávka, místopředseda zastupitelského klubu Pirátů, tel: 777 973 573
