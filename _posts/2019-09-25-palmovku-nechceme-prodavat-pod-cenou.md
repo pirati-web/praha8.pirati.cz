@@ -23,8 +23,3 @@ Podle městské části byla cena možného prodeje podpořena znaleckým posudk
 Zastupitelský klub Pirátů na Praze 8 zastupitelstvu předloží materiály, ze kterých je možné vycházet při tvorbě projektu, který městské části umožní dostavět novou radnici a v okolí postupně vytvořit smíšenou oblast, ve které by své místo mělo dostupné bydlení, kanceláře, obchody i služby občanům. Majetek by i nadále měl zůstat v majetku Prahy 8 a do budoucna by se měl stát dlouhodobým zdrojem financí do rozpočtu městské části. Do dostavěné budovy by se také mohl přesunout celý úřad městské části Praha 8, tím by se zlepšila jeho dostupnost pro občany a ušetřilo by se tak za nájem prostor, kde momentálně pracují zaměstnanci jednotlivých odborů. 
 
 Pirátský návrh počítá také s koncepčním urbanistickým rozvojem celé dosud nevyužité a přitom atraktivní lokality mezi ulicemi Sokolovská, Voctářova a Libeňským mostem. V budoucnu by tady měl vzniknout příjemný a užitečný prostor pro občany nejen městské části Praha 8.
-
-**kontakty:**
-
-Michal Novák, předseda zastupitelského klubu Pirátů, tel: 603 170 430
-Ivo Slávka, místopředseda zastupitelského klubu Pirátů, tel: 777 973 573
