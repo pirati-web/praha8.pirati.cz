@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: 'Gymnázium U Libeňského zámku slaví!'
-date: 2019-09-27T11:35:00.000Z
+date: 2019-09-27T14:35:00.000Z
 author: Michal Novák
 authorId: michal.novak
 image: posts/gymnazium-ulibenskehozamku.jpg
