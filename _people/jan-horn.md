@@ -12,7 +12,7 @@ mail:
 profiles:
 ---
 
-(* 24. dubna 1979) je členeme Pirátské strany v rámci MS Praha 8 od konce roku 2018, od února byl pirátským příznivcem. Pochází z Prahy, kde žije a pracuje. Má ženu, čtyřletého syna a víru v potenciál lidí. Je věřící.
+Narodil se 24. dubna 1979 v Prahze, kde žije a pracuje. Má ženu, čtyřletého syna a víru v potenciál lidí. Je věřící. Od konce roku 2018 je také členem Pirátské strany a to v rámci MS Praha 8, od února 2018 byl pirátským příznivcem. 
 
 Vystudoval střední odbornou školu se zaměřením na administrativu a výpočetní techniku (ukončeno maturitou) a střední uměleckořemeslnou školu, obor Umělecký kovář a zámečník (ukončeno výučním listem). 
 
