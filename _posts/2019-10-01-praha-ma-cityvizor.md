@@ -5,7 +5,7 @@ title: 'Praha má rozklikávací rozpočet na webu'
 date: 2019-10-01T18:35:00.000Z
 author: Pavel Franc
 authorId: pavel.franc
-image: posts/cityvizor.jpg
+image: posts/cityvizor.png
 tags: [volby, klub, koalice, transparentnost]
 ---
 
