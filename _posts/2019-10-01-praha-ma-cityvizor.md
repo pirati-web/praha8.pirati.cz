@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title: 'Praha má rozklikávací rozpočet na webu'
+title: 'Praha má rozklikávací rozpočet na webu, Praha 8 stále nikoliv'
 date: 2019-10-01T18:35:00.000Z
 author: Pavel Franc
 authorId: pavel.franc
