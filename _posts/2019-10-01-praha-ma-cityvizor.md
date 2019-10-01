@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: 'Praha má rozklikávací rozpočet na webu, Praha 8 zaspala'
-date: 2019-10-01T20:35:00.000Z
+date: 2019-10-01T18:35:00.000Z
 author: Pavel Franc
 authorId: pavel.franc
 image: posts/cityvizor.jpg
