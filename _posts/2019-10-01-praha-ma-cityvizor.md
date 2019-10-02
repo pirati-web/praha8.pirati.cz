@@ -10,7 +10,7 @@ tags: [volby, klub, koalice, transparentnost]
 ---
 
 
-Hlavní město Praha se dnes připojilo k dalším městům, které transparentně zveřejňují svůj rozpočet v aplikaci Cityvizor. Na https://cityvizor.praha.eu/ tak najdete vše o pražských financích - a to příjmy, výdaje, plnění rozpočtu, údaje z úřední desky nebo registru smlu. Zkrátka téměř vše, na co si vzpomenete.
+Hlavní město Praha se dnes připojilo k dalším městům, které transparentně zveřejňují svůj rozpočet v aplikaci Cityvizor. Na https://cityvizor.praha.eu/ tak najdete vše o pražských financích - a to příjmy, výdaje, plnění rozpočtu, údaje z úřední desky nebo registru smluv. Zkrátka téměř vše, na co si vzpomenete.
 
 Aplikaci Cityvizor vyvinulo Ministerstvu financí a uvolnilo ji jako open-source. Pro Prahu ji pak provozuje městská firma Operátor ICT a to podobně jako její další aplikace Lítačka a Zmente.to.
 
