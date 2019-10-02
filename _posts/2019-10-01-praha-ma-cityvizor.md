@@ -5,7 +5,7 @@ title: 'Praha má rozklikávací rozpočet na webu, Praha 8 stále nikoliv'
 date: 2019-10-01T18:35:00.000Z
 author: Pavel Franc
 authorId: pavel.franc
-image: posts/cityvizor2.jpg
+image: posts/cityvizor-praha.jpg
 tags: [volby, klub, koalice, transparentnost]
 ---
 
