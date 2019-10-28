@@ -5,7 +5,7 @@ title: 'Hřiště u škol by měla fungovat i odpoledne'
 date: 2019-10-28T10:35:00.000Z
 author: Martin Štěrba
 authorId: martin.sterba
-image: posts/osmicka_skolstvi.jpg
+image: posts/osmicka_skolstvi_hriste.jpg
 tags: [volby, klub, školství, dotace]
 ---
 
