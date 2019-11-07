@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: 'Pirátské řady posiluje Lukáš Wagenknecht'
-date: 2019-11-07T10:35:00.000Z
+date: 2019-11-06T11:04:00.000Z
 author: Martin Štěrba
 authorId: martin.sterba
 image: posts/lukas-wagenknecht-clen.jpg
