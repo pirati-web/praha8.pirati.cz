@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title: 'Pirátské řady na Praze 8 posiluje Lukáš Wagenknecht'
+title: 'Pirátské řady posiluje Lukáš Wagenknecht'
 date: 2019-11-07T10:35:00.000Z
 author: Martin Štěrba
 authorId: martin.sterba
