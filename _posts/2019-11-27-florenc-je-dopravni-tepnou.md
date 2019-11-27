@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title: 'Florenc je dopravní tepnou'
+title: 'Florenc je dopravní tepnou, prostor je nutné oživit'
 date: 2019-11-26T10:44:00.000Z
 author: Karel Ptáček
 authorId: karel.ptacek
