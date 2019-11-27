@@ -1,8 +1,8 @@
 ---
 layout: post
 category: blog
-title: 'Florenc je dopravní tepnou, ...'
-date: 2019-11-27T10:44:00.000Z
+title: 'Florenc je dopravní tepnou'
+date: 2019-11-26T10:44:00.000Z
 author: Karel Ptáček
 authorId: karel.ptacek
 image: posts/osmicka_florenc.jpg
