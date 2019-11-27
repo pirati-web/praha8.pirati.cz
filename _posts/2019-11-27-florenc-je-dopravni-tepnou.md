@@ -5,7 +5,7 @@ title: 'Florenc je dopravní tepnou, prostor je nutné oživit'
 date: 2019-11-26T10:44:00.000Z
 author: Karel Ptáček
 authorId: karel.ptacek
-image: posts/osmicka_florenc.jpg
+image: posts/osmicka-florenc.jpg
 tags: [MS Praha 8, Osmička, veřejný prostor, Florenc]
 ---
 
