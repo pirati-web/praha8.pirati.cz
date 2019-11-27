@@ -6,7 +6,7 @@ date: 2019-11-26T10:44:00.000Z
 author: Karel Ptáček
 authorId: karel.ptacek
 image: posts/osmicka_florenc.jpg
-tags: [MS Praha 8, Osmička, Florenc]
+tags: [MS Praha 8, Osmička, veřejný prostor, Florenc]
 ---
 
 
