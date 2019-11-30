@@ -5,7 +5,7 @@ titles:
   before: 
 category:  
   - clenove
-img: people/magdalena-opletalova.jpg 
+img: people/mahu-opletalova.jpg 
 description: členka komise RMČP8 pro obecní byty
 mail: 
   - magdalena.opletalova@pirati.cz
