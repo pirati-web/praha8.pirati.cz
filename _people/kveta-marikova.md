@@ -1,7 +1,7 @@
 ---
 uid: kveta.marikova
 name: Květa Maříková
-category:  clenove
+category:  
 img: people/kveta-marikova.jpg 
 #description: 
 mail: 
