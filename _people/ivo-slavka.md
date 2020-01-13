@@ -6,7 +6,7 @@ titles:
 category:  
     - clenove
 img: people/ivo-slavka.jpg 
-description: místopředseda zastupitelského klubu, člen komise RMČP8 pro obecní byty, člen Výboru ZMČP8 pro projekt Nová Palmovka, člen Výboru pro legislativu, veřejnou správu a transparentnost ZHMP
+description: místopředseda zastupitelského klubu, člen komise RMČP8 pro obecní byty, člen Výboru pro projekt Nová Palmovka ZMČP8, člen Výboru pro legislativu, veřejnou správu a transparentnost ZHMP
 mail: 
  - ivo.slavka@pirati.cz
 ---
