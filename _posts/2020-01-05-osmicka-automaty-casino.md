@@ -6,7 +6,7 @@ date: 2020-01-05T15:22:00.000Z
 author: Martin Štěrba
 authorId: martin.sterba
 image: posts/osmicka_kasinaaherny.jpg
-tags: [MS Praha 8, Osmička, veřejný prostor, Florenc]
+tags: [MS Praha 8, Osmička, veřejný prostor, Florenc, herny, hazard]
 ---
 
 
