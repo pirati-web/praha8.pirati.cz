@@ -6,7 +6,7 @@ titles:
 category: 
   - clenove
 img: people/jitka-novotna.jpg 
-description: členka republikového výboru, členka komise RMČP8 pro IT
+description: členka komise RMČP8 pro IT
 mail: 
   - jitka.novotna@pirati.cz
 profiles:
