@@ -6,7 +6,7 @@ date: 2020-03-23T20:38:00.000Z
 author: Martin Štěrba
 authorId: martin.sterba
 image: posts/prahadrzispolu.jpg
-tags: [volby, klub, koalice, koronavirus, rouškyvšem, Zdeněk Hřib]
+tags: [klub, Praha 8, nouzový stav, koronavirus, rouškyvšem, Zdeněk Hřib, Magistrát]
 ---
 
 Sdílíme prosbu od Zdeňka Hřiba, primátora hlavního města Prahy. Děkujeme! ❤️
