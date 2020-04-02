@@ -9,7 +9,7 @@ image: posts/slobodnik-dezinfekce.jpg
 tags: [klub, Praha 8, nouzový stav, koronavirus, ODS, kauza, dezinfekce]
 ---
 
-*„Plán je jasnej: deset až patnáct procent pro mě, pro něj. To je minimum, pro mě. Ty mu tam ukážeš to demo a pak to bude chviličku na něm,“* pokračuje....  Vypadá to jako knižní příběh, ale tím "pro něj" je podle [Seznam Zpráv](https://www.seznamzpravy.cz/clanek/procenta-pro-radniho-za-dezinfekci-skol-natocili-jsme-uplatky-v-casech-nouze-97328?fbclid=IwAR2ett1NmUllSOS9BvTnH04uoaxXBtRTAYO8BHAW3f98dXdap0lVLhO6YGU) Josef Slobodník, radní MČ Prahy 8 za ODS, jehož gescí je informatika. Ten si měl říct o úplatek při nákupu dezinfekce.
+*„Plán je jasnej: deset až patnáct procent pro mě, pro něj. To je minimum, pro mě. Ty mu tam ukážeš to demo a pak to bude chviličku na něm,“* Vypadá to jako knižní příběh, ale tím "pro něj" je podle [Seznam Zpráv](https://www.seznamzpravy.cz/clanek/procenta-pro-radniho-za-dezinfekci-skol-natocili-jsme-uplatky-v-casech-nouze-97328?fbclid=IwAR2ett1NmUllSOS9BvTnH04uoaxXBtRTAYO8BHAW3f98dXdap0lVLhO6YGU) Josef Slobodník, radní MČ Prahy 8 za ODS, jehož gescí je informatika. Celý příběh dal dohromady reportér Janek Kroupa, který zdokumentoval, jak si v době nouzového stavu, tedy bez výběrového řízení, domlouvá prostředník radnice Prahy 8 procenta ze zakázky na dezinfekci veřejných prostor. Vyjednával peníze i pro radního z ODS.
 
 **Lukáš Wagenknecht, senátor**
 > Neskutečně nechutné chování, korupce v době nouzového stavu navázaná na nákup dezinfekci. Vzhledem k tomu, že jde o P8, která je v mém senátním obvodě, budu aktivně sledovat a řešit. Předpokládám, že se pražská ODS s panem radním okamžitě vypořádá.
