@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title: 'Korupce v době krize? Radní Slobodníka plánoval malou domů za nákup dezinfekce'
+title: 'Korupce v době krize? Radní Slobodník plánoval malou domů za nákup dezinfekce'
 date: 2020-04-02T07:51:00.000Z
 author: Martin Štěrba
 authorId: martin.sterba
