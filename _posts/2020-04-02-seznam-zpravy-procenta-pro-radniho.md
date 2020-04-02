@@ -25,4 +25,8 @@ tags: [klub, Praha 8, nouzový stav, koronavirus, ODS, kauza, dezinfekce]
 – každá z nich má několik tisíc metrů čtverečních, které je třeba dezinfikovat. Každý jeden metr stojí 90 korun,
 – patnáct procent pro radního a patnáct procent pro sebe – vzhledem k tomu, že se baví o zakázce v rozsahu desítek milionů korun – znamená opravdu hodně peněz.
 
-Radní Slobodník se k tomu odmítl vyjádřit. **Chceme jasné vyjádření od ODS i členů koalice!**
+Radní Slobodník se k tomu odmítl vyjádřit. **Chceme jasné vyjádření od ODS i členů koalice!** Také by nás velmi zajímalo, jaká byla provize u již podepsané smlouvy na [dezinfekce dětských hřišť a sportovišť na území MČ Praha](https://smlouvy.gov.cz/smlouva/12034464?fbclid=IwAR3ahzpxERgj979f9agPI2KR2C_yXmEmdgPmj4Usi3e3Fx23TwgfyFxc1TA). 
+
+kontakty:
+Michal Novák, předseda zastupitelského klubu, 603 170 430
+Martin Štěrba, místopředseda místního sdružení (kontakt pro média), 732 408 769
