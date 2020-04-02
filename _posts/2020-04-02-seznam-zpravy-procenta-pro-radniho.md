@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title: 'Procenta pro radního Slobodníka za nákup dezifence v době krize'
+title: 'Procenta pro radního Slobodníka za nákup dezifence'
 date: 2020-04-02T10:51:00.000Z
 author: Martin Štěrba
 authorId: martin.sterba
