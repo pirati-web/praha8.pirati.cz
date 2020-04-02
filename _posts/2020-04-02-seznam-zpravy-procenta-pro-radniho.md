@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title: 'Procenta pro radního Slobodníka za nákup dezinfence'
+title: 'Procenta pro radního Slobodníka za nákup dezinfekce'
 date: 2020-04-02T07:51:00.000Z
 author: Martin Štěrba
 authorId: martin.sterba
