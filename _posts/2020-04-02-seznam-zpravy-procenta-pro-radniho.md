@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title: 'Seznam Zprávy: Procenta pro radního za dezinfekci škol. Co to má být?
+title: 'Seznam Zprávy: Procenta pro radního za dezinfekci škol. Co to má být?'
 date: 2020-04-02T10:51:00.000Z
 author: Martin Štěrba
 authorId: martin.sterba
