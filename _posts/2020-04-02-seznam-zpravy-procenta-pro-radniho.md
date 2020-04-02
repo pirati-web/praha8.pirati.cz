@@ -27,6 +27,6 @@ tags: [klub, Praha 8, nouzový stav, koronavirus, ODS, kauza, dezinfekce]
 
 Radní Slobodník se k tomu odmítl vyjádřit. **Chceme jasné vyjádření od ODS i členů koalice!** Opravdu by nás zajímalo jaká byla provize u zakázek na [dezinfekce dětských hřišť a sportovišť na území MČ Praha](https://smlouvy.gov.cz/smlouva/12034464?fbclid=IwAR3ahzpxERgj979f9agPI2KR2C_yXmEmdgPmj4Usi3e3Fx23TwgfyFxc1TA). Pokud tam byla stejná dohoda jako ta z reportáže pana Kroupy, tak vedení města vyvedlo téměř 500 tisíc korun z rozpočtu městské části. 
 
-kontakty:
+**kontakty:**
 – Michal Novák, předseda zastupitelského klubu, 603 170 430,
-– Martin Štěrba, místopředseda místního sdružení (kontakt pro média), 732 408 769
+– Martin Štěrba, místopředseda místního sdružení (kontakt pro média), 732 408 769.
