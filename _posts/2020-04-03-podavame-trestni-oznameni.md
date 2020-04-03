@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: 'Podali jsme trestní oznámení na radního Slobodníka'
-date: 2020-04-03T17:51:00.000Z
+date: 2020-04-03T13:51:00.000Z
 author: Martin Štěrba
 authorId: martin.sterba
 image: posts/slobodnk-to.jpg
