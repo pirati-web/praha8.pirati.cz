@@ -3,8 +3,8 @@ layout: post
 category: blog
 title: 'Primátor Hřib starostovi Prahy 8: Procenta pro radního za dezinfekci škol? Nepřijatelné!'
 date: 2020-04-02T12:30:00.000Z
-author: Zdeněk Hřib
-authorId: zdenek.hrib
+author: Martin Štěrba
+authorId: martin.sterba
 image: posts/hrib-zdenek.jpg
 tags: [klub, Praha 8, Zdeněk Hřib, nouzový stav, koronavirus, ODS, kauza, dezinfekce, trestní oznámení]
 ---
