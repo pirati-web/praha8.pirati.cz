@@ -6,7 +6,7 @@ date: 2020-04-02T12:30:00.000Z
 author: Zdeněk Hřib
 authorId: zdenek.hrib
 image: posts/hrib-zdenek.jpg
-tags: [klub, Praha 8, nouzový stav, koronavirus, ODS, kauza, dezinfekce, trestní oznámení]
+tags: [klub, Praha 8, Zdeněk Hřib, nouzový stav, koronavirus, ODS, kauza, dezinfekce, trestní oznámení]
 ---
 
 **Seznam Zprávy rozkryly podezření z uplácení v době současné krize za účasti radního ODS z Prahy 8. Podobné praktiky nelze tolerovat, a už vůbec ne v době nouzového stavu! Panu starostovi Grosovi z této městské části jsem proto napsal následující dopis s jasnými požadavky k objasnění a vyřešení situace:**
