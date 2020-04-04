@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: 'Politikům musí být vidět pod ruce'
-date: 2020-02-25T10:20:00.000Z
+date: 2020-03-25T10:20:00.000Z
 author: Jan Hamal Dvořák
 authorId: jan.hamal.dvorak
 image: posts/cityvizor-praha.png
