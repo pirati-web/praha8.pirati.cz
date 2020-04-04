@@ -34,4 +34,4 @@ V této situaci a ve světle dalších zkušenosti se současnou koalicí nás p
 S pozdravem 
 
 Michal Novák
-předseda zastupitelského klubu Pirátů na Praze 8
+*předseda zastupitelského klubu Pirátů na Praze 8*
