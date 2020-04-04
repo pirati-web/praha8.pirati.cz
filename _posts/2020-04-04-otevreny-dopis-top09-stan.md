@@ -10,7 +10,7 @@ tags: [klub, Praha 8, nouzový stav, TOP09, STAN, kauza, dezinfekce]
 ---
 
 
-Vážení zastupitelé za STAN a TOP09 na Praze 8, dovoluji si Vás oslovit jménem zastupitelského klubu Pirátů. Díky reportáži ze [Seznam zpráv](https://www.seznamzpravy.cz/clanek/procenta-pro-radniho-za-dezinfekci-skol-natocili-jsme-uplatky-v-casech-nouze-97328) vzniklo závažné podezření, že radní MČ Praha 8 Josef Slobodník (ODS) žádal prostřednictvím Juraje Pavola o úplatek na zakázce dezinfekce veřejných prostor.
+Vážení zastupitelé za TOP09 a STAN na Praze 8, dovoluji si Vás oslovit jménem zastupitelského klubu Pirátů. Díky reportáži ze [Seznam zpráv](https://www.seznamzpravy.cz/clanek/procenta-pro-radniho-za-dezinfekci-skol-natocili-jsme-uplatky-v-casech-nouze-97328) vzniklo závažné podezření, že radní MČ Praha 8 Josef Slobodník (ODS) žádal prostřednictvím Juraje Pavola o úplatek na zakázce dezinfekce veřejných prostor.
 
 Tato zpráva nás Piráty nejen na Praze 8 velice pobouřila. Senátor pro Prahu 8 Lukáš Wagenknecht (Piráti) slíbil, že se bude o tuto problematiku aktivně zajímat a řešit. Pirátský poslanec [Lukáš Černohorský podal trestní oznámení](https://www.piratskelisty.cz/clanek-3040-piratsky-poslanec-lukas-cernohorsky-podava-trestni-oznameni-na-obchodniho-zastupce-huawei-v-kauze-dezinfekce-prostor-mc-prahy-8) na obchodního zástupce Huawei Juraje Pavola a neznámé pachatele v rámci této kauzy.
 
