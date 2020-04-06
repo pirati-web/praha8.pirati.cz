@@ -5,7 +5,7 @@ title: 'Starosta Gros svolává mimořádné jednání zastupitelstva, Slobodní
 date: 2020-04-06T10:51:00.000Z
 author: Martin Štěrba
 authorId: martin.sterba
-image: posts/rezignace-slobodnik.png
+image: posts/rezignace-slobodnik2.png
 tags: [klub, Praha 8, nouzový stav, TOP 09, STAN, kauza, dezinfekce]
 ---
 
