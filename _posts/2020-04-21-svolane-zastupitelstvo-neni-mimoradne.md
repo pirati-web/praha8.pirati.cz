@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: 'Svolané zastupitelstvo Prahy 8 není mimořádné, na žádost opozice a místostarosty nebral starosta Gros zřetel'
-date: 2020-04-21T8:8:00.000Z
+date: 2020-04-21T05:51:00.000Z
 author: Martin Štěrba
 authorId: martin.sterba
 image: posts/zastupitelstvo2.jpg
