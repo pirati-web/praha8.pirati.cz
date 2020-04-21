@@ -17,4 +17,6 @@ Na webu [http://cityvizor.praha.eu](http://cityvizor.praha.eu) najdete vše o pr
 
 Cílem magistrátu je nabídnout tuto aplikaci bezplatně všem městským částem, a to včetně zajištění provozu a licence k napojení na účetní systém městské části. **Vedení městské části Praha 8 však ani tentokrát nechtělo CityVizor spustit.** 
 
+*"Pro zařazení tohoto bodu byla pouze opozice, ostatní se zdrželi. Tohle je opravdu asi ta transparentnost, o které současné vedení naší městské části tak rádo mluví. A to i teď po kauze pana, teď už bývalého radního pro IT, Slobodníka. Občané se tak opět nedočkají toho, že uvidí přehledně veškeré finance městské části,"* říká zastupitel za Piráty Jan Hamal Dvořák.
+
 **Takhle vypadá transparentnost ze strany vedení Prahy 8 po kauze dezifenkce.**
