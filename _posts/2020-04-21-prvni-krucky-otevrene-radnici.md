@@ -5,8 +5,8 @@ title: 'První krůčky k otevřené radnici na Praze 8'
 date: 2020-04-21T15:51:00.000Z
 author: Martin Staněk
 authorId: martin.stanek
-image: posts/zastupitelstvo2.jpg
-tags: [klub, Praha 8, nouzový stav, zastupitelstvo, kauza, dezinfekce]
+image: posts/open-source.jpg
+tags: [klub, Praha 8, nouzový stav, zastupitelstvo, kauza, open-source]
 ---
 
 **Zastupitel za Piráty Martin Staněk dnes prosadil dlouhodobý úkol pro Radu MČ Praha, aby zavedla open source systém pro vyřizování a hodnocení veškerých dotací, které Praha 8 uděluje.**
