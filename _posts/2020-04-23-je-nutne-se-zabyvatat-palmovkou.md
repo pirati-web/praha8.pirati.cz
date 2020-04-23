@@ -5,7 +5,7 @@ title: 'Palmovkou je nutné se zabývat hned, není čas to odkládat'
 date: 2020-04-23T10:51:00.000Z
 author: Karel Ptáček
 authorId: karel.ptacek
-image: posts/palmovkastramvaji.jpg
+image: posts/Palmovkastramvaji.jpg
 tags: [klub, Praha 8, nouzový stav, zastupitelstvo, kauza, dezinfekce]
 ---
 
