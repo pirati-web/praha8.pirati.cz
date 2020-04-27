@@ -9,7 +9,7 @@ image: posts/modrezony.jpg
 tags: [klub, Praha, modré zóny, parkování]
 ---
 
-**Mnoho z Vás si jistě v médiích či ve skupinách na Facebooku před malou chvílí přečetlo informaci o znovuobnovení modrých zón na území hlavního města Prahy.** Není tomu tak – respektive v Praze to od 28. dubna 2020, jak sdělila Vláda.
+**Mnoho z Vás si jistě v médiích či ve skupinách na Facebooku před malou chvílí přečetlo informaci o znovuobnovení modrých zón na území hlavního města Prahy.** 
 
 > **Zdeněk Hřib - primátor Prahy:** *"Vláda v tom zas dělá jen chaos. Oznámit nám obnovení modrých zón tři hodiny před jejich znovuobnovením nedává smysl. Proto vydám neprodleně nařízení o obnově platnosti modrých zón až 11. května. Tento termín jsme chtěli po vládě a je domluvený i s jednotlivými městskými částmi."*
 
