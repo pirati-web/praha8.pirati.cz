@@ -13,6 +13,8 @@ Zajímá vás co Piráti dělají a jak? Ozvěte se [Martinu Staňkovi](/lide/ma
 
 Webové stránky pražského sdružení najdete na [praha.pirati.cz](https://praha.pirati.cz/). Jsme také na [Facebooku](https://fb.com/piratipraha8).
 
+Odměny za veřejné funkce najdete v našem dokumentu [na GDrive](https://docs.google.com/spreadsheets/d/1IeZu492lihgAtTmhhWqdu2WJyyFYbUB0LA4-PPxzeVw/edit?usp=sharing).
+
 Veškerou evidenci kontaktů a schůzek najdete na [evidence.pirati.cz](https://evidence.pirati.cz/).
 
 Finanční dary na podporu našeho fungování můžete posílat na [dary](https://dary.pirati.cz), jako specifický symbol uveďte 110108.
