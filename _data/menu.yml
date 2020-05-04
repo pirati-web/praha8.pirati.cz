@@ -17,8 +17,8 @@ main:
     name: Program pro Prahu 8
     match: program
   - link: /kontakt/
-    name: Kontakt
-    match: kontakt
+    name: O nás
+    match: O nás
     
     #link: /volby-2018/
     #name: Kandidátka 2018
