@@ -20,6 +20,7 @@ profiles:
   web:          http://www.sterba.eu
 ---
 
+
 Martin Štěrba se narodil v roce 1987 v Plzni a do Prahy se finálně přestěhoval v roce 2013. Vystudoval pedagogickou fakultu ZČU v Plzni (obor informatika se zaměřením na vzdělávání) a Univerzitu J.A. Komenského v Praze (obor sociální a mediální komunikace). Pracoval ve velkých mediálních domech (TV Nova, Empressa Media, Economia, Seznam.cz), na „volné noze“, a má zkušenosti i z neziskového sektoru. [Momentálně pracuje](https://linkedin.com/in/sterbamartin/) pracuje jako manažer on-line komunikace, a je poradcem primátora hlavního města Prahy Zdeňka Hřiba.
 
 **Za Piráty byl nominován koncem listopadu 2018 do [redakční rady magazínu Osmička](https://m.praha8.cz/Komise-Redakcni-rada-casopisu-Osmicka-2018-2022.html), který vydává MČ Praha 8, následně byl zvolen jejím místopředsedou.** Snaží se nastavit transparentní komunikaci v rámci redakční rady a dodržování jednacího řádu. Kromě toho studuje materiály do rady i zastupitelstva, bedlivě sleduje činnost koalice, a sdílí hlavní témata s občany MČ Praha 8.
@@ -31,3 +32,4 @@ Celý svůj profesní život se věnuje médiím a komunikaci. V minulosti praco
 Ve volném čase má rád knihy, filmy, hudbu, sociální sítě, cestování do neznáma, sezení na Náplavce, jízdu vlakem a festivaly. Od svých dvanácti let je skautem a je ředitelem skautského projektu [Svojsíkův sen](http://www.svojsikuvsen.cz), který se s heslem „Budoucnost začíná nyní“ dívá do let příštích. Dlouhá léta také z pozice šéfa komunikace a a fundraisingu organizoval festival Obrok, který je určen pro lidi od 15 do 24 let.
 
 **Ve skautu se naučil, že od rozdělané práce se neodchází, proto se nikdy nespokojí s polovičním výsledkem.** A toho se chce chtěl držet i v činnosti pro Pirátskou stranu. K Pirátům ho přivedl fakt, že – co se děje v našem státě – je už prostě přes čáru.
+
