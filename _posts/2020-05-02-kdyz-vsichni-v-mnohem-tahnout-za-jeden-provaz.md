@@ -5,7 +5,7 @@ title: 'Když všichni v mnohém táhnou za jeden provaz'
 date: 2020-05-02T15:51:00.000Z
 author: Martin Štěrba
 authorId: martin.sterba
-image: posts/osmicka_koronavirus.png
+image: posts/osmicka_koronavirus2.png
 tags: [volby, klub, koalice, koronavirus, Osmička, sloupek]
 ---
 
