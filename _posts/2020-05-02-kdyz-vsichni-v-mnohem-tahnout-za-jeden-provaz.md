@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title: 'Když všichni v mnohém táhnou za jeden provaz...'
+title: 'Když všichni v mnohém táhnou za jeden provaz'
 date: 2020-05-02T15:51:00.000Z
 author: Martin Štěrba
 authorId: martin.sterba
