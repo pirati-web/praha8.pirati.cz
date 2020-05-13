@@ -34,7 +34,7 @@ Zastupitelka [Anna Filinová](https://praha8.pirati.cz/lide/anna-filinova/) inte
 
 > **Jak to bude v létě s provozem školek?** Místostarosta Tomáš Tatranský poznamenal, že pokud se nic nezmění, tak provoz v letních měsících bude bez omezení.
 
-> **Co se stane s nerealizovanými projekty z let minulých, které se týkaly klimatu a klimatické změny?** Na to odpověděl starosta Ondřej Gros, že je to v současné době složité. Projekty nebyly realizovány z důvodu klimatických podmínek. U jednoho starosta říkal, že žádají o změnu na výsadbu stromu, u druhého projektu ohledně sadu na Bílé skále starosta uvedl, že je problém s dodavatelem.
+> **Co se stane s nerealizovanými projekty z let minulých, které se nerealizovaly z důvodu klimatických podmínek?** Na to odpověděl starosta Ondřej Gros, že je to v současné době složité. Projekty nebyly realizovány z důvodu klimatických podmínek. U jednoho starosta říkal, že žádají o změnu na výsadbu stromu, u druhého projektu ohledně sadu na Bílé skále starosta uvedl, že je problém s dodavatelem.
 
 #### Interpelace - časopis Osmička
 Zastupitel [Martin Staněk](https://praha8.pirati.cz/lide/martin-stanek/) se ptal Rady na rozpočet magazínu Osmička.
