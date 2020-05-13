@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title: 'Pozdě ale přece. Zastupitelstvo bylo hlavně o letošním rozpočtu.'
+title: 'Pozdě ale přece, jednání zastupitelstva bylo hlavně o letošním rozpočtu'
 date: 2020-05-13T15:51:00.000Z
 author: Martin Štěrba
 authorId: martin.sterba
