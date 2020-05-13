@@ -11,13 +11,13 @@ tags: [volby, klub, koalice, koronavirus, zastupitelstvo, rozpočet]
 
 **Zastupitelstvo MČ Praha 8 dnes na svém zasedání probíralo hlavně rozpočet na rok 2020 a střednědobý plán do roku 2025. A ano rozpočet naší městské části se projednával až teď v květnu, dříve to prý koalice nestihla.** 
 
-### Interpelace – Rozpočet
+### Rozpočet 2020
 Dnešní jednání zastupitelstva bylo především o rozpočtu, tedy o jeho veřejném projednání. Je to šance pro občany, jak se seznámit s tím, jak míní rada Prahy 8 letos hospodařit a proč právě tak. [Michal Novák](https://praha8.pirati.cz/lide/michal-novak/), předseda zastupitelského klubu Pirátů k tomu řekl:
 
 > Jedná se o nejdůležitější dokument předkládaný každý rok zastupitelstvu. Rada se ale (opět) ani nepokusila představit v detailu své záměry po jednotlivých gescích, natož na úroveň jednotlivých projektů. Přitom v květnu bychom očekávali, že již budou mít poměrně dobrou představu. Proto se musíme z opozice detailně ptát a informace z koaličních radní "tahat" často po jednotlivých položkách. Praha 8 čelí vícero výzvám ve svém hospodaření. Kromě korona-krize, která se netýká jen nás, máme zde i 2 témata specificky osmičková: 300 milionů z dotace na Novou Palmovku, které "dlužíme" magistrátu a špatný výchozí stav zděděný po minulé radě. Proto jsem ptál, jestli má rada P8 nějaký krizový nebo alespoň variantní plán pro případ možného negativního vývoje finanční situace MČ Praha 8. V dalším dotazu mi šlo v obecné rovině o to, že se má šetřit spíše na běžných výdajích než na kapitálových. Tím se řeší současná krize, ale nevytváří se nová do budoucna. Žádná z odpovědí mě úplně nepotěšila. 
 
 ### Bývalý radní Slobodník je stále předsedou komise pro IT
-> "To, že pan Slobodník zůstává předsedou komise pro IT, vidíme jako velmi nešťastné. Myslíme si, že by měl do doby než se celá kauza vyšetří, rezignovat minimálně na tuto funkci," říká předseda zastupitelského klubu Michal Novák.
+*"To, že pan Slobodník zůstává předsedou komise pro IT, vidíme jako velmi nešťastné. Myslíme si, že by měl do doby než se celá kauza vyšetří, rezignovat minimálně na tuto funkci,"* říká předseda zastupitelského klubu [Michal Novák](https://praha8.pirati.cz/lide/michal-novak/).
 
 ### Interpelace - Rozpočet odboru správy majetku ÚMČ Praha 8
 Zastupitel [Ivo Slávka](https://praha8.pirati.cz/lide/ivo-slavka/) interpeloval radu se dvěma dotazy. Žádal o specifikace položek návrhu rozpočtu městské části Praha 8 pro rok 2020. Konkrétně se jedná o kapitolu 8 (hospodářství), položku 0804 (odbor správy majetku ÚMČ), rozpočtou skladbu 3639 (komunální služby a územní rozvoj j. n.).
