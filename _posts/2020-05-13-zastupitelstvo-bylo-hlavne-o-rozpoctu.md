@@ -34,7 +34,7 @@ Zastupitelka [Anna Filinová](https://praha8.pirati.cz/lide/anna-filinova/) inte
 > **Proč se plánují nové povrchy na kluzištích, na které je v rozpočtu určeno 5,6 milionu korun?** Místostarosta Jiří Vítek tvrdí, že se bude jednat o úsporu u dvou kluzišť v řádu statisíců, a také to uspoří počet dnů a času na stavbu i demontáž. Vše prý doplní písemně.
 
 #### Interpelace - časopis Osmička
-Zastupitel Martin Staněk se ptal Rady na rozpočet magazínu Osmička.
+Zastupitel [Martin Staněk](https://praha8.pirati.cz/lide/martin-stanek/) se ptal Rady na rozpočet magazínu Osmička.
 
 > **Neuvažuje se o tom, že by se šetřilo u vydávání měsíčníku Osmička, a to například u gramáže papíru či barevnosti? Výdaje na Osmičku totiž tvoří velkou část rozpočtu odboru kultury.** Místostarosta Jiří Vítek odpověděl, že stotisícová městská část by měla mít reprezentační měsíčník. Byl snížen počet stran, a během léta vyjde také pouze jedno dvojčíslo.
 
