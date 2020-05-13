@@ -24,14 +24,17 @@ Zastupitel [Ivo Slávka](https://praha8.pirati.cz/lide/ivo-slavka/) interpeloval
 
 > **Chtěli bychom rozklíčovat činnost odboru, například konzultační, poradenské a právní služby ve výši 1,537 milionu korun (v roce 2019 se jednalo o 2,470 milionu korun). bychom také Chtěli bychom rozklíčovat konzultační, poradenské a organizační činnosti ve výši 4,340 mil. Kč (v roce 2019 - 1,2 milionu korun).** Od rady městské části očekáváme odpovědi písemně. Jsme na to zvědaví.
 
-#### Interpelace - Rozpočet
-Zastupitelka [Anna Filinová](https://praha8.pirati.cz/lide/anna-filinova/) interpelovala radu MČ Praha 8 se třemi dotazy:
+#### Interpelace - Rozpočet na kluziště
+Zastupitelka [Anna Filinová](https://praha8.pirati.cz/lide/anna-filinova/) se ptala:
+
+> **Proč se plánují nové povrchy na kluzištích, na které je v rozpočtu určeno 5,6 milionu korun?** Místostarosta Jiří Vítek tvrdí, že se bude jednat o úsporu u dvou kluzišť v řádu statisíců, a také to uspoří počet dnů a času na stavbu i demontáž. Vše prý doplní písemně.
+
+#### Interpelace - Školky a projekty
+Zastupitelka [Anna Filinová](https://praha8.pirati.cz/lide/anna-filinova/) interpelovala radu MČ Praha 8 se dvěma dotazy:
 
 > **Jak to bude v létě s provozem školek?** Místostarosta Tomáš Tatranský poznamenal, že pokud se nic nezmění, tak provoz v letních měsících bude bez omezení.
 
 > **Co se stane s nerealizovanými projekty z let minulých, které se týkaly klimatu a klimatické změny?** Na to odpověděl starosta Ondřej Gros, že je to v současné době složité. Projekty nebyly realizovány z důvodu klimatických podmínek. U jednoho starosta říkal, že žádají o změnu na výsadbu stromu, u druhého projektu ohledně sadu na Bílé skále starosta uvedl, že je problém s dodavatelem.
-
-> **Proč se plánují nové povrchy na kluzištích, na které je v rozpočtu určeno 5,6 milionu korun?** Místostarosta Jiří Vítek tvrdí, že se bude jednat o úsporu u dvou kluzišť v řádu statisíců, a také to uspoří počet dnů a času na stavbu i demontáž. Vše prý doplní písemně.
 
 #### Interpelace - časopis Osmička
 Zastupitel [Martin Staněk](https://praha8.pirati.cz/lide/martin-stanek/) se ptal Rady na rozpočet magazínu Osmička.
