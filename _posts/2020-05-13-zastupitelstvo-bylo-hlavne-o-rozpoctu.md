@@ -22,7 +22,7 @@ Dnešní jednání zastupitelstva bylo především o rozpočtu, tedy o jeho ve�
 ### Interpelace - Rozpočet odboru správy majetku ÚMČ Praha 8
 Zastupitel [Ivo Slávka](https://praha8.pirati.cz/lide/ivo-slavka/) interpeloval radu se dvěma dotazy. Žádal o specifikace položek návrhu rozpočtu městské části Praha 8 pro rok 2020. Konkrétně se jedná o kapitolu 8 (hospodářství), položku 0804 (odbor správy majetku ÚMČ), rozpočtou skladbu 3639 (komunální služby a územní rozvoj j. n.).
 
-> Chtěli bychom rozklíčovat činnost odboru, například konzultační, poradenské a právní služby ve výši 1,537 milionu korun (v roce 2019 se jednalo o 2,470 milionu korun). bychom také Chtěli bychom rozklíčovat konzultační, poradenské a organizační činnosti ve výši 4,340 mil. Kč (v roce 2019 - 1,2 milionu korun). Od rady městské části očekáváme odpovědi písemně. Jsme na to zvědaví.
+> **Chtěli bychom rozklíčovat činnost odboru, například konzultační, poradenské a právní služby ve výši 1,537 milionu korun (v roce 2019 se jednalo o 2,470 milionu korun). bychom také Chtěli bychom rozklíčovat konzultační, poradenské a organizační činnosti ve výši 4,340 mil. Kč (v roce 2019 - 1,2 milionu korun).** Od rady městské části očekáváme odpovědi písemně. Jsme na to zvědaví.
 
 ### Interpelace - Rozpočet
 Zastupitelka [Anna Filinová](https://praha8.pirati.cz/lide/anna-filinova/) interpelovala radu MČ Praha 8 se třemi dotazy:
