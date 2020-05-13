@@ -9,9 +9,9 @@ image: posts/zastupitelstvo_kveten2020.jpg
 tags: [volby, klub, koalice, koronavirus, zastupitelstvo, rozpočet]
 ---
 
-### Interpelace – Rozpočet
-**Zastupitelstvo MČ Praha 8 dnes na svém zasedání probíralo hlavně rozpočet na rok 2020 a střednědobý plán do roku 2025. Ano rozpočet naší městské části se projednával až v květnu, dříve to prý koalice nestihla.** 
+**Zastupitelstvo MČ Praha 8 dnes na svém zasedání probíralo hlavně rozpočet na rok 2020 a střednědobý plán do roku 2025. A ano rozpočet naší městské části se projednával až teď v květnu, dříve to prý koalice nestihla.** 
 
+### Interpelace – Rozpočet
 **[Michal Novák](https://praha8.pirati.cz/lide/michal-novak/), předseda zastupitelského klubu Pirátů**
 > Dnešní schůze byla především o rozpočtu, tedy o jeho veřejném projednání. Je to šance pro občany, jak se seznámit s tím, jak míní rada Prahy 8 letos hospodařit a proč právě tak. Jedná se o nejdůležitější dokument předkládaný každý rok zastupitelstvu. Rada se ale (opět) ani nepokusila představit v detailu své záměry po jednotlivých gescích, natož na úroveň jednotlivých projektů. Přitom v květnu bychom očekávali, že již budou mít poměrně dobrou představu. Proto se musíme z opozice detailně ptát a informace z koaličních radní "tahat" často po jednotlivých položkách. Praha 8 čelí vícero výzvám ve svém hospodaření. Kromě korona-krize, která se netýká jen nás, máme zde i 2 témata specificky osmičková: 300 milionů z dotace na Novou Palmovku, které "dlužíme" magistrátu a špatný výchozí stav zděděný po minulé radě. Proto jsem ptál, jestli má rada P8 nějaký krizový nebo alespoň variantní plán pro případ možného negativního vývoje finanční situace MČ Praha 8. V dalším dotazu mi šlo v obecné rovině o to, že se má šetřit spíše na běžných výdajích než na kapitálových. Tím se řeší současná krize, ale nevytváří se nová do budoucna. Žádná z odpovědí mě úplně nepotěšila. 
 
