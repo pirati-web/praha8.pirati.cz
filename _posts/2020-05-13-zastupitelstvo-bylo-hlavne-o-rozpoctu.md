@@ -36,4 +36,5 @@ Zastupitel Martin Staněk se ptal Rady na rozpočet magazínu Osmička.
 
 > **Neuvažuje se o tom, že by se šetřilo u vydávání měsíčníku Osmička, a to například u gramáže papíru či barevnosti? Výdaje na Osmičku totiž tvoří velkou část rozpočtu odboru kultury.** Místostarosta Jiří Vítek odpověděl, že stotisícová městská část by měla mít reprezentační měsíčník. Byl snížen počet stran, a během léta vyjde také pouze jedno dvojčíslo.
 
-Na jednání se kromě návrhu rozpočtu MČ Praha 8 na rok 2020 a interpelací řešil také návrh zadání územní studie Palmovka a návrh prominutí místního poplatku z pobytu.
+### A co dál?
+Na jednání zastupitelstva se kromě návrhu rozpočtu MČ Praha 8 na rok 2020 a interpelací řešil také návrh zadání územní studie Palmovka a návrh prominutí místního poplatku z pobytu.
