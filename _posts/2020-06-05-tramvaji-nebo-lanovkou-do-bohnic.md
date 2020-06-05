@@ -9,11 +9,7 @@ image: posts/lanovkabohnice.jpg
 tags: [volby, klub, koalice, koronavirus, Osmička, sloupe]
 ---
 
-**Jak bude v příštích letech vypadat spojení šestky a osmičky? A jak budeme mezi těmito městskými částmi jezdit v roce 2050?**
-
-🚡❎🚋
-
-Náměstek primátora pro rozvoj **Petr Hlaváček**(Spojení síly pro Prahu) a náměstek pritmárora pro dopravu **Adam Scheinherr** (Praha Sobě) v posledním dílu před prázdninovou přestávkou představí připravovanou lanovku z Podbaby do Bohnic.
+**Jak bude v příštích letech vypadat spojení šestky a osmičky? A jak budeme mezi těmito městskými částmi jezdit v roce 2050?** Náměstek primátora pro rozvoj **Petr Hlaváček**(Spojení síly pro Prahu) a náměstek pritmárora pro dopravu **Adam Scheinherr** (Praha Sobě) v posledním dílu před prázdninovou přestávkou představí připravovanou lanovku z Podbaby do Bohnic.
 
 > Kudy povede? Jak bude vypadat? A má taková stavba v moderní metropoli své místo? Stream můžete sledovat na Facebooku [CAMP - Centrum architektury a městského plánování](https://www.facebook.com/camppraha/).
 
