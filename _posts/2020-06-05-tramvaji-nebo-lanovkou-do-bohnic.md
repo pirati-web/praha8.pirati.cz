@@ -13,8 +13,10 @@ tags: [volby, klub, koalice, koronavirus, Osmička, sloupe]
 
 🚡❎🚋
 
-Náměstek pro rozvoj Petr Hlaváček a náměstek pro dopravu Adam Scheinherr v posledním dílu před prázdninovou přestávkou představí připravovanou lanovku z Podbaby do Bohnic.
+Náměstek primátora pro rozvoj **Petr Hlaváček** a náměstek pritmárora pro dopravu **Adam Scheinherr** v posledním dílu před prázdninovou přestávkou představí připravovanou lanovku z Podbaby do Bohnic.
 
-➡️ Kudy povede? Jak bude vypadat? A má taková stavba v moderní metropoli své místo?
+> Kudy povede? Jak bude vypadat? A má taková stavba v moderní metropoli své místo?
 
-Stream můžete sledovat na Facebooku CAMP - Centrum architektury a městského plánování.
+Stream můžete sledovat na Facebooku [CAMP - Centrum architektury a městského plánování](https://www.facebook.com/camppraha/).
+
+
