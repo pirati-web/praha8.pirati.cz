@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title: 'Další trafika pro hnutí ANO, už pátá v řadě!'
+title: 'Další trafika pro hnutí ANO, už pátá v řadě! Fichtner míří do Správy tepelného hospodářství.'
 date: 2020-06-08T05:51:00.000Z
 author: Martin Štěrba
 authorId: Martin Štěrba
