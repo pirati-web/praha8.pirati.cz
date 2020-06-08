@@ -13,9 +13,7 @@ tags: [klub, Praha 8, zastupitelstvo, Palmovka, kauza]
 
 Jako první s informací přišli naši kolegové z Osmička žije. A my jí předáváme dál.
 
-– **Pozice byla obsazena bez výběrového řízení.**
-
-– Podle smlouvy má Fichtner dostávat 50 tisíc měsíčně, má zajištěn čtvrtletní bonus 9 tisíc a roční bonus 20 tisíc korun. K tomu služební notebook a mobil.
+**Pozice byla obsazena bez výběrového řízení.** Podle smlouvy má Fichtner dostávat 50 tisíc měsíčně, má zajištěn čtvrtletní bonus 9 tisíc a roční bonus 20 tisíc korun. K tomu služební notebook a mobil.
 
 > **Fichtner je už pátým plně placeným zastupitelem z ANO.** Předsedkyní kontrolního výboru je *Anna Kroutil*, ředitelem městské společnosti Osmá správa majetku a služeb je *Radomír Nepil*, ředitelkou Osmičku pro rodinu je *Kateřina Halfarová* a uvolněnou předsedkyní komise pro sociální věci je bývalá radní *Jana Solomonová*.
 
