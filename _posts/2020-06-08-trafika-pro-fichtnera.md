@@ -5,7 +5,7 @@ title: 'Další trafika pro hnutí ANO, už pátá v řadě!'
 date: 2020-06-08T05:51:00.000Z
 author: Martin Štěrba
 authorId: Martin Štěrba
-image: posts/Palmovkastramvaji.jpg
+image: posts/fichtnerANO.jpg
 tags: [klub, Praha 8, zastupitelstvo, Palmovka, kauza]
 ---
 
