@@ -17,7 +17,7 @@ Na webu [http://cityvizor.praha.eu](http://cityvizor.praha.eu) najdete vše o pr
 > *na vědomí Důvodovou zprávu k návrhu Připojení MČ Praha 8 k aplikaci Cityvizor.*
 
 **Zastupitelstvo ukládá:**
-> *připojit MČ Praha 8 a jí zřizované organizace k systému CityVizor provozované Magistrátem hlavního města Prahy, za předpokladu, že hlavní město Praha uhradí veškeré účelně vynaložené náklady na připojení k systému CityVizor,
+> *připojit MČ Praha 8 a jí zřizované organizace k systému CityVizor provozované Magistrátem hlavního města Prahy, za předpokladu, že hlavní město Praha uhradí veškeré účelně vynaložené náklady na připojení k systému CityVizor,*
 
 > *a zahájit zveřejňování rozpočtu a faktur počínaje datem dokončení připojení MČ Praha 8 a jí zřizovaných organizací k systému CityVizor tak, aby zveřejňované faktury začínaly účetním rokem 2021.*
 
