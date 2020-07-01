@@ -25,4 +25,4 @@ Nutno připomenout, že Matěj Fichtner odstoupil z pozice místostarosty, proto
 Ano, takhle si tady žijeme. Bohužel.
 
 ***EDIT:***
-*V článku byl dne 1. 7. 2020 upraven poslední odstavec, ve kterém bylo špatně uvedeno slovo "obviněn". Nebylo myšleno, že by byl obviněn orgány činnými v trestními řízení, ale že byl obviněn tehdejším panem ředitelem ŽS Glowackého. Omlouvám se za nepřesnou informaci. Martin Štěrba*
+*V článku byl dne 1. 7. 2020 upraven poslední odstavec, ve kterém bylo špatně uvedeno slovo "obviněn". Nebylo myšleno, že by byl obviněn orgány činnými v trestními řízení, ale že byl obviněn tehdejším panem ředitelem ŽS Glowackého. Omlouvám se panu Fichtnerovi za nepřesnou formulaci. Nebylo cílem ho jakkoliv poškodit. Martin Štěrba*
