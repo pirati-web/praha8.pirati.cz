@@ -2,10 +2,10 @@
 layout: post
 category: blog
 title: 'Prosadili jsme zavedení aplikace CityVizor, Praha 8 bude mít rozklikávací rozpočet'
-date: 2020-07-24T05:51:00.000Z
+date: 2020-07-01T05:51:00.000Z
 author: Martin Štěrba
 authorId: martin.sterba
-image: posts/cityvizorprosel.png
+image: posts/cityvizorprosel2.png
 tags: [klub, Praha 8, zastupitelstvo, kauza, cityvizor]
 ---
 
