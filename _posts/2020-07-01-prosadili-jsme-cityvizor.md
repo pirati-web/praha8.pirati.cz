@@ -21,4 +21,4 @@ Na webu [http://cityvizor.praha.eu](http://cityvizor.praha.eu) najdete vše o pr
 
 > *a zahájit zveřejňování rozpočtu a faktur počínaje datem dokončení připojení MČ Praha 8 a jí zřizovaných organizací k systému CityVizor tak, aby zveřejňované faktury začínaly účetním rokem 2021.*
 
-**Zastupitelstvo také zmocnilo** našeho zastupitele [Jana Hamala Dvořáka](https://praha8.pirati.cz/lide/jan-hamal-dvorak/) k zajištění součinnosti Magistrátu hlavního města Prahy při impletementaci a úhradě veškerých účelně vynaložených nákladů ze stany MČ Praha 8 a jí zřizovaných organizací.
+**Zastupitelstvo také zmocnilo** našeho zastupitele [Jana Hamala Dvořáka](https://praha8.pirati.cz/lide/jan-hamal-dvorak/) k zajištění součinnosti Magistrátu hlavního města Prahy při impletementaci a úhradě veškerých účelně vynaložených nákladů ze strany MČ Praha 8 a jí zřizovaných organizací.
