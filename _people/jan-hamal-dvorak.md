@@ -14,7 +14,7 @@ Jan Hamal Dvořák (* 11. září 1987 v Praze) Vystudoval gymnázium Vítězsla
 
 Na Praze 8 žije se svou manželkou již několik let, původně v Čimicích, nyní v Kobylisích.
 
-Pokušení angažovat se v komunální politice u mne sílilo s přibývajícími zkušenostmi z NTK a rozhodnutí padlo poté, co jsem měl příležitost se blíže seznámit s chodem ÚMČ Praha 7. Domnívám se, že vývoj v oblasti informačních technologií má úřadům mnoho co nabídnout a úředníci vlastně ani neví, o co svým postojem přichází. Moc bych si přál jim ulehčit, aby je práce na úřadě více bavila.
+> Pokušení angažovat se v komunální politice u mne sílilo s přibývajícími zkušenostmi z NTK a rozhodnutí padlo poté, co jsem měl příležitost se blíže seznámit s chodem ÚMČ Praha 7. Domnívám se, že vývoj v oblasti informačních technologií má úřadům mnoho co nabídnout a úředníci vlastně ani neví, o co svým postojem přichází. Moc bych si přál jim ulehčit, aby je práce na úřadě více bavila.
 
 Jan se v politickém kompasu pravidelně nachází v sociálně liberálním kvadrantu a zastává názor, že veřejný sektor má především dělat dobře svou práci a ne se ji snažit nakupovat od soukromého sektoru, kde do ní nemohou mluvit voliči. Mezi jeho záliby patří především četba, samostudium a rozličné hry.
 
