@@ -6,7 +6,7 @@ date: 2020-04-21T13:51:00.000Z
 author: Martin Štěrba
 authorId: martin.sterba
 image: posts/cityvizor-praha.png
-tags: [klub, Praha 8, nouzový stav, zastupitelstvo, kauza, dezinfekce]
+tags: [klub, Praha 8, zastupitelstvo, kauza, cityvizor]
 ---
 
 **Zastupitelstvo MČ Praha 8 nesouhlasilo se zařazením našeho bodu ohledně spuštění CityVizoru a to navzdory osobnímu apelu ze strany primátora hlavního města Prahy Zdeňka Hřiba, který se dnešního jednání zastupitelstva také zúčastnil. Pro zařazení byla pouze opozice, ostatní se zdrželi.**
