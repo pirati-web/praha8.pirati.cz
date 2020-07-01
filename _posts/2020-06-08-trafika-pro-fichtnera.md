@@ -20,6 +20,11 @@ Jako první s informací přišli naši kolegové z Osmička žije. A my jí př
 *"Vzhledem k tomu, že se jedná už o pátého uvolněného zastupitele za ANO, tak je skutečně vidět, že ANO si vykupuje toleranci menšinové rady funkcemi. Pro nás je navíc nepřijatelné, že byl jmenován bez výběrového řízení. Na blížícím se jednání zastupitelstva městské části Praha 8 se budeme ptát proč,"* říká [Michal Novák](https://praha8.pirati.cz/lide/michal-novak/), předseda zastupitelského klubu Pirátů na Praze 8. 
 
 
-Nutno připomenout, že Matěj Fichtner odstoupil z pozice místostarosty, protože používal služební auto k soukromým účelům, falšoval knihu jízd a připravoval pojistný podvod s ukopnutým zrcátkem. V roce 2016 byl také obviněn za ovlivňování konkurzu na ředitele ZŠ Glowackého, toto obvinění však nebylo prokázáno.
+Nutno připomenout, že Matěj Fichtner odstoupil z pozice místostarosty, protože používal služební auto k soukromým účelům, falšoval knihu jízd a připravoval pojistný podvod s ukopnutým zrcátkem. V roce 2016 byl také nařčen za ovlivňování konkurzu na ředitele ZŠ Glowackého, toto však nebylo prokázáno.
 
 Ano, takhle si tady žijeme. Bohužel.
+
+***EDIT:***
+V článku byl dne 1. 7. 2020 upraven poslední odstavec, ve kterém bylo špatně uvedeno slovo "obviněn". Nebylo myšleno, že by byl obviněn orgány činnými v trestními řízení, ale že byl obviněn tehdejším panem ředitelem ŽS Glowackého. Omlouvám se za nepřesnou informaci. 
+
+Martin Štěrba
