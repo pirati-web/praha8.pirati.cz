@@ -9,7 +9,7 @@ image: posts/cityvizorprosel2.png
 tags: [klub, Praha 8, zastupitelstvo, kauza, cityvizor]
 ---
 
-**Na dnešním zastupitelstvu MČ Praha 8 bylo schváleno, že se městská část Praha 8 připojí k aplikaci Cityvizor. Stalo se tak díky práci našich zastupitelů. Pro hlasovali všichni přítomní zastupitelé napříč politickým spektrem, tedy kromě nás i zástupci ODS, TOP 09, STAN, ANO, Osmička žije a Osmička sobě (KDU-ČSL a Strana zelených).**
+**Na dnešním zastupitelstvu MČ Praha 8 bylo schváleno, že se městská část Praha 8 připojí k aplikaci Cityvizor. Stalo se tak díky práci našich zastupitelů. Pro hlasovali všichni přítomní zastupitelé napříč politickým spektrem, tedy kromě nás i zástupci ODS, TOP 09, STAN, ANO, Osmička žije, Patrioti pro Prahu 8 a Osmička sobě (KDU-ČSL a Strana zelených).**
 
 Na webu [http://cityvizor.praha.eu](http://cityvizor.praha.eu) najdete vše o pražských financích - a to příjmy, výdaje, plnění rozpočtu, údaje z úřední desky nebo registru smluv. Zkrátka téměř vše, na co si vzpomenete. Aplikaci vyvinulo Ministerstvo financí a uvolnilo ji jako open-source. Pro Prahu ji pak provozuje městská firma Operátor ICT, a to podobně jako její další aplikace Lítačka a Zmente.to. **A k čemu je to dobré v praxi?** Příkladem může být městská část Praha 3, kde díky aplikaci Cityvizor občané odhalili nesmyslně vysoké faktury třeba za radniční kávu. Po sjednání nápravy tam ušetřili ročně přes 100 tisíc korun.
 
