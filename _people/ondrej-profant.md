@@ -2,7 +2,6 @@
 uid: ondrej.profant
 name:     Ondřej Profant  	# běžně používáné jméno
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
- - clenove
  - ustavni-cinitele
 img: people/ondrej-profant.jpg # 165 x 220
 description: poslanec
