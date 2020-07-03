@@ -4,7 +4,6 @@ name: Jan Horn
 titles:
   before: 
 category:  
-  - clenove
 img: people/jan-horn.jpg 
 #description: 
 mail: 
