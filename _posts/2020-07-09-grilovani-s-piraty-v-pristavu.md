@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: 'Přijďte v pondělí na Grilování s Piráty v Přístavu'
-date: 2020-07-07T05:51:00.000Z
+date: 2020-07-09T05:51:00.000Z
 author: Martin Štěrba
 authorId: martin.sterba
 image: posts/pozvanka_grilovanispiraty2020.jpg
