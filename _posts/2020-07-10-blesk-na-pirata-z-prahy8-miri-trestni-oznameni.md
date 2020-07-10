@@ -9,7 +9,7 @@ image: posts/fichtner-sterba.png
 tags: [klub, zastupitelstvo, trestní oznámení, Blesk.cz, hnutí ANO, trafika, kauza]
 ---
 
-**Nedávno jsme Vás informovali o tom, že zastupitel za hnutí ANO [Matěj Fichtner dostal novou práci](https://praha8.pirati.cz/aktuality/trafika-pro-fichtnera.html) – od počátku června se stal ředitelem společnosti Správa tepelného hospodářství. Kvůli jednomu slovu v tomto článku podal bývalý radní, místostarosta a poslanec trestní oznámení. 
+**Nedávno jsme Vás informovali o tom, že zastupitel za hnutí ANO [Matěj Fichtner dostal novou práci](https://praha8.pirati.cz/aktuality/trafika-pro-fichtnera.html) – od počátku června se stal ředitelem společnosti Správa tepelného hospodářství. Kvůli jednomu slovu v tomto článku podal bývalý radní, místostarosta a poslanec trestní oznámení.**
 
 Ve čtvrtek 9. července 2020 o tom [informoval server Blesk.cz](https://praha8.pirati.cz/aktuality/trafika-pro-fichtnera.html). Blesk píše, že opoziční zastupitelé nejen z řad Pirátů se nedávno kritizovali jmenování Matěje Fichtnera z hnutí ANO do čela jedné z městských společnosti. Celá věc nakonec bude možná mít i soudní dohru kvůli jednomu článku, který Piráti dali na své internetové stránky a kde vyčítali Fichtnerovi celou řadu prohřešků z jeho politické minulosti. Kupodivu se nejedná o nařčení, že se jedná o trafiku, ale o údajnou pomluvu, které se Piráti dopustili jedním slovem v textu.
 
@@ -22,5 +22,3 @@ Vše momentálně řeší policie. Policie si kvůli tomu už předvolala místo
 Zda se celou věcí bude zabývat soud, je nyní na vyšetřovatelích.
 
 **A co vlastně šlo?** Kauza ohledně ZŠ Glowackého se v médiích objevila v roce 2016. Fichtner byl tehdy radním a měl na starost školství. Na škole došlo k incidentu, kdy měl někdejší ředitel uhodit jednoho žáků a následně rezignovat. Jeden z uchazečů o pozici ředitele, kterého doporučila odborná komise, pravil, že právě Fichner na něj vyvíjel nátlak. *„Tvrdí, že na něj radní tlačil, aby v případě jmenování určil jako svou zástupkyni Fichtnerem vybranou osobu. Patrně proto, aby ho mohla kontrolovat a podávat o jeho působení zprávy,“* uvedl tehdy [Deník.cz](https://prazsky.denik.cz/zpravy_region/hybe-vyberem-reditele-skoly-zakulisni-politika-20160603.html). Tato obvinění se nijak neprokázala.
-
-FOTOGALERIE
