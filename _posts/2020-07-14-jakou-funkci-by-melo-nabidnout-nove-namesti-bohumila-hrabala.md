@@ -2,10 +2,10 @@
 layout: post
 category: blog
 title: 'Jakou funkci by mělo nabídnout nové náměstí Bohumila Hrabala? Hlavně důstojnou, lidskou, moderní'
-date: 2020-06-16T05:51:00.000Z
+date: 2020-07-14T05:51:00.000Z
 author: Michal Novák
 authorId: michal.novak
-image: posts/palmovkated-kontejner.jpg
+image: posts/namestibohumilahrabala.jpg
 tags: [klub, Praha 8, Palmovka, budoucnost, Osmička]
 ---
 
