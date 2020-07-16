@@ -1,16 +1,23 @@
 ---
 layout: post
 category: blog
-title: 'Hřib: Vyřešíme Bulovku i vnitřní okruh. Stát na něj dá 60 miliard.'
-date: 2019-06-14T05:51:00.000Z
+title: 'Hřib: Se státem vyřešíme Bulovku i vnitřní okruh. V září bude podepsáno memorandum'
+date: 2020-07-16T05:51:00.000Z
 author: Martin Štěrba
 authorId: martin.sterba
-image: posts/namestibohumilahrabala.jpg
+image: posts/bulovka.jpg
 tags: [klub, Praha 8, Zdeněk Hřib, Bulovka, městský okruh, Magistrát]
 ---
 
+**Po téměř dvouletých sporech mezi pirátským primátorem Zdeňkem Hřibem a premiérem Andrejem Babišem ohledně směn majetku došlo ve čtvrtek k první dílčí dohodě.** V první fázi půjde o směnu pozemků kvůli výstavbě traumacentra ve Fakultní nemocnici Královské Vinohrady, následovat by měla Nemocnice na Bulovce na Praze 8, pozemky pro vládní čtvrť v Letňanech a výkup pozemků pro dostavbu části okruhu 511. Do poloviny září bude podepsáno memorandum, které vše vyřeší.
 
-Stát dá 60 miliard na vnitřní okruh
-Druhým krokem by pak měla být směna pozemků v Nemocnici na Bulovce. Za ty by Praha měla dostat pozemky pro dostavbu části okruhu 511 a část pozemku pro výstup z metra D na Pankráci, který dnes patří České poště.
+> *"Jsem spokojený. Proběhlo to relativně rychle a konstruktivně. Zásadně jsme se posunuli. Píšeme si konkrétní dopisy a teď jsme ve finále došli ke shodě, možná překvapivě, protože to z počátku vypadalo úplně jinak,* hodnotil výsledky jednání premiér **Andrej Babiš**.
 
-Nad konkrétními parametry se nyní sejdou pracovní týmy a jasněji by mělo být v září. To by mělo dojít i ke společnému podpisu memoranda, jehož předmětem by měly být i zmíněné pozemky v Letňanech pro úřednickou čtvrť nebo 60 miliard pro Prahu na dostavbu vnitřního okruhu, což už premiér také slíbil a byl to jeden z primátorových požadavků.
+> *"Jsem rád, že pan premiér přistoupil k našemu dnešnímu jednání konstruktivně. Shodli jsme se na tom, že společnou prioritou v oblasti směn majetku mezi Prahou a státem je v současné době řešení stavu zdravotnictví v hlavním městě, a to i v reakci na stávající epidemii koronaviru a také otázka výkupu zelených pásů u pražského okruhu v úseku 511,"* zhodnotil jednání pražský primátor **Zdeněk Hřib**.
+
+Součástí dohody mezi primátorem a premiérem je i vypořádání pozemků v Nemocnici Na Bulovce. Praha momentálně vlastní 20 procent pozemků a většinu nemovitostí areálu, které pronajímá ministerstvu zdravotnictví. Za to by Praha měla dostat pozemky pro dostavbu části okruhu 511 a část pozemku pro výstup z metra D na Pankráci, který dnes patří České poště. Nad konkrétními parametry se nyní sejdou pracovní týmy a jasněji by mělo být v září. To by mělo dojít i ke společnému podpisu memoranda, jehož předmětem by měly být i zmíněné pozemky v Letňanech pro úřednickou čtvrť nebo 60 miliard pro Prahu na dostavbu vnitřního okruhu z Pelc-Tyrolku přes Libeň, Balabenku a dále do Vysočan, což už premiér také slíbil a byl to jeden z primátorových požadavků. Vnitřní okruh byl jedním z magistrátních požadavků - Praha chce aby stát stejně jako v Brně pomohl s financováním poslední části městského okruhu. Na rozdíl od vnějšího, který je státní investicí, ho platí město.
+
+Praha by měla také od státu převzít prázdné kasárny v Karlíně, mohly by tam vzniknout například studentské koleje. To je ale ještě otázkou jednání.
+
+
+
