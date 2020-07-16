@@ -9,7 +9,7 @@ image: posts/bulovka.jpg
 tags: [klub, Praha 8, Zdeněk Hřib, Bulovka, městský okruh, Magistrát]
 ---
 
-**Po téměř dvouletých sporech mezi pirátským primátorem Zdeňkem Hřibem a premiérem Andrejem Babišem ohledně směn majetku došlo ve čtvrtek k první dílčí dohodě.** V první fázi půjde o směnu pozemků kvůli výstavbě traumacentra ve Fakultní nemocnici Královské Vinohrady, následovat by měla Nemocnice na Bulovce na Praze 8, pozemky pro vládní čtvrť v Letňanech a výkup pozemků pro dostavbu části okruhu 511. Do poloviny září bude podepsáno memorandum, které vše vyřeší.
+**Po téměř dvouletých sporech mezi pirátským primátorem Zdeňkem Hřibem a premiérem Andrejem Babišem ohledně směn majetku došlo ve čtvrtek k první dílčí dohodě.** V první fázi půjde o směnu pozemků kvůli výstavbě traumacentra ve Fakultní nemocnici Královské Vinohrady, následovat by měla Nemocnice na Bulovce na Praze 8, pozemky pro vládní čtvrť v Letňanech a výkup pozemků pro dostavbu části okruhu 511. Do poloviny září bude podepsáno memorandum, které vše vyřeší. [Stojí to tak v tiskové zprávě z MHMP](https://www.praha.eu/jnp/cz/o_meste/magistrat/tiskovy_servis/tiskove_zpravy/prioritou_je_rozvoj_nemocnic_na_uzemi.html).
 
 > *"Jsem spokojený. Proběhlo to relativně rychle a konstruktivně. Zásadně jsme se posunuli. Píšeme si konkrétní dopisy a teď jsme ve finále došli ke shodě, možná překvapivě, protože to z počátku vypadalo úplně jinak,* hodnotil výsledky jednání premiér **Andrej Babiš**.
 
