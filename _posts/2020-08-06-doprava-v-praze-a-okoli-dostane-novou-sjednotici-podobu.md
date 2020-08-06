@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: 'Doprava v Praze a okolí dostane novou sjednotící podobu'
-date: 2020-07-14T05:51:00.000Z
+date: 2020-08-06T05:51:00.000Z
 author: Martin Štěrba
 authorId: martin.sterba
 image: posts/mhd-novebarvy.jpg
