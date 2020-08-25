@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: 'Rozšíření Letiště Václava Havla? Magistrát musí zastupovat zájmy městských částí'
-date: 2020-07-14T05:51:00.000Z
+date: 2020-08-25T05:51:00.000Z
 author: Alice Hamalová
 authorId: alice.hamalova
 image: posts/letistepraha.jpg
