@@ -14,12 +14,12 @@ main:
     name: Naši lidé
     match: lide
   - link: /komunalni-volby/
-    name: Program pro Prahu 8
-    match: program
+    name: Program
+    match: komunalni-volby
   - link: /kontakt/
     name: O nás
-    match: O nás
-    
+    match: kontakt
+
     #link: /volby-2018/
     #name: Kandidátka 2018
     #match: kandaditka
