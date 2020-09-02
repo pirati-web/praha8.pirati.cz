@@ -13,7 +13,7 @@ main:
   - link: /lide/
     name: Naši lidé
     match: lide
-  - link: /program/
+  - link: /komunalni-volby/
     name: Program pro Prahu 8
     match: program
   - link: /kontakt/
