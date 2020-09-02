@@ -23,4 +23,4 @@ Věříme, že teď dojde k nápravě a bude možné věcně a rozumně diskutov
 
 Michal Kalina *(nominován za 8žije)*, 
 Tomáš Pavlů *(zastupitel Osmička sobě – Zelení a KDU-ČSL)*, 
-Martin Štěrba *(nominován za Českou pirátskou stranu)*
+Martin Štěrba *(nominován za Piráty)*
