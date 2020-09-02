@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: 'Prohlášení zástupců opozice v redakční radě časopisu Osmička'
-date: 2020-09-03T05:51:00.000Z
+date: 2020-09-02T5:51:00.000Z
 author: Martin Štěrba
 authorId: martin.sterba
 image: posts/osmicka_prohlaseni.png
