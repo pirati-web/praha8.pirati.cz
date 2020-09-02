@@ -5,7 +5,7 @@ title: 'Prohlášení zástupců opozice v redakční radě časopisu Osmička'
 date: 2020-09-02T05:51:00.000Z
 author: Martin Štěrba
 authorId: martin.sterba
-image: posts/letisprohlaseni-osmicka.png
+image: posts/prohlaseni-osmicka.png
 tags: [klub, Praha 8, Osmička, prohlášení, koalice]
 ---
 
