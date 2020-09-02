@@ -22,7 +22,5 @@ Je s podivem, že profesionální tiskový mluvčí Tomáš Mrázek, pracující
 Věříme, že teď dojde k nápravě a bude možné věcně a rozumně diskutovat o časopisu Osmička tak, jak tomu bylo v minulosti.
 
 Michal Kalina *(nominován za 8žije)*, 
-
 Tomáš Pavlů *(zastupitel Osmička sobě – Zelení a KDU-ČSL)*, 
-
 Martin Štěrba *(nominován za Českou pirátskou stranu)*
