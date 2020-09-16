@@ -17,4 +17,4 @@ tags: [klub, Praha 8, jednání, zastupitelstvo, koalice]
 
 > Na programu jsou také možné odpustky nedobytných pohledávek po nájemnících v obecních bytech.
 
-Jednání zastupitelstva začíná ve 14 hodin v "bílém domě" nedaleko Libeňského zámečku. Sledovat jej můžete samozřejmě [on-line na http://bit.ly/ZMCP8-online](http://bit.ly/ZMCP8-online), a [všechny materiály najdete na webu MČ Praha 8.](https://www.praha8.cz/Podkladove-materialy-zastupitelstva-16-09-2020.html)
+Jednání zastupitelstva začíná ve 14 hodin v "bílém domě" nedaleko Libeňského zámečku. Sledovat jej můžete samozřejmě [on-line na http://bit.ly/ZMCP8-online](http://bit.ly/ZMCP8-online) a [všechny materiály najdete na webu MČ Praha 8.](https://www.praha8.cz/Podkladove-materialy-zastupitelstva-16-09-2020.html)
