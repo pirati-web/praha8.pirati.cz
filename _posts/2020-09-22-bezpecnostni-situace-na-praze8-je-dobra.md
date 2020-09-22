@@ -4,7 +4,7 @@ category: blog
 title: 'Bezpečnostní situace na Praze 8 je dobrá, chceme zlepšit prevenci a prostředí rizikových míst'
 date: 2020-09-22T5:51:00.000Z
 author: Jan Kolátor
-authorId: Jan Kolátor
+authorId: jan.kolator
 image: posts/Palmovkastramvaji.jpg
 tags: [klub, Praha 8, bezpečnost, Osmička, metro]
 ---
