@@ -9,7 +9,7 @@ image: posts/Palmovkastramvaji.jpg
 tags: [klub, Praha 8, bezpečnost, Osmička, metro]
 ---
 
-**V novém vydání časopisu Osmička jsme odpovídali na otázku, jak vnímáme bezpečnostní situaci v Praze 8, především v okolí stanic metra.**
+**[V novém vydání časopisu Osmička](https://www.praha8.cz/file/ZgT/Mesicnik-Osmicka-rijen-2020.pdf) jsme odpovídali na otázku, jak vnímáme bezpečnostní situaci v Praze 8, především v okolí stanic metra.**
 
 I když otázka je položena tak, že očekává negativní odpověď, já vidím bezpečnostní situaci u nás na Praze 8 jako velmi dobrou. Česká republika má velmi nízký nápad trestné činnosti, který navíc stále klesá. Praha je navíc metropolí, kde je logicky bezpečnostní situace složitější oproti venkovu. Praha 8 nicméně patří k těm klidnějším částem našeho města – pokud navíc bydlíte v čtvrtích bez metra jako jsou Bohnice nebo Čimice, žijete vlastně v oáze klidu a bezpečí.
 
