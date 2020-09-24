@@ -1,10 +1,10 @@
 ---
 layout: post
 category: blog
-title: 'MČ Praha 8 utrácí statisíce za zbytečné reportáže v TV Praha'
-date: 2020-09-22T5:51:00.000Z
+title: 'MČ Praha 8 utrácí sta tisíce za zbytečné reportáže v TV Praha'
+date: 2020-09-24T5:51:00.000Z
 author: Martin Štěrba
-authorId: Martin Štěrba
+authorId: martin.sterba
 image: posts/tvpraha-expresPrahy8.png
 tags: [klub, Praha 8, TV Praha, PR, sebeprezentace, koalice]
 ---
