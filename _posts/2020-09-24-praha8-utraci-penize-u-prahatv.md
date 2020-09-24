@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title: 'MČ Praha 8 utrácí sta tisíce za zbytečné reportáže v TV Praha'
+title: 'MČ Praha 8 utrácí statisíce za zbytečné reportáže v TV Praha'
 date: 2020-09-24T5:51:00.000Z
 author: Martin Štěrba
 authorId: martin.sterba
