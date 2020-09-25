@@ -6,7 +6,7 @@ date: 2020-07-09T05:51:00.000Z
 author: Martin Štěrba
 authorId: martin.sterba
 image: posts/pozvanka_grilovanispiraty2020.jpg
-tags: [místní sdružení, Piráti, léto, grilování]
+tags: [Karlín, Piráti]
 ---
 
 **V pondělí 13. července Vás zveme do Přístavu 186 00 v Karlíně na pokec a grilování. Přiveďte s sebou i vaše blízké a kamarády, a užijeme si společně hezký letní večer.** 
