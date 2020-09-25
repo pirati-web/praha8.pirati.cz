@@ -6,7 +6,7 @@ date: 2019-03-13T15:10:00.000Z
 author: Martin Štěrba
 authorId: martin.sterba
 image: posts/zastupitelstvo2.jpg
-tags: [finance, zastupitelstvo, rozpočet]
+tags: [Finance, Zastupitelstvo]
 ---
 
 Zastupitelstvo naší městské části dnes řešilo návrh rozpočtu na rok 2019 a střednědobého výhledu do roku 2024. 
