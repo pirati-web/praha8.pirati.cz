@@ -6,7 +6,7 @@ date: 2020-03-19T17:38:00.000Z
 author: Martin Štěrba
 authorId: martin.sterba
 image: posts/rousky_anicka.jpg
-tags: [nouzový stav, koronavirus, rouškyvšem, Bulovka, Bohnice]
+tags: [nouzovýstav, koronavirus, RouškyVšem, Bulovka, Bohnice]
 ---
 
 
