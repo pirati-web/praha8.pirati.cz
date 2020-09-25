@@ -6,7 +6,7 @@ date: 2020-08-06T05:51:00.000Z
 author: Martin Štěrba
 authorId: martin.sterba
 image: posts/mhd-novebarvy.jpg
-tags: [klub, Praha8, MHD, PID]
+tags: [Doprava, MHD, PID]
 ---
 
 
