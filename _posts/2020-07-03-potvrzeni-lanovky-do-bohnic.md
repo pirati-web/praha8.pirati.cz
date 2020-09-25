@@ -6,7 +6,7 @@ date: 2020-07-03T05:51:00.000Z
 author: Martin Štěrba
 authorId: martin.sterba
 image: posts/lanovkabohnice.jpg
-tags: [klub, Osmička, lanovka, MHD, tramvaje, Magistrát, doprava]
+tags: [Osmička, Lanovka, MHD, Magistrát, Doprava]
 ---
 
 **Do pěti let propojí městské části Praha 6, Troju a Prahu 8 lanová dráha. Zastupitelstvo hl. m. Prahy dnes schválilo investiční záměr její stavby, celkové náklady se odhadují na 1,5 miliardy korun. Celkem 2,5 kilometru dlouhá jízda z Podbaby do Bohnic se 100metrovým převýšením a překonáním řeky tak potrvá jen sedm minut.**
