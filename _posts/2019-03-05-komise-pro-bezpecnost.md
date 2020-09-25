@@ -6,7 +6,7 @@ date: 2019-03-05T15:10:00.000Z
 author: Jan Kolátor
 authorId: jan.kolator
 image: posts/metadon.jpg
-tags: zdravotnictví
+tags: [zdravotnictví, bezpečnost]
 ---
 
 Na posledním zasedání Komise pro bezpečnost a prevenci sociálněpatologických jevů se řešila problematická situace kolem Centra metadonové substituce. Toto centrum provozuje nezisková organizace Drop In a od roku 2013 je umístěno v areálu Nemocnice Na Bulovce. Tématu se za nás věnují Jan Kolátor a Markéta Čermáková.
