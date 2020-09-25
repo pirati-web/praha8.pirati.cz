@@ -6,7 +6,7 @@ date: 2019-10-01T18:35:00.000Z
 author: Pavel Franc
 authorId: pavel.franc
 image: posts/cityvizor-praha.png
-tags: [volby, klub, koalice, transparentnost]
+tags: [CityVizor, klub, koalice, transparentnost]
 ---
 
 
