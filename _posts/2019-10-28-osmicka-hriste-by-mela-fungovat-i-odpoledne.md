@@ -6,7 +6,7 @@ date: 2019-10-28T10:35:00.000Z
 author: Martin Štěrba
 authorId: martin.sterba
 image: posts/osmicka_skolstvi_hriste.jpg
-tags: [klub, školství, finance, sport, Osmička]
+tags: [klub, Školství, Finance, Sport, Osmička]
 ---
 
 
