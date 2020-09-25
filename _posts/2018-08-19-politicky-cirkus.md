@@ -1,13 +1,12 @@
 ---
 date: 2018-08-19
 category: blog
-tags: transparentnost myty 
 layout: post
 title: Politický cirkus Prahy 8 aneb „Osmička“ na začátku léta (cca 3 měsíce do voleb)
 author: Michal Novák
 authorId: michal.novak    # uid nekoho z _people (nepoviné)
 image: posts/zastupitelstvo.jpg
-tags: [transparentnost]
+tags: [Transparentnost]
 ---
 
 
