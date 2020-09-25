@@ -3,7 +3,7 @@ date: 2018-07-02
 category: blog
 tags: louze 
 layout: post
-title: Zpráva o akci „H“ v Pivovarnické ulici
+title: Praha 8 slíbila, že louže se splašky odstraní. Neodstranila, tak jsme se do toho pustili sami.
 author: Jan Horn
 authorId: jan.horn    # uid nekoho z _people (nepoviné)
 image: posts/tym-louze.jpg
