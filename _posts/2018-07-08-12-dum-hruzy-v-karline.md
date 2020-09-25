@@ -3,7 +3,7 @@ date: 2018-08-12
 category: blog
 tags: airbnb
 layout: post
-title: Dům hrůzy v Karlíně
+title: Dům hrůzy v Karlíně. S AirBnb je nutné bojovat. 
 author: Karel Ptáček
 authorId: karel.ptacek    # uid nekoho z _people (nepoviné)
 image: posts/airbnb.jpg
