@@ -6,7 +6,7 @@ date: 2020-05-13T15:51:00.000Z
 author: Martin Štěrba
 authorId: martin.sterba
 image: posts/zastupitelstvo_kveten2020.jpg
-tags: [volby, klub, koalice, koronavirus, zastupitelstvo, rozpočet]
+tags: [volby, klub, koalice, koronavirus, zastupitelstvo, finance]
 ---
 
 **Na dnešním zasedání Zastupitelstva MČ Praha 8 se probíral hlavně rozpočet na rok 2020 a střednědobý plán do roku 2025. A ano rozpočet naší městské části se projednával až teď v květnu, dříve to prý koalice ODS, TOP 09, STAN a Patriotů nestihla.** 
