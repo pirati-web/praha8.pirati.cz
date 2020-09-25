@@ -6,7 +6,7 @@ date: 2020-09-24T5:51:00.000Z
 author: Martin Štěrba
 authorId: martin.sterba
 image: posts/tvpraha-expresPrahy8.png
-tags: [klub, Praha8, TVPraha, PR, koalice]
+tags: [TVPraha, PR, Koalice]
 ---
 
 Myslíte si, že soukromá stanice [PRAHA TV](https://prahatv.eu) natáčí všechny ty leckdy zbytečné reportáže protože sama chce? Není tomu tak – politici z městských částí si rádi za tuto službu platí, a to hlavně proto, aby zvyšovali své PR. 
