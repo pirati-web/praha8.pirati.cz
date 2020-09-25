@@ -6,7 +6,7 @@ date: 2019-06-02T15:10:00.000Z
 author: Martin Štěrba
 authorId: martin.sterba
 image: posts/novy-zastupitel.png
-tags: komise
+tags: [zastupitelstvo, Praha8, Piráti]
 ---
 
 Z časových důvodu rezignovala na mandát zastupitele Jitka Novotná. "Dávám přednost celopražské a celostátní politice, které budu nadále věnovat své úsilí. Toto rozhodnutí se mi dělalo snadno s vědomím, že svůj mandát předávám Martinu Staňkovi - předsedovi místního sdružení, který má všechny předpoklady pro to vykonávat jej pečlivě a zodpovědně."
