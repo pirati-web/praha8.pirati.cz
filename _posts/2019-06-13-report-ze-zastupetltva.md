@@ -6,7 +6,7 @@ date: 2019-06-13T15:10:00.000Z
 author: Michal Novák
 authorId: michal.novak
 image: posts/zas13-6.jpg
-tags: [Zastupitelstvo, Praha8, NováPalmovka, Finance, ÚzemníRozvoj]
+tags: [Zastupitelstvo, NováPalmovka, Finance, ÚzemníRozvoj]
 ---
 
 ### Nový jednací řád
