@@ -6,7 +6,7 @@ date: 2020-06-24T05:51:00.000Z
 author: Martin Štěrba
 authorId: martin.sterba
 image: posts/krajskevolby2020.jpg
-tags: [Praha 8, krajské volby 2020, Pirátský listy, Středočeský kraj]
+tags: [Praha8, KrajskéVolby2020, PirátskéListy, StředočeskýKraj]
 ---
 
 **Před pár dny začala [kampaň ke krajským volbám](https://www.piratskelisty.cz/clanek-3298-sance-zmenit-budoucnost-pirati-zahajili-kampan-do-krajskych-voleb-predstavili-svoje-lidry-i-program), které budou 2. a 3. října 2020. Pomáháme středočeským pirátům, a rozdáváme Pirátské listy u metra Kobylisy dojíždějícím občanům.** Z místních sdružení Praha 8 se rozdávání zůčastnili zastupitelé Michal Novák a Alice Hamalová. 
