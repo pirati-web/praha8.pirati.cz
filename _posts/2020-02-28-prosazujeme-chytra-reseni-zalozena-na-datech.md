@@ -6,7 +6,7 @@ date: 2020-02-28T10:20:00.000Z
 author: Michal Novák
 authorId: michal.novak
 image: posts/osmicka_zavorabohnice.jpg
-tags: [klub, koalice, Bohnice, Osmička]
+tags: [klub, Bohnice, Osmička]
 ---
 
 
