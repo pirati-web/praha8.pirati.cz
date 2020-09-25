@@ -6,7 +6,7 @@ date: 2020-09-22T5:51:00.000Z
 author: Jan Kolátor
 authorId: jan.kolator
 image: posts/Palmovkastramvaji.jpg
-tags: [klub, Praha 8, bezpečnost, Osmička, metro]
+tags: [klub, Praha8, bezpečnost, Osmička]
 ---
 
 **[V novém vydání časopisu Osmička](https://www.praha8.cz/file/ZgT/Mesicnik-Osmicka-rijen-2020.pdf) jsme odpovídali na otázku, jak vnímáme bezpečnostní situaci v Praze 8, především v okolí stanic metra.**
