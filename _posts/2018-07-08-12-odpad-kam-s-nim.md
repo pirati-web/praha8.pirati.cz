@@ -7,7 +7,7 @@ title: Odpad - kam s ním?
 author: Alice Hamalová
 authorId: alice.hamalova    # uid nekoho z _people (nepoviné)
 image: posts/odpady.jpg
-tags: [Volby2018, životníprostředí, odpady]
+tags: [Volby2018, ŽivotníProstředí]
 ---
 
 **Od dob Nerudových jsme se v nakládání s odpady výrazně posunuli. Začalo 
