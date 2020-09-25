@@ -6,7 +6,7 @@ date: 2019-11-26T10:44:00.000Z
 author: Karel Ptáček
 authorId: karel.ptacek
 image: posts/osmicka-florenc.jpg
-tags: [Osmička, veřejnýprostor, Florenc, doprava, Karlín]
+tags: [Osmička, VeřejnýProstor, Florenc, Doprava, Karlín]
 ---
 
 
