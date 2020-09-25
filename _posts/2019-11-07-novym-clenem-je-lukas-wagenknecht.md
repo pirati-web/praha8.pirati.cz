@@ -6,7 +6,7 @@ date: 2019-11-07T11:04:00.000Z
 author: Martin Štěrba
 authorId: martin.sterba
 image: posts/lukas-wagenknecht-clen.jpg
-tags: [volby, MS Praha 8, senátor, Lukáš Wagenknecht]
+tags: [volby, Piráti, senátor, LukášWagenknecht]
 ---
 
 
