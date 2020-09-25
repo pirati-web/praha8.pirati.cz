@@ -1,7 +1,7 @@
 ---
 date: 2018-07-05
 category: blog
-tags: sidliste-dablice
+tags: [Ďáblice]
 layout: post
 title: Na sídliště Ďáblice si stále brousí zuby developer
 author: Michaela Krupičková
