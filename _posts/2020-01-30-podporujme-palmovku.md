@@ -6,7 +6,7 @@ date: 2020-01-30T10:20:00.000Z
 author: Michal Novák
 authorId: michal.novak
 image: posts/palmovka.jpg
-tags: [volby, klub, koalice, Palmovka, kauza, Osmička, sloupek]
+tags: [klub, koalice, NováPalmovka, kauza, Osmička]
 ---
 
 
