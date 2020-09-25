@@ -6,7 +6,7 @@ date: 2020-07-14T05:51:00.000Z
 author: Michal Novák
 authorId: michal.novak
 image: posts/namestibohumilahrabala.jpg
-tags: [klub, Praha8, Palmovka, budoucnost, Osmička]
+tags: [Palmovka, Osmička]
 ---
 
 **Dnešní autobusové nádraží Palmovka si nepochybně zaslouží a potřebuje změnu.** Z toho, co si pamatuji o Bohumilu Hrabalovi, to byl člověk s velmi lidským přístupem. Asi by se mu nelíbilo, kdyby bylo jeho jméno spojeno s projektem, který toto místo zastaví novými hranatými budovami a zastaví místní život. Nejde ale jen o spisovatele, jde hlavně o lidi, kteří tady budou bydlet, pracovat, navštěvovat restaurace a nakupovat. A také o ty, kteří tímto územím jen tak projdou.
