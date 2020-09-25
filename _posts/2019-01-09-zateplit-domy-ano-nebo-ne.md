@@ -6,7 +6,7 @@ date: 2019-01-09T18:10:00.000Z
 author:
 authorId:
 image: posts/zatepleni.jpg
-tags: [životníprostředí, klub, koalice]
+tags: [ŽivotníProstředí, klub]
 ---
 
 Určitě ano, finance jsou připravené.
