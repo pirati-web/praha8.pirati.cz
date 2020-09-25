@@ -5,7 +5,7 @@ date: 2019-01-25
 author: Martin Staněk
 authorId: martin.stanek
 image: posts/predsednictvo-2019.png
-tags: [MSPraha8, Piráti]
+tags: [Piráti]
 ---
 
 Piráti na Praze 8 si zvolili nové vedení. 🏴 Předsedou místního sdružení byl zvolen Martin Staněk, prvním místopředsedou Martin Štěrba a dalšími místopředsedy Jan Kolátor, Michal Novak a Michaela Krupičková.
