@@ -6,7 +6,7 @@ date: 2020-04-03T13:51:00.000Z
 author: Martin Štěrba
 authorId: martin.sterba
 image: posts/slobodnk-to.jpg
-tags: [klub, Praha 8, nouzový stav, koronavirus, ODS, kauza, dezinfekce, trestní oznámení]
+tags: [klub, Praha8, NouzovýStav, koronavirus, ODS, kauza, dezinfekce, TrestníOznámení]
 ---
 
 
