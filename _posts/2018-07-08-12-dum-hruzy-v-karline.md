@@ -7,6 +7,7 @@ title: Dům hrůzy v Karlíně
 author: Karel Ptáček
 authorId: karel.ptacek    # uid nekoho z _people (nepoviné)
 image: posts/airbnb.jpg
+tags: [klub, AirBnb, Praha8]
 ---
 
 **Takto označují dům v Sokolovské ulici jeho nájemníci. V současné době je více jak polovina bytů pronajímána krátkodobě turistům z celého světa. Může za to fenomén Airbnb, nebo také chybějící vyhláška Prahy 8.**
