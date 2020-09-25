@@ -6,7 +6,7 @@ date: 2019-09-25T09:00:00.000Z
 author: Martin Štěrba
 authorId: martin.sterba
 image: posts/palmovka.jpg
-tags: [NováPalmovka]
+tags: [NováPalmovka, Finance]
 ---
 
 
