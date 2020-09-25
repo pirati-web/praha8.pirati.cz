@@ -7,7 +7,7 @@ title: Zpráva o akci „H“ v Pivovarnické ulici
 author: Jan Horn
 authorId: jan.horn    # uid nekoho z _people (nepoviné)
 image: posts/tym-louze.jpg
-tags: [Volby2018, Libeň, životníprostředí, Kotlaska]
+tags: [Volby2018, Libeň, ŽivotníProstředí, Kotlaska]
 ---
 
 Někteří z vás možná zaznamenali na sociálních sítích nedávnou „kauzu“ Libeňské
