@@ -6,7 +6,7 @@ date: 2020-08-19T05:51:00.000Z
 author: Martin Štěrba
 authorId: martin.sterba
 image: posts/freebelarus.png
-tags: [klub, Praha8, Piráti, Bělorusko]
+tags: [Piráti, Bělorusko]
 ---
 
 
