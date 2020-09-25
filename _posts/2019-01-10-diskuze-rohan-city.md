@@ -6,7 +6,7 @@ date: 2019-01-10T18:10:00.000Z
 author: Martin Štěrba
 authorId: martin.sterba
 image: posts/rohancity.jpg
-tags: [RohanCity, klub, bydlení, ÚzemníRozvoj]
+tags: [RohanCity, klub, bydlení, ÚzemníRozvoj, Karlín]
 ---
 
 Právě teď se koná veřejné projednávání projektu Rohan City, který připravuje Sekyra Group. Zahájení první fáze výstavby začne během letošního roku. Během ní vznikne asi 300 bytů a 30 tisíc metrů čtverečních kancelářských ploch.
