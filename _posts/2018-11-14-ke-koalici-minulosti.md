@@ -1,12 +1,12 @@
 ---
 layout: post
 category: blog
-title: 'Držíme kurz!'
+title: 'Držíme kurz! I když se nepovedlo vyjednat koalici změny.'
 date: 2018-11-14T18:10:00.000Z
 author: Michal Novák
 authorId: michal.novak
 image: posts/slib.jpeg
-tags: [Volby2018, klub, koalice? ODS, TOP09]
+tags: [Volby2018, klub, Piráti, zastupitelstvo]
 ---
 
 Piráti na Praze 8 vyvinuli maximální snahu o vytvoření koalice pozitivní změny. Usilovali jsme o koalici na stejném půdorysu jako je koalice na Magistrátu a partnerům jsme nabídli konkrétní, férové uspořádání Rady, které však nebylo ze strany TOP 09 a STAN akceptováno.
