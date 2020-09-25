@@ -6,7 +6,7 @@ date: 2019-01-28T18:10:00.000Z
 author:
 authorId: karel.ptacek
 image: posts/dum.jpg
-tags: bydlení
+tags: [bydlení]
 ---
 
 Před dvěma lety současný starosta Ondřej Gros (ODS Praha 8) silně kritizoval práci tehdejšího zástupce starosty Radomíra Nepila (ANO, tohle je Praha 8). Šlo konkrétně o podivné hospodaření s obecním majetkem a rozprodej několika činžovních domů výrazně pod tržní cenou v Karlíně a Libni. Ovšem tento samý člověk byl v tichosti v listopadu současnou radou jmenován předsedou představenstva městské firmy Osmá správa majetku a služeb a.s. Ta hospodaří s více než tisíci byty a také s polovičním počtem nebytových prostor vlastněných městskou částí Praha 8. Na tuto skutečnost jako první upozornili naši opoziční kolegové z Osmička žije – Město, které žije s vámi.
