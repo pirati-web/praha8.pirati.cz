@@ -6,7 +6,7 @@ date: 2020-07-10T05:51:00.000Z
 author: Martin Štěrba
 authorId: martin.sterba
 image: posts/fichtner-sterba.png
-tags: [klub, zastupitelstvo, TrestníOznámení, Blesk.cz, hnutíANO, kauza]
+tags: [Zastupitelstvo, TrestníOznámení, Blesk.cz, HnutíANO]
 ---
 
 **Nedávno jsme Vás informovali o tom, že zastupitel za hnutí ANO [Matěj Fichtner dostal novou práci](https://praha8.pirati.cz/aktuality/trafika-pro-fichtnera.html) – od počátku června se stal ředitelem společnosti Správa tepelného hospodářství. Kvůli jednomu slovu v tomto článku podal bývalý radní, místostarosta a poslanec trestní oznámení.**
