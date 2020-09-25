@@ -7,7 +7,7 @@ title: Piráti podporují vznik nových vlakových zastávek v Karlíně!
 author: Michal Schwarzkopf
 authorId: michal.schwarzkopf    # uid nekoho z _people (nepoviné)
 image: posts/vlakova-zastavka-karlin.jpg
-tags: [doprava, Karlín, Libeň]
+tags: [Doprava, Karlín, Libeň]
 ---
 
 
