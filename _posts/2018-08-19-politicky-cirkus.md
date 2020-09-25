@@ -7,6 +7,7 @@ title: Politický cirkus Prahy 8 aneb „Osmička“ na začátku léta (cca 3 m
 author: Michal Novák
 authorId: michal.novak    # uid nekoho z _people (nepoviné)
 image: posts/zastupitelstvo.jpg
+tags: [transparentnost]
 ---
 
 
