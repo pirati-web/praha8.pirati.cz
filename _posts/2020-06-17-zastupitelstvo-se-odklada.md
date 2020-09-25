@@ -6,7 +6,7 @@ date: 2020-06-17T05:51:00.000Z
 author: Martin Štěrba
 authorId: martin.sterba
 image: posts/odlozene-zastupitelstvo.png
-tags: [klub, Praha8, zastupitelstvo, koronavirus]
+tags: [Zastupitelstvo, Koronavirus]
 ---
 
 **Starosta Ondřej Gros z důvodu potvrzení nákazy nemocí COVID-19 u náměstka primátora Petra Hlubučka zrušil dnešní jednání zastupitelstva a přesunul ho na 1. 7. 2020.**
