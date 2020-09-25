@@ -6,7 +6,7 @@ date: 2018-12-30T18:10:00.000Z
 author:
 authorId:
 image: posts/noviny.jpg
-tags: [Volby2018, klub, koalice]
+tags: [Volby2018, klub, Osmička, Piráti]
 ---
 
 V naší práci v Zastupitelstvu MČ Praha 8 si klademe za cíl dohlédnout na to, aby při rozhodování Rady stál na prvním místě zájem veřejnosti, a nikoliv osobní prospěch jednotlivců.
