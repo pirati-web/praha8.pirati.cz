@@ -6,7 +6,7 @@ date: 2020-09-16T5:51:00.000Z
 author: Martin Štěrba
 authorId: martin.sterba
 image: posts/bilydum.png
-tags: [Zzastupitelstvo]
+tags: [Zastupitelstvo]
 ---
 
 **Dnes nás čeká po letních prázdninách opět svátek demokracie, tedy jednání zastupitelstva naší městské části. A co zastupitele čeká?** 
