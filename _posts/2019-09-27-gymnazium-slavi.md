@@ -6,7 +6,7 @@ date: 2019-09-27T14:35:00.000Z
 author: Michal Novák
 authorId: michal.novak
 image: posts/gymnazium-ulibenskehozamku.jpg
-tags: [školství, klub, koalice]
+tags: [školství, klub]
 ---
 
 
