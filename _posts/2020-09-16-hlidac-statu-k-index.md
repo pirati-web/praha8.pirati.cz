@@ -6,7 +6,7 @@ date: 2020-09-16T8:51:00.000Z
 author: Martin Štěrba
 authorId: martin.sterba
 image: posts/hlidacstatu.png
-tags: [klub, Praha8, jednání, zastupitelstvo, koalice, HlídačStátu, K-Index]
+tags: [Zastupitelstvo, Koalice, HlídačStátu]
 ---
 
 **Hlídač státu pomocí K-indexu nově hodnotí transparentnost hospodaření tisícovky úřadů a veřejných firem. K-index je indexem korupčního rizika.**
