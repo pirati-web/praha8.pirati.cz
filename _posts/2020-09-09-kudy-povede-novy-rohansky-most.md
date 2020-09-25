@@ -6,7 +6,7 @@ date: 2020-09-02T5:51:00.000Z
 author: Karel Ptáček
 authorId: karel.ptacek
 image: posts/rohanskyostrov-setkani.jpg
-tags: [klub, Praha8, Osmička, RohanskýMost, doprava, Karlín]
+tags: [Osmička, RohanskýMost, Doprava, Karlín]
 ---
 
 **V úterý podvečer se předseda našeho zastupitelského klubu [Michal Novák](https://praha8.pirati.cz/lide/michal-novak/) a náš zastupitel a člen komise pro územní rozvoj [Karel Ptáček](https://praha8.pirati.cz/lide/karel-ptacek/) zúčastnil veřejné prezentace budoucího umístění plánovaného Rohanského mostu, kterou připravila sousední radnice Praha 7. Na setkání dorazilo okolo 280 obyvatel.**
