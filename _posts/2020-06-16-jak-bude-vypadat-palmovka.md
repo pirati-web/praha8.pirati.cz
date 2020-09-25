@@ -6,7 +6,7 @@ date: 2020-06-16T05:51:00.000Z
 author: Martin Štěrba
 authorId: martin.sterba
 image: posts/palmovkated-kontejner.jpg
-tags: [klub, Praha 8, Palmovka, budoucnost, územní studie, kauza]
+tags: [klub, Praha8, Palmovka, NováPalmovka, ÚzemníRozvoj, kauza]
 ---
 
 **Předseda našeho zastupitelského klubu [Michal Novak](https://praha8.pirati.cz/lide/michal-novak/) se zúčastnil prezentace územní studie nové podoby Palmovky. Na vše se můžete podívat i vy v kontejneru PalmovkaTeď.**
