@@ -6,7 +6,7 @@ date: 2020-05-25T09:51:00.000Z
 author: Anna Filínová
 authorId: anna.filinova
 image: posts/osmicka_internet.jpg
-tags: [klub, koalice, koronavirus, Osmička, SociálníSlužby]
+tags: [klub, koronavirus, Osmička, SociálníSlužby]
 ---
 
 ***Jaké poučení do budoucna by si měla vzít městská část z pandemie Covid-19 například v péči o své občany, seniory nebo rodiny?***
