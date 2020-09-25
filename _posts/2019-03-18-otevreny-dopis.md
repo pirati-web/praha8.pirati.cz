@@ -6,7 +6,7 @@ date: 2019-03-18T15:10:00.000Z
 author:
 authorId: martin.stanek
 image: posts/dopis2.jpg
-tags: [koalice, kultura, Patrioti]
+tags: [Koalice, Kultura, Patrioti]
 ---
 
 Nejlepší cestou, jak předejít pochybnostem o smysluplném využívání veřejných prostředků, je vystavit veškeré nakládání s nimi veřejné kontrole. Pro nás Piráty je tak zajištění transparentních postupů na všech úrovních veřejné správy jeden z hlavních cílů. Velice by nás proto potěšilo, kdyby i současné vedení MČ Praha 8 věnovalo více pozornosti základním principům transparentního přístupu.
