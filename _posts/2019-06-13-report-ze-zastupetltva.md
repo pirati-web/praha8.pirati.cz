@@ -6,7 +6,7 @@ date: 2019-06-13T15:10:00.000Z
 author: Michal Novák
 authorId: michal.novak
 image: posts/zas13-6.jpg
-tags: zastupitelstvo
+tags: [zastupitelstvo, Praha8, klub, NováPalmovka, finance]
 ---
 
 ### Nový jednací řád
