@@ -6,7 +6,7 @@ date: 2019-04-23T13:33:00.000Z
 author: Martin Štěrba
 authorId: martin.sterba
 image: posts/osmicka_autovraky.jpg
-tags: [klub, koalice, Osmička, bezpečnost, ŽivotníProstředí]
+tags: [klub, Osmička, bezpečnost, ŽivotníProstředí]
 ---
 
 
