@@ -6,7 +6,7 @@ date: 2019-08-28T20:42:00.000Z
 author: Jan Hamal Dvořák
 authorId: jan.hamal.dvorak
 image: posts/osmicka_digitalizace.jpg
-tags: [volby, klub, koalice, Osmička]
+tags: [Digitalizace, klub, koalice, Osmička, CityVizor]
 ---
 
 
