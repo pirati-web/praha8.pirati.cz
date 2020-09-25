@@ -6,7 +6,7 @@ date: 2020-04-04T5:51:00.000Z
 author: Michal Novák
 authorId: michal.novak
 image: posts/zastupitelstvo3.jpg
-tags: [klub, Praha 8, nouzový stav, TOP 09, STAN, kauza, dezinfekce]
+tags: [klub, Praha 8, nouzový stav, TOP09, STAN, kauza, dezinfekce]
 ---
 
 
