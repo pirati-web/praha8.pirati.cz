@@ -6,7 +6,7 @@ date: 2020-04-21T05:51:00.000Z
 author: Martin Štěrba
 authorId: martin.sterba
 image: posts/zastupitelstvo2.jpg
-tags: [klub, Praha 8, nouzový stav, zastupitelstvo, kauza, dezinfekce]
+tags: [klub, Praha8, NouzovýStav, zastupitelstvo, kauza, dezinfekce]
 ---
 
 **Piráti Praha 8 na úterním zastupitelstvu městské části budou žádat vysvětlení kauzy dezinfekce již bývalého radního pro IT Josefa Slobodníka z ODS. Starosta Ondřej Gros (ODS) ignoroval žádost opozičních zastupitelů Pirátů, uskupení Osmička žije spolu s KDU-ČSL, Zelenými a místostarostou Jiřím Vítkem (Patrioti pro Prahu 8/Trikolóra) na svolání mimořádného zastupitelstva. Svolal „své vlastní“ a naše požadavky do programu jednání zastupitelstva vůbec nezařadil. Piráti budou žádat, aby body programu o auditu Slobodníkovi gesce a o kontrole zakázek ze strany MHMP, byly zařazeny, jinak budeme trvat na vyhlášení mimořádného zastupitelstva.**
