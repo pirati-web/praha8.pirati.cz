@@ -6,7 +6,7 @@ date: 2020-07-07T05:51:00.000Z
 author: Martin Štěrba
 authorId: martin.sterba
 image: posts/restu_dvakohouti.jpg
-tags: [klub, koalice, zastupitelsvo, podpora živnostníků, koronavirus, Magistrát]
+tags: [klub, koalice, zastupitelsvo, koronavirus, Magistrát]
 ---
 
 **Podnikatelé a živnostníci v prostorách MČ Praha 8 mohou počítat se slevou na nájemném v rozmezí 30–50%. Minulý týden o tom jednohlasně rozhodli zastupitelé naší městské části.**
