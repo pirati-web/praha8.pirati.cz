@@ -6,7 +6,7 @@ date: 2020-08-25T05:51:00.000Z
 author: Alice Hamalová
 authorId: alice.hamalova
 image: posts/letistepraha.jpg
-tags: [klub, Praha 8, Letiště Václava Havla, budoucnost, Osmička, životní prostředí, Magistrát]
+tags: [klub, Praha 8, LetištěVáclavaHavla, budoucnost, Osmička, životníprostředí, Magistrát]
 ---
 
 **Rozšíření letiště je rozděleno do vícero fází. Ta první je o úpravě stávajících terminálů, přeskupení kontroly bezpečnosti a dostavbě dalších nástupních prstů.** Má vylepšit efektivnost a přehlednost odbavení cestujících a možné navýšení kapacity až na 21 milionů cestujících za rok. Vloni se na Letišti Václava Havla odbavilo téměř 18 milionů cestujících, jedná se o navýšení o 18 procent, což je akceptovatelné.
