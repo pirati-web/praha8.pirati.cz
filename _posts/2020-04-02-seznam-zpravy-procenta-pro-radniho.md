@@ -6,7 +6,7 @@ date: 2020-04-02T07:51:00.000Z
 author: Martin Štěrba
 authorId: martin.sterba
 image: posts/slobodnik-dezinfekce.jpg
-tags: [klub, Praha 8, nouzový stav, koronavirus, ODS, kauza, dezinfekce]
+tags: [klub, Praha8, NouzovýStav, koronavirus, ODS, kauza, dezinfekce]
 ---
 
 
