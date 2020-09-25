@@ -6,7 +6,7 @@ date: 2020-09-25T5:51:00.000Z
 author: Pavel Franc
 authorId: pavel.franc
 image: posts/skatepark-bohnice.jpg
-tags: [klub, Bohnice, sport]
+tags: [Bohnice, Sport]
 ---
 
 **Ve čtvrtek se v Bohnicích konal [Ride For Skatepark Bohnice](https://www.facebook.com/events/s%C3%ADdli%C5%A1t%C4%9B-bohnice/ride-for-skatepark-bohnice/3249388865147152/), tedy benefiční akce na podporu skateparku v Bohnicích.** Součástí byla i výstava fotografií ze světa skateboardingu, petiční stánek, ale hlavně hromadná jízda skateboardistů a koloběžkářů. Za nás se zúčastnil zastupitel [Pavel Franc](https://praha8.pirati.cz/lide/pavel-franc/). 
