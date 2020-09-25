@@ -6,7 +6,7 @@ date: 2020-04-27T15:51:00.000Z
 author: Martin Štěrba
 authorId: martin.sterba
 image: posts/modrezony.jpg
-tags: [klub, Praha, doprava, ModréZóny, parkování, Magistrát]
+tags: [klub, doprava, ModréZóny, parkování, Magistrát]
 ---
 
 **Mnoho z Vás si jistě v médiích či ve skupinách na Facebooku před malou chvílí přečetlo informaci o znovuobnovení modrých zón na území hlavního města Prahy.** 
