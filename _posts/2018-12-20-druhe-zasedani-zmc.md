@@ -6,7 +6,7 @@ date: 2018-12-20T18:10:00.000Z
 author: 
 authorId:
 image: posts/tym8.jpg
-tags: [klub, koalice]
+tags: [klub, koalice, zastupitelstvo]
 ---
 
 Ve středu 19. prosince se uskutečnilo druhé jednání Zastupitelstva MČ Praha 8. Zúčastnil se celý náš osmičlenný zastupitelský klub.
