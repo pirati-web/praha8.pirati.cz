@@ -6,7 +6,7 @@ date: 2020-01-05T15:22:00.000Z
 author: Martin Štěrba
 authorId: martin.sterba
 image: posts/osmicka_kasinaaherny.jpg
-tags: [Osmička, veřejnýprostor, Florenc, bezpečnost, hazard]
+tags: [Osmička, VeřejnýProstor, Florenc, Bezpečnost, Hazard]
 ---
 
 
