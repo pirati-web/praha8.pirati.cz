@@ -6,7 +6,7 @@ date: 2020-07-01T05:51:00.000Z
 author: Martin Štěrba
 authorId: martin.sterba
 image: posts/cityvizorprosel2.png
-tags: [klub, Praha 8, zastupitelstvo, kauza, cityvizor]
+tags: [klub, Praha8, zastupitelstvo, kauza, CityVizor, transparentnost]
 ---
 
 **Na dnešním zastupitelstvu MČ Praha 8 bylo schváleno, že se městská část Praha 8 připojí k aplikaci Cityvizor. Stalo se tak díky práci našich zastupitelů. Pro hlasovali všichni přítomní zastupitelé napříč politickým spektrem, tedy kromě nás i zástupci ODS, TOP 09, STAN, ANO, Osmička žije, Patrioti pro Prahu 8 a Osmička sobě (KDU-ČSL a Strana zelených).**
