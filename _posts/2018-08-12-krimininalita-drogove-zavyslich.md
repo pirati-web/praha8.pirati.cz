@@ -7,6 +7,7 @@ title: Kriminalita drogově závislých
 author: Michal Novák
 authorId: michal.novak    # uid nekoho z _people (nepoviné)
 image: posts/prohibited.jpg
+tags: [Bezpečnost]
 ---
 
 
