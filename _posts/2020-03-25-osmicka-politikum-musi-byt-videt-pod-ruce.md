@@ -6,7 +6,7 @@ date: 2020-03-25T10:20:00.000Z
 author: Jan Hamal Dvořák
 authorId: jan.hamal.dvorak
 image: posts/cityvizor-praha.png
-tags: [volby, klub, koalice, CityVizor, Osmička, sloupek]
+tags: [klub, koalice, CityVizor, Osmička]
 ---
 
 
