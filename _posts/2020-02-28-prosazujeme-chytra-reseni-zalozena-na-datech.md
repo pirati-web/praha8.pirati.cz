@@ -6,7 +6,7 @@ date: 2020-02-28T10:20:00.000Z
 author: Michal Novák
 authorId: michal.novak
 image: posts/osmicka_zavorabohnice.jpg
-tags: [volby, klub, koalice, Bohnice, světelná závora, Osmička, sloupek]
+tags: [klub, koalice, Bohnice, Osmička]
 ---
 
 
