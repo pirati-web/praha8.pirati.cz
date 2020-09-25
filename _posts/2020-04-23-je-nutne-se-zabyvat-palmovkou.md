@@ -6,7 +6,7 @@ date: 2020-04-23T10:51:00.000Z
 author: Karel Ptáček
 authorId: karel.ptacek
 image: posts/Palmovkastramvaji.jpg
-tags: [klub, Praha8, zastupitelstvo, NováPalmovka, Palmovka, kauza]
+tags: [Zastupitelstvo, NováPalmovka, Palmovka]
 ---
 
 **Palmovka ani jeho okolí rozhodně nepatří mezi výkladní skříně, a to jak naší městské části, tak i celé Prahy. Palmovka je zanedbaná, a potřebuje zlepšit. To víme všichni.**
