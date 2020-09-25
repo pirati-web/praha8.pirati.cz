@@ -4,7 +4,7 @@ category: blog
 title: 'Libeňský most čeká rekonstrukce, magistrát vypíše veřejnou zakázku'
 date: 2020-09-24T9:51:00.000Z
 author: MHMP
-authorId: martin.sterba
+authorId: MHMP
 image: posts/libenskymost.jpg
 tags: [klub, Praha 8, Libeňský most, Magistrát, rekonstrukce]
 ---
