@@ -5,7 +5,7 @@ title: 'Kam se půjdeme letos klouzat? Možná, že nikam.'
 date: 2020-10-16T5:51:00.000Z
 author: Pavel Franc
 authorId: pavel.franc
-image: posts/kluziste-ladvi.png
+image: posts/kluziste_ladvi.png
 tags: [Ládví, Sport]
 ---
 
