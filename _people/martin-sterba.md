@@ -27,7 +27,7 @@ Martin Štěrba se narodil v roce 1987 v Plzni a do Prahy se finálně přestěh
 
 **Registrovaným příznivcem Pirátů je od března 2018, členem strany potom od prosince 2018. Od 23. 1. 2019 je prvním místopředsedou MS Praha 8.**
 
-Celý svůj profesní život se věnuje médiím a komunikaci. V minulosti pracoval jako píšící redaktor v deníku Metro a také jako televizní reportér pro TV Nova. Od roku 2013 se věnuje komunikaci a marketingu na sociálních sítích – vedl sociální sítě TV Barrandov, byl webeditorem týdeníku Marketing&Media, vedl sociální sítě internetové televize Stream.cz, spolurozjížděl MALL.TV, spolupracoval na kampaních pro Adidas či Škoda Auto, a také sepsal řadu analýz a doporučení v oblasti komunikace a sociálních médií.
+[Celý svůj profesní život](https://www.linkedin.com/in/sterbamartin/) se věnuje médiím a komunikaci. V minulosti pracoval jako píšící redaktor v deníku Metro a také jako televizní reportér pro TV Nova. Od roku 2013 se věnuje komunikaci a marketingu na sociálních sítích – vedl sociální sítě TV Barrandov, byl webeditorem týdeníku Marketing&Media, vedl sociální sítě internetové televize Stream.cz, spolurozjížděl MALL.TV, spolupracoval na kampaních pro Adidas či Škoda Auto, a také sepsal řadu analýz a doporučení v oblasti komunikace a sociálních médií.
 
 Ve volném čase má rád knihy, filmy, hudbu, sociální sítě, cestování do neznáma, sezení na Náplavce, jízdu vlakem a festivaly. Od svých dvanácti let je skautem a je ředitelem skautského projektu [Svojsíkův sen](http://www.svojsikuvsen.cz), který se s heslem „Budoucnost začíná nyní“ dívá do let příštích. Dlouhá léta také z pozice šéfa komunikace a fundraisingu organizoval festival [Obrok](https://cs.wikipedia.org/wiki/Obrok).
 
