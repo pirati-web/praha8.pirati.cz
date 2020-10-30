@@ -13,13 +13,13 @@ tags: [Karlín, VeřejnýProstor, Magistrát]
 
 Projekt navazuje na pilotní testování LED svítidel vybavených senzory, který v oblasti Karlínského náměstí realizovala městská společnost Operátor ICT v letech 2018-2020. Svítidla z původního projektu byla, již v rámci produkčního nasazení, přestěhována do jiných částí Prahy.
 
-> *"Nyní dokážeme přizpůsobit hladinu osvětlení v oblasti a dosáhnout při tom finančních úspor za elektrickou energii. Město díky tomu ušetří na svícení a obyvatelé okolních domů zase ocení snížení světelného smogu,“* uvedl radní hl. m. Prahy pro oblast majetku Jan Chabr s tím, že dnes je v této oblasti harmonogram svícení nastaven tak, že v době nočního klidu dochází ke snížení intenzity osvětlení. Díky vzdáleným informacím o aktuálním stavu svítidel město ušetří také na údržbě.
+> *"Nyní dokážeme přizpůsobit hladinu osvětlení v oblasti a dosáhnout při tom finančních úspor za elektrickou energii. Město díky tomu ušetří na svícení a obyvatelé okolních domů zase ocení snížení světelného smogu,“* uvedl radní hl. m. Prahy pro oblast majetku Jan Chabr. 
 
-Nový projekt je zaměřen na komunikaci a regulaci jednotlivých svítidel. 
+Dnes je harmonogram svícení nastaven tak, že v době nočního klidu dochází ke snížení intenzity osvětlení, díky vzdáleným informacím o aktuálním stavu svítidel město ušetří také na údržbě. Nový projekt je zaměřen na komunikaci a regulaci jednotlivých svítidel. 
 
-> *"Díky tomu může náš dispečink v reálném čase regulovat provozní parametry a v rozšířené míře vidí i stav jednotlivých svítidel a případné poruchy,“* vysvětlil předseda představenstva THMP Tomáš Jílek s tím, že technologie umožňuje i dálkové vypnutí a zapnutí světel, řízení jejich intenzity nebo nastavení minutového kalendáře umožňujícího plynule měnit jejich jas. 
+> *"Díky tomu může náš dispečink v reálném čase regulovat provozní parametry a v rozšířené míře vidí i stav jednotlivých svítidel a případné poruchy,“* vysvětlil předseda představenstva THMP Tomáš Jílek. 
 
-Na základě vyhodnocení předchozího pilotního projektu byla v Karlíně také instalována nová meteorologická a environmentální stanice. Ta měří parametry venkovního prostředí ve vybrané oblasti. Má deset nezávislých senzorů a umí měřit například kvalitu ovzduší, teplotu, atmosférický tlak nebo prachové částice. Data ze stanice budou přístupná v rámci městské datové platformy Golemio a díky tomu i široké veřejnosti.
+Technologie umožňuje i dálkové vypnutí a zapnutí světel, řízení jejich intenzity nebo nastavení minutového kalendáře umožňujícího plynule měnit jejich jas. Na základě vyhodnocení předchozího pilotního projektu byla v Karlíně také instalována nová meteorologická a environmentální stanice. Ta měří parametry venkovního prostředí ve vybrané oblasti. Má deset nezávislých senzorů a umí měřit například kvalitu ovzduší, teplotu, atmosférický tlak nebo prachové částice. Data ze stanice budou přístupná v rámci městské datové platformy Golemio a díky tomu i široké veřejnosti.
 
 Karlínský projekt byl dokončen na konci prázdnin, v září ale ještě jednotlivé stožáry dostávaly nové nátěry.
 
