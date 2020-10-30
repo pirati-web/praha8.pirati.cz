@@ -23,4 +23,4 @@ Technologie umožňuje i dálkové vypnutí a zapnutí světel, řízení jejich
 
 Karlínský projekt byl dokončen na konci prázdnin, v září ale ještě jednotlivé stožáry dostávaly nové nátěry.
 
-[*(tisková zpráva Magistrátu hl. města Prahy)*](https://www.praha.eu/jnp/cz/o_meste/magistrat/tiskovy_servis/tiskove_zpravy/prazska_ctvrt_karlin_ma_nove_verejne.html)
+> [Jedná se o tiskovou zprávu, kterou vydal Magistrát hl. města Prahy dne 29. 10. 2020](https://www.praha.eu/jnp/cz/o_meste/magistrat/tiskovy_servis/tiskove_zpravy/prazska_ctvrt_karlin_ma_nove_verejne.html)
