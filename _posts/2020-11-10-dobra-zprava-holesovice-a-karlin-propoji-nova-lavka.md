@@ -9,7 +9,7 @@ image: posts/lavka-holesovice-holka
 tags: [Karlín, Holešovice, Doprava]
 ---
 
-**Měli jsme výstavbu lávky mezi Karlínem a Holešovicemi i ve svém volebním programu. Jsme proti rádi, že to i díky kolegům na Magistrátu hlavního města Prahy klaplo, a lávka se začne stavět. Hotová bude do konce roku 2022.**
+**Měli jsme výstavbu lávky mezi Karlínem a Holešovicemi s názvem HolKa ve svém volebním programu. Jsme proto rádi, že to i díky kolegům na Magistrátu hlavního města Prahy klaplo, a lávka se začne stavět. Hotová bude do konce roku 2022.**
 
 > "Karlínští se díky nové lávce dostanou za pár minut před brány Holešovické tržnice. HolKa urychlí cestu i lidem z Žižkova. Svou polohou totiž navazuje na Vítkovský tunel. Skvělé je, že získáme nový bezbariérový přístup na ostrov Štvanice, který čeká celková proměna a stane se z něj nový park. Do teď to bylo možné pouze z rušného Hlávkova mostu. Pro cyklodopravu bude HolKa strategickým místem, protože propojí cyklostezky vedoucí podél řeky na obou březích," říká náměstek primátora pro dopravu **Adam Scheinherr**.
 
