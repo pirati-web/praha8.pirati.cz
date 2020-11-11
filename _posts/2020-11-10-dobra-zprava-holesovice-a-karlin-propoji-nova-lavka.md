@@ -2,10 +2,10 @@
 layout: post
 category: blog
 title: 'Dobrá zpráva! Holešovice a Karlín propojí nová lávka'
-date: 2020-11-11T5:51:00.000Z
+date: 2020-11-10T5:51:00.000Z
 author: Martin Štěrba
 authorId: martin.sterba
-image: posts/lavka-holesovice-holka
+image: posts/lavka-holesovice-holka.jpg
 tags: [Karlín, Holešovice, Doprava]
 ---
 
