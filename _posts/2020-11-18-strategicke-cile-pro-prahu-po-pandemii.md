@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title: 'Strategické cíle pro Prahu 8 po pandemii? Obchody za rohem a úřad na internetu. '
+title: 'Strategické cíle pro Prahu 8 po pandemii? Obchody za rohem a úřad na internetu'
 date: 2020-11-18T5:51:00.000Z
 author: Martin Staněk
 authorId: martin.stanek
