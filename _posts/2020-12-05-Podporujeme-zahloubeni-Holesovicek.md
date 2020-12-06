@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: 'Dlouhodobě podporujeme zahloubení ulice V Holešovičkách. Co pro to děláme?'
-date: 2020-12-05T5:51:00.000Z
+date: 2020-12-05T14:51:00.000Z
 author: Martin Štěrba
 authorId: martin.sterba
 image: posts/holesovicky-bulovka.png
