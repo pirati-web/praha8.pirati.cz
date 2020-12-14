@@ -6,7 +6,7 @@ date: 2020-12-14T10:51:00.000Z
 author: Martin Štěrba
 authorId: martin.sterba
 image: posts/vozovna-kobylisy.png
-tags: [Doprava, Kobilisy, Zdiby, MHD]
+tags: [Doprava, Kobylisy, Zdiby, MHD]
 ---
 
 **Odbor ochrany prostředí pražského magistrátu vydal ve čtvrtek verdikt k chystané tramvajové trati z Kobylis do Zdib. Trať úspěšně prošla procesem posouzení vlivu na okolí (EIA) a pražští a středočeští plánovači tak mohou pokračovat v její přípravě. Píše o tom třeba web [ZDopravy.cz](https://zdopravy.cz/tramvaj-z-prahy-do-zdib-prosla-uspesne-posouzenim-vlivu-na-okolni-prostredi-68590).**
