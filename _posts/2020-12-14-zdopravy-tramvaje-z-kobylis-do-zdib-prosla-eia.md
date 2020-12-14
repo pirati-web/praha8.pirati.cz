@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: Tramvaj z Kobylis do Zdib prošla úspěšně posouzením vlivu na okolní prostředí
-date: 2020-12-05T14:51:00.000Z
+date: 2020-12-14T10:51:00.000Z
 author: Martin Štěrba
 authorId: martin.sterba
 image: posts/vozovna-kobylisy.png
