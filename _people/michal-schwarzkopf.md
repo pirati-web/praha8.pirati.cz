@@ -4,7 +4,7 @@ name: Michal Schwarzkopf
 titles:
   before: Ing.
   after: Ph.D.
-category: 
+category: clenove
 img: people/michal-schwarzkopf.jpg 
 description: 
 mail: 
