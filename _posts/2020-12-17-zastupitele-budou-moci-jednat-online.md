@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title: 'Zastupitelé budou moci jednat při karanténě on-line'
+title: 'Zastupitelé budou moci jednat v karanténě on-line'
 date: 2020-12-17T5:51:00.000Z
 author: Martin Štěrba
 authorId: martin.sterba
