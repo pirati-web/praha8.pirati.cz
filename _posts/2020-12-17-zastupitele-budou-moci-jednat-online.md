@@ -5,7 +5,7 @@ title: 'Zastupitelé budou moci jednat v karanténě on-line'
 date: 2020-12-17T5:51:00.000Z
 author: Martin Štěrba
 authorId: martin.sterba
-image: posts/praha8-bilydum.jpg
+image: posts/praha8-bilydum.png
 tags: [Digitalizace, Zastupitelstvo]
 ---
 
