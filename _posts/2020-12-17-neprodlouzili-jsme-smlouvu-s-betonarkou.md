@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: 'Betonárna by měla z Karlína zmizet, souhlasili jsme s neprodloužením smlouvy'
-date: 2020-12-17T5:51:00.000Z
+date: 2020-12-17T7:51:00.000Z
 author: Martin Štěrba
 authorId: martin.sterba
 image: posts/karlin-betonarna.png
