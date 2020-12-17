@@ -11,4 +11,4 @@ tags: [Digitalizace, Zastupitelstvo]
 
 **Na jednání zastupitelstva MČ Praha 8 jsme zastupitelům předložili materiál, aby přijali nový jednací řád, ve kterém navrhujeme doplnění distanční účasti na zastupitelstvu pro ty, kteří mají nařízenou karanténu v době pandemie.** Zastupitelé by se měli na jednání připojovat skrze videokonferenci. 
 
-Náš návrh úpravy jednacího řádu sepsali v řádu hodin [https://praha8.pirati.cz/lide/martin-sterba/](Martin Štěrba) a [https://praha8.pirati.cz/lide/ivo-slavka/](Ivo Slávka) byl schválen.
+Náš návrh úpravy jednacího řádu sepsali v řádu hodin [Martin Štěrba](https://praha8.pirati.cz/lide/martin-sterba/) a [Ivo Slávka](https://praha8.pirati.cz/lide/ivo-slavka/) byl schválen.
