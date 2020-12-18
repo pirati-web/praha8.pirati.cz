@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title: 'Známka pro koalici v půlce volebního období? Za čtyři!'
+title: 'Známka pro vládnoucí koalici v půlce volebního období? Za čtyři!'
 date: 2020-12-18
 author: Michal Novák
 authorId: michal.novak
