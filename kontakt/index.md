@@ -9,11 +9,11 @@ contentSize: default
   <h1 class="t-h2-alt">Přidejte se</h1>
 </div>
 
-Zajímá vás co Piráti dělají a jak? Ozvěte se [Martinu Štěrbovi](/lide/martin-sterba) a přijďte k nám na otevřenou schůzi ať už on-line či off-line.
+Zajímá vás co Piráti dělají a jak? Ozvěte se [Martinu Štěrbovi](/lide/martin-sterba) a přijďte k nám na otevřenou schůzi, ať už on-line či off-line. Potkáváme se pravidelně.
 
 Webové stránky pražského sdružení najdete na [praha.pirati.cz](https://praha.pirati.cz/). 
 
-Jsme také na [Facebooku](https://fb.com/piratipraha8).
+Komunikujeme pravidelně také na Facebooku, najdete nás jako [Piráti Praha 8](https://fb.com/piratipraha8).
 
 Odměny za veřejné funkce najdete na společném pirátském webu [https://nalodeni.pirati.cz/odmeny/](https://nalodeni.pirati.cz/odmeny/).
 
