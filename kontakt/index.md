@@ -9,11 +9,13 @@ contentSize: default
   <h1 class="t-h2-alt">Přidejte se</h1>
 </div>
 
-Zajímá vás co Piráti dělají a jak? Ozvěte se [Martinu Staňkovi](/lide/martin-stanek) a přijďte k nám na otevřenou schůzi. Ta se koná obvykle každou čtvrtou středu v měsíci večer. 
+Zajímá vás co Piráti dělají a jak? Ozvěte se [Martinu Štěrbovi](/lide/martin-sterba) a přijďte k nám na otevřenou schůzi ať už on-line či off-line.
 
-Webové stránky pražského sdružení najdete na [praha.pirati.cz](https://praha.pirati.cz/). Jsme také na [Facebooku](https://fb.com/piratipraha8).
+Webové stránky pražského sdružení najdete na [praha.pirati.cz](https://praha.pirati.cz/). 
 
-Odměny za veřejné funkce najdete v našem dokumentu [na GDrive](https://docs.google.com/spreadsheets/d/1IeZu492lihgAtTmhhWqdu2WJyyFYbUB0LA4-PPxzeVw/edit?usp=sharing).
+Jsme také na [Facebooku](https://fb.com/piratipraha8).
+
+Odměny za veřejné funkce najdete na společném pirátském webu [https://nalodeni.pirati.cz/odmeny/](https://nalodeni.pirati.cz/odmeny/).
 
 Veškerou evidenci kontaktů a schůzek najdete na [evidence.pirati.cz](https://evidence.pirati.cz/).
 
