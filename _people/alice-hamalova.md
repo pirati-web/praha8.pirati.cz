@@ -2,10 +2,11 @@
 uid: alice.hamalova
 name: Alice Hamalová 
 category:  
-  - clenove
+  - pms
+ordpms: 3
 img: people/alice-hamalova.jpg 
 profession: chemik, výzkumný pracovník
-description: zastupitelka, členka finančního výboru ZMČP8, členka komise RMČP8 pro životní prostředí
+description: zastupitelka, místopředsedkyně MS Praha 8, členka finančního výboru ZMČP8, členka komise RMČP8 pro životní prostředí
 mail: 
  - alice.hamalova@pirati.cz
 profiles:
