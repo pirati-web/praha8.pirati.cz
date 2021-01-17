@@ -1,7 +1,7 @@
 ---
 uid: jan.horn
 name: Jan Horn
-titles:
+titles: místopředseda MS Praha 8
   before: 
 category:  
   - pms
