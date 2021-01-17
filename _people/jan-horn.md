@@ -3,7 +3,9 @@ uid: jan.horn
 name: Jan Horn
 titles:
   before: 
-category:  clenove
+category:  
+  - pms
+ordpms: 5
 img: people/jan-horn.jpg 
 #description: 
 mail: 
