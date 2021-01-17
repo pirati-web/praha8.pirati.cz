@@ -7,7 +7,7 @@ category:
   - pms
 ordpms: 5
 img: people/jan-horn.jpg 
-#description: místopředseda MS Praha 8
+description: místopředseda MS Praha 8
 mail: 
   - jan.horn@pirati.cz
 profiles:
