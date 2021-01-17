@@ -4,10 +4,9 @@ name: Michal Novák
 titles:
   after: MBA
 category: 
-  - pms
+  - clenove
 img: people/michal-novak.jpg 
-description: předseda zastupitelského klubu, místopředseda MS Praha 8, místopředseda kontrolního výboru ZMČP8, člen komise RMČP8 pro pro dopravu, člen komise RMČP8 pro majetek
-ordpms: 4
+description: předseda zastupitelského klubu, místopředseda kontrolního výboru ZMČP8, člen komise RMČP8 pro pro dopravu, člen komise RMČP8 pro majetek
 mail: 
   - michal.novak@pirati.cz
 profiles:
