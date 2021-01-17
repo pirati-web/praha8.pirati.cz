@@ -5,7 +5,7 @@ titles:
   before: 
 category:  
   - pms
-ordpms: 3
+ordpms: 4
 img: people/mahu-opletalova.jpg 
 description: místopředsedkyně MS Praha 8, členka komise RMČP8 pro obecní byty
 mail: 
