@@ -1,8 +1,8 @@
 ---
 uid: jan.hamal.dvorak
 name: Jan Hamal Dvořák 
-category:  pms
-ordpms: 5
+category:  
+  - clenove
 img: people/jan-hamal-dvorak.jpg 
 description: zastupitel, místopředseda MS Praha 8, člen komise RMČP8 pro IT
 mail: 
