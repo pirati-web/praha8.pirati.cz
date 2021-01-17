@@ -2,13 +2,14 @@
 uid: lukas.wagenknecht
 name: Lukáš Wagenknecht 
 titles:
-  before: Mgr.
+  before: Ing.
 category:  
   - priznivci
   - ustavni-cinitele
 img: people/lukas-wagenknecht.jpg  
 profession: ekonom, interní auditor
 description: senátor
+mob: +420 608 303 542
 mail: 
  - info@lukaswagenknecht.cz
 profiles:
@@ -17,9 +18,14 @@ profiles:
   blog: http://blog.aktualne.cz/blogy/lukas-wagenknecht.php
   web: https://lukaswagenknecht.cz/
 asistenti:
-  - name: Karolína Ždárská
+  - name: Ing. Karolína Ždárská
     position: Asitentka
     mail: k.zdarska@gmail.com
+    mob: +420 736 513 283
+  - name: Ing. Václav Turko
+    position: Asistent
+    mail: vturko@atlas.cz
+  
 ---
 
 
