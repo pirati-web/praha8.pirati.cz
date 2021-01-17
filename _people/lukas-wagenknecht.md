@@ -11,6 +11,7 @@ profession: ekonom, interní auditor
 description: senátor
 mob: +420 608 303 542
 mail: 
+ - wagenknechtl@senat.cz
  - info@lukaswagenknecht.cz
 profiles:
   facebook: https://www.facebook.com/WagenknechtLuk/
