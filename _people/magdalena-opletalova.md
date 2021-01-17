@@ -1,12 +1,13 @@
 ---
 uid: magdalena.opletalova
 name: Mahu Opletalová
-titles:
+titles: 
   before: 
 category:  
-  - clenove
+  - pms
+ordpms: 3
 img: people/mahu-opletalova.jpg 
-description: členka komise RMČP8 pro obecní byty
+description: místopředsedkyně MS Praha 8, členka komise RMČP8 pro obecní byty
 mail: 
   - magdalena.opletalova@pirati.cz
 profiles:
