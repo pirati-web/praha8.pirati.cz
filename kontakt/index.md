@@ -1,6 +1,6 @@
 ---
 layout: contacts
-description: Pirátská strana v Praze 8 je otevřená a ráda přivítá dobrovolníky a odpoví na dotazy kritiků.
+description: Rádi přivítáníme nové členy, dobrovolníky, a zodpovíme na dotazy. Jsme Piráti a jsme ootevření všem bez výjimky.
 keywords: kontakt, adresa, telefon, mail, facebook, kde najdu, kde jsou
 contentSize: default
 ---
