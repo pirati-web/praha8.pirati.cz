@@ -5,9 +5,9 @@ titles:
   before: Mgr.
   after: Ph.D.
 category:  
-  - pms
+  - clenove
 ordpms: 1
-description: zastupitel, předseda MS Praha 8, člen komise RMČP8 pro kulturu a volný čas
+description: zastupitel, člen komise RMČP8 pro kulturu a volný čas
 img: people/martin-stanek.jpg 
 mob: 775 058 555
 mail:
