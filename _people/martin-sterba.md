@@ -9,7 +9,7 @@ category:
 ordpms: 1
 img: people/martin-sterba.jpg  
 description: předseda MS Praha 8, místopředseda redakční rady časopisu Osmička, poradce primátora hl. města Prahy
-mob: 732 408 769
+mob: +420 732 408 769
 mail: 
   - martin.sterba@pirati.cz 
 profiles:
