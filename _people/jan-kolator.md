@@ -13,6 +13,8 @@ mail:
 profiles:
 ---
 
-Je mi 39 let, mým rodištěm i bydlištěm jsou Bohnice v Praze 8.
-Pracuju v Národní technické knihovně jako systémový knihovník. Zajímá mne nasazování chytrých technologií do procesu řízení a správy města, chytré město může skutečně fungovat, pokud se to správně uchopí a neudělá se z toho pouze penězovod.
-Na Praze 8 bych se chtěl vyjadřovat k dopravě i výstavbě, která je v poslední době velmi kontroverzním tématem, chceme žít v místě s občanskou vybaveností, ne si veřejný prostor nechat rozprodat developery.
+Jan Kolátor je místopředsedou PMS na Praze 8. Narodil se se v Praze, žije v Praze a doufá, že zde i zemře. Vystudoval gymnázium a vysokou školu na univerzitě také v Praze.
+
+Pracuje v Národní technické knihovně a pro další knihovny (i mimo Prahu), věnuje se nasazování OS do praxe. V současnosti se věnuje na Praze 8 pirátským nováčkům. Zastupuje Piráty také v Komisi pro bezpečnost a prevenci sociálněpatologických jevů na Praze 8.
+
+Angažuje se v aktivitách pirátů týkajících se autorského a knihovního zákona, bezpečnosti a prevenci kriminality. Pracuje v pirátském týmu pro kulturu.
