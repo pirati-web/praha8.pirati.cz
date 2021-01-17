@@ -1,13 +1,13 @@
 ---
 uid: jan.horn
 name: Jan Horn
-titles: místopředseda MS Praha 8
+titles: 
   before: 
 category:  
   - pms
 ordpms: 5
 img: people/jan-horn.jpg 
-#description: 
+#description: místopředseda MS Praha 8
 mail: 
   - jan.horn@pirati.cz
 profiles:
