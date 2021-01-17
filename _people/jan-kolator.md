@@ -5,9 +5,9 @@ titles:
   before: Mgr.
 category:  
   - pms
-ordpms: 3
+ordpms: 2
 img: people/jan-kolator.jpg 
-description: místopředseda MS Praha 8, člen komise RMČP8 pro bezpečnost a prevenci sociálněpatologických jevů
+description: 1. místopředseda MS Praha 8, člen komise RMČP8 pro bezpečnost a prevenci sociálněpatologických jevů
 mail: 
   - jan.kolator@pirati.cz
 profiles:
