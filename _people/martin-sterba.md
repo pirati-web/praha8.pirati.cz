@@ -32,3 +32,7 @@ Martin Štěrba se narodil v roce 1987 v Plzni a do Prahy se finálně přestěh
 Ve volném čase má rád knihy, filmy, hudbu, sociální sítě, cestování do neznáma, sezení na Náplavce, jízdu vlakem a festivaly. Od svých dvanácti let je skautem a je ředitelem skautského projektu [Svojsíkův sen](http://www.svojsikuvsen.cz), který se s heslem „Budoucnost začíná nyní“ dívá do let příštích. Dlouhá léta také z pozice šéfa komunikace a fundraisingu organizoval festival [Obrok](https://cs.wikipedia.org/wiki/Obrok).
 
 **Ve skautu se naučil, že od rozdělané práce se neodchází, proto se nikdy nespokojí s polovičním výsledkem.** A toho se chce chtěl držet i v činnosti pro Pirátskou stranu. K Pirátům ho přivedl fakt, že to – co se děje v našem státě – je už prostě přes čáru.
+
+#### Dokumenty
+> [Evidence schůzek](https://evidence.pirati.cz/author/357/)
+> [Příjmy za volené/jmenované funkce](https://nalodeni.pirati.cz/odmeny)
