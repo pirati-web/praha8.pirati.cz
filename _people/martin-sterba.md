@@ -35,4 +35,5 @@ Ve volném čase má rád knihy, filmy, hudbu, sociální sítě, cestování do
 
 #### Dokumenty
 > [Evidence schůzek](https://evidence.pirati.cz/author/357/)
+
 > [Příjmy za volené/jmenované funkce](https://nalodeni.pirati.cz/odmeny)
