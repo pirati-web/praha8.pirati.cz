@@ -13,7 +13,9 @@ mail:
 profiles:
 ---
 
-**Jan Horn** má dlouhodobý zájem o lokální komunální politiku Prahy 8. Vyhovuje mu přímý kontakt s občany a zaměřuje se především na problémy "obyčejného člověka" a sociálně slabších skupin .Narozen v dubnu, roku 1979 v Praze. Vystudoval nejprve SŠ s ekonomickým zaměřením, následně uměleckořemeslnou školu se specializací umělecký kovář a zámečník. Vlastní firmu na zákazkovou kovovýrobu, které se aktivně věnuje dodnes. Ve volném čase působí jako přednášející, vedoucí workshopů a copywriter. Má bohaté zkušenosti ze světa obchodu, marketingu a vývoje. V lednu roku 2020 mu vyšla [první kniha u nakladatelství Straky na vrbě](https://www.databazeknih.cz/knihy/valard-valard-aamp-vejce-na-draka-416969).
+**Jan Horn** má dlouhodobý zájem o lokální komunální politiku Prahy 8. Vyhovuje mu přímý kontakt s občany a zaměřuje se především na problémy "obyčejného člověka" a sociálně slabších skupin.
+
+Narozen v dubnu roku 1979 v Praze. Vystudoval nejprve SŠ s ekonomickým zaměřením, následně uměleckořemeslnou školu se specializací umělecký kovář a zámečník. Vlastní firmu na zákazkovou kovovýrobu, které se aktivně věnuje dodnes. Ve volném čase působí jako přednášející, vedoucí workshopů a copywriter. Má bohaté zkušenosti ze světa obchodu, marketingu a vývoje. V lednu roku 2020 mu vyšla [první kniha u nakladatelství Straky na vrbě](https://www.databazeknih.cz/knihy/valard-valard-aamp-vejce-na-draka-416969).
 
 **Oblasti zájmu v rámci samosprávy:** Životní prostředí, kultura, školství. 
 
