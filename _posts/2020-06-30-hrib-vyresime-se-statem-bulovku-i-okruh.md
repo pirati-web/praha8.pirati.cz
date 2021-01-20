@@ -3,8 +3,8 @@ layout: post
 category: blog
 title: 'Hřib: Se státem vyřešíme Bulovku i vnitřní okruh. V září bude podepsáno memorandum'
 date: 2020-07-16T05:51:00.000Z
-author: Martin Štěrba
-authorId: martin.sterba
+author: MHMP
+authorId: 
 image: posts/bulovka.jpg
 tags: [ZdeněkHřib, Bulovka, Doprava, Magistrát]
 ---
