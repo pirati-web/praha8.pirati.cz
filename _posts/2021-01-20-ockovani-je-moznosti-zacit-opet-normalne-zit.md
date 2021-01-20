@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: 'Očkování je možností začít opět normálně žít'
-date: 2021-01-18
+date: 2021-01-20
 author: Anna Filínová
 authorId: anna.filinova
 image: posts/ockovani-covid19.jpg
