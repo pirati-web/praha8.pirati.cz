@@ -3,8 +3,8 @@ layout: post
 category: blog
 title: 'Karlín má nové veřejné osvětlení. Přibyla i enviromentální stanice'
 date: 2020-10-30T5:51:00.000Z
-author: Martin Štěrba
-authorId: martin.sterba
+author: MHMP
+authorId: 
 image: posts/karlin-lampy.png
 tags: [Karlín, VeřejnýProstor, Magistrát]
 ---
