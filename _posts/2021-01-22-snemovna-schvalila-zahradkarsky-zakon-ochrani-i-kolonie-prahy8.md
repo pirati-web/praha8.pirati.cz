@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title: 'Sněmovna schválila zahrádkářský zákon, ochrání i kolonie Prahy 8
+title: 'Sněmovna schválila zahrádkářský zákon, ochrání i kolonie Prahy 8'
 date: 2021-01-22
 author: Martin Štěrba
 authorId: martin.sterba
