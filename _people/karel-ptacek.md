@@ -8,10 +8,11 @@ category:
   - clenove
 img: people/karel-ptacek.jpg 
 #profession: development
-description: zastupitel, člen komise RMČP8 pro bytová družstva a SVJ, člen komise RMČP8 pro územní rozvoj a památkovou péči
+description: zastupitel, místopředseda komise RMČP8 pro bytová družstva a SVJ, člen komise RMČP8 pro územní rozvoj a památkovou péči
 mail: 
   - karel.ptacek@pirati.cz
 profiles:
+  facebook: 		https://www.facebook.com/karel.ptacek.praha8
 ---
 
 Narodil jsem se na Praze 8 a stále zde bydlím. Praha 8, konkrétně Karlín mi velice přirostl k srdci a zažil jsem ještě průmyslový Karlín, ale i jeho velmi rychlou přeměnu po povodních v roce 2002.
