@@ -1,12 +1,12 @@
 ---
 layout: post
 category: blog
-title: 'Sněmovna schválila zahrádkářský zákon, ochrání i kolonie Prahy 8'
+title: 'Sněmovna schválila na zahrádkářský zákon, ochrání i kolonie Prahy 8'
 date: 2021-01-22
 author: Martin Štěrba
 authorId: martin.sterba
 image: posts/zahradky.png
-tags: [ŽivotníProstředí, Piráti]
+tags: [ŽivotníProstředí, Piráti, Sněmovna]
 ---
 
 **[Sněmovna před pár dny schválila zahrádkářský zákon](https://www.pirati.cz/tiskove-zpravy/klima-zelen-developeri-zahradkarsky-zakon.html) zabývající se zahrádkářskými koloniemi. Spolupředkladatelem je pirát a náš poslanec za Vysočinu Jan Pošvář.**
