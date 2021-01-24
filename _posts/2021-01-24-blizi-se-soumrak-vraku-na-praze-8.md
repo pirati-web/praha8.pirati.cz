@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: 'Blíží se soumrak vraků na Praze8?'
-date: 2020-12-24
+date: 2021-01-24
 author: Jan Horn
 authorId: jan.horn
 image: posts/autovraky.png
