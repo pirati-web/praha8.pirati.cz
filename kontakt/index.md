@@ -11,7 +11,7 @@ contentSize: default
 
 **Zajímá vás co děláme na osmičce, a chtěli byste se zapojit?** Neváhejte a přijďte za námi na otevřenou (on-line či off-line) schůzi, potkáváme se pravidelně. Ozvěte se předsedovi našeho místního sdružení [Martinu Štěrbovi](/lide/martin-sterba) nebo [někomu z předsednictva](/lide) a dorazte. Těšíme se na Vás.  
 
-Komunikujeme pravidelně také na Facebooku, najdete nás jako [Piráti Praha 8](https://fb.com/piratipraha8).
+**Komunikujeme pravidelně na Facebooku**, najdete nás jako [Piráti Praha 8](https://fb.com/piratipraha8).
 
 Odměny za veřejné funkce najdete na společném pirátském webu [nalodeni.pirati.cz/odmeny](https://nalodeni.pirati.cz/odmeny/).
 
