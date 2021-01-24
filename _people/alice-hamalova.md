@@ -20,5 +20,3 @@ Volný čas trávím s rodinou a přáteli na kole, na vodě nebo pěší turist
 Na Praze 8 se věnuji převážně dvěma tématům. Za prvé životnímu prostředí a za druhé otevřenosti radnice, která by měla jít občanům naproti a ne jim házet klacky pod nohy. Od uveřejňování čerpání rozpočtu, přes digitální dostupnost podrobných podkladů k zasedání zastupitelstva, až po elektronické vyřizování úředních záležitostí. Radnice má být občanům oporou!
 
 V současnosti reprezentuji občany na Praze 8 jako zastupitelka za Piráty. Dále jsem členkou finančního výboru a členkou komise pro životní prostředí.
-
-Mimo Prahu 8 se dobrovolnicky podílím na organizaci a chodu strany jako pražská místopředsedkyně.
