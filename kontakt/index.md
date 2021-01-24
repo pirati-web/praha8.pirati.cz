@@ -13,7 +13,7 @@ contentSize: default
 
 **Komunikujeme pravidelně na Facebooku**, najdete nás jako [Piráti Praha 8](https://fb.com/piratipraha8). Webové stránky pražského sdružení najdete na [praha.pirati.cz](https://praha.pirati.cz/). 
 
-<h3>Transparenstnost</h3>
+<h4>Transparenstnost</h4>
 - Odměny za veřejné funkce najdete na společném pirátském webu [nalodeni.pirati.cz/odmeny](https://nalodeni.pirati.cz/odmeny/).
 - Veškerou evidenci kontaktů a schůzek najdete na [evidence.pirati.cz](https://evidence.pirati.cz/).
 
