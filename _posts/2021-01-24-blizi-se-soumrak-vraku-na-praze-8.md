@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title: 'Blíží se soumrak vraků na Praze8?'
+title: 'Blíží se soumrak vraků na Praze 8?'
 date: 2021-01-24
 author: Jan Horn
 authorId: jan.horn
