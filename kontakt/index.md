@@ -11,13 +11,11 @@ contentSize: default
 
 **Zajímá vás co děláme na osmičce, a chtěli byste se zapojit?** Neváhejte a přijďte za námi na otevřenou (on-line či off-line) schůzi, potkáváme se pravidelně. Ozvěte se předsedovi našeho místního sdružení [Martinu Štěrbovi](/lide/martin-sterba) nebo [někomu z předsednictva](/lide) a dorazte. Těšíme se na Vás.  
 
-**Komunikujeme pravidelně na Facebooku**, najdete nás jako [Piráti Praha 8](https://fb.com/piratipraha8).
+**Komunikujeme pravidelně na Facebooku**, najdete nás jako [Piráti Praha 8](https://fb.com/piratipraha8). Webové stránky pražského sdružení najdete na [praha.pirati.cz](https://praha.pirati.cz/). 
 
-Odměny za veřejné funkce najdete na společném pirátském webu [nalodeni.pirati.cz/odmeny](https://nalodeni.pirati.cz/odmeny/).
-
-Veškerou evidenci kontaktů a schůzek najdete na [evidence.pirati.cz](https://evidence.pirati.cz/).
-
-Webové stránky pražského sdružení najdete na [praha.pirati.cz](https://praha.pirati.cz/). 
+**Transparenstnost**
+- Odměny za veřejné funkce najdete na společném pirátském webu [nalodeni.pirati.cz/odmeny](https://nalodeni.pirati.cz/odmeny/).
+- Veškerou evidenci kontaktů a schůzek najdete na [evidence.pirati.cz](https://evidence.pirati.cz/).
 
 Finanční dary na podporu našeho fungování můžete posílat na [dary.pirati.cz](https://dary.pirati.cz), jako specifický symbol uveďte 110108.
 
