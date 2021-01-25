@@ -6,7 +6,7 @@ date: 2021-01-20
 author: MHMP
 authorId: 
 image: posts/zdenekhrib.png
-tags: [Koronavirus, Magistrát, ZdeněkHřib]
+tags: [Koronavirus, Magistrát, ZdeněkHřib, NouzovýStav]
 ---
 
 Vážený pane starosto,
