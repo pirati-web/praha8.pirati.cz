@@ -3,8 +3,8 @@ layout: post
 category: blog
 title: 'Cysklostezka na Rohanském ostrově dostane nový povrch'
 date: 2021-01-25
-author: Jan Horn
-authorId: jan.horn
+author: Karel Ptáček
+authorId: karel.ptacek
 image: posts/cyklostezka-rohan-karelptacek.png
 tags: [Karlín, RohanskýOstrov, Doprava, VeřejnýProstor, ŽivotníProstředí]
 ---
