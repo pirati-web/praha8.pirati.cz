@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title: 'Cysklostezka na Rohanském ostrově dostane nový povrch'
+title: 'Cyklostezka na Rohanském ostrově dostane nový povrch'
 date: 2021-01-25
 author: Karel Ptáček
 authorId: karel.ptacek
