@@ -26,6 +26,11 @@ contactSummaryItems:
   - type: organizationEmail
   - type: organizationRedmineLink
   - type: piratiRootWebsite
+  - type: custom
+    iconClass: fa fa-facebook
+    label: Facebook
+    body: <a href="https://www.facebook.com/piratipraha8" target="_blank">Piráti Praha 8</a>
+
 
 calendar:
   apiKey: AIzaSyBdjZxz4r9lPyD3CiSxQa6G3mf47ezI7Ks
