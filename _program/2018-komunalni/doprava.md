@@ -1,16 +1,15 @@
 ---
 title: Doprava
-campaignCategoryUid: praha2018
-campaignGroupUid: volby-2018  # identifier of the group, to be used in program point
-perex: >
-  Zvýšíme plynulost dopravy podporou kapacitních a nejméně prostorově náročných druhů dopravy, zejména metra, vlaků a tramvají. Chceme MHD dostupnější, pohodlnější a jednoduše použitelnou nejen pro Pražany, ale i pro návštěvníky Prahy.  V oblasti automobilové dopravy zlepšíme veřejnou kontrolu investic a oprav infrastruktury.
+campaignCategoryUid: 2018-komunalni
+campaignGroupUid: volby-2018
+uid: doprava
+order: 4
+garant: michal.novak
+redmine: 28243
+img: program/doprava.svg
+intro: >
+ Zvýšíme plynulost dopravy podporou kapacitních a nejméně prostorově náročných druhů dopravy, zejména metra, vlaků a tramvají. Chceme MHD dostupnější, pohodlnější a jednoduše použitelnou nejen pro Pražany, ale i pro návštěvníky Prahy.  V oblasti automobilové dopravy zlepšíme veřejnou kontrolu investic a oprav infrastruktury.
 ---
-
-*Zvýšíme plynulost dopravy podporou kapacitních a nejméně prostorově náročných
-druhů dopravy, zejména metra, vlaků a tramvají. Chceme MHD dostupnější,
-pohodlnější a jednoduše použitelnou nejen pro Pražany, ale i pro návštěvníky Prahy.
-V oblasti automobilové dopravy zlepšíme veřejnou kontrolu investic a oprav
-infrastruktury.*
 
 ## Zlepšíme dostupnost a kvalitu MHD pro všechny - podpoříme:
 - Prodloužení tramvajové trati do Zdib

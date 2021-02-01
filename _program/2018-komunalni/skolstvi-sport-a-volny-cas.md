@@ -1,15 +1,15 @@
 ---
 title: Školství, sport a volný čas
-campaignCategoryUid: praha2018
-campaignGroupUid: volby-2018  # identifier of the group, to be used in program point
-perex: >
+campaignCategoryUid: 2018-komunalni
+campaignGroupUid: volby-2018
+uid: skolstvi
+order: 5
+garant: pavel.franc
+redmine: 28273
+img: program/skolstvi.svg
+intro: >
   Pražské školy vychovávají budoucí občany schopné se prosadit v rychle se měnících podmínkách, zdaleka ne jen pro potřeby pracovního trhu. Budeme školám poskytovat dostatek financí na mzdy, provoz a meziškolní aktivity, ale i na profesní rozvoj učitelů a na zavedení a rozvoj inovativních vzdělávacích směrů podle poptávky Pražanů.
 ---
-
-*Pražské školy vychovávají budoucí občany schopné se prosadit v rychle se měnících
-podmínkách, zdaleka ne jen pro potřeby pracovního trhu. Budeme školám poskytovat
-dostatek financí na mzdy, provoz a meziškolní aktivity, ale i na profesní rozvoj učitelů
-a na zavedení a rozvoj inovativních vzdělávacích směrů podle poptávky Pražanů.*
 
 ## Preferujeme investice do vzdělání
 - Zajistíme více peněz pro aktivní učitele např. ve formě netarifních odměn

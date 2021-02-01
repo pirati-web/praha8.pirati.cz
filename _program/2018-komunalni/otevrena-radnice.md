@@ -1,17 +1,15 @@
 ---
 title: Otevřená a moderní radnice
-campaignCategoryUid: praha2018
-campaignGroupUid: volby-2018  # identifier of the group, to be used in program point
-approved: https://forum.pirati.cz/viewtopic.php?f=945&t=42882
-perex: >
-  Uděláme z Prahy nejtransparentnější město v Česku. Dnes má Praha problém hlavně s neprůhlednými městskými firmami, které hospodaří s desítkami miliard korun ročně.  Občané a protikorupční analytici musí mít k dispozici dostatek informací, aby mohli politiky a úředníky kontrolovat. Zapojíme občany do rozhodování o městě.*
+campaignCategoryUid: 2018-komunalni
+campaignGroupUid: volby-2018
+uid: otevrena-radnice
+order: 1
+garant: martin.stanek
+redmine: 28177
+img: program/otevrena-radnice.svg
+intro: >
+  Uděláme z Prahy nejtransparentnější město v Česku. Dnes má Praha problém hlavně s neprůhlednými městskými firmami, které hospodaří s desítkami miliard korun ročně.  Občané a protikorupční analytici musí mít k dispozici dostatek informací, aby mohli politiky a úředníky kontrolovat. Zapojíme občany do rozhodování o městě.
 ---
-
-*Uděláme z Prahy nejtransparentnější město v Česku. Dnes má Praha problém hlavně
-s neprůhlednými městskými firmami, které hospodaří s desítkami miliard korun ročně.
-Občané a protikorupční analytici musí mít k dispozici dostatek informací, aby mohli
-politiky a úředníky kontrolovat. Zapojíme občany do rozhodování o městě.*
-
 
 ## Všechno to zveřejníme
 - Obnovíme a vylepšíme rozklikávací rozpočet na úroveň faktur
@@ -25,8 +23,10 @@ politiky a úředníky kontrolovat. Zapojíme občany do rozhodování o městě
 - Prověříme smlouvy uzavřené v minulosti
 - Nepodporujeme “trafiky” - Do vedení městských firem prosadíme odborníky na základě otevřených výběrových řízení
 - Prosadíme veřejnou diskusi před schvalováním rozpočtu
+
 ## Spoluúčast občanů na rozhodování
 - Podpoříme větší informovanost všech obyvatel o možnosti čerpání participativního rozpočtu
 - Petice a interpelace občanů budeme brát vážně
+
 ## Přístup k informacím
 - Navrhneme projekt pokrytí WiFi ve veřejných institucích zdarma (školy, úřady, knihovny)

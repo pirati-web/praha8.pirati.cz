@@ -1,12 +1,6 @@
 ---
 title: Program pro Prahu 8
-campaignCategoryUid: praha2018
-campaignGroupUid: volby-2018  # identifier of the group, to be used in program point
-approved: https://forum.pirati.cz/viewtopic.php?f=945&t=42882
 layout: "program-post"
-rbar: 
-   - garant
-   - program
 ---
 
 # Otevřená a moderní radnice
