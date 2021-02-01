@@ -1,47 +1,50 @@
 # Welcome to Jekyll!
-title: Pirati Praha 8
-email: info@pirati.cz
-description: >- # this means to ignore newlines until "baseurl:"
-  Česká pirátská strana - místní sdružení na Praze 8
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-keywords: piráti, česká pirátská strana, svoboda, demokracie, pirati na osmičce # dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
+administrator:
+  email: pavel.franc@pirati.cz # mail kam pujdou maily o webu
 
-#administrator:
-#    email: jmeno.prijmeni@pirati.cz # mail kam pujdou maily o webu
+url: "https://praha8.pirati.cz/"
+title: "Piráti Praha 8"
+description: "Česká pirátská strana - místní sdružení Praha 8"
+keywords: "piráti, česká pirátská strana, svoboda, demokracie, piráti na osmičce"
 
 organization:
-  name: "<b>Praha 8</b>, místní sdružení"
-  short_name: "Piráti Praha 8"
+  name: "Piráti Praha 8"
   email: praha8@pirati.cz
-  #phone: +420 777 123 456 789
   address: |
       Na Moráni 3
       120 00 Praha 2
-  mapLink: https://mapy.cz/zakladni?x=14.4151543&y=50.0733415&z=18&source=addr&id=9018965&q=Na%20Mor%C3%A1ni%203
+  mapLink: https://mapy.cz/s/norubuzado
+  redmineLink: https://redmine.pirati.cz/projects/praha-8
   residenceImg:
-  mapLink: https://mapy.cz/s/2N7Yv
-  redmineLink: https://redmine.pirati.cz/projects
+  dataBoxId: b2i4r6j
+  transparentAccount: 2100048174/2010
+  donateLink: https://dary.pirati.cz/podpor-kraj/praha/
+  onboardingLink: https://nalodeni.pirati.cz/
 
 contactSummaryItems:
   - type: organizationEmail
   - type: organizationRedmineLink
+  - type: organizationTransparentAccount
+    includeMoreLink: true
+  - type: organizationDataBox
   - type: piratiRootWebsite
-  - type: custom
-    iconClass: fa fa-facebook
-    label: Facebook
-    body: <a href="https://www.facebook.com/piratipraha8" target="_blank">Piráti Praha 8</a>
-
 
 calendar:
-  apiKey: AIzaSyBdjZxz4r9lPyD3CiSxQa6G3mf47ezI7Ks
-  id: rm0h4oqjk2j2o0615sc4d1slfk@group.calendar.google.com
+  id: npabehj0rpaqtgo960ju2vjq2s@group.calendar.google.com
   title: "Kalendář Pirátů Prahy 8"
-  page: "https://calendar.google.com/calendar/embed?mode=AGENDA&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=npabehj0rpaqtgo960ju2vjq2s%40group.calendar.google.com&amp;color=%238D6F47&amp;ctz=Europe%2FPrague"
+  page: "https://calendar.google.com/calendar/embed?src=npabehj0rpaqtgo960ju2vjq2s%40group.calendar.google.com&ctz=Europe%2FPrague"
 
 facebook:
   loadSDK: true
   profilePage: "https://www.facebook.com/piratipraha8/"
+  profilePageName: "Piráti Praha 8"
   appId: 1526197851008996
+
+forum:
+  page: https://forum.pirati.cz/viewforum.php?f=943
+
+youtube:
+  channel: UC_zxYLGrkmrYazYt0MzyVlA
 
 twitter:
   loadSDK: true
@@ -52,14 +55,6 @@ instagram:
 
 flicker:
   profilePage: https://www.flickr.com/photos/pirati/
-
-forum:
-  page: https://forum.pirati.cz/
-
-github:
-  url: https://github.com/pirati-web/praha8.pirati.cz/
-  branch: master
-
 
 ############### SETTINSG #################
 
@@ -76,7 +71,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 paginate_path: "/aktuality/:num/"
-paginate: 11
+paginate: 12
 
 exclude:
   - readme.md
@@ -84,15 +79,15 @@ exclude:
   - Gemfile.lock
   - vendor
 
-
 permalink: /aktuality/:title.html
 collections:
   people:
     output: true
-    permalink: /lide/:path/
+    permalink: /lide/:path:output_ext
   program:
     output: true
-    permalink: /volby-2018/:path/
+    permalink: /volby-2018/:path:output_ext
+
   # Sole purpose is to create candidate lists in separate files.
   candidatelists:
     output: false
@@ -103,9 +98,8 @@ defaults:   # defaults values for collection scope
       path: "_people"
     values:
       layout: "person"
-      rbar: 
-        - foto
-        - personContact
+      rbar:
+        - profile
         - people
   -
     scope:
@@ -117,7 +111,7 @@ defaults:   # defaults values for collection scope
       path: "_program"
     values:
       layout: "program-post"
-      rbar: 
+      rbar:
          - garant
          - program
 
@@ -128,20 +122,17 @@ assets:
   compression: true
   gzip: false
   plugins:
-    css: { autoprefixer: {}}
     img:
       optim:
         jpegoptim:
           strip: all
           max_quality: 80
-  autoprefixer:
     browsers:
       - "last 2 versions"
       - "IE > 9"
   sources:
-    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-7.2.0/_sass
-    - assets/css
-    - assets/fonts
-    - assets/video
+    - assets/js
     - assets/img
-    - _sass
+    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-8.4.1/assets/img
+
+styleguide_base_url: 'https://styleguide.pir-test.eu/latest'
