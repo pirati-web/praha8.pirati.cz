@@ -4,8 +4,11 @@ name: Ivo Slávka
 titles:
   before: Mgr.
 category:  
-    - clenove
-img: people/ivo-slavka.jpg 
+    - zastupitele
+ordzas: 2
+img: people/ivo-slavka.jpg
+heroImg: posts/Palmovkastramvaji.jpg
+partyUid: pirati
 description: místopředseda zastupitelského klubu, člen komise RMČP8 pro obecní byty, člen Výboru pro projekt Nová Palmovka ZMČP8, člen Výboru pro legislativu, veřejnou správu a transparentnost ZHMP
 mail: 
  - ivo.slavka@pirati.cz

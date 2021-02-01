@@ -7,6 +7,8 @@ category:
   - pms
 ordpms: 4
 img: people/mahu-opletalova.jpg 
+heroImg: posts/psi-louka.jpg
+partyUid: pirati
 description: místopředsedkyně MS Praha 8, členka komise RMČP8 pro obecní byty
 mail: 
   - magdalena.opletalova@pirati.cz

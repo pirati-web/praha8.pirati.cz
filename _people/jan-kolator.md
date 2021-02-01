@@ -7,6 +7,8 @@ category:
   - pms
 ordpms: 2
 img: people/jan-kolator.jpg 
+heroImg: posts/skatepark-bohnice.jpg
+partyUid: pirati
 description: 1. místopředseda MS Praha 8, člen komise RMČP8 pro bezpečnost a prevenci sociálně patologických jevů
 mail: 
   - jan.kolator@pirati.cz

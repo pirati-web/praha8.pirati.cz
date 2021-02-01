@@ -4,8 +4,11 @@ name: Michal Novák
 titles:
   after: MBA
 category: 
-  - clenove
+  - zastupitele
+ordzas: 1
 img: people/michal-novak.jpg 
+heroImg: posts/tramvaje-bohnice.png
+partyUid: pirati
 description: předseda zastupitelského klubu, místopředseda kontrolního výboru ZMČP8, člen komise RMČP8 pro pro dopravu, člen komise RMČP8 pro majetek
 mail: 
   - michal.novak@pirati.cz

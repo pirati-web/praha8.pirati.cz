@@ -4,10 +4,10 @@ name: Lukáš Wagenknecht
 titles:
   before: Ing.
 category:  
-  - priznivci
   - ustavni-cinitele
 img: people/lukas-wagenknecht.jpg  
 profession: ekonom, interní auditor
+partyUid: pirati
 description: senátor
 mob: +420 608 303 542
 mail: 
@@ -25,9 +25,7 @@ asistenti:
   - name: Ing. Václav Turko
     position: Asistent
     mail: vturko@atlas.cz
-  
 ---
-
 
 <div class="row">
   <div class="medium-12 large-12 columns">

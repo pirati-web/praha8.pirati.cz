@@ -5,19 +5,23 @@ titles:
   before: Mgr.
 category: 
   - pms
-  - kontaktni_osoba
 ordpms: 1
-img: people/martin-sterba.jpg  
+img: people/martin-sterba.jpg
+heroImg: posts/libensky-zamek.jpg
+partyUid: pirati
 description: předseda MS Praha 8, místopředseda redakční rady časopisu Osmička, poradce primátora hl. města Prahy
 mob: +420 732 408 769
+
 mail: 
   - martin.sterba@pirati.cz 
 profiles:
-  facebook: 		https://www.facebook.com/sterbamartin
-  twitter: 		  https://twitter.com/sterbamartin
-  linkedin:     https://linkedin.com/in/sterbamartin/
-  instagram:		https://www.instagram.com/sterbamartin__
-  web:          http://www.sterba.eu
+  facebook:  https://www.facebook.com/sterbamartin
+  twitter:   https://twitter.com/sterbamartin
+  linkedin:  https://linkedin.com/in/sterbamartin/
+  instagram: https://www.instagram.com/sterbamartin__
+  web:       http://www.sterba.eu
+  evidence:  https://evidence.pirati.cz/author/357/
+  odmeny:    https://nalodeni.pir-test.eu/odmeny/martin.sterba
 ---
 
 
@@ -32,10 +36,3 @@ Martin Štěrba se narodil v roce 1987 v Plzni a do Prahy se finálně přestěh
 Ve volném čase má rád knihy, filmy, hudbu, sociální sítě, cestování do neznáma, sezení na Náplavce, jízdu vlakem a festivaly. Od svých dvanácti let je skautem a je ředitelem skautského projektu [Svojsíkův sen](http://www.svojsikuvsen.cz), který se s heslem „Budoucnost začíná nyní“ dívá do let příštích. Dlouhá léta také z pozice šéfa komunikace a fundraisingu organizoval festival [Obrok](https://cs.wikipedia.org/wiki/Obrok).
 
 **Ve skautu se naučil, že od rozdělané práce se neodchází, proto se nikdy nespokojí s polovičním výsledkem.** A toho se chce chtěl držet i v činnosti pro Pirátskou stranu. K Pirátům ho přivedl fakt, že to – co se děje v našem státě – je už prostě přes čáru.
-
-#### Dokumenty
-> [Evidence schůzek](https://evidence.pirati.cz/author/357/)
-
-> [Příjmy za volené/jmenované funkce](https://nalodeni.pirati.cz/odmeny)
-
-> [Profesní životopis na LinkedIn](https://linkedin.com/in/sterbamartin/)

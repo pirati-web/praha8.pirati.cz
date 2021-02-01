@@ -5,13 +5,17 @@ titles:
   before: Mgr.
   after: Ph.D.
 category:  
-  - clenove
-ordpms: 1
-description: zastupitel, člen komise RMČP8 pro kulturu a volný čas
+  - zastupitele
+ordzas: 3
 img: people/martin-stanek.jpg 
+heroImg: posts/bilydum.png
+partyUid: pirati
+description: zastupitel, člen komise RMČP8 pro kulturu a volný čas
 mob: 775 058 555
 mail:
  -  martin.stanek@pirati.cz
+profiles:
+  odmeny: https://nalodeni.pirati.cz/odmeny/martin.stanek
 ---
 
 

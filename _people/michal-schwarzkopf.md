@@ -5,7 +5,8 @@ titles:
   before: Ing.
   after: Ph.D.
 category: clenove
-img: people/michal-schwarzkopf.jpg 
+img: people/michal-schwarzkopf.jpg
+partyUid: pirati
 description: 
 mail: 
   - michal.schwarzkopf@pirati.cz

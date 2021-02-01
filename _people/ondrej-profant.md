@@ -5,6 +5,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
  - ustavni-cinitele
 img: people/ondrej-profant.jpg # 165 x 220
 description: poslanec
+partyUid: pirati
 mail:
 - ondrej.profant@pirati.cz
 mob:			  +420 607 580 015

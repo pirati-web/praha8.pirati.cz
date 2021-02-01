@@ -3,12 +3,16 @@ uid: anna.filinova
 name: Anna Filínová 
 titles:
   before: Bc.
-category:  clenove
-img: people/anna-filinova.jpg 
+category:  zastupitele
+ordzas: 3
+img: people/anna-filinova.jpg
+heroImg: posts/rousky_anicka.jpg
+partyUid: pirati
 description: zastupitelka, členka komise RMČP8 pro sociální věci, seniory a národnostní menšiny
 mail: 
  - anna.filinova@pirati.cz
 profiles:
+ odmeny: https://nalodeni.pirati.cz/odmeny/anna.filinova
 ---
 
 Anna Filínová pochází z Mostu a od roku 2006 žije v Praze.

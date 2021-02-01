@@ -5,7 +5,8 @@ titles:
   before: Mgr.
 category: 
   - clenove
-img: people/jitka-novotna.jpg 
+img: people/jitka-novotna.jpg
+partyUid: pirati
 description: členka komise RMČP8 pro IT
 mail: 
   - jitka.novotna@pirati.cz
