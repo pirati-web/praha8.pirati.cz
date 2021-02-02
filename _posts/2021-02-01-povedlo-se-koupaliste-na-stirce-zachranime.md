@@ -6,7 +6,7 @@ date: 2021-02-01
 author: Martin Štěrba
 authorId: martin.sterba
 image: posts/koupaliste-nastirce.png
-tags: [Libeň, Sport, VeřejnýProstor, ŽivotníProstředí]
+tags: [Kobylisy, Sport, VeřejnýProstor, ŽivotníProstředí, Majetek, Magistrát]
 ---
 
 
