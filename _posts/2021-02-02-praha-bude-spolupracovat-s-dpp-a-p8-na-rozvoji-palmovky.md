@@ -15,6 +15,6 @@ tags: [Palmovka, NováPalmovka, ÚzemníRozvoj]
 
 Na rozdíl od jiných pražských rozvojových území, kde hlavní město není majoritním vlastníkem pozemků, může město ve spolupráci s DPP a městskou částí pozemky v čase zhodnotit tak, že bude skutečně využit jejich potenciál. Výstavba může být realizována buď přímo městem nebo ve spolupráci se soukromým sektorem podle městem připraveného takzvaného masterplanu. Lokalita je vhodná jak pro bytovou výstavbu, tak pro pracovní příležitosti, ale samozřejmě i pro služby veřejné vybavenosti nebo školství.
 
-> "Důležitým vlastníkem v území je také Dopravní podnik hl. m. Prahy a díky memorandu začnou všichni důležití aktéři jednat u jednoho stolu a společnými silami začneme rozvíjet dnes zanedbaný brownfield v širším centru Prahy,"* dodává náměstek primátora pro oblast dopravy **Adam Scheinherr**.
+> *"Důležitým vlastníkem v území je také Dopravní podnik hl. m. Prahy a díky memorandu začnou všichni důležití aktéři jednat u jednoho stolu a společnými silami začneme rozvíjet dnes zanedbaný brownfield v širším centru Prahy,"* dodává náměstek primátora pro oblast dopravy **Adam Scheinherr**.
 
 Městské pozemky jsou už nyní předané k hospodaření magistrátem založené Pražské developerské společnosti, která bude rozvojové zájmy Prahy v této lokalitě investorsky řídit včetně nalezení vhodného modelu dlouhodobé spolupráce všech stran na koordinaci a rozvoji území.
