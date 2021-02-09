@@ -5,7 +5,7 @@ title: 'Bohnický hřbitov by mohl být pod správou městské části Praha 8'
 date: 2021-02-09
 author: Martin Štěrba
 authorId: martin.sterba
-image: posts/bohnice-hrbitov.png
+image: posts/bohnice-hrbitov.jpg
 tags: [Bohnice, Magistrát, ÚzemníRozvoj, VeřejnýProstor]
 ---
 
