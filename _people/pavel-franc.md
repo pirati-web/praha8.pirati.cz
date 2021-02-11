@@ -3,14 +3,14 @@ uid: pavel.franc
 name: Pavel Franc
 titles:
   before: Mgr.
-category:  
+category:
     - zastupitele
 ordzas: 3
 img: people/pavel-franc.jpg
 heroImg: posts/kluziste_ladvi.png
 partyUid: pirati
-description: zastupitel, člen komise RMČP8 pro sport, mládež a grantovou politiku, člen komise RMČP8 pro školství
-mail: 
+description: zastupitel
+mail:
  - pavel.franc@pirati.cz
 profiles:
   facebook:  https://www.facebook.com/pfranc
@@ -18,6 +18,10 @@ profiles:
   linkedin:  https://www.linkedin.com/in/franc/
   instagram: https://www.instagram.com/pfranc/
   odmeny:    https://nalodeni.pirati.cz/odmeny/pavel.franc
+funkce:
+ - zastupitel
+ - člen Komise pro sport, mládež a grantovou politiku
+ - člen Komise pro školství
 ---
 
 Pavel je člen Pirátské strany a místního sdružení Praha 8. Pavel pochází z Liberce a od roku 2006 žije trvale (přechodně už od 1996) v Praze 8 - Kobylisích.

@@ -1,7 +1,7 @@
 ---
 uid: alice.hamalova
-name: Alice Hamalová 
-category:  
+name: Alice Hamalová
+category:
   - pms
   - zastupitele
 ordpms: 3
@@ -10,11 +10,18 @@ img: people/alice-hamalova.jpg
 heroImg: posts/zahradky.png
 profession: chemik, výzkumný pracovník
 partyUid: pirati
-description: zastupitelka, místopředsedkyně MS Praha 8, členka finančního výboru ZMČP8, členka komise RMČP8 pro životní prostředí
-mail: 
- - alice.hamalova@pirati.cz
+description: místopředsedkyně MS Praha 8
+teamDescription:
+  zastupitele: zastupitelka
+mail:
+  - alice.hamalova@pirati.cz
 profiles:
   facebook: https://www.facebook.com/alice.hamalova
+funkce:
+  - místopředsedkyně MS Praha 8
+  - zastupitelka
+  - členka Finančního výboru
+  - členka Komise pro životní prostředí
 ---
 
 Jsem ročník 90 a bydlím v Kobylisích se svým manželem. Pocházím z Krnova, menšího města ve Slezsku. Mám zkušenosti z výzkumného prostředí, kde jsem se podílela na výrobě léčebného přípravku proti rakovině a na dostavbě a vedení provozu laserových laboratoří Fyzikálního ústavu Akademie věd.

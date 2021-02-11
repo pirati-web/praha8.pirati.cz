@@ -3,16 +3,22 @@ uid: jan.kolator
 name: Jan Kolátor
 titles:
   before: Mgr.
-category:  
+category:
   - pms
 ordpms: 2
-img: people/jan-kolator.jpg 
+img: people/jan-kolator.jpg
 heroImg: posts/skatepark-bohnice.jpg
 partyUid: pirati
-description: 1. místopředseda MS Praha 8, člen komise RMČP8 pro bezpečnost a prevenci sociálně patologických jevů
-mail: 
+description: 1. místopředseda MS Praha 8
+teamDescription:
+  contact: Kontakt pro nováčky
+mail:
   - jan.kolator@pirati.cz
 profiles:
+  facebook: https://www.facebook.com/jan.kolator.1
+funkce:
+  - 1. místopředseda MS Praha 8
+  - člen Komise pro bezpečnost a prevenci sociálně patologických jevů
 ---
 
 Jan Kolátor je místopředsedou PMS na Praze 8. Narodil se se v Praze, žije v Praze a doufá, že zde i zemře. Vystudoval gymnázium a vysokou školu na univerzitě také v Praze.

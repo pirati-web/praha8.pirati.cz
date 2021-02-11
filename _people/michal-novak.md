@@ -3,16 +3,22 @@ uid: michal.novak
 name: Michal Novák
 titles:
   after: MBA
-category: 
+category:
   - zastupitele
 ordzas: 1
-img: people/michal-novak.jpg 
+img: people/michal-novak.jpg
 heroImg: posts/tramvaje-bohnice.png
 partyUid: pirati
-description: předseda zastupitelského klubu, místopředseda kontrolního výboru ZMČP8, člen komise RMČP8 pro pro dopravu, člen komise RMČP8 pro majetek
-mail: 
+description: předseda zastupitelského klubu
+mail:
   - michal.novak@pirati.cz
 profiles:
+  facebook:  https://www.facebook.com/icydicey
+funkce:
+  - předseda zastupitelského klubu
+  - místopředseda Kontrolního výboru
+  - člen Komise pro dopravu
+  - člen Komise pro majetek
 ---
 
 Jsem členem Pirátů od října 2017. Na Praze 8, konkrétně v Kobylisích, žiji od svého jednoho roku (v roce 2017 tedy již 44 let).

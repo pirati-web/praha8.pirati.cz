@@ -2,10 +2,10 @@
 uid: tomas.marik
 name: Tomáš Mařík
 category:  clenove
-img: people/tomas-marik.jpg 
+img: people/tomas-marik.jpg
 partyUid: pirati
-description:
-mail: 
+description: člen MS P8
+mail:
   - tomas.marik@pirati.cz
 profiles:
 ---

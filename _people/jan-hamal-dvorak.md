@@ -1,16 +1,18 @@
 ---
 uid: jan.hamal.dvorak
-name: Jan Hamal Dvořák 
-category:  
+name: Jan Hamal Dvořák
+category:
   - zastupitele
 ordzas: 3
 img: people/jan-hamal-dvorak.jpg
 heroImg: posts/open-source.jpg
 partyUid: pirati
-description: zastupitel, člen komise RMČP8 pro IT
-mail: 
+description: zastupitel
+mail:
   - jan.hamal.dvorak@pirati.cz
-profiles:
+funkce:
+  - zastupitel
+  - člen Komise pro IT
 ---
 
 Jan Hamal Dvořák (* 11. září 1987 v Praze) Vystudoval gymnázium Vítězslava Nováka v Jindřichově Hradci, kde maturoval z informatiky. Navázal praxí jako správce Linuxových systémů a programátor. V současnosti pracuje především v Národní technické knihovně, kde spravuje infrastrukturu a vyvíjí otevřené aplikace. V oblasti IT také podniká.

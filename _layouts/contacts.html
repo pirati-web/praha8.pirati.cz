@@ -12,9 +12,15 @@ title: Kontaktní informace
         <div class="space-y-8">
           {% if page.contactPersons %}
             {% for contact in page.contactPersons %}
-              {% assign person = site.people | where_exp:"item","item.uid contains contact.id" | first %}
+              {% if contact.id %}
+                {% assign person = site.people | where_exp:"item","item.uid contains contact.id" | first %}
+                {% assign description = contact.position %}
+              {% else %}
+                {% assign person = site.people | where_exp:"item","item.uid contains contact" | first %}
+                {% assign description = person.teamDescription['contact'] %}
+              {% endif %}
               <div>
-                <h2 class="head-heavy-sm mb-2 lg:mb-4">{{ contact.position }}</h2>
+                <h2 class="head-heavy-sm mb-2 lg:mb-4">{{ description }}</h2>
                 <div class="card elevation-3">
                   <div class="card__body">
                     {% include people/profile-badge.html item=person %}

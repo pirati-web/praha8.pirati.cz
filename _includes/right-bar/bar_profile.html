@@ -14,9 +14,16 @@
   {% include right-bar/rbar_profiles.html %}
 {% endif %}
 
-{% if page.partyUid %}
+{% if page.partyUid or page.funkce %}
   <hr />
-  {% include party.html uid=page.partyUid %}
+  {% if page.partyUid %}{% include party.html uid=page.partyUid %}{% endif %}
+  {% if page.funkce %}
+  <div class="mt-4">
+    {% for funkce in page.funkce %}
+      {% include contact-line.html icon="ico--pig" caption=funkce %}
+    {% endfor %}
+  </div>
+  {% endif %}
 {% endif %}
 
 <div class="content-block">
@@ -37,17 +44,12 @@
           {% include contact-line.html icon="ico--envelope" href=href caption=page.mail %}
         </div>
       {% endif %}
-      {% if page.profiles.odmeny or page.profiles.evidence %}
+      {% if page.profiles.odmeny or page.profiles.evidence or page.profiles.report %}
         <div>
           <h4>Pirátské přehledy</h4>
-          {% if page.profiles.odmeny %} {% include contact-line.html icon="ico--folder" href=page.profiles.odmeny caption="Příjmy z veřejných zdrojů" %}{% endif %}
-          {% if page.profiles.evidence %} {% include contact-line.html icon="ico--folder" href=page.profiles.evidence caption="Evidence kontaktů a schůzek" %}{% endif %}
-        </div>
-      {% endif %}
-      {% if page.profiles.report %}
-        <div>
-          <h4>Report poslance</h4>
-          {% include contact-line.html icon="ico--folder" href=page.profiles.report caption="Zobrazit report" %}
+          {% if page.profiles.odmeny %}{% include contact-line.html icon="ico--folder" href=page.profiles.odmeny caption="Příjmy z veřejných zdrojů" %}{% endif %}
+          {% if page.profiles.evidence %}{% include contact-line.html icon="ico--folder" href=page.profiles.evidence caption="Evidence kontaktů a schůzek" %}{% endif %}
+          {% if page.profiles.report %}{% include contact-line.html icon="ico--folder" href=page.profiles.report caption="Report poslance" %}{% endif %}
         </div>
       {% endif %}
     </div>

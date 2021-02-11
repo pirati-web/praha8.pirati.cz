@@ -3,14 +3,15 @@ uid: jitka.novotna
 name: Jitka Novotná
 titles:
   before: Mgr.
-category: 
+category:
   - clenove
 img: people/jitka-novotna.jpg
 partyUid: pirati
-description: členka komise RMČP8 pro IT
-mail: 
+description: členka MS P8
+mail:
   - jitka.novotna@pirati.cz
 profiles:
+  - členka Komise pro informatiku
 ---
 
 Studovala na matematickém gymnáziu v Bílovci a následně Matfyz, obor Informatika, zaměření Diskrétní modely a algoritmy. Následně pracovala jako testerka v SUSE Linuxu a studovala doktorát na ČVUT.

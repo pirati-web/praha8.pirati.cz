@@ -7,8 +7,8 @@ titles:
 category: clenove
 img: people/michal-schwarzkopf.jpg
 partyUid: pirati
-description: 
-mail: 
+description: člen MS P8
+mail:
   - michal.schwarzkopf@pirati.cz
 profiles:
 ---

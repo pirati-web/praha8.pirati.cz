@@ -88,8 +88,14 @@
           <div class="grid gap-4 grid-cols-1 md:grid-cols-2 xl:grid-cols-3">
             {% if site.data.menu.contact %}
               {% for contact in site.data.menu.contact %}
-                {% assign person = site.people | where_exp:"item","item.uid contains contact.id" | first %}
-                {% include people/profile-badge.html item=person description=contact.position %}
+                {% if contact.id %}
+                  {% assign person = site.people | where_exp:"item","item.uid contains contact.id" | first %}
+                  {% assign description = contact.position %}
+                {% else %}
+                  {% assign person = site.people | where_exp:"item","item.uid contains contact" | first %}
+                  {% assign description = person.teamDescription['contact'] %}
+                {% endif %}
+                {% include people/profile-badge.html item=person description=description %}
               {% endfor %}
             {% else %}
               {% assign contactPerson = site.people | where_exp: "item","item.uid contains site.organization.contactUid" | first %}

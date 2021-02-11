@@ -1,18 +1,22 @@
 ---
 uid: magdalena.opletalova
 name: Mahu Opletalová
-titles: 
-  before: 
-category:  
+titles:
+  before:
+category:
   - pms
 ordpms: 4
-img: people/mahu-opletalova.jpg 
+img: people/mahu-opletalova.jpg
 heroImg: posts/psi-louka.jpg
 partyUid: pirati
-description: místopředsedkyně MS Praha 8, členka komise RMČP8 pro obecní byty
-mail: 
+description: místopředsedkyně MS Praha 8
+mail:
   - magdalena.opletalova@pirati.cz
 profiles:
+  facebook: https://www.facebook.com/mahu.opletalova
+funkce:
+  - místopředsedkyně MS Praha 8
+  - členka Komise pro obecní byty
 ---
 Jmenuji se Magdalena Opletalová, říká se mi Mahu. V šerém dávnověku jsem vystudovala molekulární biologii a genetiku, poté pracovala v Mikrobiologickém ústavu Akademie věd. Následně jsem se vdala a měla kupu dětí - konkrétně sedm. Na začátku rodičovské jsem se pokoušela i pracovat, pak už jen přežít. Momentálně je nejstarší dceři 24 a nejmladšímu synovi 10, takže jsem zpátky ve světě mimo svou kuchyni. Tři nejstarší děti studují vysoké školy, čtvrté maturuje.
 

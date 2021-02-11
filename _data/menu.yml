@@ -50,8 +50,5 @@ bottom:
 transparencySection: false
 
 contact:
-  - id: martin.sterba
-    position: Kontakt pro média
-  - id: jan.kolator
-    position: Konktakt pro nováčky
-
+  - martin.sterba
+  - jan.kolator

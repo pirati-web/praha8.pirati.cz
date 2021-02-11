@@ -5,10 +5,8 @@ description: Pirátská strana v Praze 8 je otevřená a ráda přivítá nové 
 keywords: kontakt, adresa, telefon, mail, facebook, kde najdu, kde jsou
 noresidence: yes
 contactPersons:
-  - id: martin.sterba
-    position: Kontakt pro média
-  - id: jan.kolator
-    position: Kontakt pro nováčky
+  - martin.sterba
+  - jan.kolator
 ---
  <h1>Přidejte se k nám</h1>
 
