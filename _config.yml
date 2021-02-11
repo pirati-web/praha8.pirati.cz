@@ -1,8 +1,11 @@
 # Welcome to Jekyll!
 administrator:
   email: pavel.franc@pirati.cz # mail kam pujdou maily o webu
+github:
+  url: https://github.com/pirati-web/praha8.pirati.cz/
+  branch: test
 
-url: "https://praha8.pir-test.eu/"
+url: "https://praha8.pir-test.eu"
 title: "Piráti Praha 8"
 description: "Česká pirátská strana - místní sdružení Praha 8"
 keywords: "piráti, česká pirátská strana, svoboda, demokracie, piráti na osmičce"
