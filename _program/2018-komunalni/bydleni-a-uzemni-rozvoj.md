@@ -6,7 +6,7 @@ uid: mistni-rozvoj
 order: 2
 garant: ivo.slavka
 redmine: 28203
-img: program/mistni-rozvoj.svg
+img: program/mistni-rozvoj.jpg
 intro: >
   Pražané v současné době čelí prudkému nárůstu cen nájemního i vlastnického bydlení. Trend nárůstu cen za bydlení je důsledkem nezvládnutého politického a administrativního řízení bytové politiky ze strany státu, magistrátu i některých městských částí. Ve volebním období 2018 - 2022 chceme učinit kroky potřebné pro zastavení tohoto trendu.
 ---

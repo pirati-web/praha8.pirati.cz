@@ -6,7 +6,7 @@ uid: doprava
 order: 4
 garant: michal.novak
 redmine: 28243
-img: program/doprava.svg
+img: program/doprava.jpg
 intro: >
  Zvýšíme plynulost dopravy podporou kapacitních a nejméně prostorově náročných druhů dopravy, zejména metra, vlaků a tramvají. Chceme MHD dostupnější, pohodlnější a jednoduše použitelnou nejen pro Pražany, ale i pro návštěvníky Prahy.  V oblasti automobilové dopravy zlepšíme veřejnou kontrolu investic a oprav infrastruktury.
 ---

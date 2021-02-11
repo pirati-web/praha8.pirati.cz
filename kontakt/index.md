@@ -12,7 +12,8 @@ contactPersons:
 ---
  <h1>Přidejte se k nám</h1>
 
-**Zajímá vás co děláme na osmičce, a chtěli byste se zapojit?** Neváhejte a přijďte za námi na otevřenou (on-line či off-line) schůzi, potkáváme se pravidelně. Těšíme se na Vás.
+**Zajímá vás co děláme na osmičce, a chtěli byste se zapojit?** Neváhejte a přijďte za námi na otevřenou (on-line či off-line) schůzi. Potkáváme se pravidelně - viz náš
+<a href="{{site.calendar.page}}">kalednář</a>. Těšíme se na Vás.
 
 **Komunikujeme pravidelně na Facebooku**, najdete nás jako [Piráti Praha 8](https://fb.com/piratipraha8). Webové stránky pražského sdružení najdete na [praha.pirati.cz](https://praha.pirati.cz/).
 
