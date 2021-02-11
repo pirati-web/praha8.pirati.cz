@@ -1,5 +1,5 @@
 <section>
-  <h1 class="head-alt-md md:head-alt-lg pb-4 lg:pb-8">{% if include.title %}{{include.title}}{% else %}Aktuální témata{% endif %}</h1>
+  <h1 class="head-alt-md pb-4 lg:pb-8">{% if include.title %}{{include.title}}{% else %}Aktuální témata{% endif %}</h1>
   {% assign posts = site.posts | slice:0,6 %}
   {% include articles/list-responsive.html posts=posts %}
   <nav class="text-center">
