@@ -9,6 +9,7 @@ category:
 ordzas: 3
 img: people/karel-ptacek.jpg
 heroImg: posts/rohancity.jpg
+profession: projektový manažer
 partyUid: pirati
 description: zastupitel
 mail:

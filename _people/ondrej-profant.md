@@ -4,8 +4,9 @@ name:     Ondřej Profant  	# běžně používáné jméno
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
  - ustavni-cinitele
 img: people/ondrej-profant.jpg # 165 x 220
-description: poslanec
+profession: informatik
 partyUid: pirati
+description: poslanec
 mail:
 - ondrej.profant@pirati.cz
 mob:			  +420 607 580 015

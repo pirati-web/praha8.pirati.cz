@@ -8,6 +8,7 @@ category:
 ordpms: 1
 img: people/martin-sterba.jpg
 heroImg: posts/libensky-zamek.jpg
+profession: manažer on-line komunikace
 partyUid: pirati
 description: předseda MS Praha 8
 teamDescription:

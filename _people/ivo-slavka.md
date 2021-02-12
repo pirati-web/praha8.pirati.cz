@@ -8,6 +8,7 @@ category:
 ordzas: 2
 img: people/ivo-slavka.jpg
 heroImg: posts/Palmovkastramvaji.jpg
+profession: právník
 partyUid: pirati
 description: místopředseda zastupitelského klubu
 mail:

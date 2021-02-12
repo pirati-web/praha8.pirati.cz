@@ -6,6 +6,7 @@ titles:
 category:
   - clenove
 img: people/jitka-novotna.jpg
+profession: informatička
 partyUid: pirati
 description: členka MS P8
 mail:

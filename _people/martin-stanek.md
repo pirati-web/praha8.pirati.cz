@@ -9,6 +9,7 @@ category:
 ordzas: 3
 img: people/martin-stanek.jpg
 heroImg: posts/bilydum.png
+profession: geolog
 partyUid: pirati
 description: zastupitel
 mob: 775 058 555

@@ -8,6 +8,7 @@ category:
 ordpms: 4
 img: people/mahu-opletalova.jpg
 heroImg: posts/psi-louka.jpg
+profession: molekulární biložka a genetička
 partyUid: pirati
 description: místopředsedkyně MS Praha 8
 mail:

@@ -6,6 +6,7 @@ category:
 ordzas: 3
 img: people/jan-hamal-dvorak.jpg
 heroImg: posts/open-source.jpg
+profession: informatik
 partyUid: pirati
 description: zastupitel
 mail:

@@ -8,6 +8,7 @@ category:
 ordzas: 1
 img: people/michal-novak.jpg
 heroImg: posts/tramvaje-bohnice.png
+profession:nezávislý konzultant
 partyUid: pirati
 description: předseda zastupitelského klubu
 mail:

@@ -8,6 +8,7 @@ category:
 ordzas: 3
 img: people/pavel-franc.jpg
 heroImg: posts/kluziste_ladvi.png
+profession: IT manažer
 partyUid: pirati
 description: zastupitel
 mail:

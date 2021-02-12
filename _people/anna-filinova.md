@@ -7,6 +7,7 @@ category:  zastupitele
 ordzas: 3
 img: people/anna-filinova.jpg
 heroImg: posts/rousky_anicka.jpg
+profession: projektová manažerka
 partyUid: bezpp
 description: zastupitelka
 mail:

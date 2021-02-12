@@ -6,6 +6,7 @@ titles:
   after: Ph.D.
 category: clenove
 img: people/michal-schwarzkopf.jpg
+profession: bankovní poradce
 partyUid: pirati
 description: člen MS P8
 mail:
