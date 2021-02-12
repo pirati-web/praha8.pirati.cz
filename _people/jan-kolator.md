@@ -18,7 +18,7 @@ profiles:
   facebook: https://www.facebook.com/jan.kolator.1
 funkce:
   - 1. místopředseda MS Praha 8
-  - člen Komise pro bezpečnost a prevenci sociálně patologických jevů
+  - člen <a href="https://www.praha8.cz/Komise-pro-bezpecnost-a-prevenci-socialnepatologickych-jevu-2018-2022.html">Komise pro bezpečnost a prevenci sociálně patologických jevů</a>
 ---
 
 Jan Kolátor je místopředsedou PMS na Praze 8. Narodil se se v Praze, žije v Praze a doufá, že zde i zemře. Vystudoval gymnázium a vysokou školu na univerzitě také v Praze.

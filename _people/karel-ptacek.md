@@ -17,9 +17,9 @@ profiles:
   facebook: https://www.facebook.com/karel.ptacek.praha8
   odmeny:   https://nalodeni.pirati.cz/odmeny/karel.ptacek
 funkce:
-  - zastupitel
-  - místopředseda Komise pro bytová družstva a SVJ
-  - člen komise RMČP8 pro územní rozvoj a památkovou péči
+  - <a href="https://www.praha8.cz/Klub-Ceska-piratska-strana.html">zastupitel</a>
+  - místopředseda <a href="https://www.praha8.cz/Komise-pro-bytova-druzstva-a-SVJ-2018-2022.html">Komise pro bytová družstva a SVJ</a>
+  - člen <a href="https://www.praha8.cz/Komise-pro-uzemni-rozvoj-a-pamatkovou-peci-2018-2022.html">Komise pro územní rozvoj a památkovou péči</a>
 ---
 
 Narodil jsem se na Praze 8 a stále zde bydlím. Praha 8, konkrétně Karlín mi velice přirostl k srdci a zažil jsem ještě průmyslový Karlín, ale i jeho velmi rychlou přeměnu po povodních v roce 2002.

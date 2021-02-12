@@ -26,7 +26,7 @@ profiles:
   odmeny:    https://nalodeni.pir-test.eu/odmeny/martin.sterba
 funkce:
   - předseda MS Praha 8
-  - místopředseda Redakční rady časopisu Osmička
+  - místopředseda <a href="https://www.praha8.cz/Komise-Redakcni-rada-casopisu-Osmicka-2018-2022.html">Redakční rady časopisu Osmička</a>
   - poradce primátora hl. města Prahy
 ---
 

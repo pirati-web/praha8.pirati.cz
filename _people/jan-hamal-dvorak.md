@@ -11,8 +11,8 @@ description: zastupitel
 mail:
   - jan.hamal.dvorak@pirati.cz
 funkce:
-  - zastupitel
-  - člen Komise pro IT
+  - <a href="https://www.praha8.cz/Klub-Ceska-piratska-strana.html">zastupitel</a>
+  - člen <a href="https://www.praha8.cz/Komise-pro-informatiku-2018-2022.html">Komise pro informatiku</a>
 ---
 
 Jan Hamal Dvořák (* 11. září 1987 v Praze) Vystudoval gymnázium Vítězslava Nováka v Jindřichově Hradci, kde maturoval z informatiky. Navázal praxí jako správce Linuxových systémů a programátor. V současnosti pracuje především v Národní technické knihovně, kde spravuje infrastrukturu a vyvíjí otevřené aplikace. V oblasti IT také podniká.

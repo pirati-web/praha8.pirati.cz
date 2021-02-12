@@ -13,10 +13,10 @@ description: místopředseda zastupitelského klubu
 mail:
   - ivo.slavka@pirati.cz
 funkce:
-  - místopředseda zastupitelského klubu
-  - člen Komise pro obecní byty
-  - člen Výboru pro projekt Nová Palmovka
-  - člen Výboru pro legislativu, veřejnou správu a transparentnost ZHMP
+  - místopředseda <a href="https://www.praha8.cz/Klub-Ceska-piratska-strana.html">zastupitelského klubu</a>
+  - člen <a href="https://www.praha8.cz/Komise-pro-obecni-byty-2018-2022.html">Komise pro obecní byty</a>
+  - člen <a href="https://www.praha8.cz/Vybory-zastupitelstva-Mestske-casti-Praha-8.html">Výboru pro projekt Nová Palmovka</a>
+  - člen <a href="https://www.praha8.cz/Vybory-zastupitelstva-Mestske-casti-Praha-8.html">Výboru pro legislativu, veřejnou správu a transparentnost ZHMP</a>
 ---
 
 Ivo Slávka (nar. 29. 9. 1966)

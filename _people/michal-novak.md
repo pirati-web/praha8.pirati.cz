@@ -15,10 +15,10 @@ mail:
 profiles:
   facebook:  https://www.facebook.com/icydicey
 funkce:
-  - předseda zastupitelského klubu
-  - místopředseda Kontrolního výboru
-  - člen Komise pro dopravu
-  - člen Komise pro majetek
+  - předseda <a href="https://www.praha8.cz/Klub-Ceska-piratska-strana.html">zastupitelského klubu</a>
+  - místopředseda <a href="https://www.praha8.cz/Vybory-zastupitelstva-Mestske-casti-Praha-8.html">Kontrolního výboru</a>
+  - člen <a href="https://www.praha8.cz/Komise-pro-dopravu-2018-2022.html">Komise pro dopravu</a>
+  - člen <a href="https://www.praha8.cz/Komise-pro-majetek-ekonomika-mestskych-organizaci-2018-2022.html">Komise pro majetek (+ekonomika městských organizací)</a>
 ---
 
 Jsem členem Pirátů od října 2017. Na Praze 8, konkrétně v Kobylisích, žiji od svého jednoho roku (v roce 2017 tedy již 44 let).

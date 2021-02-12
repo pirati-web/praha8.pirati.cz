@@ -19,9 +19,9 @@ profiles:
   facebook: https://www.facebook.com/alice.hamalova
 funkce:
   - místopředsedkyně MS Praha 8
-  - zastupitelka
-  - členka Finančního výboru
-  - členka Komise pro životní prostředí
+  - <a href="https://www.praha8.cz/Klub-Ceska-piratska-strana.html">zastupitelka</a>
+  - členka <a href="https://www.praha8.cz/Vybory-zastupitelstva-Mestske-casti-Praha-8.html">Finančního výboru</a>
+  - členka <a href="https://www.praha8.cz/Komise-pro-zivotni-prostredi-2018-2022.html">Komise pro životní prostředí</a>
 ---
 
 Jsem ročník 90 a bydlím v Kobylisích se svým manželem. Pocházím z Krnova, menšího města ve Slezsku. Mám zkušenosti z výzkumného prostředí, kde jsem se podílela na výrobě léčebného přípravku proti rakovině a na dostavbě a vedení provozu laserových laboratoří Fyzikálního ústavu Akademie věd.

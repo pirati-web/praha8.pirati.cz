@@ -11,7 +11,7 @@ description: členka MS P8
 mail:
   - jitka.novotna@pirati.cz
 profiles:
-  - členka Komise pro informatiku
+  - členka <a href="https://www.praha8.cz/Komise-pro-informatiku-2018-2022.html">Komise pro informatiku</a>
 ---
 
 Studovala na matematickém gymnáziu v Bílovci a následně Matfyz, obor Informatika, zaměření Diskrétní modely a algoritmy. Následně pracovala jako testerka v SUSE Linuxu a studovala doktorát na ČVUT.

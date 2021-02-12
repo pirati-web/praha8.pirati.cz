@@ -16,7 +16,7 @@ profiles:
   facebook: https://www.facebook.com/mahu.opletalova
 funkce:
   - místopředsedkyně MS Praha 8
-  - členka Komise pro obecní byty
+  - členka <a href="https://www.praha8.cz/Komise-pro-obecni-byty-2018-2022.html">Komise pro obecní byty</a>
 ---
 Jmenuji se Magdalena Opletalová, říká se mi Mahu. V šerém dávnověku jsem vystudovala molekulární biologii a genetiku, poté pracovala v Mikrobiologickém ústavu Akademie věd. Následně jsem se vdala a měla kupu dětí - konkrétně sedm. Na začátku rodičovské jsem se pokoušela i pracovat, pak už jen přežít. Momentálně je nejstarší dceři 24 a nejmladšímu synovi 10, takže jsem zpátky ve světě mimo svou kuchyni. Tři nejstarší děti studují vysoké školy, čtvrté maturuje.
 

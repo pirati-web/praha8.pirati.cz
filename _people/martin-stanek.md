@@ -18,8 +18,8 @@ profiles:
   facebook: https://www.facebook.com/martin.stanek.39750
   odmeny:   https://nalodeni.pirati.cz/odmeny/martin.stanek
 funkce:
-  - zastupitel
-  - člen Komise pro kulturu a volný čas
+  - <a href="https://www.praha8.cz/Klub-Ceska-piratska-strana.html">zastupitel</a>
+  - člen <a href="https://www.praha8.cz/Komise-pro-kulturu-a-volny-cas-2018-2022.html">Komise pro kulturu a volný čas</a>
 ---
 
 

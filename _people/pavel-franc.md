@@ -19,9 +19,9 @@ profiles:
   instagram: https://www.instagram.com/pfranc/
   odmeny:    https://nalodeni.pirati.cz/odmeny/pavel.franc
 funkce:
- - zastupitel
- - člen Komise pro sport, mládež a grantovou politiku
- - člen Komise pro školství
+ - <a href="https://www.praha8.cz/Klub-Ceska-piratska-strana.html">zastupitel</a>
+ - člen <a href="https://www.praha8.cz/Komise-pro-sport-mladez-a-grantovou-politiku-2018-2022.html">Komise pro sport, mládež a grantovou politiku</a>
+ - člen <a href="https://www.praha8.cz/Komise-pro-skolstvi-2018-2022.html">Komise pro školství</a>
 ---
 
 Pavel je člen Pirátské strany a místního sdružení Praha 8. Pavel pochází z Liberce a od roku 2006 žije trvale (přechodně už od 1996) v Praze 8 - Kobylisích.

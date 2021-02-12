@@ -14,8 +14,8 @@ mail:
 profiles:
  odmeny: https://nalodeni.pirati.cz/odmeny/anna.filinova
 funkce:
-  - zastupitelka
-  - členka Komise pro sociální věci, seniory a národnostní menšiny
+  - <a href="https://www.praha8.cz/Klub-Ceska-piratska-strana.html">zastupitelka</a>
+  - členka <a href="https://www.praha8.cz/Komise-pro-socialni-veci-seniory-a-narodnostni-mensiny-2018-2022.html">Komise pro sociální věci, seniory a národnostní menšiny</a>
 ---
 
 Anna Filínová pochází z Mostu a od roku 2006 žije v Praze.
