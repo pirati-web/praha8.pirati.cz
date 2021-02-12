@@ -16,7 +16,7 @@ funkce:
   - místopředseda <a href="https://www.praha8.cz/Klub-Ceska-piratska-strana.html">zastupitelského klubu</a>
   - člen <a href="https://www.praha8.cz/Komise-pro-obecni-byty-2018-2022.html">Komise pro obecní byty</a>
   - člen <a href="https://www.praha8.cz/Vybory-zastupitelstva-Mestske-casti-Praha-8.html">Výboru pro projekt Nová Palmovka</a>
-  - člen <a href="https://www.praha8.cz/Vybory-zastupitelstva-Mestske-casti-Praha-8.html">Výboru pro legislativu, veřejnou správu a transparentnost ZHMP</a>
+  - člen <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33600">Výboru pro legislativu, veřejnou správu a transparentnost ZHMP</a>
 ---
 
 Ivo Slávka (nar. 29. 9. 1966)
