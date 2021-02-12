@@ -8,7 +8,7 @@ ordzas: 3
 img: people/anna-filinova.jpg
 heroImg: posts/rousky_anicka.jpg
 profession: projektová manažerka
-partyUid: bezpp
+partyUid: pirati
 description: zastupitelka
 mail:
   - anna.filinova@pirati.cz
