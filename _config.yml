@@ -31,10 +31,6 @@ contactSummaryItems:
     includeMoreLink: true
   - type: organizationDataBox
   - type: piratiRootWebsite
-  - type: custom
-    iconClass: fa fa-facebook
-    label: Facebook
-    body: <a href="https://www.facebook.com/piratipraha8/">@piratipraha8</a>
 
 calendar:
   id: npabehj0rpaqtgo960ju2vjq2s@group.calendar.google.com
