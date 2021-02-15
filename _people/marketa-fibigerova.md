@@ -7,7 +7,7 @@ img: people/marketa-fibigerova.jpg
 heroImg:
 profession: ředitelka a zřizovatelka 1. IT Gymnázia
 partyUid: bezpp
-description:
+description: ředitelka IT gymnázia
 mail: marketa.fibigerova@itgymnazium.cz
 profiles:
   facebook: https://www.facebook.com/marketa.fibigerova
