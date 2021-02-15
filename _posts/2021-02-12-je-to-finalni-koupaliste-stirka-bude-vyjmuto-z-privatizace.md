@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title: 'Je to finální. Koupaliště Stírka bude vyjmuto z privatizace.'
+title: 'Je to finální! Koupaliště Stírka bude vyjmuto z privatizace'
 date: 2021-02-12
 author: Martin Štěrba
 authorId: martin.sterba
