@@ -1,12 +1,12 @@
 ---
 uid: magdalena.opletalova
-name: Mahu Opletalová
+name: Magdalena Opletalová
 titles:
   before:
 category:
   - pms
 ordpms: 4
-img: people/mahu-opletalova.jpg
+img: people/magdalena-opletalova.jpg
 heroImg: posts/psi-louka.jpg
 profession: molekulární biložka a genetička
 partyUid: pirati

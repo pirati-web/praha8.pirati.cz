@@ -6,6 +6,7 @@ titles:
 category:
   - clenove
 img: people/jitka-novotna.jpg
+heroImg: posts/open-source.jpg
 profession: informatička
 partyUid: pirati
 description: členka MS P8

@@ -7,8 +7,8 @@ category:
   - pms
 ordpms: 5
 img: people/jan-horn.jpg
-heroImg: posts/autovraky.png
-profession: kovář
+heroImg: people/jan-horn-hero.jpg
+profession: umělecký kovář a učitel
 partyUid: pirati
 description: místopředseda MS Praha 8
 mail:

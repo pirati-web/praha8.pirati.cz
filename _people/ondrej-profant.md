@@ -1,9 +1,10 @@
 ---
 uid: ondrej.profant
-name:     Ondřej Profant  	# běžně používáné jméno
-category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
+name: Ondřej Profant
+category:
  - ustavni-cinitele
-img: people/ondrej-profant.jpg # 165 x 220
+img: people/ondrej-profant.jpg
+heroImg: people/ondrej-profant-hero.jpg
 profession: informatik
 partyUid: pirati
 description: poslanec

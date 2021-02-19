@@ -5,7 +5,7 @@ category:
   - zastupitele
 ordzas: 3
 img: people/jan-hamal-dvorak.jpg
-heroImg: posts/open-source.jpg
+heroImg: people/jan-hamal-dvorak-hero.jpg
 profession: informatik
 partyUid: pirati
 description: zastupitel

@@ -6,6 +6,7 @@ titles:
 category:
   - ustavni-cinitele
 img: people/lukas-wagenknecht.jpg
+heroImg: people/lukas-wagenknecht-hero.jpg
 profession: ekonom, interní auditor
 partyUid: pirati
 description: senátor
