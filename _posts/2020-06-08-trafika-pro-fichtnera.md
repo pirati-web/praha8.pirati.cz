@@ -17,7 +17,7 @@ Jako první s informací přišli naši kolegové z Osmička žije. A my jí př
 
 > **Fichtner je už pátým plně placeným zastupitelem z ANO.** Předsedkyní kontrolního výboru je *Anna Kroutil*, ředitelem městské společnosti Osmá správa majetku a služeb je *Radomír Nepil*, ředitelkou Osmičku pro rodinu je *Kateřina Halfarová* a uvolněnou předsedkyní komise pro sociální věci je bývalá radní *Jana Solomonová*.
 
-*"Vzhledem k tomu, že se jedná už o pátého uvolněného zastupitele za ANO, tak je skutečně vidět, že ANO si vykupuje toleranci menšinové rady funkcemi. Pro nás je navíc nepřijatelné, že byl jmenován bez výběrového řízení. Na blížícím se jednání zastupitelstva městské části Praha 8 se budeme ptát proč,"* říká [Michal Novák](https://praha8.pirati.cz/lide/michal-novak/), předseda zastupitelského klubu Pirátů na Praze 8. 
+*"Vzhledem k tomu, že se jedná už o pátého uvolněného zastupitele za ANO, tak je skutečně vidět, že ANO si vykupuje toleranci menšinové rady funkcemi. Pro nás je navíc nepřijatelné, že byl jmenován bez výběrového řízení. Na blížícím se jednání zastupitelstva městské části Praha 8 se budeme ptát proč,"* říká [Michal Novák]({% link _people/michal-novak.md %}), předseda zastupitelského klubu Pirátů na Praze 8.
 
 
 Nutno připomenout, že Matěj Fichtner odstoupil z pozice místostarosty, protože používal služební auto k soukromým účelům, falšoval knihu jízd a připravoval pojistný podvod s ukopnutým zrcátkem. V roce 2016 byl také nařčen z ovlivňování konkurzu na ředitele ZŠ Glowackého, toto však nebylo prokázáno.

@@ -15,6 +15,6 @@ tags: [Trója, ŽivotníProstředí, Doprava]
 
 Nová Trojská lávka je 4 metry široká a 256 metrů dlouhá s životností minimálně 100 let. Vzhledem k tomu, že se nachází v záplavové oblasti Císařského ostrova, bude možné její zábradlí při velké vodě sklopit, aby nebyla ve velkém proudu překážkou a zbytečně se tak nečeřila voda. V zábradlí je také zabudované teplé žluté světlo, aby nerušilo ptáky a hmyz.
 
-Na nové lávce mohou společně fungovat pěší, cyklisté i lidé na kolečkových bruslích. V případě potřeby po ní přejedou také vozidla Integrovaného záchranného systému. 
+Na nové lávce mohou společně fungovat pěší, cyklisté i lidé na kolečkových bruslích. V případě potřeby po ní přejedou také vozidla Integrovaného záchranného systému.
 
-**A co ostatní mosty na Praze 8?** Magistrát hlavního města Prahy plánuje rekonstrukci Libeňského mostu a to bez výrazných dopravních omezení. Plánují se stavby nových spojnic břehů Vltavy, například lávka pro pěší a cyklisty HolKa mezi Holešovicemi a Karlínem, a v přípravě je také [Rohanský most](https://praha8.pirati.cz/aktuality/kudy-povede-novy-rohansky-most.html). 
+**A co ostatní mosty na Praze 8?** Magistrát hlavního města Prahy plánuje rekonstrukci Libeňského mostu a to bez výrazných dopravních omezení. Plánují se stavby nových spojnic břehů Vltavy, například lávka pro pěší a cyklisty HolKa mezi Holešovicemi a Karlínem, a v přípravě je také [Rohanský most]({% link _posts/2020-09-09-kudy-povede-novy-rohansky-most.md %}).
