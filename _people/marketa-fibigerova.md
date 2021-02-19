@@ -2,9 +2,10 @@
 uid: marketa.fibigerova
 name: Markéta Fibigerová
 titles:
+  before: Mgr.
 category: regp
 img: people/marketa-fibigerova.jpg
-heroImg:
+heroImg: people/marketa-fibigerova-hero.jpg
 profession: ředitelka a zřizovatelka 1. IT Gymnázia
 partyUid: bezpp
 description: ředitelka IT gymnázia
@@ -16,7 +17,7 @@ profiles:
 funkce:
 ---
 
-Ředitelka a zřizovatelka školy, učitelka informatiky a humanitních předmětů, tandemová učitelka tělocviku
+Ředitelka a zřizovatelka, učitelka informatiky a humanitních předmětů, tandemová učitelka tělocviku na <a href="https://www.itgymnazium.cz/">1. IT Gymnáziu</a>.
 
 Vystudovala Pedagogickou fakultu UK, obor Učitelství pro 2. a 3. stupeň: Český jazyk a Dějepis. Během studia v humanitním oboru se začala věnovat programování a technické analýze, stála u založení firmy <a href="https://www.1pf.cz/">1. PF</a>, s.r.o. zaměřené na vývoj sofware a dodávku IT řešení a služeb, která již více než dvacet let působí na trhu. Cestovala po zemích jako jako je Venezuela, Mexiko, Peru, Tanzánie, Indie, Čína nebo Írán.
 
