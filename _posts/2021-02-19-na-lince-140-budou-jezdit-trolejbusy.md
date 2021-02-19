@@ -6,7 +6,7 @@ date: 2021-02-19
 author: Martin Štěrba
 authorId: martin.sterba
 image: trolejbusy-prosecka.png
-tags: [Libeň, MHD, Magistrát]
+tags: [Libeň, Palmovka, Doprava, MHD, Magistrát]
 ---
 
 **Magistrát nakoupí nové trolejbusy, které budou nasazeny i na linku 140, která vede z Palmovky přes Prosek, Letňany, Čakovice do Miškovic. Trolejbusy tak nahradí zastaralé kloubové autobusy, čímž dojde k významného snížení produkce hluku a emisi škodlivin z autobusů a také k rozvoji nízkouhlíkové městské dopravy a tím i k rozvoji udržitelné mobility.** Vzhledem k vytížení linky dosahuje spotřeba nafty na lince 140 nadprůměrné hodnoty takřka 52 litrů nafty na 100 km. 
