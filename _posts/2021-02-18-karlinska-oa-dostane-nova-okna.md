@@ -6,7 +6,7 @@ date: 2021-02-18
 author: Karel Ptáček
 authorId: karel.ptacek
 image: posts/karlin-oa.jpg
-tags: [Karlín, Školství, VeřejnýProstor, Majetek, Magistrát]
+tags: [Karlín, Školství, Majetek, Magistrát]
 ---
 
 **Rada hlavního města Prahy odsouhlasila výběr zhotovitele, který zajistí kompletní výměnu oken a novou fasádu pro karlínskou Obchodní akademii a vyšší odbornou školu ekonomickou.**
