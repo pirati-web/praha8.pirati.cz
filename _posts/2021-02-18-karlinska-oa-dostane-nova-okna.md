@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title: 'Karlínská Obchodí akademie dostane nová okna a fasádu'
+title: 'Karlínská Obchodní akademie dostane nová okna a fasádu'
 date: 2021-02-18
 author: Karel Ptáček
 authorId: karel.ptacek
