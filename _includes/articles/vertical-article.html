@@ -55,7 +55,7 @@
     {% if include.article.tags %}
       <div class="inline-block-nogap mt-4">
         {% for tag in include.article.tags %}
-          {% capture tagUrl %}{{ tag | prepend: '/tags/#' | relative_url }}{% endcapture %}
+          {% capture tagUrl %}{{site.tags_path | relative_url}}#{{ tag | slugify: "latin" }}{% endcapture %}
           {% capture tagClass %}article-card__category-button btn--condensed text-sm font-light {% if include.article.important %}btn--grey-700{% else %}btn--grey-125{% endif %}{% endcapture %}
           {% include buttons/basic.html class=tagClass cta=tag href=tagUrl %}
         {% endfor %}

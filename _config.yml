@@ -119,6 +119,7 @@ defaults:   # defaults values for collection scope
          - program
 
 emptyArray: []
+tags_path: /aktuality/stitky.html
 
 assets:
   source_maps: true
