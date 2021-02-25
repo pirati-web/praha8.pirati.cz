@@ -1,12 +1,8 @@
 ---
-layout: post
-category: blog
-title: 'Zateplit domy ano nebo ne?'
-date: 2019-01-09T18:10:00.000Z
-author:
-authorId:
+title: Zateplit domy ano nebo ne?
+authorId: karel.ptacek
 image: posts/zatepleni.jpg
-tags: [ŽivotníProstředí, Bydlení]
+tags: [Životní prostředí, Bydlení]
 ---
 
 Určitě ano, finance jsou připravené.
@@ -15,4 +11,3 @@ S novou koalicí vznikají i nové komise rady. Jednou z nich je například kom
 
 Připomínáme, že stále běží dotační program [zelená úsporám](https://www.novazelenausporam.cz/nabidka-dotaci/bytove-domy-zatepleni-zdroje/), kde bytová družstva a SVJ mohou žádat až 30% nákladů na zateplení bytových domů, nebo například výměnu oken. Připomínáme, že je možné žádat i zpětně.
 
-<!-- vim:set spell spelllang=cs,en: -->

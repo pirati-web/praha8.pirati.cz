@@ -1,12 +1,8 @@
 ---
-layout: post
-category: blog
-title: 'Jaký je K-Index naší městské části?'
-date: 2020-09-16T8:51:00.000Z
-author: Martin Štěrba
+title: Jaký je K-Index naší městské části?
 authorId: martin.sterba
 image: posts/hlidacstatu.png
-tags: [Zastupitelstvo, Koalice, HlídačStátu]
+tags: [Zastupitelstvo, Koalice, Hlídač státu]
 ---
 
 **Hlídač státu pomocí K-indexu nově hodnotí transparentnost hospodaření tisícovky úřadů a veřejných firem. K-index je indexem korupčního rizika.**

@@ -1,12 +1,8 @@
 ---
-layout: post
-category: blog
-title: 'Blíží se soumrak vraků na Praze 8?'
-date: 2021-01-24
-author: Jan Horn
+title: Blíží se soumrak vraků na Praze 8?
 authorId: jan.horn
 image: posts/autovraky.png
-tags: [VeřejnýProstor, ŽivotníProstředí, Magistrát]
+tags: [Veřejný prostor, Životní prostředí, Magistrát]
 ---
 
 **Starověcí piráti zamořili svět díky své činnosti spoustou vraků. Možná i proto se moderní Piráti zaměřují v rámci samosprávy na boj s vraky a jejich odstranění z tváře města.**

@@ -1,9 +1,5 @@
 ---
-layout: post
-category: blog
-title: 'Pozdě ale přece, jednání zastupitelstva bylo hlavně o letošním rozpočtu'
-date: 2020-05-13T15:51:00.000Z
-author: Martin Štěrba
+title: Pozdě ale přece, jednání zastupitelstva bylo hlavně o letošním rozpočtu
 authorId: martin.sterba
 image: posts/zastupitelstvo_kveten2020.jpg
 tags: [Koalice, Koronavirus, Zastupitelstvo, Finance]

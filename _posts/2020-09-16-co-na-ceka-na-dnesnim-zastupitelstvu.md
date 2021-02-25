@@ -1,15 +1,11 @@
 ---
-layout: post
-category: blog
-title: 'Co nás čeká na dnešním jednání zastupitelstva?'
-date: 2020-09-16T5:51:00.000Z
-author: Martin Štěrba
+title: Co nás čeká na dnešním jednání zastupitelstva?
 authorId: martin.sterba
 image: posts/bilydum.png
 tags: [Zastupitelstvo]
 ---
 
-**Dnes nás čeká po letních prázdninách opět svátek demokracie, tedy jednání zastupitelstva naší městské části. A co zastupitele čeká?** 
+**Dnes nás čeká po letních prázdninách opět svátek demokracie, tedy jednání zastupitelstva naší městské části. A co zastupitele čeká?**
 
 > Budou se řešit návrhy na čestná občanství pro pana **MUDr. Slavoje Brichcína**, pana **Plk. Juliána Slepeckého** a **Doc. MUDr. Ivě Holmerové, Ph.D.**.
 

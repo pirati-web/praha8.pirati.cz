@@ -1,8 +1,5 @@
 ---
-layout: post
-title: 'Piráti si na Osmičce zvolili nové vedení'
-date: 2019-01-25
-author: Martin Staněk
+title: Piráti si na Osmičce zvolili nové vedení
 authorId: martin.stanek
 image: posts/predsednictvo-2019.png
 tags: [Piráti]

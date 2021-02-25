@@ -1,9 +1,5 @@
 ---
-layout: post
-category: blog
-title: 'Do nového roku s novým předsednictvem, předsedou byl zvolen Martin Štěrba'
-date: 2021-01-18
-author: Martin Štěrba
+title: Do nového roku s novým předsednictvem, předsedou byl zvolen Martin Štěrba
 authorId: martin.sterba
 image: posts/predsednictvo2021.png
 tags: [Piráti]

@@ -1,12 +1,8 @@
 ---
-layout: post
-category: blog
-title: 'Co si do nového roku pro Prahu 8 přejí její Piráti?'
-date: 2018-12-30T18:10:00.000Z
-author:
+title: Co si do nového roku pro Prahu 8 přejí její Piráti?
 authorId:
 image: posts/noviny.jpg
-tags: [Volby2018, Osmička, Piráti]
+tags: [Volby 2018, Časopis Osmička, Piráti]
 ---
 
 V naší práci v Zastupitelstvu MČ Praha 8 si klademe za cíl dohlédnout na to, aby při rozhodování Rady stál na prvním místě zájem veřejnosti, a nikoliv osobní prospěch jednotlivců.
@@ -20,6 +16,3 @@ V oblasti životního prostředí je nutné vzít na vědomí dopady klimatický
 Na školách by radnice měla přednostně podporovat samotné vzdělávání, ne jen stavební úpravy jednotlivých školních budov.
 
 Piráti prosazují demokratické principy i v dopravě – nechceme protežovat ekonomicky a ekologicky náročnou osobní automobilovou dopravu. Praha 8 by měla propagovat také ostatní šetrnější způsoby dopravy a prosazovat příslušná dopravní řešení. Stále také samozřejmě podporujeme zahloubení ulice V Holešovičkách.
-
-
-<!-- vim:set spell spelllang=cs,en: -->

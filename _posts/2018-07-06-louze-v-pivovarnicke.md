@@ -1,13 +1,8 @@
 ---
-date: 2018-07-02
-category: blog
-tags: louze 
-layout: post
 title: Praha 8 slíbila, že louže se splašky odstraní. Neodstranila, tak jsme se do toho pustili sami.
-author: Jan Horn
-authorId: jan.horn    # uid nekoho z _people (nepoviné)
+authorId: jan.horn
 image: posts/tym-louze.jpg
-tags: [Libeň, ŽivotníProstředí, Kotlaska]
+tags: [Libeň, Životní prostředí, Kotlaska]
 ---
 
 Někteří z vás možná zaznamenali na sociálních sítích nedávnou „kauzu“ Libeňské

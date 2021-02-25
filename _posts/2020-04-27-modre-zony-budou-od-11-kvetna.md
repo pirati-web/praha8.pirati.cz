@@ -1,9 +1,5 @@
 ---
-layout: post
-category: blog
-title: 'Modré zóny budou obnoveny od 11. května'
-date: 2020-04-27T15:51:00.000Z
-author: Martin Štěrba
+title: Modré zóny budou obnoveny od 11. května
 authorId: martin.sterba
 image: posts/modrezony.jpg
 tags: [Doprava, Parkování, Magistrát]

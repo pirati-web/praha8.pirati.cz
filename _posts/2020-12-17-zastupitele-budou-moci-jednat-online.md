@@ -1,9 +1,5 @@
 ---
-layout: post
-category: blog
-title: 'Zastupitelé v karanténě se budou moci účastnit zastupitelstva on-line'
-date: 2020-12-17T10:51:00.000Z
-author: Martin Štěrba
+title: Zastupitelé v karanténě se budou moci účastnit zastupitelstva on-line
 authorId: martin.sterba
 image: posts/praha8-bilydum.png
 tags: [Digitalizace, Zastupitelstvo]

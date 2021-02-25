@@ -1,12 +1,8 @@
 ---
-layout: post
-category: blog
-title: 'Tramvají nebo lanovkou? Jaké bude propojení šestky a osmičky?'
-date: 2020-06-05T01:51:00.000Z
-author: Martin Štěrba
+title: Tramvají nebo lanovkou? Jaké bude propojení šestky a osmičky?
 authorId: martin.sterba
 image: posts/lanovkabohnice.jpg
-tags: [Doprava, Osmička, Lanovka, MHD, Bohnice, Magistrát]
+tags: [Doprava, Časopis Osmička, Lanovka, MHD, Bohnice, Magistrát]
 ---
 
 **Jak bude v příštích letech vypadat spojení šestky a osmičky? A jak budeme mezi těmito městskými částmi jezdit v roce 2050?** Náměstek primátora pro rozvoj **Petr Hlaváček** (Spojené síly pro Prahu) a náměstek pritmárora pro dopravu **Adam Scheinherr** (Praha Sobě) v posledním dílu před prázdninovou přestávkou představí připravovanou lanovku z Podbaby do Bohnic.

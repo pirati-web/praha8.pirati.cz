@@ -1,9 +1,5 @@
 ---
-layout: post
-category: blog
-title: 'Bohničtí stále touží po skateparku. Dočkají se?'
-date: 2020-09-25T5:51:00.000Z
-author: Pavel Franc
+title: Bohničtí stále touží po skateparku. Dočkají se?
 authorId: pavel.franc
 image: posts/skatepark-bohnice.jpg
 tags: [Bohnice, Sport]

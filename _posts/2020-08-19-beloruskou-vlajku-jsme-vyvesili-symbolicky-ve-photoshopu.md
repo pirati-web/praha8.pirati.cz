@@ -1,14 +1,9 @@
 ---
-layout: post
-category: blog
-title: 'Běloruskou vlajku jsme vyvěsili alespoň symbolicky ve Photoshopu'
-date: 2020-08-19T05:51:00.000Z
-author: Martin Štěrba
+title: Běloruskou vlajku jsme vyvěsili alespoň symbolicky ve Photoshopu
 authorId: martin.sterba
 image: posts/freebelarus.png
 tags: [Piráti, Bělorusko]
 ---
-
 
 Starosta naší městské části Ondřej Gros oznámil, že vlajku na podporu svobodného Běloruska nevyvěsí. Symbolicky tak běloruskou červenobílou vlajku, tedy symbol opozice a vzdoru vůči režimu a zároveň odkazující na pokus Běloruska vyhlásit nezávislost, vyvěšujeme na budovu Libeňského zámečku alespoň prostřednictvím Photoshopu.
 

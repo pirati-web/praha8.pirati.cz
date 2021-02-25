@@ -1,9 +1,5 @@
 ---
-layout: post
-category: blog
-title: 'Kam se půjdeme letos klouzat? Možná, že nikam.'
-date: 2020-10-16T5:51:00.000Z
-author: Pavel Franc
+title: Kam se půjdeme letos klouzat? Možná, že nikam.
 authorId: pavel.franc
 image: posts/kluziste_ladvi.png
 tags: [Ládví, Sport]
@@ -19,9 +15,9 @@ U nás na Praze 8, stejně jak na vládě, se totiž věci řeší až na posled
 
 **Bez ohledu na zlepšení či nezlepšení letošní situace, doporučovali bychom pomalu začít řešit hlavně sezonu 2021/22. Obecně jsou dlouhodobě nasmlouvané práce tak nějak levnější.** Vyhlášení transparentního výběrového řízení také není zde dne na den. A vedle toho je třeba také včas zjistit, kam se ztratilo dřevo ze třetího karlínského kluziště - dle našeho odhadu v ceně tak 200 tisíc, taky nějaký čas zabere.
 
-Pokud bude politická vůle provozovat kluziště jako volnočasovou aktivitu pro děti a mládež, musí být naše městská část připravena kluziště nejen zapůjčit, ale celou aktivitu podpořit i finančně. Organizaci, plán stavby, připojení elektřiny a provoz však prosím nechte na transparentně vybraném provozovateli. 
+Pokud bude politická vůle provozovat kluziště jako volnočasovou aktivitu pro děti a mládež, musí být naše městská část připravena kluziště nejen zapůjčit, ale celou aktivitu podpořit i finančně. Organizaci, plán stavby, připojení elektřiny a provoz však prosím nechte na transparentně vybraném provozovateli.
 
-Další alternativou, za kterou bychom se jako Piráti přimlouvali, by bylo si přiznat, že městská část Praha 8 na provozování kluzišť nemá ani organizační kapacity ani finance a dohodnout se s Magistrátem hlavního města Prahy, který má k dispozici jak volnočasové organizace umožňující zajistit provoz, tak finance na samotný provoz. 
+Další alternativou, za kterou bychom se jako Piráti přimlouvali, by bylo si přiznat, že městská část Praha 8 na provozování kluzišť nemá ani organizační kapacity ani finance a dohodnout se s Magistrátem hlavního města Prahy, který má k dispozici jak volnočasové organizace umožňující zajistit provoz, tak finance na samotný provoz.
 
 ***Je však otázkou, co je pro osmičkovou koalici priorita - bruslící děti,nebo vlastnictví kluzišť a preferovaní provozovatelé.***
 

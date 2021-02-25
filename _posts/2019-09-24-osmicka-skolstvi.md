@@ -1,14 +1,9 @@
 ---
-layout: post
-category: blog
-title: 'Praha 8 rezignovala na změny ve školství!'
-date: 2019-09-24T16:15:00.000Z
-author: Pavel Franc
+title: Praha 8 rezignovala na změny ve školství!
 authorId: pavel.franc
 image: posts/osmicka_skolstvi.jpg
-tags: [Školství, Koalice, Osmička]
+tags: [Školství, Koalice, Časopis Osmička]
 ---
-
 
 Vzdělaná společnost je základním předpokladem k tomu, aby nám bylo lépe. A zatímco Ministerstvo školství změny slibuje, vedení Prahy 8 na ně rovnou rezignovalo. Místo do vzdělávání posílá školské peníze spřáteleným stavebním firmám.
 

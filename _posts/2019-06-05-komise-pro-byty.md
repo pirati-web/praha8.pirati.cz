@@ -1,9 +1,5 @@
 ---
-layout: post
-category: blog
-title: Zpráva z komise městské části pro obecní byty  
-date: 2019-06-05T15:10:00.000Z
-author: Ivo Slávka
+title: Zpráva z komise městské části pro obecní byty
 authorId: ivo.slavka
 image: posts/seniorum-mame-pomahat.png
 tags: [Bydlení]

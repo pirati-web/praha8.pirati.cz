@@ -1,12 +1,8 @@
 ---
-layout: post
-category: blog
-title: 'Palmovkou je nutné se zabývat hned, není čas to odkládat'
-date: 2020-04-23T10:51:00.000Z
-author: Karel Ptáček
+title: Palmovkou je nutné se zabývat hned, není čas to odkládat
 authorId: karel.ptacek
 image: posts/Palmovkastramvaji.jpg
-tags: [Zastupitelstvo, NováPalmovka, Palmovka]
+tags: [Zastupitelstvo, Nová Palmovka, Palmovka]
 ---
 
 **Palmovka ani jeho okolí rozhodně nepatří mezi výkladní skříně, a to jak naší městské části, tak i celé Prahy. Palmovka je zanedbaná, a potřebuje zlepšit. To víme všichni.**

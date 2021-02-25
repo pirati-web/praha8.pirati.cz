@@ -1,14 +1,9 @@
 ---
-layout: post
-category: blog
-title: 'S autovraky je to jako s odpadky. Musíme to řešit!'
-date: 2019-04-23T13:33:00.000Z
-author: Martin Štěrba
+title: S autovraky je to jako s odpadky. Musíme to řešit!
 authorId: martin.sterba
 image: posts/osmicka_autovraky.jpg
-tags: [Osmička, ŽivotníProstředí]
+tags: [Časopis Osmička, Životní prostředí]
 ---
-
 
 Špínu nebo pohozené odpadky před domem nenecháme. Nebo respektive velká část z nás by se s nimi pokusila něco udělat. Tak proč bychom si měli nechat stát před domy opuštěná auta nebo jejich torza Třeba jako v tomto případě. V loňském roce parkovala zhruba půl roku v ulici Pod Stírkou dvě auta. Postupem času zmizela kola,motor i okna. Z pojízdného auta se stal vrak. To samé se dělo u jednoho z aut na Elsnicově náměstí přímo pod Libeňským zámečkem. Nejsou to však jediné případy, pro podobné bychom nemuseli chodit daleko.
 

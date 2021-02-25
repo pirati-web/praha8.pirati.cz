@@ -1,12 +1,8 @@
 ---
-layout: post
-category: blog
-title: 'Praha drží spolu! Sdílejte letáky pro seniory.'
-date: 2020-03-23T20:38:00.000Z
-author: Martin Štěrba
+title: Praha drží spolu! Sdílejte letáky pro seniory.
 authorId: martin.sterba
 image: posts/prahadrzispolu.jpg
-tags: [NouzovýStav, Koronavirus, RouškyVšem, ZdeněkHřib, Magistrát]
+tags: [Nouzový stav, Koronavirus, Magistrát]
 ---
 
 Sdílíme prosbu od Zdeňka Hřiba, primátora hlavního města Prahy. Děkujeme! ❤️

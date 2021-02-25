@@ -1,14 +1,9 @@
 ---
-layout: post
-category: blog
-title: 'Korupce v době krize? Radní Slobodník plánoval malou domů za nákup dezinfekce'
-date: 2020-04-02T07:51:00.000Z
-author: Martin Štěrba
+title: Korupce v době krize? Radní Slobodník plánoval malou domů za nákup dezinfekce
 authorId: martin.sterba
 image: posts/slobodnik-dezinfekce.jpg
-tags: [NouzovýStav, Koronavirus, ODS, KauzaDezinfekce]
+tags: [Nouzový stav, Koronavirus, ODS, Dezinfekce]
 ---
-
 
 *„Plán je jasnej: deset až patnáct procent pro mě, pro něj. To je minimum, pro mě. Ty mu tam ukážeš to demo a pak to bude chviličku na něm,“* Vypadá to jako knižní příběh, ale tím "pro něj" je podle [Seznam Zpráv](https://www.seznamzpravy.cz/clanek/procenta-pro-radniho-za-dezinfekci-skol-natocili-jsme-uplatky-v-casech-nouze-97328?fbclid=IwAR2ett1NmUllSOS9BvTnH04uoaxXBtRTAYO8BHAW3f98dXdap0lVLhO6YGU) Josef Slobodník, radní MČ Prahy 8 za ODS, jehož gescí je informatika. Celý příběh dal dohromady reportér Janek Kroupa, který zdokumentoval, jak si v době nouzového stavu, tedy bez výběrového řízení, domlouvá prostředník radnice Prahy 8 procenta ze zakázky na dezinfekci veřejných prostor. Vyjednával peníze i pro radního z ODS.
 
@@ -26,7 +21,7 @@ tags: [NouzovýStav, Koronavirus, ODS, KauzaDezinfekce]
 - každá z nich má několik tisíc metrů čtverečních, které je třeba dezinfikovat. Každý jeden metr stojí 90 korun,
 - patnáct procent pro radního a patnáct procent pro sebe – vzhledem k tomu, že se baví o zakázce v rozsahu desítek milionů korun – znamená opravdu hodně peněz.
 
-Radní Slobodník se k tomu odmítl vyjádřit. **Chceme jasné vyjádření od ODS i členů koalice!** Opravdu by nás také zajímalo jaká byla provize u zakázek na [dezinfekce dětských hřišť a sportovišť na území MČ Praha](https://smlouvy.gov.cz/smlouva/12034464?fbclid=IwAR3ahzpxERgj979f9agPI2KR2C_yXmEmdgPmj4Usi3e3Fx23TwgfyFxc1TA). Pokud tam byla stejná dohoda jako ta z reportáže pana Kroupy, tak vedení městské části vyvedlo téměř 500 tisíc korun z rozpočtu městské části. 
+Radní Slobodník se k tomu odmítl vyjádřit. **Chceme jasné vyjádření od ODS i členů koalice!** Opravdu by nás také zajímalo jaká byla provize u zakázek na [dezinfekce dětských hřišť a sportovišť na území MČ Praha](https://smlouvy.gov.cz/smlouva/12034464?fbclid=IwAR3ahzpxERgj979f9agPI2KR2C_yXmEmdgPmj4Usi3e3Fx23TwgfyFxc1TA). Pokud tam byla stejná dohoda jako ta z reportáže pana Kroupy, tak vedení městské části vyvedlo téměř 500 tisíc korun z rozpočtu městské části.
 
 **kontakty:**
 - Michal Novák, předseda zastupitelského klubu, 603 170 430,

@@ -1,15 +1,9 @@
 ---
-layout: post
-category: blog
-title: 'Bezpečnostní situace na Praze 8 je dobrá, chceme zlepšit prevenci a prostředí rizikových míst'
-date: 2020-09-22T5:51:00.000Z
-author: Jan Kolátor
+title: Bezpečnostní situace na Praze 8 je dobrá, chceme zlepšit prevenci a prostředí rizikových míst
 authorId: jan.kolator
 image: posts/Palmovkastramvaji.jpg
-tags: [Bezpečnost, Osmička]
+tags: [Bezpečnost, Časopis Osmička]
 ---
-
-**[V novém vydání časopisu Osmička](https://www.praha8.cz/file/ZgT/Mesicnik-Osmicka-rijen-2020.pdf) jsme odpovídali na otázku, jak vnímáme bezpečnostní situaci v Praze 8, především v okolí stanic metra.**
 
 I když otázka je položena tak, že očekává negativní odpověď, já vidím bezpečnostní situaci u nás na Praze 8 jako velmi dobrou. Česká republika má velmi nízký nápad trestné činnosti, který navíc stále klesá. Praha je navíc metropolí, kde je logicky bezpečnostní situace složitější oproti venkovu. Praha 8 nicméně patří k těm klidnějším částem našeho města – pokud navíc bydlíte v čtvrtích bez metra jako jsou Bohnice nebo Čimice, žijete vlastně v oáze klidu a bezpečí.
 

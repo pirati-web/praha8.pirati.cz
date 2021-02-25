@@ -1,9 +1,5 @@
 ---
-layout: post
-category: blog
-title: 'Praha 8 odpustí nájemné podnikatelům a živnostníkům postiženým opatřeními COVID-19'
-date: 2020-07-07T05:51:00.000Z
-author: Martin Štěrba
+title: Praha 8 odpustí nájemné podnikatelům a živnostníkům postiženým opatřeními COVID-19
 authorId: martin.sterba
 image: posts/restu_dvakohouti.jpg
 tags: [Zastupitelstvo, Koronavirus, Magistrát]

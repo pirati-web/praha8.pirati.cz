@@ -1,12 +1,8 @@
 ---
-layout: post
-category: blog
-title: 'Hřib: Se státem vyřešíme Bulovku i vnitřní okruh. V září bude podepsáno memorandum'
-date: 2020-07-16T05:51:00.000Z
-author: MHMP
-authorId: 
+title: "Hřib: Se státem vyřešíme Bulovku i vnitřní okruh. V září bude podepsáno memorandum"
+authorId:
 image: posts/bulovka.jpg
-tags: [ZdeněkHřib, Bulovka, Doprava, Magistrát]
+tags: [Bulovka, Doprava, Magistrát]
 ---
 
 **Po téměř dvouletých sporech mezi pirátským primátorem Zdeňkem Hřibem a premiérem Andrejem Babišem ohledně směn majetku došlo ve čtvrtek k první dílčí dohodě.** V první fázi půjde o směnu pozemků kvůli výstavbě traumacentra ve Fakultní nemocnici Královské Vinohrady, následovat by měla Nemocnice na Bulovce na Praze 8, pozemky pro vládní čtvrť v Letňanech a výkup pozemků pro dostavbu části okruhu 511. Do poloviny září bude podepsáno memorandum, které vše vyřeší. [Stojí to tak v tiskové zprávě z MHMP](https://www.praha.eu/jnp/cz/o_meste/magistrat/tiskovy_servis/tiskove_zpravy/prioritou_je_rozvoj_nemocnic_na_uzemi.html).

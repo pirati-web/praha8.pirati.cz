@@ -1,15 +1,11 @@
 ---
-layout: post
-category: blog
-title: 'Starosta Gros svolává mimořádné jednání zastupitelstva, Slobodník rezignuje'
-date: 2020-04-06T10:51:00.000Z
-author: Martin Štěrba
+title: Starosta Gros svolává mimořádné jednání zastupitelstva, Slobodník rezignuje
 authorId: martin.sterba
 image: posts/rezignace-slobodnik2.png
-tags: [NouzovýStav, Zastupitelstvo, KauzaDezinfekce]
+tags: [Nouzový stav, Zastupitelstvo, Dezinfekce]
 ---
 
-**Dvě dobré zprávy pro dnešní den!** Na základě událostí minulých dní došlo k posunu několika věcí. 
+**Dvě dobré zprávy pro dnešní den!** Na základě událostí minulých dní došlo k posunu několika věcí.
 
 1) Na základě žádosti od zastupitelských klubů Pirátů a 8žije dojde 21. dubna od 14 hodin ke **svolání mimořádného jednání zastupitelstva MČ Praha 8**. Budeme řešit odvolání pana radního Slobodníka, schválení žádosti směřované odboru kontrolních činností Magistrátu hlavního města Prahy, schválení rozpočtových opatření v souvislosti s bojem proti koronaviru, a pověření nezávislého auditora s vykonáním hloubkového auditu všech útvarů, které spadají do gesce radního Slobondíka.
 

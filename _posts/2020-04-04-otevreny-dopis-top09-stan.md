@@ -1,12 +1,8 @@
 ---
-layout: post
-category: blog
-title: 'Otevřený dopis zastupitelům TOP 09 a STAN na MČ Praze 8'
-date: 2020-04-04T5:51:00.000Z
-author: Michal Novák
+title: Otevřený dopis zastupitelům TOP 09 a STAN na MČ Praze 8
 authorId: michal.novak
 image: posts/zastupitelstvo3.jpg
-tags: [NouzovýStav, TOP09+STAN, KauzaDezinfekce]
+tags: [Nouzový stav, TOP09, STAN, Dezinfekce]
 ---
 
 
@@ -30,6 +26,6 @@ V této situaci a ve světle dalších zkušenosti se současnou koalicí nás p
 
 **Chcete dál setrvávat v koalici starých pořádků?** I teď, když je jasné, co takové pořádky znamenají? Není čas přehodnotit vaše rozhodnutí? Pojďme se společně sejít a bavme se o budoucnosti naší městské části. Jsme připraveni k jednání.
 
-S pozdravem 
+S pozdravem
 
 Michal Novák, předseda zastupitelského klubu Pirátů na Praze 8

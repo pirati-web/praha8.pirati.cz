@@ -1,9 +1,5 @@
 ---
-layout: post
-category: blog
-title: 'Jak se rozprodávají činžovní domy na Praze 8'
-date: 2019-01-28T18:10:00.000Z
-author:
+title: Jak se rozprodávají činžovní domy na Praze 8
 authorId: karel.ptacek
 image: posts/dum.jpg
 tags: [Bydlení]
@@ -15,12 +11,8 @@ A aby toho nebylo málo, nyní vyšla nová informace o rekonstrukci před čase
 
 Můžeme se ptát,
 
-* proč se Ondřej Gros a nové vedení radnice obklopuje stejnými lidmi, na které předtím upozorňoval a jejichž schopnosti zpochybňoval? 
-* jestli můžeme nyní opět očekávat nějaké „zajímavé“ rozprodeje obecního majetku? 
+* proč se Ondřej Gros a nové vedení radnice obklopuje stejnými lidmi, na které předtím upozorňoval a jejichž schopnosti zpochybňoval?
+* jestli můžeme nyní opět očekávat nějaké „zajímavé“ rozprodeje obecního majetku?
 * jestli se musí skutečně nové vedení radnice spoléhat na předchozí vedení a kazit si tím prozatím čistý štít?
 
 Pro nás je důležité zachování současného bytového fondu a jako řádný hospodář se o něj zodpovědně starat a do budoucna ho rozšiřovat. Proto jsme zásadně proti budoucímu rozprodeji majetku MČ Praha 8.
-
-
-
-<!-- vim:set spell spelllang=cs,en: -->

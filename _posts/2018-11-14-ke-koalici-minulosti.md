@@ -1,12 +1,8 @@
 ---
-layout: post
-category: blog
-title: 'Držíme kurz! I když se nepovedlo vyjednat koalici změny.'
-date: 2018-11-14T18:10:00.000Z
-author: Michal Novák
+title: Držíme kurz! I když se nepovedlo vyjednat koalici změny.
 authorId: michal.novak
 image: posts/slib.jpeg
-tags: [Volby2018, Piráti, Zastupitelstvo]
+tags: [Volby 2018, Piráti, Zastupitelstvo]
 ---
 
 Piráti na Praze 8 vyvinuli maximální snahu o vytvoření koalice pozitivní změny. Usilovali jsme o koalici na stejném půdorysu jako je koalice na Magistrátu a partnerům jsme nabídli konkrétní, férové uspořádání Rady, které však nebylo ze strany TOP 09 a STAN akceptováno.
@@ -20,6 +16,3 @@ S koalicí minulosti, které dominuje ODS s Patrioty a která se opírá o hlasy
 Do opozice dnes odchází liberální strany a nastupují konzervativní euroskeptici. Piráti však budou ve spolupráci s našimi kolegy na Magistrátu pracovat pro občany Prahy 8.
 
 Děkujeme, že jste nás na ně pustili!
-
-
-<!-- vim:set spell spelllang=cs,en: -->

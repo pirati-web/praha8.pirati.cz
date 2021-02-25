@@ -1,9 +1,5 @@
 ---
-layout: post
-category: blog
-title: 'Otevřený dopis radnímu pro kulturu Švarcovi'
-date: 2019-03-18T15:10:00.000Z
-author:
+title: Otevřený dopis radnímu pro kulturu Švarcovi
 authorId: martin.stanek
 image: posts/dopis2.jpg
 tags: [Koalice, Kultura, Patrioti]

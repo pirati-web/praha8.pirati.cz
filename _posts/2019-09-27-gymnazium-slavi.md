@@ -1,14 +1,9 @@
 ---
-layout: post
-category: blog
-title: 'Gymnázium U Libeňského zámku slaví!'
-date: 2019-09-27T14:35:00.000Z
-author: Michal Novák
+title: Gymnázium U Libeňského zámku slaví!
 authorId: michal.novak
 image: posts/gymnazium-ulibenskehozamku.jpg
 tags: [Školství, Libeň]
 ---
-
 
 Gymnázium U Libeňského zámku slaví stodesáté narozeniny. To jste jistě slyšeli, řada z vás jistě toto gymnázium navštěvovala. Chodili sem třeba i členové Pirátské strany a to Michal Novak a Michaela Krupičková. Společně zavzpomínali na školní léta. A na oslavu dorazil i radní pro školství Vít Šimral.
 

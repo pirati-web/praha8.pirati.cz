@@ -1,12 +1,8 @@
 ---
-layout: post
-category: blog
 title: TOP 09 a STAN s námi už nechtějí jednat o koalici
-date: 2018-10-30T05:00:00.000Z
-author: Alice Hamalová
-authorId: alice.hamalova    # uid nekoho z _people
+authorId: alice.hamalova
 image: posts/logo-spojenych-sil.png
-tags: [Volby2018, TOP09+STAN]
+tags: [Volby 2018, TOP09, STAN]
 ---
 
 V průběhu úvodního oťukávání v rámci vyjednávání povolební koalice nám a našemu vyjednávacímu partnerovi [Osmička žije](https://www.facebook.com/8zije/) zástupci [TOP 09 Praha 8](https://www.facebook.com/top09.praha8/) a [STAN Praha 8](https://www.facebook.com/stanPraha8/) oznámili, že s námi budou v dalším vyjednávání pokračovat. Po náhlém ukončení jednání z jejich strany a dalším týdnu vyjednávání jsme za Piráty a 8žije nabídli TOP 09 a STAN místo v koalici s účastí tří radních a jednoho uvolněného zastupitele. Na tuto nabídku jsme dostali odpověď až nyní po více jak týdnu čekání -- jednání s námi ukončují s odůvodněním, že by v tomto uskupení nemohli prosazovat svůj program.

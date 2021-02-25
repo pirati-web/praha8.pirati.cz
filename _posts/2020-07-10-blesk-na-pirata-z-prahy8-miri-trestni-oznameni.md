@@ -1,12 +1,8 @@
 ---
-layout: post
-category: blog
-title: 'Blesk.cz: Na Piráta z Prahy 8 míří trestní oznámení za pomluvu. Kvůli jedinému slovu.'
-date: 2020-07-10T05:51:00.000Z
-author: Martin Štěrba
+title: "Blesk.cz: Na Piráta z Prahy 8 míří trestní oznámení za pomluvu. Kvůli jedinému slovu."
 authorId: martin.sterba
 image: posts/fichtner-sterba.png
-tags: [Zastupitelstvo, Blesk.cz, HnutíANO]
+tags: [Zastupitelstvo, Hnutí ANO]
 ---
 
 **Nedávno jsme Vás informovali o tom, že zastupitel za hnutí ANO [Matěj Fichtner dostal novou práci]({% link _posts/2020-06-08-trafika-pro-fichtnera.md %}) – od počátku června se stal ředitelem společnosti Správa tepelného hospodářství. Kvůli jednomu slovu v tomto článku podal bývalý radní, místostarosta a poslanec trestní oznámení.**

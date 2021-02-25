@@ -1,14 +1,9 @@
 ---
-layout: post
-category: blog
-title: 'Osmička: Spolupracujme u Nové Palmovky se soukromými investory'
-date: 2020-01-30T10:20:00.000Z
-author: Michal Novák
+title: "Osmička: Spolupracujme u Nové Palmovky se soukromými investory"
 authorId: michal.novak
 image: posts/palmovka.jpg
-tags: [NováPalmovka, Osmička]
+tags: [Nová Palmovka, Časopis Osmička]
 ---
-
 
 Základní prioritou by mělo být zajištění finančních prostředků, a to například z fondů EU nebo skrze spolupráci se soukromými investory, jak to za Piráty navrhujeme u dostavby Nové Palmovky.
 
@@ -16,7 +11,7 @@ Jediné opatření rady pro zvýšení příjmů, o kterém zatím víme, je pro
 
 V oblasti výdajů musí být prioritou zachování funkcí samosprávy (péče o městskou část a její občany) a zachování péče o seniory, rodiny s dětmi, sociálně a zdravotně slabší. Nabízí se obnovení provozu gerontologického centra v původním rozsahu (před propouštěním zaměstnanců) nebo obnovení podpory klubu Mapa.
 
-Praha 8 se musí dlouhodobě naučit hospodařit. Teď navrhuji alespoň tato základní prioritní opatření: 
+Praha 8 se musí dlouhodobě naučit hospodařit. Teď navrhuji alespoň tato základní prioritní opatření:
 1. Snížit počet radních, případně změnit jejich pozici na neuvolněnou. To sníží platové nároky.
 2. Snížit nebo zrušit případné odměny politikům za projekty. Rada má jít v šetření příkladem.
 3. Změnit způsob provozu kluzišť. Nyní má z nich Praha 8 benefit jen v podobě vstupu zdarma pro ZŠ a MŠ. Nájemné pro provozovatele je 0 Kč.

@@ -1,12 +1,8 @@
 ---
-layout: post
-category: blog
 title: Co přineslo červnové řádné jednání zastupitelstva MC Praha 8?
-date: 2019-06-13T15:10:00.000Z
-author: Michal Novák
 authorId: michal.novak
 image: posts/zas13-6.jpg
-tags: [Zastupitelstvo, NováPalmovka, Finance, ÚzemníRozvoj]
+tags: [Zastupitelstvo, Nová Palmovka, Finance, Územní rozvoj]
 ---
 
 ### Nový jednací řád

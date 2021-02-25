@@ -1,9 +1,5 @@
 ---
-layout: post
-category: blog
-title: 'Karlínská Obchodní akademie dostane nová okna a fasádu'
-date: 2021-02-18
-author: Karel Ptáček
+title: Karlínská Obchodní akademie dostane nová okna a fasádu
 authorId: karel.ptacek
 image: posts/karlin-oa.jpg
 tags: [Karlín, Školství, Majetek, Magistrát]

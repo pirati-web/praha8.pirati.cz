@@ -1,9 +1,5 @@
 ---
-layout: post
-category: blog
-title: 'Dnešní jednání zastupitelstva MČ Praha 8 je odloženo'
-date: 2020-06-17T05:51:00.000Z
-author: Martin Štěrba
+title: Dnešní jednání zastupitelstva MČ Praha 8 je odloženo
 authorId: martin.sterba
 image: posts/odlozene-zastupitelstvo.png
 tags: [Zastupitelstvo, Koronavirus]

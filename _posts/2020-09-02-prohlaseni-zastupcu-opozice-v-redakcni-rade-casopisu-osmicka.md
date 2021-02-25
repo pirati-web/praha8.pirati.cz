@@ -1,12 +1,8 @@
 ---
-layout: post
-category: blog
-title: 'Prohlášení zástupců opozice v redakční radě časopisu Osmička'
-date: 2020-09-02T5:51:00.000Z
-author: Martin Štěrba
+title: Prohlášení zástupců opozice v redakční radě časopisu Osmička
 authorId: martin.sterba
 image: posts/osmicka_prohlaseni.png
-tags: [Osmička, Piráti, Koalice]
+tags: [Redakční rada, Koalice]
 ---
 
 **Vzhledem k tomu, že od nástupu zastupitele Tomáše Mrázka (ODS) do čela redakční rady se výrazně zhoršila komunikace v rámci redakční rady a opakovaně dochází k porušování [redakčního kodexu](https://www.praha8.cz/file/6zr/Redakcni-kodex-casopisu-Osmicka.pdf) i [jednacího řádu komisí](https://m.praha8.cz/file/36W/Jednaci-rad-komisi-Rady-MC-Praha-8.pdf), nezbývá nám, než na to upozornit veřejně a požádat opětovně starostu Ondřeje Grose (ODS) i ostatní členy rady městské části Prahy 8, aby se pokusili zjednat nápravu.**
@@ -21,6 +17,6 @@ Je s podivem, že profesionální tiskový mluvčí Tomáš Mrázek, pracující
 
 Věříme, že teď dojde k nápravě a bude možné věcně a rozumně diskutovat o časopisu Osmička tak, jak tomu bylo v minulosti.
 
-Michal Kalina *(nominován za 8žije)*, 
-Tomáš Pavlů *(zastupitel Osmička sobě – Zelení a KDU-ČSL)*, 
+Michal Kalina *(nominován za 8žije)*,
+Tomáš Pavlů *(zastupitel Osmička sobě – Zelení a KDU-ČSL)*,
 Martin Štěrba *(nominován za Piráty)*

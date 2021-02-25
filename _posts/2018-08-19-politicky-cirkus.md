@@ -1,14 +1,9 @@
 ---
-date: 2018-08-19
-category: blog
-layout: post
 title: Politický cirkus Prahy 8 aneb „Osmička“ na začátku léta (cca 3 měsíce do voleb)
-author: Michal Novák
-authorId: michal.novak    # uid nekoho z _people (nepoviné)
+authorId: michal.novak
 image: posts/zastupitelstvo.jpg
 tags: [Transparentnost]
 ---
-
 
 **Zazní hlas radního, který momentálně vede schůzi zastupitelstva Prahy 8: „Otevírám diskuzi.“. Do té ale není nikdo přihlášen. Proto o pár sekund později stejný radní hlásí „Končím diskuzi.“. A hlasuje se. Jeden bod programu se zvládne za pár minut. Krátké představení bodu bez uvedení jakýchkoliv argumentů a pak výše popsaný scénář. A takto cca patnáctkrát nebo dvacetkrát dokola. Jako dobře secvičené představení. Zastupitelé, koaliční i ti opoziční, jako poslušní vystupující znající svoji roli. Hlavně neudělat nic špatně. Hlavně nevybočit. Prostě politický cirkus.**
 
@@ -25,9 +20,9 @@ Snad jen praví „schůzovní masochisté“ a milovníci formálních politick
 
 **Napadá nás: Není to náhodou cílem?** Možná si některé jiné strany říkají: „Když to bude celé vypadat naprosto nezáživně a nezajímavě, lidé se přestanou o politiku ve své obci, ehm obvodě, zajímat a nechají nás v klidu vládnout (rozuměj: dělat si co chceme).“ Ale nechceme politikům jiných stran podsouvat takové úmysly. Třeba jen nevědí, jak lidi do rozhodování o svém domově zapojit. Třeba.
 
-**V čem je podle nás problém?** 
-Konkrétně v tom, že neexistuje platforma, na které by se mohli občané Prahy 8 opravdu zásadně zapojit do rozhodování o svém domově. 
-**K čemu jsou tato zasedání zastupitelstva otevřená veřejnosti, když se zde nic otevřeně neprojednává?** 
+**V čem je podle nás problém?**
+Konkrétně v tom, že neexistuje platforma, na které by se mohli občané Prahy 8 opravdu zásadně zapojit do rozhodování o svém domově.
+**K čemu jsou tato zasedání zastupitelstva otevřená veřejnosti, když se zde nic otevřeně neprojednává?**
 Když se zde neuvádí argumenty pro a proti. Když se zde nevede diskuze.
 
 Ha, řeknete si: Možná se tato diskuze odehrává jinde a jindy. Ale chyba lávky. Jednání výborů a komisí zastupitelstva, respektive rady, nejsou rozhodně běžně veřejně přístupná. Kdyby byla, asi by bylo v pořádku, že se zastupitelstvo sejde k formálnímu odsouhlasení všech bodů jen v rychlosti.

@@ -1,14 +1,9 @@
 ---
-layout: post
-category: blog
-title: 'Pirátské řady posiluje Lukáš Wagenknecht'
-date: 2019-11-07T11:04:00.000Z
-author: Martin Štěrba
+title: Pirátské řady posiluje Lukáš Wagenknecht
 authorId: martin.sterba
 image: posts/lukas-wagenknecht-clen.jpg
-tags: [Piráti, Senát, LukášWagenknecht]
+tags: [Piráti, Senát]
 ---
-
 
 Máme radost. Česká pirátská strana má nového člena, naše místní sdružení se tak díky tomu opět rozrostlo. A není jim nikdo jiný než osmičkový senátor Lukáš Wagenknecht.
 

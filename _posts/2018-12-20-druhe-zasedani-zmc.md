@@ -1,8 +1,5 @@
 ---
-layout: post
-category: blog
-title: 'Koalice bez programu a prodej pozemku školy bez vědomí její ředitelky. Co dělá koalice na Praze 8?'
-date: 2018-12-20T18:10:00.000Z
+title: Koalice bez programu a prodej pozemku školy bez vědomí její ředitelky. Co dělá koalice na Praze 8?
 author: Michal Novák
 authorId: michal.novak
 image: posts/tym8.jpg
@@ -22,6 +19,3 @@ Ve středu 19. prosince se uskutečnilo druhé jednání Zastupitelstva MČ Prah
 5. Zájmy občanů budeme hájit ve všech odborných komisích, které jsou poradními orgány Rady městské části. Michal Novak je členem kontrolního výboru, Alice Hamalova členkou finančního výboru.
 
 PS: Naše zastupitelka, Anička Filínová -- na fotografii úplně vpravo -- se za své sluneční brýle moc styděla. Na její omluvu je potřeba dodat, že měla zánět spojivek a dorazila bolesti navzdory. Všichni jí za to moc děkujeme!
-
-
-<!-- vim:set spell spelllang=cs,en: -->

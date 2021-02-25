@@ -1,11 +1,6 @@
 ---
-date: 2018-08-12
-category: blog
-tags: transparentnost myty 
-layout: post
 title: Kriminalita drogově závislých
-author: Michal Novák
-authorId: michal.novak    # uid nekoho z _people (nepoviné)
+authorId: michal.novak
 image: posts/prohibited.jpg
 tags: [Bezpečnost]
 ---
@@ -25,7 +20,7 @@ Za Piráty Praha 8 říkáme, že pokud nám ve volbách dáte šanci, snížím
 
 3. Koordinace s Městskou policií a Policií ČR - budeme zprostředkovávat občanské podněty a vyvíjet tlak na zahuštění krizových míst pochůzkáři, respektive mobilními služebnami v těch nejpostiženějších místech. Kamerové systémy jsou krajním řešením, které sice v jednotlivých případech může pomoci, ale zvyšuje plošné sledování všech “velkým bratrem”, což podle nás není bezchybný jev. A například stanice metra jsou už teď velmi hustě kamerami osazeny.
 
-4. Odborná pomoc závislým s cílem snížit jejich agresivní chování a zlepšit přehled o jejich počtech. V tomto ohledu nám přijde inspirativní tento 
+4. Odborná pomoc závislým s cílem snížit jejich agresivní chování a zlepšit přehled o jejich počtech. V tomto ohledu nám přijde inspirativní tento
 [článek](https://www.novinky.cz/domaci/466906-cesko-je-pervitinova-velmoc-lecba-narkomanu-ale-kulha.html)
  k problematice závislosti na pervitinu v ČR.
 

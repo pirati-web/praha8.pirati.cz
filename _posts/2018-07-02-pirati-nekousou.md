@@ -1,14 +1,9 @@
 ---
-date: 2018-07-02
-category: blog
-tags: [Transparentnost, Piráti]
-layout: post
 title: Jsme ale nekompromisní a nesmlouvaví. Koušeme jen občas.
-author: Michal Novák
-authorId: michal.novak    # uid nekoho z _people (nepoviné)
+authorId: michal.novak
 image: posts/michal-kouse.jpg
+tags: [Transparentnost, Piráti]
 ---
-
 
 **_Ne, pověsti o nás nelžou, Piráti jsou nekompromisní ke korupci. A jsme nesmlouvaví, když jde o naše základní principy._**
 

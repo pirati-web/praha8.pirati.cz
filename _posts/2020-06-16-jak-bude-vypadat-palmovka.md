@@ -1,12 +1,8 @@
 ---
-layout: post
-category: blog
-title: 'Jak bude vypadat Palmovka budoucnosti?'
-date: 2020-06-16T05:51:00.000Z
-author: Martin Štěrba
+title: Jak bude vypadat Palmovka budoucnosti?
 authorId: martin.sterba
 image: posts/palmovkated-kontejner.jpg
-tags: [Palmovka, NováPalmovka, ÚzemníRozvoj]
+tags: [Palmovka, Nová Palmovka, Územní rozvoj]
 ---
 
 **Předseda našeho zastupitelského klubu [Michal Novak]({% link _people/michal-novak.md %}) se zúčastnil prezentace územní studie nové podoby Palmovky. Na vše se můžete podívat i vy v kontejneru PalmovkaTeď.**
