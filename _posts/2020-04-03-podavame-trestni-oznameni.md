@@ -6,7 +6,7 @@ date: 2020-04-03T13:51:00.000Z
 author: Martin Štěrba
 authorId: martin.sterba
 image: posts/slobodnk-to.jpg
-tags: [NouzovýStav, Koronavirus, ODS, KauzaDezinfekce, TrestníOznámení]
+tags: [NouzovýStav, Koronavirus, ODS, KauzaDezinfekce]
 ---
 
 
