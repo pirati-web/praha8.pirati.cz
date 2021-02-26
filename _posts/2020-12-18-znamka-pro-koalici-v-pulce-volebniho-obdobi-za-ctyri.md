@@ -2,7 +2,7 @@
 title: Známka pro vládnoucí koalici v půlce volebního období? Za čtyři!
 authorId: michal.novak
 image: posts/zastupitelstvo3.jpg
-tags: [Zastupitelstvo, Koalice]
+tags: [Časopis Osmička]
 ---
 
 **Vládnoucí menšinová koalice ODS, TOP 09, STAN a Patriotů/Trikolory za podpory ANO občas udělá krok správným směrem, ale až když je k tomu dotlačena opozicí nebo okolnostmi.**
