@@ -2,7 +2,7 @@
 title: Jaká bude daň z nemovitosti podle městské části Praha 8? My to víme!
 authorId: martin.stanek
 image: posts/dan-z-nemovitosti.png
-tags: [Magistrát, Finance, Koalice]
+tags: [Magistrát, Finance]
 ---
 
 Možná jste si všimli, že se v Praze má měnit daň z nemovitosti. Pro rychlý přehled situace viz např. [článek v Pražském deníku](https://prazsky.denik.cz/podnikani/jaka-bude-dan-z-nemovitosti-praha-necha-rozhodnout-mestske-casti-20190602.html). Vedení HMP ve snaze vyhovět poptávce městských částí, aby mohly více ovlivnit výši daně z nemovitosti (jejíž výnos plyne rovnou do rozpočtů MČ), navrhlo tyto změny v koeficientech pro výpočet daně:
