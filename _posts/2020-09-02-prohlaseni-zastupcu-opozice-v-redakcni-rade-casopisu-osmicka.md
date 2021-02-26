@@ -2,7 +2,7 @@
 title: Prohlášení zástupců opozice v redakční radě časopisu Osmička
 authorId: martin.sterba
 image: posts/osmicka_prohlaseni.png
-tags: [Redakční rada, Koalice]
+tags: [Redakční rada]
 ---
 
 **Vzhledem k tomu, že od nástupu zastupitele Tomáše Mrázka (ODS) do čela redakční rady se výrazně zhoršila komunikace v rámci redakční rady a opakovaně dochází k porušování [redakčního kodexu](https://www.praha8.cz/file/6zr/Redakcni-kodex-casopisu-Osmicka.pdf) i [jednacího řádu komisí](https://m.praha8.cz/file/36W/Jednaci-rad-komisi-Rady-MC-Praha-8.pdf), nezbývá nám, než na to upozornit veřejně a požádat opětovně starostu Ondřeje Grose (ODS) i ostatní členy rady městské části Prahy 8, aby se pokusili zjednat nápravu.**
