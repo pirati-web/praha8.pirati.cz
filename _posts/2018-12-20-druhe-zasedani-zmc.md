@@ -3,7 +3,7 @@ title: Koalice bez programu a prodej pozemku školy bez vědomí její ředitelk
 author: Michal Novák
 authorId: michal.novak
 image: posts/tym8.jpg
-tags: [Zastupitelstvo, Koalice]
+tags: [Zastupitelstvo]
 ---
 
 Ve středu 19. prosince se uskutečnilo druhé jednání Zastupitelstva MČ Praha 8. Zúčastnil se celý náš osmičlenný zastupitelský klub.
