@@ -2,7 +2,7 @@
 title: Podporujeme nulovou toleranci výherních automatů
 authorId: martin.sterba
 image: posts/osmicka_kasinaaherny.jpg
-tags: [Časopis Osmička, Veřejný Prostor, Florenc, Bezpečnost]
+tags: [Časopis Osmička, Veřejný prostor, Florenc, Bezpečnost]
 ---
 
 Nápis Casino před vchodem do herny navozuje představu krupiéra, který vyzve přítomné k ukončení sázek a pak vhodí kuličku do rulety. Takhle možná naplní představy hráčů o kasinu ve světě, v Česku je ale realita jiná. V některých hernách jsou uvnitř místo rulety či karetních hracích stolků s blackjackem klasické hrací automaty s tzv. kolem štěstí jako živou hrou a bez krupiéra.
