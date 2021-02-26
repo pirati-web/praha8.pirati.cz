@@ -118,7 +118,6 @@ defaults:   # defaults values for collection scope
          - garant
          - program
 
-emptyArray: []
 tags_path: /aktuality/stitky.html
 
 assets:

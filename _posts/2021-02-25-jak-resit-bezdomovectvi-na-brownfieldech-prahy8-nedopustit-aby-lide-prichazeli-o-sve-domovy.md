@@ -2,7 +2,7 @@
 title: Jak řešit bezdomovectví na brownfieldech na Praze 8? Nedopustit, aby lidé přicházeli o své domovy
 authorId: magdalena.opletalova
 image: posts/rohanskyostrov.jpg
-tags: [Osmička, Bezpečnost, Sociální služby]
+tags: [Časopis Osmička, Bezpečnost, Sociální služby]
 ---
 
 **Bezdomovectví je třeba řešit především preventivně, tedy snažit se o to, aby lidé své domovy neztráceli.** Cest do bezdomovectví je řada, patří k nim především exekuce, chudoba, problémy v osobních vztazích, dlouhodobá nezaměstnanost, duševní onemocnění, pobyt v institucionálním prostředí (např. dětský domov). Ztrátě bydlení je třeba předcházet, a to např. prostřednictvím spolupráce bytového odboru, sociálního odboru a sociálních služeb. Bezdomovectví si lidé nevybírají jako svou životní cestu dobrovolně.
