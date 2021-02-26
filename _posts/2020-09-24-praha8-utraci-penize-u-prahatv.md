@@ -2,7 +2,7 @@
 title: MČ Praha 8 utrácí statisíce za zbytečné reportáže v TV Praha
 authorId: martin.sterba
 image: posts/tvpraha-expresPrahy8.png
-tags: [TV Praha, Koalice]
+tags: [TV Praha]
 ---
 
 Myslíte si, že soukromá stanice [PRAHA TV](https://prahatv.eu) natáčí všechny ty leckdy zbytečné reportáže protože sama chce? Není tomu tak – politici z městských částí si rádi za tuto službu platí, a to hlavně proto, aby zvyšovali své PR.
