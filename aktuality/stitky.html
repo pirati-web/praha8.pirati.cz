@@ -10,9 +10,16 @@ keywords: štítky, aktuality, novinky
 {% for tag in site.tags %}
   {% assign tags = tags | push: tag[0] %}
 {% endfor %}
-{% assign sorted_tags = tags | sort_natural %}
+{% assign sorted_tags = tags | collator_sort %}
 
-<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+<div class="inline-block-nogap mt-4">
+  {% for tag in sorted_tags %}
+    {% capture tagUrl %}#{{ tag | slugify: "latin" }}{% endcapture %}
+    {% capture cta %}{{ tag }} ({{site.tags[tag].size}}){% endcapture %}
+    {% include buttons/basic.html class="article-card__category-button btn--condensed text-sm font-light btn--grey-125" cta=cta href=tagUrl %}
+  {% endfor %}
+</div>
+<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mt-4">
   {% for tag in sorted_tags %}
     <section class="card">
       <div class="card__body p-4">
