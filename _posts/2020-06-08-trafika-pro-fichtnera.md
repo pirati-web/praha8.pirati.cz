@@ -2,7 +2,7 @@
 title: Další trafika pro hnutí ANO, už pátá v řadě! Fichtner míří do Správy tepelného hospodářství.
 authorId: martin.sterba
 image: posts/fichtnerANO.jpg
-tags: [Zastupitelstvo, Hnutí ANO, Transparentnost, Koalice]
+tags: [Zastupitelstvo, Hnutí ANO, Transparentnost]
 ---
 
 **Koalice ODS, TOP 09, STAN a Patriotů s Trikolorou za podpory hnutí ANO opět rozdává trafiky. Novým ředitelem městské společnosti Správa tepelného hospodářství se od 1. 6. 2020 stal bývalý místostarosta za TOP 09, bývalý poslanec a současný zastupitel za ANO Matěj Fichtner. [Vychází to z usnesení Rady MČ Praha 8](https://m.praha8.cz/appo/usn/676?usn=GPA8cC4Jav1pbxsh2rE2Y2mRBWiQ==).**
