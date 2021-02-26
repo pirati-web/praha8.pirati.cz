@@ -2,7 +2,7 @@
 title: Praha má rozklikávací rozpočet na webu, Praha 8 stále nikoliv
 authorId: pavel.franc
 image: posts/cityvizor-praha.png
-tags: [CityVizor, Koalice, Transparentnost, Magistrát]
+tags: [CityVizor, Transparentnost, Magistrát]
 ---
 
 Hlavní město Praha se dnes připojilo k dalším městům, které transparentně zveřejňují svůj rozpočet v aplikaci [Cityvizor](https://cityvizor.praha.eu). Na tomto webu najdete vše o pražských financích - a to příjmy, výdaje, plnění rozpočtu, údaje z úřední desky nebo registru smluv. Zkrátka téměř vše, na co si vzpomenete.
