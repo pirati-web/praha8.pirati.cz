@@ -33,4 +33,4 @@ Osmičkové výbory mají teď konkrétně tyto jednací řády:
 **Finanční výbor:**
 > “Výbor může přizvat na jednání výboru vedoucí zařízení založených a zřízených MČ Praha 8, vedoucí odborů a oddělení ÚMČ Praha 8 či jiné hosty.”
 
-Mimochodem, kdybyste ty jednací řády chtěli sami najít na webu, hledejte hluboko v zápisech z jednání výborů - [na stránce výborů](https://www.praha8.cz/Vybory-zastupitelstva-Mestske-casti-Praha-8.html) není uveden. Anebo se mrkněte [na příspěvek na našem veřejném fóru](https://forum.pirati.cz/viewtopic.php?p=711338#p711338), kde je jednoduše najdete v kontextu situace v Praze.
+Mimochodem, kdybyste ty jednací řády chtěli sami najít na webu, hledejte hluboko v zápisech z jednání výborů - [na stránce výborů](https://www.praha8.cz/Vybory-zastupitelstva-Mestske-casti-Praha-8.html) nejsou uvedeny. Anebo se mrkněte [na příspěvek na našem veřejném fóru](https://forum.pirati.cz/viewtopic.php?p=711338#p711338), kde je jednoduše najdete v kontextu situace v Praze.
