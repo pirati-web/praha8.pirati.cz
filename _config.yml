@@ -43,6 +43,10 @@ facebook:
   profilePageName: "Piráti Praha 8"
   appId: 1526197851008996
 
+matomo:
+  loadSDK: true
+  siteId: 81
+
 forum:
   page: https://forum.pirati.cz/viewforum.php?f=943
 
