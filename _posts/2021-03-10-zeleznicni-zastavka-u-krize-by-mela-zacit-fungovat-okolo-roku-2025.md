@@ -15,6 +15,6 @@ Projekt železničních zastávek na území Prahy 8 existuje už několik let. 
 
 **V současné době je nejblíže realizaci hlavně libeňské zastávka “U Kříže”.** 
 
-> "Nejen pro Piráty, ale i pro celou pražskou městskou radu je důležitá také architektonická soutěž, protože plánovaná nová libeňská železniční zastávka může být velkým impulsem k tomu, aby se výrazně zlepšila celá oblast a nejbližší okolí. Magistrát o tom jedná se Správou železnice,“ doplňuje předseda místního sdružení Pirátů na Praze 8 [Martin Štěrba](https://praha8.pirati.cz/lide/martin-sterba.html). 
+> "Nejen pro Piráty, ale i pro celou pražskou městskou radu je důležitá také architektonická soutěž, protože plánovaná nová libeňská železniční zastávka může být velkým impulsem k tomu, aby se výrazně zlepšila celá oblast a nejbližší okolí. Magistrát o tom jedná se Správou železnice,“ říká předseda místního sdružení Pirátů na Praze 8 [Martin Štěrba](https://praha8.pirati.cz/lide/martin-sterba.html). 
 
 Podle vyjádření Václava Brejšky z kanceláře náměstka primátora pro dopravu Adama Scheinherra to vypadá, že by libeňská zastávka mohla být v provozu okolo roku 2025, ještě letos by se měly rozběhnout všechny projekční práce.
