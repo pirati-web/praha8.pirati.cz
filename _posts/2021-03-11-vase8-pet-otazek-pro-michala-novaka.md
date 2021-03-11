@@ -1,5 +1,5 @@
 ---
-title: Pět otázek tentokrát pro Michala Nováka
+title: "Vaše8: Pět otázek tentokrát pro Michala Nováka"
 author: Vaše8
 image: posts/vase8-michalnovak.jpg
 tags: [Piráti]
