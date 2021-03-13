@@ -8,41 +8,25 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 3.7.3"
-
+gem "jekyll", "~> 3.9"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
-gem "jekyll-theme-pirati", "~>8.4.1"
+gem "jekyll-theme-pirati", "~> 8.4"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.6"
-  gem "jekyll-paginate"
+  gem "jekyll-paginate-v2"
+  gem "jekyll-feed"
   gem "jekyll-sitemap"
-  gem "jekyll-assets", "3.0.11"
-  gem 'jekyll-environment-variables'
+  gem "jekyll-assets"
+  gem "jekyll-environment-variables"
+  gem "jekyll-tagging-related_posts"
 end
 
-
-# Windows does not include zoneinfo files, so bundle the tzinfo-data gem
-gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
-
-gem "json" # For gem building
-gem 'sprockets', '4.0.0.beta8'
-gem 'uglifier', '~> 4.0.0'
+# For jekyll-assets plugins
 gem "mini_magick"
-# gem "autoprefixer-rails"
 gem "image_optim"
-gem "image_optim_bin" # Optional
-gem "image_optim_pack"
-# Make sure watch mode works A-OK on Windows too
-gem "wdm", "~> 0.1.1" if Gem.win_platform?
-
+# For collate sorting
 gem "twitter_cldr"
-
-# Uncomment this line for local development.
-# gem "jekyll-theme-pirati", github: "pirati-web/jekyll-theme-pirati", branch: "master"
-
-group :development, :test do
-  gem "html-proofer"
-end
+# For kramdown
+gem "kramdown-parser-gfm"

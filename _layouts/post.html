@@ -60,12 +60,10 @@ layout: default
 
   <section class="mt-16 md:mt-24">
     <h1 class="head-alt-base md:head-alt-md pb-4">Další podobné články</h1>
-
-    {% assign posts = site.posts | slice:0,3 %}
+    {% assign posts = site.related_posts | slice:0,6 %}
     {% include articles/list-responsive.html posts=posts %}
-
     <div class="text-center mt-8 md:mt-16">
-      {% include buttons/icon.html cta="Zobrazit další" class="text-xl" icon="ico--chevron-right" href="/aktuality/" %}
+      {% include buttons/icon.html cta="Zobrazit vše" class="text-xl" icon="ico--chevron-right" href="/aktuality/" %}
     </div>
   </section>
 

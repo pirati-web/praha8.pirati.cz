@@ -63,22 +63,25 @@ instagram:
 flicker:
   profilePage: https://www.flickr.com/photos/pirati/
 
+styleguide_base_url: 'https://styleguide.pir-test.eu/latest'
+
 ############### SETTINSG #################
 
 theme: jekyll-theme-pirati
 
-sass:
-  style: compressed
-  sass_dir: _sass
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-pirati
-plugins:
-  - jekyll-feed
-  - jekyll-paginate
-  - jekyll-sitemap
-paginate_path: "/aktuality/:num/"
-paginate: 12
+
+pagination:
+  enabled: true
+  collection: 'posts'
+  per_page: 12
+  permalink: '/:num/'
+  title: ':title - stránka :num'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
 
 exclude:
   - readme.md
@@ -141,5 +144,3 @@ assets:
     - assets/js
     - assets/img
     - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-8.4.1/assets/img
-
-styleguide_base_url: 'https://styleguide.pir-test.eu/latest'
