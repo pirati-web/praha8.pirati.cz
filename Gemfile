@@ -24,6 +24,7 @@ group :jekyll_plugins do
 end
 
 # For jekyll-assets plugins
+gem 'sprockets', "~> 3.7"
 gem "mini_magick"
 gem "image_optim"
 # For collate sorting
