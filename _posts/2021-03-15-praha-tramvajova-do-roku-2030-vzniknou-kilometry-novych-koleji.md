@@ -30,7 +30,7 @@ Pro plánování budoucího stavu vozového parku je stěžejní jednak stanoven
 
 Jak bylo uvedeno výše, záměry jsou rozděleny dílčím mezníkem v roce 2023, akce po roce 2026 nejsou uvedeny. V současné době lze konstatovat, že do roku 2023 bude dopravní podnik schopen zajistit předpokládané vypravení tramvajových vozů i s ohledem na nově otevřené traťové úseky se stávajícím vozovým parkem a navýšením počtu obousměrných vozů KT8D5.RN2P. V období let 2024 až 2026 však už vzniká potřeba navýšení počtu vozů, a to nejen obousměrných.
 
-![tramvaje1](/assets/img/posts/tramvaje2.png)
+![tramvaje1](/assets/img/posts/tramvaje1.png)
 
 Na základě výstavby nových tratí a z toho vyplývající nutnost vyššího vypravení vozů než je současný disponibilní počet tramvají, bude pro dopravní podnik patrně nezbytné pořizovat alespoň část nových vozidel v obousměrném provedení. 
 -	*Je tedy předpoklad, aby dopravní podnik zahájil přípravu veřejné soutěže a následné zajištění rámcové smlouvy na nákup nových vozů už v období let 2023 a 2024.*
