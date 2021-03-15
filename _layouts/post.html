@@ -22,8 +22,8 @@ layout: default
         <div class="my-4">
           {% if page.tags %}
             {% for tag in page.tags %}
-              {% capture tagUrl %}{{site.tags_path | relative_url}}#{{ tag | slugify: "latin" }}{% endcapture %}
-              {% include buttons/basic.html class="btn--grey-125 btn--condensed" cta=tag href=tagUrl %}
+              {% capture tagUrl %}/aktuality/stitky/{{ tag | slugify: "latin" }}/{% endcapture %}
+              {% include buttons/basic.html class="btn--grey-125 btn--condensed btn--hoveractive" cta=tag href=tagUrl %}
             {% endfor %}
           {% endif %}
         </div>

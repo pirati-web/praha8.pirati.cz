@@ -82,11 +82,16 @@ pagination:
   limit: 0
   sort_field: 'date'
   sort_reverse: true
+  trail:
+    before: 3
+    after: 3
 
 exclude:
-  - readme.md
+  - Dockerfile
   - Gemfile
   - Gemfile.lock
+  - README.md
+  - docker-compose.yml
   - vendor
 
 permalink: /aktuality/:title.html
@@ -124,8 +129,6 @@ defaults:   # defaults values for collection scope
       rbar:
          - garant
          - program
-
-tags_path: /aktuality/stitky.html
 
 assets:
   source_maps: true
