@@ -2,7 +2,7 @@
 title: Nová Trojská lávka je otevřená
 authorId: martin.sterba
 image: posts/trojska-lavka-nova.png
-tags: [Doprava, Magistrát, Trója, Veřejný prostor]
+tags: [Cyklodoprava, Magistrát, Trója, Veřejný prostor]
 ---
 
 **V pátek odpoledne byla oficiálně otevřena nová Trojská lávka**, která propojuje Císařský ostrov s Trójou. Stalo se to tak zhruba tři roky po zřícení předchozí stavby, samotná stavba trvala zhruba rok.
