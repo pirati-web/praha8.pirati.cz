@@ -2,7 +2,7 @@
 title: Je to finální! Koupaliště Stírka bude vyjmuto z privatizace
 authorId: martin.sterba
 image: posts/koupaliste-nastirce2.png
-tags: [Kobylisy, Sport, Veřejný prostor, Životní prostředí, Majetek, Magistrát]
+tags: [Kobylisy, Sport, Majetek, Magistrát]
 ---
 
 **Je to finální. Úřad pro zastupování státu ve věcech majetkových (ÚZSVM) oznámil, že požádá Ministerstvo financí o vyjmutí areálu koupaliště Na Stírce z plánované privatizace.**
