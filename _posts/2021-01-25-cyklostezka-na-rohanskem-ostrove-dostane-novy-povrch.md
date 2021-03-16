@@ -2,7 +2,7 @@
 title: Cyklostezka na Rohanském ostrově dostane nový povrch
 authorId: karel.ptacek
 image: posts/cyklostezka-rohan-karelptacek.png
-tags: [Karlín, Rohanský ostrov, Doprava, Veřejný prostor, Životní prostředí]
+tags: [Karlín, Rohanský ostrov, Doprava, Veřejný prostor, Cyklodoprava]
 ---
 
 **[Cyklostezka A2](https://www.prahanakole.cz/paterni-cyklotrasy/cyklotrasa-a2-vltavska-pravobrezni/), která vede po Rohanském ostrově a spojuje Libeň s Karlínem bude bezpečnější a nově i vhodnější pro in-line bruslaře.** Nový asfaltový povrch ocení jistě také běžci, chodci s kafíčkem z blízkých kaváren nebo rodiče s kočárkem. Část cyklostezky se také dočká nového veřejného osvětlením, čímž bude bezpečnější i za zhoršených světelných podmínek.
