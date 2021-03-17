@@ -9,7 +9,7 @@ je to už skoro rok, co jsme mohli vidět na portálu Seznam zprávy reportáž 
 
 Jelikož jsme se domnívali, že by orgány činné v trestním řízení měly takové závažné nařčení o krytí trestné činnosti řádně prošetřit, podala na Vás naše členka a zastupitelka Alice Hamalová [trestní oznámení]({% link _posts/2020-04-03-podavame-trestni-oznameni.md %}).
 
-Jelikož ani po jedenácti měsících od vypuknutí kauzy [Dezinfekce](/aktuality/stitky/dezinfekce/)a podání trestního oznámení na Vaši osobu z důvodu Vašeho neoznámení trestného činu, nebyly orgány činné v trestním řízení schopny se dobrat závěru - tedy zda jste uvedený trestní čin neoznámení spáchal či nikoliv, je zřejmé, že situace není tak jednoduchá, jak jsme si původně mysleli.
+Jelikož ani po jedenácti měsících od vypuknutí kauzy [Dezinfekce](/aktuality/stitky/dezinfekce/) a podání trestního oznámení na Vaši osobu z důvodu Vašeho neoznámení trestného činu, nebyly orgány činné v trestním řízení schopny se dobrat závěru - tedy zda jste uvedený trestní čin neoznámení spáchal či nikoliv, je zřejmé, že situace není tak jednoduchá, jak jsme si původně mysleli.
 
 S odstupem času rovněž i my chápeme, že přílišná pozornost věnovaná této kauze médii a sociálními sítěmi byla pro Vás velmi nepříjemná a z Vašeho pohledu mohla vypadat jako tzv. mediální lynč (termín vypůjčený od Vašeho kolegy z ODS).
 
@@ -19,11 +19,11 @@ Za tyto mediální nepříjemnosti se vám omlouváme a věříme v brzké vyře
 
 Za místní sdružení České pirátské strany
 
-*Alice Hamalová*,<br/>
+*[Alice Hamalová](https://praha8.pirati.cz/lide/alice-hamalova.html)*,<br/>
 zastupitelka za Piráty
 
-*Michal Novák, MBA*,<br/>
+*[Michal Novák](https://praha8.pirati.cz/lide/michal-novak.html, MBA*,<br/>
 předseda zastupitelského klubu Pirátů
 
-*Mgr. Martin Štěrba*,<br/>
+*[Mgr. Martin Štěrba](https://praha8.pirati.cz/lide/martin-sterba.html)*,<br/>
 předseda místního sdružení Pirátů
