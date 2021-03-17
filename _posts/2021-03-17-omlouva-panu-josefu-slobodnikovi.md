@@ -19,11 +19,11 @@ Za tyto mediální nepříjemnosti se vám omlouváme a věříme v brzké vyře
 
 Za místní sdružení České pirátské strany
 
-*[Alice Hamalová](https://praha8.pirati.cz/lide/alice-hamalova.html)*,<br/>
+*[Alice Hamalová](https://praha8.pirati.cz/lide/alice-hamalova.html)*<br/>
 zastupitelka za Piráty
 
-*[Michal Novák](https://praha8.pirati.cz/lide/michal-novak.html), MBA*,<br/>
+*[Michal Novák, MBA](https://praha8.pirati.cz/lide/michal-novak.html)*<br/>
 předseda zastupitelského klubu Pirátů
 
-*[Mgr. Martin Štěrba](https://praha8.pirati.cz/lide/martin-sterba.html)*,<br/>
+*[Mgr. Martin Štěrba](https://praha8.pirati.cz/lide/martin-sterba.html)*<br/>
 předseda místního sdružení Pirátů
