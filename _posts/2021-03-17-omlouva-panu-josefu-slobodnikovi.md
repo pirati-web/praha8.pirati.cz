@@ -1,5 +1,5 @@
 ---
-title: Umíme přiznat chybu, omlouváme se panu Josefu Slobodníkovi
+title: Umíme přiznat chybu, omlouváme se panu Slobodníkovi z ODS
 author: Piráti
 image: posts/Slobodnik-omluva.jpg
 tags: [ Dezinfekce, Koronavirus, Nouzový stav, ODS ]
@@ -22,7 +22,7 @@ Za místní sdružení České pirátské strany
 *[Alice Hamalová](https://praha8.pirati.cz/lide/alice-hamalova.html)*,<br/>
 zastupitelka za Piráty
 
-*[Michal Novák](https://praha8.pirati.cz/lide/michal-novak.html, MBA*,<br/>
+*[Michal Novák](https://praha8.pirati.cz/lide/michal-novak.html), MBA*,<br/>
 předseda zastupitelského klubu Pirátů
 
 *[Mgr. Martin Štěrba](https://praha8.pirati.cz/lide/martin-sterba.html)*,<br/>
