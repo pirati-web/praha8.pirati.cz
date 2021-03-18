@@ -11,12 +11,12 @@ tags: [Šutka, Územní rozvoj]
 
 Projekt zohledňuje environmentální hledisko tím, že v lokalitě bude systém udržitelného nakládání s dešťovou vodou a systémem zadržování vody v krajině. To znamená, že dešťová voda ze zelených střech bude svedena do retenčních nádrží, ze kterých následně bude využívána pro zalévání a splachování v budoucí zástavbě dvoupodlažních objektů.
 
-Důležitou podmínkou pro náš pirátský zastupitelský klub byla také deklarace o následném zachování průchodnosti (prostupnosti) celého areálu pro veřejnost a po vybudování parků předání do správy Hl. městě Prahy. Za těchto podmínek nadpoloviční většina našeho klubu záměr podpořila.
+Důležitou podmínkou pro náš pirátský zastupitelský klub byla také deklarace o následném zachování průchodnosti (prostupnosti) celého areálu pro veřejnost a po vybudování parků předání do správy hlavního města Prahy. Za těchto podmínek nadpoloviční většina našeho klubu záměr podpořila.
 
 ### Současný stav
 ![Současný stav](/assets/img/posts/sutka-zahradky3.jpg)
 
 ### Budoucnost
-![Vizualizace](/assets/img/posts/sutka-zahradky2.jpg)
+![Vizualizace](/assets/img/posts/sutka-zahradky5.jpg)
 *vizualizace MDMA Architects*     
 
