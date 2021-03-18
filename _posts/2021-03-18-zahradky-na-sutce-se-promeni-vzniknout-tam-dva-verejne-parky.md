@@ -1,8 +1,8 @@
 ---
-title: Zahrádky na Šutce se promění. Vznikou tam i dva veřejné parky
+title: Zahrádky na Šutce se promění. Vzniknou tam i dva veřejné parky
 authorId: karel.ptacek
 image: posts/sutka-zahradky1.jpg
-tags: [Śutka, Územní rozvoj]
+tags: [Šutka, Územní rozvoj]
 ---
 
 **Na středečním jednání zastupitelstva Prahy 8 byl schválen návrh podání podnětu na změnu územního plánu týkající se aktuálně výrazně zanedbané lokality Prahy 8 tzv. Zahrádek Šutka.** Během příštích let by se toto prostředí mělo výrazně proměnit. Na náklady investora, který tady plánuje experimentální výstavbu, vzniknou součástí projektu dva veřejné parky.
@@ -18,5 +18,5 @@ Důležitou podmínkou pro náš pirátský zastupitelský klub byla také dekla
 
 ### Budoucnost
 ![Vizualizace](/assets/img/posts/sutka-zahradky2.jpg)
-*vizualice MDMA Architects*     
+*vizualizace MDMA Architects*     
 
