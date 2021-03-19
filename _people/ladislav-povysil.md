@@ -3,12 +3,13 @@ uid: ladislav.povysil
 name: Ladislav Povýšil
 titles:
   before: Mgr.
-category: regp
+category:
+ - regp
 img: people/ladislav-povysil.jpg
 heroImg: people/ladislav-povysil-hero.jpg
 profession: vedoucí technicko-provozního odboru
 partyUid: bezpp
-description: vedoucí odboru
+description: specialista na veřejnou dopravu
 mail: l.povysil@gmail.com
 profiles:
 funkce:

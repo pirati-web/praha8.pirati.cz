@@ -3,12 +3,15 @@ uid: jan.hamal.dvorak
 name: Jan Hamal Dvořák
 category:
   - zastupitele
+  - clenove
 ordzas: 3
 img: people/jan-hamal-dvorak.jpg
 heroImg: people/jan-hamal-dvorak-hero.jpg
 profession: informatik
 partyUid: pirati
-description: zastupitel
+description: garant pro oblast IT
+teamDescription:
+  zastupitele: zastupitel
 mail:
   - jan.hamal.dvorak@pirati.cz
 funkce:

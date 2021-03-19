@@ -4,13 +4,16 @@ name: Ivo Slávka
 titles:
   before: Mgr.
 category:
-    - zastupitele
+  - zastupitele
+  - clenove
 ordzas: 2
 img: people/ivo-slavka.jpg
 heroImg: posts/Palmovkastramvaji.jpg
 profession: právník
 partyUid: pirati
-description: místopředseda zastupitelského klubu
+description: garant pro oblast legislativy
+teamDescription:
+  zastupitele: místopředseda zastupitelského klubu
 mail:
   - ivo.slavka@pirati.cz
 funkce:

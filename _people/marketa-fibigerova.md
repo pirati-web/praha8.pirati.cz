@@ -3,12 +3,13 @@ uid: marketa.fibigerova
 name: Markéta Fibigerová
 titles:
   before: Mgr.
-category: regp
+category:
+  - regp
 img: people/marketa-fibigerova.jpg
 heroImg: people/marketa-fibigerova-hero.jpg
 profession: ředitelka a zřizovatelka 1. IT Gymnázia
 partyUid: bezpp
-description: ředitelka IT gymnázia
+description: specialistka na vzdělávání
 mail: marketa.fibigerova@itgymnazium.cz
 profiles:
   facebook: https://www.facebook.com/marketa.fibigerova

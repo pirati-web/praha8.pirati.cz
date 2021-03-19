@@ -3,6 +3,7 @@ uid: ondrej.profant
 name: Ondřej Profant
 category:
  - ustavni-cinitele
+ - clenove
 img: people/ondrej-profant.jpg
 heroImg: people/ondrej-profant-hero.jpg
 profession: informatik

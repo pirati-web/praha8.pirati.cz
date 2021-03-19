@@ -1,16 +1,17 @@
 ---
 uid: jan.horn
 name: Jan Horn
-titles:
-  before:
 category:
   - pms
+  - clenove
 ordpms: 5
 img: people/jan-horn.jpg
 heroImg: people/jan-horn-hero.jpg
 profession: umělecký kovář a učitel
 partyUid: pirati
-description: místopředseda MS Praha 8
+description: specialista na akce pro veřejnost
+teamDescription:
+  pms: místopředseda MS Praha 8
 mail:
   - jan.horn@pirati.cz
 profiles:

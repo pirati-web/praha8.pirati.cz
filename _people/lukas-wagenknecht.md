@@ -5,6 +5,7 @@ titles:
   before: Ing.
 category:
   - ustavni-cinitele
+  - clenove
 img: people/lukas-wagenknecht.jpg
 heroImg: people/lukas-wagenknecht-hero.jpg
 profession: ekonom, interní auditor

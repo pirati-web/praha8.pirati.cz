@@ -3,13 +3,17 @@ uid: anna.filinova
 name: Anna Filínová
 titles:
   before: Bc.
-category:  zastupitele
+category:
+  - zastupitele
+  - regp
 ordzas: 3
 img: people/anna-filinova.jpg
 heroImg: posts/rousky_anicka.jpg
 profession: projektová manažerka
-partyUid: pirati
-description: zastupitelka
+partyUid: bezpp
+description: garantka pro sociální oblast
+teamDescription:
+  zastupitele: zastupitelka
 mail:
   - anna.filinova@pirati.cz
 profiles:

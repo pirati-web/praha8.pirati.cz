@@ -4,7 +4,8 @@ name: Michal Schwarzkopf
 titles:
   before: Ing.
   after: Ph.D.
-category: clenove
+category:
+  - clenove
 img: people/michal-schwarzkopf.jpg
 heroImg: people/michal-schwarzkopf-hero.jpg
 profession: bankovní poradce

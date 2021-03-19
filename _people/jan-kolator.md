@@ -5,14 +5,16 @@ titles:
   before: Mgr.
 category:
   - pms
+  - clenove
 ordpms: 2
 img: people/jan-kolator.jpg
 heroImg: posts/skatepark-bohnice.jpg
 profession: systémový knihovník
 partyUid: pirati
-description: 1. místopředseda MS Praha 8
+description: garant pro bezpečnost
 teamDescription:
-  contact: Kontakt pro nováčky
+  pms: 1. místopředseda MS Praha 8
+  contact: kontakt pro nováčky
 mail:
   - jan.kolator@pirati.cz
 profiles:

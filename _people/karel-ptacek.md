@@ -6,12 +6,15 @@ titles:
   after: Dis.
 category:
   - zastupitele
+  - clenove
 ordzas: 3
 img: people/karel-ptacek.jpg
 heroImg: posts/rohancity.jpg
 profession: projektový manažer
 partyUid: pirati
-description: zastupitel
+description: garant územního rozvoje
+teamDescription:
+  zastupitele: zastupitel
 mail:
   - karel.ptacek@pirati.cz
 profiles:

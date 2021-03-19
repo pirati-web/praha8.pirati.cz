@@ -5,12 +5,15 @@ titles:
   after: MBA
 category:
   - zastupitele
+  - clenove
 ordzas: 1
 img: people/michal-novak.jpg
 heroImg: posts/tramvaje-bohnice.png
 profession: nezávislý konzultant
 partyUid: pirati
-description: předseda zastupitelského klubu
+description: Garant pro dopravu a majetek
+teamDescription:
+  zastupitele: předseda zastupitelského klubu
 mail:
   - michal.novak@pirati.cz
 profiles:

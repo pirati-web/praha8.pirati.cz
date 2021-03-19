@@ -5,12 +5,15 @@ titles:
   before:
 category:
   - pms
+  - clenove
 ordpms: 4
 img: people/magdalena-opletalova.jpg
 heroImg: posts/psi-louka.jpg
 profession: molekulární biložka a genetička
 partyUid: pirati
-description: místopředsedkyně MS Praha 8
+description: specialistka na sociální oblast
+teamDescription:
+  pms: místopředsedkyně MS Praha 8
 mail:
   - magdalena.opletalova@pirati.cz
 profiles:
