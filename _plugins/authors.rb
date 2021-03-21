@@ -3,46 +3,25 @@ require 'twitter_cldr'
 module Jekyll
 
   class AuthorPageGenerator < Jekyll::Generator
-    safe true
 
     def generate(site)
-      # Fetch the author names { id => name }
-      people = site.collections['people'].docs.collect { |person| [ person.data['uid'], person.data['name'] ] }.to_h
-      authors_all = {}
-      site.posts.docs.reverse.each do |post|
-        if post.data.key? 'authorId' and post.data["authorId"]
-          uid = post.data["authorId"]
-          if people.key? uid
-            post.data["category"] = uid
-            if not authors_all.key? uid
-              authors_all[uid] = []
-            end
-            authors_all[uid].push post
-          end
-        end
-      end
-      collator = TwitterCldr::Collation::Collator.new(:cs)
-      authors = collator.sort(authors_all.keys).collect { |uid|
-        [ uid, {'size' => authors_all[uid].count(), 'name' => people[uid] }]
-      }.to_h
-      authors_all.each do |uid, posts|
-        site.pages << AuthorPage.new(site, authors, uid, posts)
+      site.data['authors'].each do |author, posts|
+        site.pages << AuthorPage.new(site, author, posts)
       end
     end
   end
 
-  # Subclass of `Jekyll::Page` with custom method definitions.
   class AuthorPage < Jekyll::Page
-    def initialize(site, authors, author, posts)
+    def initialize(site, author, posts)
       author_slug = Utils.slugify(author, :mode => "latin")
       @site = site
       @base = site.source
-      @path = 'authors'
+      @dir = '/authors/'
       @basename = author_slug
-      @ext      = ''
-
+      @ext = '.html'
+      @name = @basename + @ext
+      @path = site.in_source_dir(@base, @dir, @name)
       @data = {
-        'authors' => authors,
         'author' => author,
         'posts' => posts,
         'layout' => 'authors',
@@ -50,9 +29,29 @@ module Jekyll
         'pagination' => {
           'enabled' => true,
           'permalink' => '/:num/',
-          'category' => author,
         }
       }
     end
   end
+end
+
+Jekyll::Hooks.register :site, :post_read do |site|
+  # Create hash { author => posts }
+  authors = Hash.new { |h, key| h[key] = [] }
+  site.posts.docs.each do |post|
+    if uid = post.data['authorId']
+      post.data['category'] = uid
+      authors[uid] << post
+    end
+    authors.each_value { |posts| posts.sort!.reverse! }
+  end
+  # Enrich people collection data with posts - used in generator and personal pages
+  site.collections['people'].docs.each { |p| p.data['posts'] = authors[p.data['uid']] }
+
+  # Create hash for authors with posts { name => uid }
+  people = site.collections['people'].docs.collect { |p| [p.data['name'], p.data['uid']] if authors[p.data['uid']].count > 0 }.compact.to_h
+
+  # Sort the authors by name and store them in site.data if have posts
+  collator = TwitterCldr::Collation::Collator.new(:cs)
+  site.data['authors'] = collator.sort(people.keys).collect { |author| [author, authors[people[author]]] }.to_h
 end

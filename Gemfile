@@ -15,7 +15,7 @@ gem "jekyll-theme-pirati", "~> 8.4"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "jekyll-paginate-v2"
+#  gem "jekyll-paginate-v2"
   gem "jekyll-feed"
   gem "jekyll-sitemap"
   gem "jekyll-assets"

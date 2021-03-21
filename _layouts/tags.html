@@ -2,20 +2,14 @@
 layout: default
 ---
 
-{% assign tags = "" | split: ',' %}
-{% for tag in site.tags %}
-  {% assign tags = tags | push: tag[0] %}
-{% endfor %}
-{% assign sorted_tags = tags | collator_sort %}
-
 <div class="container container--default pt-8 lg:py-24">
   <section>
     <h1 class="head-alt-md md:head-alt-lg max-w-5xl mb-4">Aktuality se štítkem {{ page.tag }}:</h1>
     <div class="inline-block-nogap mt-4">
-      {% for tag in sorted_tags %}
-        {% capture tagUrl %}/aktuality/stitky/{{ tag | slugify: "latin" }}/{% endcapture %}
-        {% capture cta %}{{ tag }} ({{site.tags[tag].size}}){% endcapture %}
-        {% capture btnClass %}article-card__category-button btn--condensed text-sm font-light btn--{% if tag==page.tag %}btn--grey-500{% else %}grey-125{% endif %} btn--hoveractive{% endcapture %}
+      {% for item in site.data.tags %}
+        {% capture tagUrl %}/aktuality/stitky/{{ item[0] | slugify: "latin" }}/{% endcapture %}
+        {% capture cta %}{{ item[0] }} ({{item[1].size}}){% endcapture %}
+        {% capture btnClass %}article-card__category-button btn--condensed text-sm font-light btn--{% if item[0]==page.tag %}btn--grey-500{% else %}grey-125{% endif %} btn--hoveractive{% endcapture %}
         {% include buttons/basic.html class=btnClass cta=cta href=tagUrl %}
       {% endfor %}
     </div>

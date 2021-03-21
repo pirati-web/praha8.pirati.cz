@@ -13,6 +13,8 @@ pagination:
     <main>
       {% include articles/list-responsive.html posts=paginator.posts %}
     </main>
-    {% include articles/pagination.html paginator=paginator %}
+    {% if paginator.total_pages > 1 %}
+      {% include articles/pagination.html paginator=paginator %}
+    {% endif %}
   </section>
 </div>

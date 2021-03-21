@@ -74,17 +74,10 @@ markdown: kramdown
 theme: jekyll-theme-pirati
 
 pagination:
-  enabled: true
-  collection: 'posts'
-  per_page: 12
+  per_page: 9
   permalink: '/:num/'
   title: ':title - stránka :num'
-  limit: 0
-  sort_field: 'date'
-  sort_reverse: true
-  trail:
-    before: 3
-    after: 3
+  trail: 7
 
 exclude:
   - Dockerfile
