@@ -2,7 +2,7 @@
 title: Umíme přiznat chybu, omlouváme se panu Slobodníkovi z ODS
 author: Piráti
 image: posts/Slobodnik-omluva.jpg
-tags: [ Dezinfekce, Koronavirus, Nouzový stav, ODS ]
+tags: [Dezinfekce, Koronavirus, Nouzový stav, ODS]
 ---
 Vážený pane kolego Slobodníku,<br/>
 je to už skoro rok, co jsme mohli vidět na portálu Seznam zprávy reportáž Janka Kroupy s názvem [Procenta pro radního za dezinfekci škol. Natočili jsme úplatky v časech nouze](https://www.seznamzpravy.cz/clanek/procenta-pro-radniho-za-dezinfekci-skol-natocili-jsme-uplatky-v-casech-nouze-97328). Společně s mnohými občany nejen naší městské části jsme tak byli svědky nahrávky zachycující jednání dvou osob, které zmiňují i Vás a naznačují Váš podíl na zametání jistých nekalostí tzv. pod koberec.
