@@ -44,7 +44,8 @@ layout: default
       </section>
     </div>
   </main>
-
+  {% assign posts = page.posts | slice:0,3 %}
+  {% if page.posts.size > 0 %}
   <section>
     <h2 class="head-alt-md mt-8 pb-4 lg:pb-8">Moje aktuality</h2>
     {% assign posts = page.posts | slice:0,3 %}
@@ -56,4 +57,5 @@ layout: default
     </nav>
     {% endif %}
   </section>
+  {% endif %}
 </div>
