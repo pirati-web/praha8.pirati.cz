@@ -20,6 +20,7 @@ mail:
   -  martin.stanek@pirati.cz
 profiles:
   facebook: https://www.facebook.com/martin.stanek.39750
+  evidence:  https://evidence.pirati.cz/author/458/
   odmeny:   https://nalodeni.pirati.cz/odmeny/martin.stanek
 funkce:
   - <a href="https://www.praha8.cz/Klub-Ceska-piratska-strana.html">zastupitel</a>
