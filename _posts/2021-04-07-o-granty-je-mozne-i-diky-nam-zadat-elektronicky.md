@@ -1,6 +1,6 @@
 ---
 title: O granty je možné i díky nám žádat elektronicky
-authorId: martin.sterba
+authorId: martin.stanek
 image: posts/karlin-unitedislandsofprague.jpg
 tags: [Digitalizace, Finance]
 ---
