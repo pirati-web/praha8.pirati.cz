@@ -2,7 +2,7 @@
 title: O granty je možné i díky nám žádat elektronicky
 authorId: martin.sterba
 image: posts/karlin-unitedislandsofprague.jpg
-tags: [Transparentnost]
+tags: [Digitalizace, Finance]
 ---
 
 **Městská část Praha 8 vypsala v minulých dnech granty pro rok 2021. Spolky a organizace tak mohou získat finanční příspěvěk ve čtyřech oblastech.** Jedná se o sport, volný čas, kulturu a sociální oblast. Celkově je na všechny oblasti vyčleněno 13 milionů korun.
