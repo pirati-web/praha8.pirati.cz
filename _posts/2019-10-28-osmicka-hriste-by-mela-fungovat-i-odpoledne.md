@@ -2,7 +2,7 @@
 title: Hřiště u škol by měla fungovat i odpoledne
 authorId: martin.sterba
 image: posts/osmicka_skolstvi_hriste.jpg
-tags: [Školství, Finance, Sport, Časopis Osmička]
+tags: [Časopis Osmička, Sport, Školství]
 ---
 
 Úplně na počátku bychom si měli položit otázku, co všechno považujeme za sport. To, že naše děti chodí hrát fotbal za Meteor nebo Slovan, je jasné. Ale může být sportem třeba discgolf nebo žonglování? A co třeba to, když si děti chodí hrát a zároveň se vzdělávat do skautských kluboven? Ve všech případech jde kromě pohybu také o podporu kamarádství, fair-play a o prevenci kriminality.
