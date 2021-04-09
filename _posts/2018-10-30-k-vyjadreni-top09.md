@@ -11,52 +11,39 @@ tags: [STAN, TOP09, Volby 2018]
 
 ## Priority TOP 09 a STAN
 
->Rozvoj dopravní infrastruktury. *Souhlasíme.*
+>Rozvoj dopravní infrastruktury. – *Souhlasíme.*
 
->Čistá a bezpečná Praha 8. *Souhlasíme.*
+>Čistá a bezpečná Praha 8. – *Souhlasíme.*
 
->Odpovědné a udržitelné hospodaření s finančními prostředky. *Souhlasíme.*
+>Odpovědné a udržitelné hospodaření s finančními prostředky. – *Souhlasíme.*
 
 ## Základní programové priority TOP 09 a STAN
 
->Podpoříme odpovědné, transparentní a šetrné hospodaření s finančními prostředky Prahy 8.
-*Souhlasíme. Sami prosazujeme transparenci jako jeden z našich hlavních bodů.*
+>Podpoříme odpovědné, transparentní a šetrné hospodaření s finančními prostředky Prahy 8. – *Souhlasíme. Sami prosazujeme transparenci jako jeden z našich hlavních bodů.*
 
->Vyhlásíme nulovou toleranci vůči korupci a klientelismu.
-*Souhlasíme. Bojujeme proti korupci na všech úrovních politiky.*
+>Vyhlásíme nulovou toleranci vůči korupci a klientelismu. – *Souhlasíme. Bojujeme proti korupci na všech úrovních politiky.*
 
->Dostavíme páteřní dopravní komunikace, zejména vnitřní městský okruh; zahloubíme ulici V Holešovičkách.
-*Souhlasíme. Dne 24. 9. 2018 jsme podepsali prohlášení o podpoře zahloubení ulice V Holešovičkách jako dopravní prioritu pro nadcházející období. Toto prohlášení podepsali kromě nás i předseda strany [Ivan Bartoš](https://www.facebook.com/Ivan-Bartoš-400479656748554/) a (tehdy budoucí) primátor [Zdeněk Hřib](https://www.facebook.com/zdenek.hrib).*
+>Dostavíme páteřní dopravní komunikace, zejména vnitřní městský okruh; zahloubíme ulici V Holešovičkách. – *Souhlasíme. Dne 24. 9. 2018 jsme podepsali prohlášení o podpoře zahloubení ulice V Holešovičkách jako dopravní prioritu pro nadcházející období. Toto prohlášení podepsali kromě nás i předseda strany [Ivan Bartoš](https://www.facebook.com/Ivan-Bartoš-400479656748554/) a (tehdy budoucí) primátor [Zdeněk Hřib](https://www.facebook.com/zdenek.hrib).*
 
->Opravíme Libeňský most, postavíme nové mosty mezi Karlínem a Holešovicemi a mezi Podhořím a Podbabou.
-*Souhlasíme. O opravu mostu se zasazujeme dlouhodobě.*
+>Opravíme Libeňský most, postavíme nové mosty mezi Karlínem a Holešovicemi a mezi Podhořím a Podbabou. – *Souhlasíme. O opravu mostu se zasazujeme dlouhodobě.*
 
->Snížíme cenu za parkovací karty, zvýšíme počet parkovacích míst, postavíme parkovací domy a P+R parkoviště.
-*Souhlasíme. P+R parkoviště máme rovněž v programu.*
+>Snížíme cenu za parkovací karty, zvýšíme počet parkovacích míst, postavíme parkovací domy a P+R parkoviště. – *Souhlasíme. P+R parkoviště máme rovněž v programu.*
 
->Podpoříme MHD, vybudujeme tramvajovou trať do Dolních Chaber, přesuneme terminál pro meziměstské autobusy z Ládví do Letňan.
-*Souhlasíme.*
+>Podpoříme MHD, vybudujeme tramvajovou trať do Dolních Chaber, přesuneme terminál pro meziměstské autobusy z Ládví do Letňan. – *Souhlasíme.*
 
->Zabráníme zahušťování sídlišť; udržíme a zkultivujeme stávající zelené plochy.
-*Souhlasíme. I tento bod máme v programu.*
+>Zabráníme zahušťování sídlišť; udržíme a zkultivujeme stávající zelené plochy. – *Souhlasíme. I tento bod máme v programu.*
 
->Přestěhujeme úřad MČ Praha 8 do nové radnice na Palmovce, aby si občané mohli vyřizovat své úřední záležitosti komfortně na jednom místě.
-*Souhlasíme. Máme stejný bod v našem vlastním programu.*
+>Přestěhujeme úřad MČ Praha 8 do nové radnice na Palmovce, aby si občané mohli vyřizovat své úřední záležitosti komfortně na jednom místě. – *Souhlasíme. Máme stejný bod v našem vlastním programu.*
 
->Prosadíme celkovou urbanistickou revitalizaci Palmovky, bez nesmyslného tunelu pod synagogou.
-*Souhlasíme.*
+>Prosadíme celkovou urbanistickou revitalizaci Palmovky, bez nesmyslného tunelu pod synagogou. – *Souhlasíme.*
 
->Podpoříme volnočasové aktivity zavedením "multikarty" Prahy 8 s výhodami pro držitele, zejména pro rodiny s dětmi a seniory.
-*Jsme otevřeni k diskuzi o tomto bodu programu.*
+>Podpoříme volnočasové aktivity zavedením "multikarty" Prahy 8 s výhodami pro držitele, zejména pro rodiny s dětmi a seniory. – *Jsme otevřeni k diskuzi o tomto bodu programu.*
 
->Položíme důraz na prevenci kriminality a na rozvoj nízkoprahových klubů pro děti a mládež.
-*Souhlasíme. Sociální politika je i dle našeho programu prioritou.*
+>Položíme důraz na prevenci kriminality a na rozvoj nízkoprahových klubů pro děti a mládež. – *Souhlasíme. Sociální politika je i dle našeho programu prioritou.*
 
->Podpoříme kvalitní školství; rozšíříme nabídku pro předškolní děti díky rozvoji dětských skupin a mikrojeslí.
-*Souhlasíme.*
+>Podpoříme kvalitní školství; rozšíříme nabídku pro předškolní děti díky rozvoji dětských skupin a mikrojeslí. – *Souhlasíme.*
 
->Zasadíme se o zřízení jednotky sboru dobrovolných hasičů Prahy 8.
-*Souhlasíme.*
+>Zasadíme se o zřízení jednotky sboru dobrovolných hasičů Prahy 8. – *Souhlasíme.*
 
 **Opravdu nemohou TOP 09 a STAN prosazovat svůj program s námi? Na magistrátu to evidentně jde.**
 
