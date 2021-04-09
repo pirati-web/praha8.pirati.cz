@@ -2,9 +2,9 @@
 title: Roušky všem! Děkujeme těm, kteří šíjí!
 authorId: martin.sterba
 image: posts/rousky_anicka.jpg
-tags: [Nouzový stav, Pandemie Covid-19, Bulovka, Bohnice]
+tags: [Bohnice, Bulovka, Pandemie Covid-19]
 ---
 
-#Rouškyvšem. Ušili jsme roušky například pro Dům s pečovatelskou službou Bulovka, rehabilitační kliniku nemocnice v Bohnicích, a udělali jsme i speciální roušky s gumičkami i pro seniory. 😷 Nepolevujeme, šijeme samozřejmě i dál!
+#Rouškyvšem. Ušili jsme roušky například pro Dům s pečovatelskou službou Bulovka, rehabilitační kliniku nemocnice v Bohnicích, a udělali jsme i speciální roušky s gumičkami i pro seniory. Nepolevujeme, šijeme samozřejmě i dál!
 
 Děkujeme všem, kteří také šijete a pomáháte!
