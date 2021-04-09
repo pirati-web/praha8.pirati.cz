@@ -2,7 +2,7 @@
 title: Rozšíření Letiště Václava Havla? Magistrát musí zastupovat zájmy městských částí
 authorId: alice.hamalova
 image: posts/letistepraha.jpg
-tags: [Letiště, Životní prostředí, Magistrát]
+tags: [Časopis Osmička, Magistrát, Letiště Václava Havla, Životní prostředí]
 ---
 
 **Rozšíření letiště je rozděleno do vícero fází. Ta první je o úpravě stávajících terminálů, přeskupení kontroly bezpečnosti a dostavbě dalších nástupních prstů.** Má vylepšit efektivnost a přehlednost odbavení cestujících a možné navýšení kapacity až na 21 milionů cestujících za rok. Vloni se na Letišti Václava Havla odbavilo téměř 18 milionů cestujících, jedná se o navýšení o 18 procent, což je akceptovatelné.
