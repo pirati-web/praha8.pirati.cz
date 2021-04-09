@@ -2,7 +2,7 @@
 title: Praha 8 odpustí nájemné podnikatelům a živnostníkům postiženým opatřeními COVID-19
 authorId: martin.sterba
 image: posts/restu_dvakohouti.jpg
-tags: [Zastupitelstvo, Pandemie Covid-19, Nouzový stav]
+tags: [Pandemie Covid-19, Zastupitelstvo]
 ---
 
 **Podnikatelé a živnostníci v prostorách MČ Praha 8 mohou počítat se slevou na nájemném v rozmezí 30–50%. Minulý týden o tom jednohlasně rozhodli zastupitelé naší městské části.**
