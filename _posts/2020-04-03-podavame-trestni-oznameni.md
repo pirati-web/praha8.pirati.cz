@@ -2,7 +2,7 @@
 title: Podali jsme trestní oznámení na radního Slobodníka
 authorId: martin.sterba
 image: posts/slobodnk-to.jpg
-tags: [Nouzový stav, Pandemie Covid-19, ODS, Kauza Dezinfekce]
+tags: [Kauza Dezinfekce, ODS, Pandemie Covid-19]
 ---
 
 Ve čtvrtek 2. dubna 2020 zveřejnil zpravodajský portál Seznam Zprávy investigativní článek s názvem [„Procenta pro radního za dezinfekci škol. Natočili jsme úplatky v časech nouze“](https://www.seznamzpravy.cz/clanek/procenta-pro-radniho-za-dezinfekci-skol-natocili-jsme-uplatky-v-casech-nouze-97328?fbclid=IwAR2ett1NmUllSOS9BvTnH04uoaxXBtRTAYO8BHAW3f98dXdap0lVLhO6YGU). Investigativní článek obsahující rovněž nahrávku zachycuje jednání 2 osob, které proběhlo 24.3.2020.
