@@ -2,7 +2,7 @@
 title: Strategické cíle pro Prahu 8 po pandemii? Obchody za rohem a úřad na internetu
 authorId: martin.stanek
 image: posts/libensky-zamek.jpg
-tags: [Digitalizace, Koronavirus, Časopis Osmička]
+tags: [Digitalizace, Pandemie Covid-19, Časopis Osmička]
 ---
 
 **V současné epidemiologické situaci je potřeba omezit fyzické setkávání lidí, aby se předešlo šíření nákazy. Proto je dobré umožnit lidem, aby pro nákupy a úřadování nemuseli nikam chodit.** A když už ano, tak ne daleko. Praha 8 by tedy měla udělat maximum pro vytvoření města krátkých vzdáleností a digitálního úřadu.

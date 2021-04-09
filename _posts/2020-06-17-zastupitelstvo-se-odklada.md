@@ -2,7 +2,7 @@
 title: Dnešní jednání zastupitelstva MČ Praha 8 je odloženo
 authorId: martin.sterba
 image: posts/odlozene-zastupitelstvo.png
-tags: [Zastupitelstvo, Koronavirus]
+tags: [Zastupitelstvo, Pandemie Covid-19]
 ---
 
 **Starosta Ondřej Gros z důvodu potvrzení nákazy nemocí COVID-19 u náměstka primátora Petra Hlubučka zrušil dnešní jednání zastupitelstva a přesunul ho na 1. 7. 2020.**

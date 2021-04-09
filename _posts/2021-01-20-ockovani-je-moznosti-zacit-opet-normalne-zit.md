@@ -2,7 +2,7 @@
 title: Očkování je možností začít opět normálně žít
 authorId: anna.filinova
 image: posts/ockovani-covid19.jpg
-tags: [Časopis Osmička, Koronavirus]
+tags: [Časopis Osmička, Pandemie Covid-19]
 ---
 
 **Na vakcínu proti nemoci Covid19 čekáme od začátku celé pandemie, tedy už od jara 2020. Proto musíme všichni dodržovat vládní opatření, která už jsou pro řadu lidí tvrdá, zdlouhavá a některé sektory tato opatření ničí před očima.**

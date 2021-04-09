@@ -2,7 +2,7 @@
 title: Musíme myslet i na ty bez přístupu k internetu
 authorId: anna.filinova
 image: posts/osmicka_internet.jpg
-tags: [Koronavirus, Časopis Osmička, Sociální služby]
+tags: [Pandemie Covid-19, Časopis Osmička, Sociální služby]
 ---
 
 ***Jaké poučení do budoucna by si měla vzít městská část z pandemie Covid-19 například v péči o své občany, seniory nebo rodiny?***

@@ -2,7 +2,7 @@
 title: "Zdeněk Hřib starostovi Prahy 8: Vakcíny nejsou rozdělovány podle politického klíče, chaos v tom udělala vláda"
 author: Zdeněk Hřib
 image: posts/zdenekhrib.png
-tags: [Koronavirus, Magistrát, Nouzový stav]
+tags: [Pandemie Covid-19, Magistrát, Nouzový stav]
 ---
 
 Vážený pane starosto,
