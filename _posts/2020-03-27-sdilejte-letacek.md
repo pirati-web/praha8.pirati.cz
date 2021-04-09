@@ -2,7 +2,7 @@
 title: Praha drží spolu! Sdílejte letáky pro seniory.
 authorId: martin.sterba
 image: posts/prahadrzispolu.jpg
-tags: [Nouzový stav, Pandemie Covid-19, Magistrát]
+tags: [Magistrát, Pandemie Covid-19]
 ---
 
 Sdílíme prosbu od Zdeňka Hřiba, primátora hlavního města Prahy. Děkujeme! ❤️
