@@ -11,62 +11,55 @@ Opravdu je tomu tak? Pojďme se společně podívat na program TOP 09 a STAN uve
 
 ## Priority TOP 09 a STAN
 
-Rozvoj dopravní infrastruktury.
-:    Souhlasíme.
-
-Čistá a bezpečná Praha 8.
-:    Souhlasíme.
-
-Odpovědné a udržitelné hospodaření s finančními prostředky.
-:    Souhlasíme.
-
+>
+Rozvoj dopravní infrastruktury. *Souhlasíme.*
+Čistá a bezpečná Praha 8. *Souhlasíme.*
+Odpovědné a udržitelné hospodaření s finančními prostředky. *Souhlasíme.*
 
 ## Základní programové priority TOP 09 a STAN
 
+>
 Podpoříme odpovědné, transparentní a šetrné hospodaření s finančními prostředky Prahy 8.
-:    Souhlasíme. Sami prosazujeme transparenci jako jeden z našich hlavních bodů.
+*Souhlasíme. Sami prosazujeme transparenci jako jeden z našich hlavních bodů.*
 
 Vyhlásíme nulovou toleranci vůči korupci a klientelismu.
-:    Souhlasíme. Bojujeme proti korupci na všech úrovních politiky.
+*Souhlasíme. Bojujeme proti korupci na všech úrovních politiky.*
 
 Dostavíme páteřní dopravní komunikace, zejména vnitřní městský okruh; zahloubíme ulici V Holešovičkách.
-:    Souhlasíme. Dne 24. 9. 2018 jsme podepsali prohlášení o podpoře zahloubení ulice V Holešovičkách jako dopravní prioritu pro nadcházející období. Toto prohlášení podepsali kromě nás i předseda strany [Ivan Bartoš](https://www.facebook.com/Ivan-Bartoš-400479656748554/) a (tehdy budoucí) primátor [Zdeněk Hřib](https://www.facebook.com/zdenek.hrib).
+*Souhlasíme. Dne 24. 9. 2018 jsme podepsali prohlášení o podpoře zahloubení ulice V Holešovičkách jako dopravní prioritu pro nadcházející období. Toto prohlášení podepsali kromě nás i předseda strany [Ivan Bartoš](https://www.facebook.com/Ivan-Bartoš-400479656748554/) a (tehdy budoucí) primátor [Zdeněk Hřib](https://www.facebook.com/zdenek.hrib).*
 
 Opravíme Libeňský most, postavíme nové mosty mezi Karlínem a Holešovicemi a mezi Podhořím a Podbabou.
-:    Souhlasíme. O opravu mostu se zasazujeme dlouhodobě.
+*Souhlasíme. O opravu mostu se zasazujeme dlouhodobě.*
 
 Snížíme cenu za parkovací karty, zvýšíme počet parkovacích míst, postavíme parkovací domy a P+R parkoviště.
-:    Souhlasíme. P+R parkoviště máme rovněž v programu.
+*Souhlasíme. P+R parkoviště máme rovněž v programu.*
 
 Podpoříme MHD, vybudujeme tramvajovou trať do Dolních Chaber, přesuneme terminál pro meziměstské autobusy z Ládví do Letňan.
-:    Souhlasíme.
+*Souhlasíme.*
 
 Zabráníme zahušťování sídlišť; udržíme a zkultivujeme stávající zelené plochy.
-:    Souhlasíme. I tento bod máme v programu.
+*Souhlasíme. I tento bod máme v programu.*
 
 Přestěhujeme úřad MČ Praha 8 do nové radnice na Palmovce, aby si občané mohli vyřizovat své úřední záležitosti komfortně na jednom místě.
-:    Souhlasíme. Máme stejný bod v našem vlastním programu.
+*Souhlasíme. Máme stejný bod v našem vlastním programu.*
 
 Prosadíme celkovou urbanistickou revitalizaci Palmovky, bez nesmyslného tunelu pod synagogou.
-:    Souhlasíme.
+*Souhlasíme.*
 
 Podpoříme volnočasové aktivity zavedením "multikarty" Prahy 8 s výhodami pro držitele, zejména pro rodiny s dětmi a seniory.
-:    Jsme otevřeni k diskuzi o tomto bodu programu.
+*Jsme otevřeni k diskuzi o tomto bodu programu.*
 
 Položíme důraz na prevenci kriminality a na rozvoj nízkoprahových klubů pro děti a mládež.
-:    Souhlasíme. Sociální politika je i dle našeho programu prioritou.
+*Souhlasíme. Sociální politika je i dle našeho programu prioritou.*
 
 Podpoříme kvalitní školství; rozšíříme nabídku pro předškolní děti díky rozvoji dětských skupin a mikrojeslí.
-:    Souhlasíme.
+*Souhlasíme.*
 
 Zasadíme se o zřízení jednotky sboru dobrovolných hasičů Prahy 8.
-:    Souhlasíme.
+*Souhlasíme.*
 
-Opravdu nemohou TOP 09 a STAN prosazovat svůj program s námi? Na magistrátu to evidentně jde.
+**Opravdu nemohou TOP 09 a STAN prosazovat svůj program s námi? Na magistrátu to evidentně jde.**
 
 Závěrem bychom rádi připomněli, že jsme ochotni v Zastupitelstvu [MČ Praha 8](https://www.facebook.com/mcpraha8/) podpořit jakýkoliv konstruktivní návrh, se kterým se náš klub ztotožní bez ohledu na to, kdo jej navrhne. Stejně tak jsme i nadále otevřeni koaličním jednáním, ovšem bez lavírování našich potenciálních partnerů mezi zcela odlišnými a často protichůdnými pohledy na řízení Prahy 8. Piráti chtějí opravdovou změnu, ne návrat k fungování minulých radnic, včetně té poslední.
 
-Pokud by Vás zajímal pohled našeho partnera (Osmička žije), naleznete jej na jejich Facebookové stránce pod titulkem [Proč nevznikla koalice Piráti-8žije-TOP09/STAN na Praze 8](https://www.facebook.com/8zije/posts/2125894890995733).
-
-
-<!-- vim:set spell spelllang=cs,en: -->
+Pokud by Vás zajímal pohled našeho partnera (Osmička žije), naleznete jej na jejich facebookové stránce pod titulkem [Proč nevznikla koalice Piráti-8žije-TOP09/STAN na Praze 8](https://www.facebook.com/8zije/posts/2125894890995733).
