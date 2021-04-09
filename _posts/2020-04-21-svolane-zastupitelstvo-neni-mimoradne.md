@@ -2,7 +2,7 @@
 title: Svolané zastupitelstvo Prahy 8 není mimořádné, na žádost opozice a místostarosty nebral starosta Gros zřetel
 authorId: martin.sterba
 image: posts/zastupitelstvo2.jpg
-tags: [Nouzový stav, Zastupitelstvo, Kauza Dezinfekce]
+tags: [Kauza Dezinfekce, Zastupitelstvo]
 ---
 
 **Piráti Praha 8 na úterním zastupitelstvu městské části budou žádat vysvětlení kauzy dezinfekce již bývalého radního pro IT Josefa Slobodníka z ODS. Starosta Ondřej Gros (ODS) ignoroval žádost opozičních zastupitelů Pirátů, uskupení Osmička žije spolu s KDU-ČSL, Zelenými a místostarostou Jiřím Vítkem (Patrioti pro Prahu 8/Trikolóra) na svolání mimořádného zastupitelstva. Svolal „své vlastní“ a naše požadavky do programu jednání zastupitelstva vůbec nezařadil. Piráti budou žádat, aby body programu o auditu Slobodníkovi gesce a o kontrole zakázek ze strany MHMP, byly zařazeny, jinak budeme trvat na vyhlášení mimořádného zastupitelstva.**
