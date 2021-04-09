@@ -2,9 +2,8 @@
 title: Otevřený dopis zastupitelům TOP 09 a STAN na MČ Praze 8
 authorId: michal.novak
 image: posts/zastupitelstvo3.jpg
-tags: [Nouzový stav, TOP09, STAN, Kauza Dezinfekce]
+tags: [Kauza Dezinfekce, STAN, TOP09]
 ---
-
 
 Vážení zastupitelé za TOP 09 a STAN na Praze 8, dovoluji si Vás oslovit jménem zastupitelského klubu Pirátů. Díky reportáži ze [Seznam zpráv](https://www.seznamzpravy.cz/clanek/procenta-pro-radniho-za-dezinfekci-skol-natocili-jsme-uplatky-v-casech-nouze-97328) vzniklo závažné podezření, že radní MČ Praha 8 Josef Slobodník (ODS) žádal prostřednictvím Juraje Pavola o úplatek na zakázce dezinfekce veřejných prostor.
 
