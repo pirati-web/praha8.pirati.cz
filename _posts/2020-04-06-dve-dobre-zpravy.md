@@ -2,7 +2,7 @@
 title: Starosta Gros svolává mimořádné jednání zastupitelstva, Slobodník rezignuje
 authorId: martin.sterba
 image: posts/rezignace-slobodnik2.png
-tags: [Nouzový stav, Zastupitelstvo, Dezinfekce]
+tags: [Nouzový stav, Zastupitelstvo, Kauza Dezinfekce]
 ---
 
 **Dvě dobré zprávy pro dnešní den!** Na základě událostí minulých dní došlo k posunu několika věcí.

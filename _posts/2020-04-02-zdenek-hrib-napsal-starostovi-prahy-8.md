@@ -2,7 +2,7 @@
 title: "Primátor Hřib starostovi Prahy 8: Procenta pro radního za dezinfekci škol? Nepřijatelné!"
 authorId: martin.sterba
 image: posts/hrib-zdenek.jpg
-tags: [Nouzový stav, Pandemie Covid-19, ODS, Dezinfekce]
+tags: [Nouzový stav, Pandemie Covid-19, ODS, Kauza Dezinfekce]
 ---
 
 **Seznam Zprávy rozkryly podezření z uplácení v době současné krize za účasti radního ODS z Prahy 8. Podobné praktiky nelze tolerovat, a už vůbec ne v době nouzového stavu! Panu starostovi Grosovi z této městské části jsem proto napsal následující dopis s jasnými požadavky k objasnění a vyřešení situace:**
