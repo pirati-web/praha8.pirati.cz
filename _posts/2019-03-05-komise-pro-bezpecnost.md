@@ -2,10 +2,10 @@
 title: "Situace okolo centra metadonové substituce: Represe rozhodně nepomohou"
 authorId: jan.kolator
 image: posts/metadon.jpg
-tags: [Zdravotnictví, Bezpečnost]
+tags: [Bezpečnost]
 ---
 
-Na posledním zasedání Komise pro bezpečnost a prevenci sociálněpatologických jevů se řešila problematická situace kolem Centra metadonové substituce. Toto centrum provozuje nezisková organizace Drop In a od roku 2013 je umístěno v areálu Nemocnice Na Bulovce. Tématu se za nás věnují Jan Kolátor a Markéta Čermáková.
+**Na posledním zasedání Komise pro bezpečnost a prevenci sociálněpatologických jevů se řešila problematická situace kolem Centra metadonové substituce. Toto centrum provozuje nezisková organizace Drop In a od roku 2013 je umístěno v areálu Nemocnice Na Bulovce.** Tématu se za nás věnují Jan Kolátor a Markéta Čermáková.
 
 Metadonová substituce, to znamená podávání léku metadonu pacientům závislým na opiátech při dodržování přísných pravidel, je jednou z ověřených metod snižujících společenskou a finanční zátěž, kterou potíže spojené s užíváním návykových látek obvykle přinášejí. Substituční léčba je určena pacientům, kteří v daném okamžiku nejsou schopni abstinovat. Cílem léčby je snížení dopadů jejich rizikového chování na minimum. Přesto se mohou objevit různé potíže – např. vyšší výskyt uživatelů – klientů centra či jejich doprovodu, vandalismus, nevhodné chování a další.
 
