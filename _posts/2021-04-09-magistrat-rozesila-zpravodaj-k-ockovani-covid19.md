@@ -2,7 +2,7 @@
 title: Magistrát rozesílá zpravodaj k očkování proti Covid-19
 author: MHMP
 image: posts/magistrat-zpravodajockovani.png
-tags: [Pandemie Covid-19, Magistrát]
+tags: [Magistrát, Pandemie Covid-19]
 ---
 
 **Magistrát v těchto dnech rozesílá všem obyvatelům našeho města speciální zpravodaj s aktuálními informacemi k očkování proti onemocnění Covid-19.** Cílem je doručit skutečně všem Pražanům objektivní a ověřené informace o očkování
