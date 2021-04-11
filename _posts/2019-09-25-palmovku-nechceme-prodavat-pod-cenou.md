@@ -1,7 +1,7 @@
 ---
 title: Máme recept, jak rozvíjet Palmovku. Torzo radnice nechceme prodávat pod cenou!
 authorId: martin.sterba
-image: posts/palmovka.jpg
+image: posts/novapalmovka-michal-ivo.jpg
 tags: [Nová Palmovka, Finance]
 ---
 
