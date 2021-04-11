@@ -1,7 +1,7 @@
 ---
 title: "Osmička: Spolupracujme u Nové Palmovky se soukromými investory"
 authorId: michal.novak
-image: posts/palmovka.jpg
+image: posts/novapalmovka-stavba1.png
 tags: [Nová Palmovka, Časopis Osmička]
 ---
 
