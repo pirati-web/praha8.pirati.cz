@@ -2,7 +2,7 @@
 title: Praha bude spolupracovat s dopravním podnikem a Prahou 8 na rozvoji Palmovky
 authorId:
 image: posts/Palmovkastramvaji.jpg
-tags: [Palmovka, Nová Palmovka, Územní rozvoj]
+tags: [Palmovka, Územní rozvoj]
 ---
 
 **Rozsáhlé území mezi stanicemi metra Palmovka a Invalidovna o rozloze přibližně 10 hektarů bude do budoucna sloužit pro bydlení, pracovní příležitosti, ale i služby nebo zde vzniknou školská zařízení.** Magistrát hlavního města Prahy Prahy společně s Dopravním podnikem hl. m. Prahy (DPP) a městskou částí Praha 8, kterým zdejší pozemky patří, se dohodly na koordinovaném rozvoji celé lokality pod vedením hlavního města. Jedná o takřka jediné takto konsolidované území v blízkosti centra a v přímé návaznosti na stanici metra Palmovka.
