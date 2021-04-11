@@ -2,7 +2,7 @@
 title: Bohnický hřbitov by mohl být pod správou městské části Praha 8
 authorId: martin.sterba
 image: posts/bohnice-hrbitov.jpg
-tags: [Bohnice, Magistrát, Územní rozvoj, Veřejný prostor]
+tags: [Bohnice, Magistrát, Veřejný prostor]
 ---
 
 **Městská část Praha 8 navrhla bezúplatný převodu pozemků Bohnického ústavního hřbitova z majetku České republiky na Hlavní město Prahu s následným svěřením do správy Městské části Praha 8.** V současné době je v plánu zachovat hřbitov jako veřejné pohřebiště bez obnovení pohřbívání. MČ Praha 8 má v plánech stavební úpravy v podobě stabilizace obvodových zdí hřbitova i rozpadající se kaple, odstranění náletové zeleně a prořez stromů, a to tak aby zůstalo zachováno genia loci tohoto místa a hřbitov mohl být zpřístupněn veřejnosti.
