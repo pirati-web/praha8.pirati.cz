@@ -1,6 +1,6 @@
 ---
 title: Praha bude spolupracovat s dopravním podnikem a Prahou 8 na rozvoji Palmovky
-authorId:
+author: MHMP
 image: posts/palmovka-znovepalmovky.png
 tags: [Magistrát, Palmovka, Územní rozvoj]
 ---
