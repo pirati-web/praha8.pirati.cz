@@ -1,7 +1,7 @@
 ---
 title: Starý bohnický hřbitov se dočká opravy, přejde pod správu Prahy 8
 authorId: martin.sterba
-image: posts/image: posts/bohnice-hrbitov2.jpg
+image: posts/bohnice-hrbitov2.jpg
 tags: [Bohnice, Magistrát, Veřejný prostor]
 ---
 
