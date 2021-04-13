@@ -2,7 +2,7 @@
 title: Betonárna by měla z Karlína zmizet, souhlasili jsme s neprodloužením smlouvy
 authorId: martin.sterba
 image: posts/karlin-betonarna.png
-tags: [Karlín, Životní prostředí, Veřejný prostor]
+tags: [Rohanský ostrov, Karlín, Životní prostředí]
 ---
 
 **Zastupitelé městské části Praha 8 schválili usnesen s nesouhlasem další existence komplexu "betonárny" a souvisejících staveb, včetně dočasné obslužné účelové komunikace. Jedná se o dočasné stavby TBG Metrostav s.r.o. v lokalitě Rohanský ostrov v Karlíně.**

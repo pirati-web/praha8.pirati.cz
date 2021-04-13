@@ -2,7 +2,7 @@
 layout: default
 mapycz_api: true
 ---
-<div id="mapa" style="width:1200px; height:800px;"></div>
+<div id="mapa" class="h-screen w-screen max-w-full"></div>
 <style type="text/css">
 .card-header { font-weight: bold; }
 .card-body { margin: 10px 0 10px 0; }
@@ -26,7 +26,7 @@ mapycz_api: true
     var card = new SMap.Card();
     card.getHeader().innerHTML = md['title'];
     card.getBody().innerHTML = md['text'];
-    card.getFooter().innerHTML = 'Související <a href="/aktuality/stitky/' + md['slug'] + '/">aktuality</a>(' + md['size'] + ')';
+    card.getFooter().innerHTML = 'Související <a href="/aktuality/stitky/' + md['slug'] + '/">aktuality</a> (' + md['size'] + ')';
     marker.decorate(SMap.Marker.Feature.Card, card);
     layer.addMarker(marker);
   }

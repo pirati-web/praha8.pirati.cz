@@ -2,7 +2,7 @@
 title: "Osmička: Spolupracujme u Nové Palmovky se soukromými investory"
 authorId: michal.novak
 image: posts/novapalmovka-stavba1.png
-tags: [Nová Palmovka, Časopis Osmička]
+tags: [Nová Palmovka, Libeň, Časopis Osmička]
 ---
 
 Základní prioritou by mělo být zajištění finančních prostředků, a to například z fondů EU nebo skrze spolupráci se soukromými investory, jak to za Piráty navrhujeme u dostavby Nové Palmovky.

@@ -2,7 +2,7 @@
 title: Palmovkou je nutné se zabývat hned, není čas to odkládat
 authorId: karel.ptacek
 image: posts/Palmovkastramvaji.jpg
-tags: [Palmovka, Zastupitelstvo]
+tags: [Palmovka, Libeň, Zastupitelstvo]
 ---
 
 **Palmovka ani jeho okolí rozhodně nepatří mezi výkladní skříně, a to jak naší městské části, tak i celé Prahy. Palmovka je zanedbaná, a potřebuje zlepšit. To víme všichni.**

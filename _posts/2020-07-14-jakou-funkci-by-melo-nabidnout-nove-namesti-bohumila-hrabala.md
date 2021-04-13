@@ -2,7 +2,7 @@
 title: Jakou funkci by mělo nabídnout nové náměstí Bohumila Hrabala? Hlavně důstojnou, lidskou, moderní
 authorId: michal.novak
 image: posts/namestibohumilahrabala.jpg
-tags: [Palmovka, Časopis Osmička]
+tags: [Palmovka, Libeň, Časopis Osmička]
 ---
 
 **Dnešní autobusové nádraží Palmovka si nepochybně zaslouží a potřebuje změnu.** Z toho, co si pamatuji o Bohumilu Hrabalovi, to byl člověk s velmi lidským přístupem. Asi by se mu nelíbilo, kdyby bylo jeho jméno spojeno s projektem, který toto místo zastaví novými hranatými budovami a zastaví místní život. Nejde ale jen o spisovatele, jde hlavně o lidi, kteří tady budou bydlet, pracovat, navštěvovat restaurace a nakupovat. A také o ty, kteří tímto územím jen tak projdou.
