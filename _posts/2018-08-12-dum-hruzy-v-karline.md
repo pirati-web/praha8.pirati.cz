@@ -2,7 +2,7 @@
 title: Dům hrůzy v Karlíně. S Airbnb je nutné bojovat.
 authorId: karel.ptacek
 image: posts/airbnb.jpg
-tags: [Bydlení, Karlín]
+tags: [Karlín, Bydlení]
 ---
 
 **Takto označují dům v Sokolovské ulici jeho nájemníci. V současné době je více jak polovina bytů pronajímána krátkodobě turistům z celého světa. Může za to fenomén Airbnb, nebo také chybějící vyhláška Prahy 8.**

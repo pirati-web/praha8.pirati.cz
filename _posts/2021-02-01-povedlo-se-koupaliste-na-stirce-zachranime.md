@@ -2,7 +2,7 @@
 title: Povedlo se. Koupaliště Na Stírce zachráníme!
 authorId: martin.sterba
 image: posts/koupaliste-nastirce.png
-tags: [Kobylisy, Sport, Majetek, Magistrát]
+tags: [Koupaliště Stírka, Kobylisy, Sport, Magistrát]
 ---
 
 **Bazén Na Stírce bude velmi pravděpodobně zachráněný a bude fungovat dál. 🤩 V minulosti se k tomu vyjádřili snad všichni, kteří na Praze 8 působí, i ti kteří bydlí v okolí.**

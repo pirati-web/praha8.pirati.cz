@@ -2,7 +2,7 @@
 title: Prosazujeme chytrá řešení založená na datech
 authorId: michal.novak
 image: posts/osmicka_zavorabohnice.jpg
-tags: [Bohnice, Časopis Osmička]
+tags: [Bohnice, Časopis Osmička, Doprava]
 ---
 
 Jako Piráti podporujeme tzv. smart, tedy chytrá řešení. Proto se mi nelíbí návrh “hloupé” světelné závory resp. semaforu v Bohnicích. Tento semafor má omezit příliv aut do sousední

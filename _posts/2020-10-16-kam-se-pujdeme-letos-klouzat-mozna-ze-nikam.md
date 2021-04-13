@@ -2,7 +2,7 @@
 title: Kam se půjdeme letos klouzat? Možná, že nikam.
 authorId: pavel.franc
 image: posts/kluziste_ladvi.png
-tags: [Ládví, Sport]
+tags: [Kluziště, Sport]
 ---
 
 **Podzim se nám pomalu překlápí do zimy a tak se místo sekání trávy začínají na Praze 8 opět řešit kluziště. A řeší je na Facebooku nejen opoziční politici, ale i rodiče dětí, kteří by rádi věděli, zda tato oblíbená volnočasová aktivita, bude i letos k dispozici a kde.**

@@ -39,4 +39,11 @@ Jekyll::Hooks.register :site, :post_read do |site|
   # Sort the tags by name and store them in site.data
   collator = TwitterCldr::Collation::Collator.new(:cs)
   site.data['tags'] = collator.sort(site.tags.keys).collect { |tag| [tag, site.tags[tag]] }.to_h
+
+  # Enrich the Map data for post with the tag slug
+  site.data['map']['posts'].each { |item|
+    tag = item['title']
+    item['slug'] = Jekyll::Utils.slugify(tag, :mode => "latin")
+    item['size'] = site.data['tags'][tag].to_a.size()
+  }
 end

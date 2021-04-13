@@ -2,7 +2,7 @@
 title: Pětkrát prohraný soud o cykloobousměrky v Karlíně! Zeptal se někdo místních obyvatel?
 authorId: pavel.franc
 image: posts/karlin-krizikova.jpg
-tags: [Cyklodoprava, Časopis Osmička]
+tags: [Karlín, Cyklodoprava, Časopis Osmička]
 ---
 
 Při pohledu na rozložení politických sil na Praze 8 se odpověď nabízí sama. Stačí se podívat třeba na program vládnoucí ODS, se kterým vyhrála komunální volby v roce 2018: “Budeme blokovat všechny snahy různých aktivistických bojůvek o další zásahy do dopravy. Už žádná omezení dopravy ve jménu démona cyklodopravy." A protože i jejich koaliční partneři mají na cyklistiku ve městě podobný názor, není divu, že ani úředníci na úřadě naší městské části cyklistům v ulicích nefandí.

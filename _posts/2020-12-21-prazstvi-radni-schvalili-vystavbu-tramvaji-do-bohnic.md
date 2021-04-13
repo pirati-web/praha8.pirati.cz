@@ -2,7 +2,7 @@
 title: Pražští radní schválili výstavbu tramvajové tratě do Bohnic
 authorId: martin.sterba
 image: posts/tramvaje-bohnice.png
-tags: [Bohnice, Doprava, Magistrát]
+tags: [Tramvaj do Bohnic, Bohnice, Doprava, Magistrát]
 ---
 
 **Pražští radní schválili na poslední předvánoční Radě hlavního města Prahy plán na výstavbu nové tramvajové tratě z Kobylis do Bohnic. Ta by měla propojit stanici metra v Kobylisích se sídlištěm Bohnice i budoucí horní stanicí lanové dráhy Podbaba – Troja – Bohnice.**

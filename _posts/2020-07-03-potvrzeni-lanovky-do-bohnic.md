@@ -2,7 +2,7 @@
 title: Zastupitelstvo hlavního města potvrdilo stavbu lanovky mezi Podbabou, Trojou a Bohnicemi
 authorId: martin.sterba
 image: posts/lanovkabohnice.jpg
-tags: [Bohnice, Doprava, Lanovka Bohnice–Podbaba, Magistrát]
+tags: [Lanovka Bohnice–Podbaba, Bohnice, Doprava, Magistrát]
 ---
 
 **Do pěti let propojí městské části Praha 6, Troju a Prahu 8 lanová dráha. Zastupitelstvo hl. m. Prahy dnes schválilo investiční záměr její stavby, celkové náklady se odhadují na 1,5 miliardy korun. Celkem 2,5 kilometru dlouhá jízda z Podbaby do Bohnic se 100metrovým převýšením a překonáním řeky tak potrvá jen sedm minut.**

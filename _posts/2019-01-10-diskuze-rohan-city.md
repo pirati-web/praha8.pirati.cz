@@ -2,7 +2,7 @@
 title: Jak má vypadat Rohan City? Piráti diskutují!
 authorId: martin.sterba
 image: posts/rohancity.jpg
-tags: [Rohanský ostrov, Územní rozvoj, Karlín]
+tags: [Rohanský ostrov, Karlín, Územní rozvoj]
 ---
 
 Právě teď se koná veřejné projednávání projektu Rohan City, který připravuje Sekyra Group. Zahájení první fáze výstavby začne během letošního roku. Během ní vznikne asi 300 bytů a 30 tisíc metrů čtverečních kancelářských ploch.

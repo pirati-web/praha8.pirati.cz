@@ -2,7 +2,7 @@
 title: Parky Prahy 8 chceme vidět rozkvétat a ne prodávat k zastavění!
 authorId: martin.stanek
 image: posts/park-podkorabem.jpg
-tags: [Magistrát, Životní prostředí, Veřejný prostor, Libeň]
+tags: [Park Pod Korábem, Libeň, Magistrát, Životní prostředí]
 ---
 
 **Velice nás mrzí, že rada naší městské části vydala [souhlasné stanovisko](https://www.praha8.cz/appo/usn/676?usn=Ga3pbxpl4EtB3GlP66Z8d3pbxpl4FXVzoA==) k prodeji části parcely 267/1 v parku Pod Korábem, jejíž část je [v územním plánu](https://app.iprpraha.cz/apl/services/short_links/_0ptrgzhkvp.html) vedena jako zeleň. Vlastníkem nově vzniklé parcely 267/13 je tak teď soukromá společnost Relimex group s.r.o., u které v náhledu do katastru vidíme poznámku “Zahájení exekuce”. Mrzí nás to nejen proto, že [součástí našeho programu](https://praha8.pirati.cz/program/) je zachování městských parků a zeleně, ale i proto, že s tímto parkem některé z nás pojí příjemné, dávné i čerstvé vzpomínky.**

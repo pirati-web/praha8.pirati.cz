@@ -2,7 +2,7 @@
 title: Florenc je dopravní tepnou, prostor je nutné oživit
 authorId: karel.ptacek
 image: posts/osmicka-florenc.jpg
-tags: [Časopis Osmička, Veřejný prostor, Florenc, Doprava, Karlín]
+tags: [Florenc, Karlín, Časopis Osmička, Veřejný prostor, Doprava]
 ---
 
 Od roku 2002 prochází Karlín neuvěřitelnou proměnou. Dříve převážně industriální a zanedbaná část Prahy 8, nyní prestižní pražská adresa. Vadou na kráse je prostor okolí Florence.

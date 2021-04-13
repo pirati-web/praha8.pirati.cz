@@ -2,7 +2,7 @@
 title: Dlouhodobě podporujeme zahloubení ulice V Holešovičkách. Co pro to děláme?
 authorId: martin.sterba
 image: posts/holesovicky-bulovka.png
-tags: [Doprava, Libeň, Holešovičky, Veřejný prostor]
+tags: [Ulice v Holešovičkách, Libeň, Doprava, Veřejný prostor]
 ---
 
 **Dlouhodobě podporujeme zahloubení ulice V Holešovičkách.** Ještě před volbami 2018 (25. 9. 2018) jsme za účasti tehdejšího kandidáta na senátora Lukáše Wagenknechta (dnes senátora), volební lídryně Alice Hamalové, předsedy Pirátů Ivana Bartoše a tehdejšího předsedy MS Praha 8 Michala Nováka (dnes místopředsedy) [podepsali memorandum, ve kterém jsme se zavázali, že zahloubení podpoříme](https://www.facebook.com/piratipraha8/photos/a.158415444876485/252992888752073/).

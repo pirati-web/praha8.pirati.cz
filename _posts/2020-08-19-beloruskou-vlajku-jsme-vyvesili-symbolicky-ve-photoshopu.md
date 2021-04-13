@@ -2,7 +2,7 @@
 title: Běloruskou vlajku jsme vyvěsili alespoň symbolicky ve Photoshopu
 authorId: martin.sterba
 image: posts/freebelarus.png
-tags: [Piráti, Bělorusko]
+tags: [Piráti]
 ---
 
 Starosta naší městské části Ondřej Gros oznámil, že vlajku na podporu svobodného Běloruska nevyvěsí. Symbolicky tak běloruskou červenobílou vlajku, tedy symbol opozice a vzdoru vůči režimu a zároveň odkazující na pokus Běloruska vyhlásit nezávislost, vyvěšujeme na budovu Libeňského zámečku alespoň prostřednictvím Photoshopu.

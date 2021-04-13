@@ -2,7 +2,7 @@
 title: Kudy povede nový Rohanský most spojující Karlín a Holešovice? Zatím nevíme.
 authorId: karel.ptacek
 image: posts/rohanskyostrov-setkani.jpg
-tags: [Karlín, Rohanský ostrov, Doprava]
+tags: [Rohanský most, Karlín, Doprava]
 ---
 
 **V úterý podvečer se předseda našeho zastupitelského klubu [Michal Novák]({% link _people/michal-novak.md %}) a náš zastupitel a člen komise pro územní rozvoj [Karel Ptáček]({% link _people/karel-ptacek.md %}) zúčastnil veřejné prezentace budoucího umístění plánovaného Rohanského mostu, kterou připravila sousední radnice Praha 7. Na setkání dorazilo okolo 280 obyvatel.**

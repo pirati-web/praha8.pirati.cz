@@ -2,7 +2,7 @@
 title: Piráti podporují vznik nových vlakových zastávek v Karlíně!
 authorId: michal.schwarzkopf
 image: posts/vlakova-zastavka-karlin.jpg
-tags: [Doprava, Karlín, Libeň]
+tags: [Karlín, Doprava]
 ---
 Praha se má do roku 2030 proměnit v metropoli vlaků. Kromě často zmiňovaných zastávek Eden a Zahradní město se v poslední době oběvily spekulace ohledně výstavby nových zastávek v městské části Praha 8 Karlín.
 

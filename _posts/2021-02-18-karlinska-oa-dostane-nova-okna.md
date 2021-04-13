@@ -2,7 +2,7 @@
 title: Karlínská Obchodní akademie dostane nová okna a fasádu
 authorId: karel.ptacek
 image: posts/karlin-oa.jpg
-tags: [Karlín, Školství, Majetek, Magistrát]
+tags: [Karlín, Školství, Magistrát]
 ---
 
 **Rada hlavního města Prahy odsouhlasila výběr zhotovitele, který zajistí kompletní výměnu oken a novou fasádu pro karlínskou Obchodní akademii a vyšší odbornou školu ekonomickou.**
