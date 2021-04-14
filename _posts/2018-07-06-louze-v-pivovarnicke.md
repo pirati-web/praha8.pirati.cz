@@ -2,7 +2,7 @@
 title: Praha 8 slíbila, že louže se splašky odstraní. Neodstranila, tak jsme se do toho pustili sami.
 authorId: jan.horn
 image: posts/tym-louze.jpg
-tags: [Libeňská louže, Libeň, Životní prostředí]
+tags: [Kotlaska, Libeň, Životní prostředí]
 ---
 
 Někteří z vás možná zaznamenali na sociálních sítích nedávnou „kauzu“ Libeňské
