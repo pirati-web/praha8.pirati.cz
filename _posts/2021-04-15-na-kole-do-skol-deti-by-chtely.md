@@ -2,7 +2,7 @@
 title: Na kole do školy? Děti by chtěly, problém je ale s parkováním
 authorId: pavel.franc
 image: posts/kola/buresova-1.jpg
-tags: [Cyklodoprava, Školství, Magistrát]
+tags: [Cyklodoprava, Školství]
 fancybox:
   - name: ZŠ Burešova
     img:
