@@ -1,5 +1,5 @@
 ---
-title: Na kole do škol? Děti by chtěly. Problém je ale s parkováním.
+title: Na kole do školy? Děti by chtěly, problém je ale s parkováním
 authorId: pavel.franc
 image: posts/kola/buresova-1.jpg
 tags: [Cyklodoprava, Školství, Magistrát]
@@ -68,13 +68,13 @@ fancybox:
       - { src: posts/kola/palmovka-2.jpg, title: ZŠ Palmovka - celkový pohled 2 }
 ---
 
-Není to tak dávno, co v <a href="/aktuality/zeptal-se-nekdo-obyvatel-karlina.html">časopise Osmička</a> a následně pak i na sociálích sítích proběhla opětovná diskuse ohledně cykloobousměrek v Karlíně. Při této příležitosti jsme zmínili, že než bojovat na jedné ze dvou barikád, raději bychom namířili síly jinam a pomohli našim dětem, aby mohli jezdit do školy na kole či koloběžce. Následně se na nás obrátila celá řada rodičů, podporující tuto aktivitu. A tak jsme se pustili do pátrání ...
+Není to tak dávno, co v <a href="/aktuality/zeptal-se-nekdo-obyvatel-karlina.html">časopise Osmička</a> a následně pak i na sociálích sítích proběhla opětovná diskuse ohledně cykloobousměrek v Karlíně. Při této příležitosti jsme zmínili, že než bojovat na jedné ze dvou barikád, raději bychom namířili síly jinam a pomohli našim dětem, aby mohli jezdit do školy na kole či koloběžce. Následně se na nás obrátila celá řada rodičů podporující tuto aktivitu. A tak jsme se pustili do pátrání ...
 
 <h2>Jak velký je zájem?</h2>
 U nás v Česku jsou stále názory na jízdu do školy a zaměstnání na kole daleko za postoji v západní Evropě, kde je tento způsob dopravy zcela běžný a municipality ho cíleně podporují. U nás bohužel stále převládá názor rodičů, že nejlepší je jet do školy s dítětem autem, neboť je to bezpečné a pohodlné. Nicméně z anket, pořádaných v nedávné době na několika školách na Praze 8, vyplývá, že mezi 20%-30% žáky by do školy rádo jezdilo na kole a nebo koloběžce, jen kdyby ho či ji měli kde zaparkovat. Bylo by proto více než logické, zajistit tuto možnost minimálně pro 10% žáků školy, což by odpovídalo možnosti zaparkovat u školy 50-80 kol dle velikosti školy. Jaká je aktuální situace zjistíte z galerie.
 
 <h2>Co s tím?</h2>
-Dle odboru školství vedou k realizaci kolárny u školy dvě cesty. První, pokud se kolárna nachází v areálu školy, je realizace stavby kolárny v rámci <a href="https://m.praha8.cz/Servisni-stredisko-pro-spravu-svereneho-majetku-MC-Praha-8-prispevkova-organizace.html">Servisního střediska pro správu svěřeného majetku MČ Praha 8</a>- tj příspěvkové organize MČ, která má za úkol starat se o jednotlivé budovy MČ včetně škol. Bohužel nám není známo, že by SeS na rok 2021 nějakou takovou stavbu chystal.
+Dle odboru školství Úřadu MČ Praha 8 vedou k realizaci kolárny u školy dvě cesty. První, pokud se kolárna nachází v areálu školy, je realizace stavby kolárny v rámci <a href="https://m.praha8.cz/Servisni-stredisko-pro-spravu-svereneho-majetku-MC-Praha-8-prispevkova-organizace.html">Servisního střediska pro správu svěřeného majetku MČ Praha 8</a>- tj příspěvkové organize MČ, která má za úkol starat se o jednotlivé budovy MČ včetně škol. Bohužel nám není známo, že by SeS na rok 2021 nějakou takovou stavbu chystal.
 
 Drouhou možností, pokud se kolárna nachází mimo areál školy, je vybudovat kolárnu ve spolupráci s odborem dopravy a MHMP, který je zpravidla vlastníkem daného pozemku. Domníváme se, že při troše dobré vůle na straně naší MČ, by spolupráce s MHMP mohla fungovat. Náměstek pro dopravu <a href="https://www.praha.eu/jnp/cz/o_meste/magistrat/odbory/index.html?personId=11356">Adam Scheinherr</a> nám potvrdil, že z vyčleněných 370 milionů na podporu cyklistiky v Hlavním městě, je i část peněz určena na výstavbu cyklopřístřešků a cyklostojanů u škol, a že již v tomto směru oslovili městské části a jejich školy ohledně jejich zájmu.
 
