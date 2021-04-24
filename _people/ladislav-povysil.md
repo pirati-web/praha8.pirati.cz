@@ -4,7 +4,6 @@ name: Ladislav Povýšil
 titles:
   before: Mgr.
 category:
- - regp
 img: people/ladislav-povysil.jpg
 heroImg: people/ladislav-povysil-hero.jpg
 profession: vedoucí technicko-provozního odboru
