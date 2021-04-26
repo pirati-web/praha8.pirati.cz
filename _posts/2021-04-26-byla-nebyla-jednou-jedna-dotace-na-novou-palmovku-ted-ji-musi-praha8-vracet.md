@@ -13,15 +13,13 @@ tags: [Finance, Nová Palmovka, Magistrát]
 
 3. Městská část Praha 8 proto požádala o možnost vrácení dotace ve splátkách, což ani rada ani zastupitelstvo hlavního města neschválila. [Usnesením č. 15/22 ze dne 19. března 2020](https://www.praha.eu/public/df/b3/94/3116499_1070989_zps200319.pdf) pouze radní i zastupitelé posunuli termín vrácení finančních prostředků do konce roku 2020. Rada hlavního města Prahy svým usnesením č. 958 ze dne 18. 5. 2020 schválila dodatek č. 1, který obsahoval schválenou změnu termínu. Dodatek s upraveným termínem nebyl ze strany MČ Praha 8 podepsán. Stále platí, že MČ Praha 8 měla zmíněných 300 milionů vrátit do 1. 8. 2020. Starosta Ondřej Gros znova požádal v listopadu 2020 o další odklad a možnost splatit částku 300 milionů ve splátkách. 
 
-4. Starosta Ondřej Gros v lednu 2021 opět žádá z důvodu nedostatku finančních prostředků platit ve splátkách a navrhuje splátkový kalendář. 
+4. Starosta Ondřej Gros v lednu 2021 opět požádal z důvodu nedostatku finančních prostředků platit ve splátkách a navrhuje splátkový kalendář. 
 
 5. V březnu letošního roku městská část převedla na bankovní účet Prahy nevyčerpanou část dotace ve výši 55 161 766,73 Kč. Městská část tak dluží za „Novou Palmovku“ magistrátu „pouze“ 245 milionů.
 
 6. Mezi zástupci městské části a hlavního města Prahy dále probíhají jednání za účelem nalezení další formy řešení vzniklé situace, která nejsou doposud ukončena. Ve vztahu k samotné dotaci poskytnuté na základě veřejnoprávní smlouvy bude dále postupováno v souladu se zákonem č. 250/2000 Sb., o rozpočtových pravidlech územních rozpočtů, ve znění pozdějších předpisů.
 
 7. Rada hlavního město Prahy dne 26. dubna 2021 schválila usnesení:
-
 >Rada hlavního města Prahy souhlasí s úpravou vlastního hl. města Prahy v souvislosti s přijetím vratky části investiční účelové dotace poskytnuté z rozpočtu hl. m. Prahy MČ Praha 8 na akci č. 80630 - Výstavba budovy Nová Palmovka dle přílohy č.1 tohoto usnesení. Rada hlavního města ukládá předložit Zastupitelstvu hl. m. Prahy návrh dle bodu I. tohoto usnesení. (Termín: 27.5.2021)
 
 8. **Zdá se, že příběh Nové Palmovky stále nekončí.** Další jednání Výboru pro Novou Palmovku, ve které je za nás [Ivo Slávka](https://praha8.pirati.cz/lide/ivo-slavka.html), bude 3. května 2021. Uvidíme, co se dozvíme. 
-
