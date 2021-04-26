@@ -5,7 +5,7 @@ image: posts/novapalmovka-stavba2.jpg
 tags: [Finance, Nová Palmovka, Magistrát]
 ---
 
-**O projektu nové radnice městské části Praha 8 toho bylo už napsáno hodně. Budoucnost této stavby, která hyzdí okolí Palmovky, je zatím nejistá. Jisté je akorát to, že městská část Praha 8 musí magistrát vrátit dotaci ve výši 300 milionů korun.**
+**O projektu nové radnice městské části Praha 8 toho bylo už napsáno hodně. Budoucnost této stavby, která hyzdí okolí Palmovky, je bohužel zatím nejistá. Jisté je akorát to, že městská část Praha 8 musí magistrátu vrátit dotaci ve výši 300 milionů korun.**
 
 1. Zastupitelstvo hlavního města Prahy schválilo na základě [usnesení č. 29/77 ze dne 14. 9. 2017](https://palmovkated.cz/Upload/1/3b-usneseni-zastupitelstva-hmp-pdf-ebook-usneseni-c29_77-verze-12-verejne.pdf) poskytnutí finančních prostředků MČ Praha 8 ve výši 600 mil. Kč na investiční akci č. 80630 – Výstavba budovy Nová Palmovka. V souladu s tímto usnesením Rada hl. m. Prahy usnesením č. 1640 ze dne 26. 6. 2018 schválila [veřejnoprávní smlouvu č. INO/16/06/000361/2018](https://smlouvy.gov.cz/smlouva/6158251) o financování dostavby sídla městské části Praha 8 a Zdravotnické záchranné služby hlavního města Prahy. 
 
