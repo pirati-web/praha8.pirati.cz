@@ -9,7 +9,7 @@ category:
 ordpms: 4
 img: people/magdalena-opletalova.jpg
 heroImg: posts/psi-louka.jpg
-profession: molekulární biložka a genetička
+profession: molekulární bioložka a genetička
 partyUid: pirati
 description: specialistka na sociální oblast
 teamDescription:
