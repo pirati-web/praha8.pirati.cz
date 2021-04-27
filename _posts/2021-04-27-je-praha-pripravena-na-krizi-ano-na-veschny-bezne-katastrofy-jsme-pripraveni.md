@@ -2,7 +2,7 @@
 title: Je Praha připravena na krizi? Ano, na všechny běžné katastrofy jsme připraveni!
 authorId: pavel.franc
 image: posts/staromak-covid19.png
-tags: [Časopis Osmička, Pandemie Covid-19]
+tags: [Bezpečnost, Časopis Osmička, Pandemie Covid-19]
 ---
 
 **Je hlavní město Praha připraveno na krizové a mimořádné situace?** Tak zní otázka, na kterou se v novém čísle časopisu Osmička ptají Patrioti pro Prahu 8.
