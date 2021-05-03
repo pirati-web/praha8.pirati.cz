@@ -18,6 +18,7 @@ mail:
   - magdalena.opletalova@pirati.cz
 profiles:
   facebook: https://www.facebook.com/mahu.opletalova
+  odmeny:   https://nalodeni.pirati.cz/odmeny/magdalena.opletalova
 funkce:
   - místopředsedkyně MS Praha 8
   - členka <a href="https://www.praha8.cz/Komise-pro-obecni-byty-2018-2022.html">Komise pro obecní byty</a>
