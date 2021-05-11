@@ -14,6 +14,9 @@ teamDescription:
   zastupitele: zastupitel
 mail:
   - jan.hamal.dvorak@pirati.cz
+profiles:
+  evidence:  https://evidence.pirati.cz/author/357/
+  odmeny:    https://nalodeni.pirati.cz/odmeny/jan.hamal.dvorak
 funkce:
   - <a href="https://www.praha8.cz/Klub-Ceska-piratska-strana.html">zastupitel</a>
   - člen <a href="https://www.praha8.cz/Komise-pro-informatiku-2018-2022.html">Komise pro informatiku</a>
