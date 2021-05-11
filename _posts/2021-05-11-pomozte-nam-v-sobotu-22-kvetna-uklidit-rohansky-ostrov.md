@@ -7,7 +7,7 @@ tags: [Libeň, Karlín, Rohanský ostrov, Veřejný prostor, Životní prostřed
 
 **Rohanský ostrov volá o pomoc. Hledáme tímto statečné přátele, bez rozdílu věku a pohlaví, kteří pomohou zatočit s neřádstvem, krásu ostrova rohanského dusící** Oko poutníkovo, stejně jako zdejší ptactvo zpěvné, trpělo již dost pod útiskem odpadu! Přichází čas odplaty!
 
-V sobotu 22. května od 11 hodin se chopme hrabí, které zapůjčíme na místě, pytlů (ty taky poskytneme) a pod ochranou rukavic pracovních (dokonce i ty pro vás budeme mít 😉), naplňme obří kontejnery, které nám přiveze hlavní město Praha.eu. A něco k jídlu samozřejmě za odměnu také dostanete, žádný strach.
+**V sobotu 22. května od 11 hodin** se chopme hrabí, které zapůjčíme na místě, pytlů (ty taky poskytneme) a pod ochranou rukavic pracovních (dokonce i ty pro vás budeme mít), naplňme obří kontejnery, které nám přiveze hlavní město Praha.eu. A něco k jídlu samozřejmě za odměnu také dostanete, žádný strach.
 
 {% include youtube.html id="3FpWsV_Sok4" %}
 
