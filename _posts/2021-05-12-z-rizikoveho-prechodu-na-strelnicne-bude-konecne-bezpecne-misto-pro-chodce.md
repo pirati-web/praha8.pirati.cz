@@ -2,7 +2,7 @@
 title: Z rizikového přechodu na Střelničné bude konečně bezpečné místo pro chodce
 author: MHMP
 image: posts/strelnicka-googlemaps.png
-tags: [Bezpečnost, Doprava, Ládví]
+tags: [Bezpečnost, Doprava, Ládví, Magistrát]
 ---
 
 **Nové opatření zvýší bezpečnost přechodu pro chodce u tramvajové zastávky Ládví. Jeho zkrácením přes jeden jízdní pruh v každém směru ulice Střelničná zmizí velmi nepřehledné a nebezpečné místo v Praze, kde se od roku 2007 stalo 29 nehod. Při nich byl jeden chodec usmrcen, další čtyři těžce zraněni a jedenáct lehce.** Poslední vážná nehoda se zde stala v únoru letošního roku, kdy přecházející žena skončila na 14 dní v nemocnici na jednotce intenzivní péče. Celkově dopravní nehody v tomto místě stály více než 59 milionů Kč.
