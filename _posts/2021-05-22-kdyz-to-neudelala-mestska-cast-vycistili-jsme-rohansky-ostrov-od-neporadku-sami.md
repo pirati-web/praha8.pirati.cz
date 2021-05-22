@@ -1,8 +1,8 @@
 ---
 title: Když to neudělala městská část, vyčistili jsme Rohanský ostrov od nepořádku sami
 authorId: martin.sterba
-image: posts/kola/buresova-1.jpg
-tags: [Cyklodoprava, Školství]
+image: posts/posts/rohanskyostrov-uklid/uklid-rohanskyostrov4
+tags: [Libeň, Karlín, Rohanský ostrov, Veřejný prostor, Životní prostředí]
 fancybox:
   - name: Před a po
     img:
@@ -21,9 +21,10 @@ fancybox:
       - { src: posts/rohanskyostrov-uklid/uklid-rohanskyostrov6, title: Úklid Rohanského ostrova }
       - { src: posts/rohanskyostrov-uklid/uklid-rohanskyostrov7, title: Úklid Rohanského ostrova }   
       - { src: posts/rohanskyostrov-uklid/uklid-rohanskyostrov8, title: Úklid Rohanského ostrova }   
-   
+---
+
 **Dnes jsme šli uklízet Rohanský ostrov. Už jsme se totiž nemohli koukat na ten nepořádek, který tam dlouhodobě je.** Jedná o [nepořádek na pozemku, který má ve správě MČ Praha 8](https://nahlizenidokn.cuzk.cz/ZobrazObjekt.aspx?encrypted=Zkh25p71QcBb5fGGSwazS8RQ8NlgvJZS1xrlS5VOZOYpx11n4ihhQnxc82wil7simKzl38Ej4m9shNj-IiJyxEKwZV5JQUsHzydlNnuqEfsr0PLKGsdwDD9_lpgBpGAQRWS7yOqs7TyQ6Jxc0v4Ci4skpS7kNgvpUFXy83mczNfnCs-r0WBqzkj-maC8UK5j) a je jen pár kroků od míst, kde si hrají děti. 
 
 >"Úklid Rohanu byl pro mne sledem příjemných překvapení. Jednak přišlo nečekané množství dobrovolníků, dále se zapojil i personál lodi a konečně i sami místní lidé bez domova. Celá akce se navíc nesla v příjemném a veselém duchu, takže i přes obludné množství směšného odpadu a pět vrchovatě naplněných kontejnerů na jehly a toxický odpad, odcházeli nakonec všichni s úsměvem a děkovali za fajn akci. Byla to pro mne cenná zkušenost, že s trochou snahy se dá i ze špinavé práce udělat příjemný den," říká organizátor akce a místopředseda osmičkových Pirátů [Jan Horn](https://praha8.pirati.cz/lide/jan-horn.html).
 
-Kromě kontejnerů na toxický odpad jsme společně během několika hodin naplnili tři velké kontejnery, které nám zdarma zapůjčily Pražské služby. Stihli jsme rozdat také desítky porcí guláše lidem bez domova. 
+Kromě kontejnerů na toxický odpad jsme společně během několika hodin naplnili tři velké kontejnery, které nám zdarma zapůjčily Pražské služby. Stihli jsme rozdat také desítky porcí guláše lidem bez domova.
