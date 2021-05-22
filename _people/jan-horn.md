@@ -29,10 +29,10 @@ Narozen v dubnu roku 1979 v Praze. Vystudoval nejprve SŠ s ekonomickým zaměř
 Politicky se angažuje v MS na Praze 8, kde se dlouhodobě zapojuje do veřejně prospěšných projektů a akcí. V roce 2021 byl zvolen místopředsedou PMS na Praze 8.
 
 **Dosavadní činnost pro Pirátskou stranu, např.:**
-*    příprava, organizace a medializace „Akce H“ na P8,
+*    příprava, organizace a medializace ["Akce Čistý Rohan"](https://praha8.pirati.cz/aktuality/kdyz-to-neudelala-mestska-cast-vycistili-jsme-rohansky-ostrov-od-neporadku-sami.html) na P8 v roce 2021
+*    příprava, organizace a medializace [„Akce H“](https://praha8.pirati.cz/aktuality/louze-v-pivovarnicke.html) na P8,
 *    příprava, organizace a medializace „Akce Vrak“ na P8,
+
 *    vypracování (nakonec nevyužitého) projektu „Pipoušek“,
 *    aktivní pomoc při tvorbě článků a sazby Pirátských listů,
 *    aktivní materiální a technologická pomoc při výstavbě nového Pirátského centra
-
-
