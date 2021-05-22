@@ -30,8 +30,8 @@ Politicky se angažuje v MS na Praze 8, kde se dlouhodobě zapojuje do veřejně
 
 **Dosavadní činnost pro Pirátskou stranu, např.:**
 *    příprava, organizace a medializace ["Akce Čistý Rohan"](https://praha8.pirati.cz/aktuality/kdyz-to-neudelala-mestska-cast-vycistili-jsme-rohansky-ostrov-od-neporadku-sami.html) na P8 v roce 2021
-*    příprava, organizace a medializace [„Akce H“](https://praha8.pirati.cz/aktuality/louze-v-pivovarnicke.html) na P8,
-*    příprava, organizace a medializace „Akce Vrak“ na P8,
+*    příprava, organizace a medializace ["Akce H"](https://praha8.pirati.cz/aktuality/louze-v-pivovarnicke.html) na P8,
+*    příprava, organizace a medializace "Akce Vrak" na P8,
 
 *    vypracování (nakonec nevyužitého) projektu „Pipoušek“,
 *    aktivní pomoc při tvorbě článků a sazby Pirátských listů,
