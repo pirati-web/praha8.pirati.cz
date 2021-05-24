@@ -1,6 +1,6 @@
 ---
 title: Vraťme zemi budoucnost. Zahajujeme kampaň do sněmovních voleb
-author: MHMP
+authorID: martin.sterba
 image: posts/volby21-vratmezemibudoucnost.png
 tags: [Piráti, STAN, Sněmovna, Volby 2021]
 ---
