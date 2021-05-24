@@ -1,5 +1,5 @@
 ---
-title: Díra v silnici není ideový problém. Je to prostě díra!
+title: Díra v silnici není ideový problém. Je to prostě díra
 authorID: martin.sterba
 image: posts/oprava-proseckaulice.jpg
 tags: [Časopis Osmička, Doprava, Magistrát]
