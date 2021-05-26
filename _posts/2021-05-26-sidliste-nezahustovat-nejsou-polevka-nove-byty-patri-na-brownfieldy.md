@@ -7,7 +7,7 @@ tags: [Bydlení, Kobylisy, Územní rozvoj]
 
 **Dobrý kaldoun má být důkladně zahuštěný – sídliště ne. Jeho obyvatelé totiž potřebují volně dýchat, potřebují prostor a ne nové domy postavené pár metrů od těch jejich. Tohoto postoje se držíme, dle našeho volebního programu, od samého počátku naší činnosti na Praze 8.**
 
-O Ďáblicích jsme psali nedávno, naše městská část má problémy i jinde – byť nejsou tak velké a známé. Od komunálních voleb na podzim 2018 je předseda zastupitelského klubu [Michal Novák](https://praha8.pirati.cz/lide/michal-novak.html) s naším senátorem [Lukášem Wagenknechtem](https://praha8.pirati.cz/lide/lukas-wagenknecht.html) v kontaktu s obyvateli několika sídlišť z Prahy 8.
+O [Ďáblicích a jeho vizi budoucnosti](https://praha8.pirati.cz/aktuality/dablice-maji-konecne-svoji-vizi-budoucnosti.html) jsme psali v separátním článku, naše městská část má problémy i jinde – byť nejsou tak velké a známé. Od komunálních voleb na podzim 2018 je předseda zastupitelského klubu [Michal Novák](https://praha8.pirati.cz/lide/michal-novak.html) s naším senátorem [Lukášem Wagenknechtem](https://praha8.pirati.cz/lide/lukas-wagenknecht.html) v kontaktu s obyvateli několika sídlišť z Prahy 8.
 
 ### Vršní (Kobylisy)
 Dva takové případy se týkají prostoru mezi tzv. “dvouletkovými” domy u metra Kobylisy (shodou okolností jsou oba u ulice Vršní) na sever a na jih od ulice Pod Sídlištěm. Pozemky mezi domy koupili před lety developeři se zájmem o výstavbu bytových domů a jsou samozřejmě pro takovou výstavbu velmi lukrativní. Napojení na městskou hromadnou dopravu je zde takřka dokonalé - metro, tramvaje i autobusy jsou odsud vzdáleny ne víc než minutu chůze.
