@@ -1,7 +1,7 @@
 ---
 title: Ďáblice mají konečně svojí vizi budoucnosti
 authorId: martin.sterba
-image: posts/dablice-sidliste2.png.jpg
+image: posts/dablice-sidliste2.png
 tags: [Ďáblice, územní rozvoj]
 ---
 
