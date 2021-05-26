@@ -11,4 +11,6 @@ tags: [Ďáblice, Územní rozvoj]
  
 >”Velice oceňujeme partnerský přístup vedení městské části. Chtěli jsme, aby vize co nejvíce respektovala přání zástupců místních rezidentů. Dosáhnout dohody o buducnosti sídliště je úžasný úspěch,“ potvrzuje Jana Rozmarová ze spolku Krásné Kobylisy, která se zúčastnila i několika pirátských schůzí a setkání, a se kterou jsme problematiku diskutovali. 
  
+Tématem sídlištěm Ďáblice se zabýváme několik let, už od počátku se v tom hodně angažovala i Michaela Krupičková. Ta za budoucnost jednoho z nejhezčích sídlišť několikrát bojovala i při jednání zastupitelstva hlavního města Prahy. 
+ 
 Sídliště Ďáblice je v rámci střední Evropy unikátním příkladem skloubení modernistických a tradičních principů v urbanismu. I díky tomu prokazuje svou životaschopnost a atraktivitu i několik desítek let od vybudování. V uplynulých letech se objevilo několik návrhů přestaveb, které tento koncept necitlivě narušovaly a odstartovaly debatu o budoucím směřování celého sídliště. **Schválení Vize jeho rozvoje je pak logickým vyústěním dlouholeté práce místních obyvatel.**
