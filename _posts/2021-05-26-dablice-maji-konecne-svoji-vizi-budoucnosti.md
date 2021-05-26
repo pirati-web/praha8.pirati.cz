@@ -2,7 +2,7 @@
 title: Ďáblice mají konečně svojí vizi budoucnosti
 authorId: martin.sterba
 image: posts/dablice-sidliste2.png
-tags: [Ďáblice, územní rozvoj]
+tags: [Ďáblice, Územní rozvoj]
 ---
 
 **V minulých týdnech se povedlo najít shodu a sídliště Ďáblice má konečně svojí budoucí podobu.** [Městská část Praha 8](https://www.praha8.cz/appo/usn/676?usn=j7YankxAXm2X3eQ2us0bIw==) na základě [usnesení komise pro územní rozvoj a památkovou péči](https://www.praha8.cz/file/NcS/KURPP-31-03-2021.pdf) (členem je za nás [Karel Ptáček](https://praha8.pirati.cz/lide/karel-ptacek.html)), [komise pro životní prostředí](https://www.praha8.cz/file/4dS/KZP-29-03-2021-zapis.pdf) (členkou je za nás [Alice Hamalová](https://praha8.pirati.cz/lide/alice-hamalova.html)) a [komise pro dopravu](https://www.praha8.cz/file/FnS/KPD-10-03-2021-zapis.pdf) (členem je za nás [Michal Novák](https://praha8.pirati.cz/lide/michal-novak.html)) totiž přijala vizi rozvoje sídliště, ta byla tvořena nejen urbanisty, politiky, ale právě také místními obyvateli. 
