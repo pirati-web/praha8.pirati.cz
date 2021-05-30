@@ -1,5 +1,5 @@
 ---
-title: Rada MČ Praha 8 jmenovala zástupce zřizovatele ve školských radách, do jedné z nich míří i náš Pavel Franc
+title: Praha 8 jmenovala nové zástupce ve školských radách, do jedné z nich míří i náš Pavel Franc
 authorId: pavel.franc
 image: posts/kola/skolske-zahrady-2.jpg
 tags: [Školství]
@@ -20,12 +20,12 @@ A jelikož skončilo funkční období zástupců zřizovatele, [Rada městské 
 | ZŠ Bohumila Hrabala | [Bc. Michal Švarc (Patrioti pro Prahu 8)](https://www.praha8.cz/appo/card/74/Svarc-Michal.html) |
 | ZŠ U Školské zahrady | [Mgr. Pavel Franc (Piráti)](https://www.praha8.cz/appo/card/74/Franc-Pavel.html) |
 | ZŠ Na Slovance | [Jan Štorek (ANO)](https://www.praha8.cz/appo/card/74/Storek-Jan.html) |
-| ZŠ Burešova | Adam Véle |
+| ZŠ Burešova | Adam Véle (TOP 09) |
 | ZŠ Žernosecká | [Tomáš Slabihoudek (TOP 09)](https://www.praha8.cz/appo/card/74/Slabihoudek-Tomas.html) |
 | ZŠ Hovorčovická | [Mgr. et Mgr. BcA Jana Solomonová (ANO)](https://www.praha8.cz/appo/card/74/Solomonova-Jana.html) |
 | ZŠ Na Šutce | [RNDr. Dana Blahunková (8žije)](https://www.praha8.cz/appo/card/74/Blahunkova-Dana.html) |
 | ZŠ Ústavní | [Mgr. Michal Janovský (Patrioti pro Prahu 8)](https://www.praha8.cz/appo/card/74/Janovsky-Michal.html) |
-| ZŠ Dolákova | Mgr. Dana Kvačková |
+| ZŠ Dolákova | Mgr. Dana Kvačková (TOP 09) | 
 | ZŠ Mazurská | [Mgr. Kateřina Halfarová, LL.M. (ANO)](https://www.praha8.cz/appo/card/74/Halfarova-Katerina.html) |
 | ZŠ Glowackého | [Bc. Martin Jedlička (TOP 09)](https://www.praha8.cz/appo/card/74/Jedlicka-Martin.html) |
 | ZŠ Libčická | [Mgr. Tomáš Tatranský (TOP 09)](https://www.praha8.cz/appo/card/74/Tatransky-Tomas.html) |
@@ -36,6 +36,6 @@ Piráty bude na [ZŠ U Školské Zahrady](http://www.uskolskezahrady.cz/) zastup
 
 **A teď ještě z jiného soudku.** Je smutnou skutečností, že i tyto nepolitické “funkce” byly přidělovány podle stranického klíče. Nejdříve byli současným místostarostou pro školství Tomášem Tatranským (TOP 09) osloveni zástupci koalice včetně spolupracujícího ANO, poté 8 sobě (Zelených a KDU-ČSL). Až teprve v samém závěru byla nabídnuta možnost zastupovat MČ Praha 8 na jednotlivých školách i zástupcům Pirátů a hnutí 8 žije. Na druhou stranu je hezké, že se mezi našimi politickými oponenty tak rychle a snadno našlo spousty kolegyň a kolegů zastupitelů, kteří chtějí obětovat svůj volný čas pro zlepšení (a kontrolu) našeho osmičkového školství.
 
-A stejně jako jsou potřeba zástupci zřizovatele na základních školách zřizovaných městskou částí, jsou potřeba i zástupci zřizovatele na středních (a uměleckých) školách zřizovaných Magistrátem hlavního města Prahy. A jelikož pražským radním pro školství je pirátský zástupce Vít Šimral probíhá výběr zástupců za zřizovatele transparentně skrze webové stránku [skolskeradyvpraze.cz](https://www.skolskeradyvpraze.cz/) a každý má možnost se přihlásit.
+**A stejně jako jsou potřeba zástupci zřizovatele na základních školách zřizovaných městskou částí, jsou potřeba i zástupci zřizovatele na středních (a uměleckých) školách zřizovaných Magistrátem hlavního města Prahy.** A jelikož pražským radním pro školství je pirátský zástupce Vít Šimral probíhá výběr zástupců za zřizovatele transparentně skrze webovou stránku [skolskeradyvpraze.cz](https://www.skolskeradyvpraze.cz/), možnost přihlásit se má každý a to bez ohledu na politickou příslušnost. 
 
 **Nechcete se zapojit i Vy?**
