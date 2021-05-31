@@ -4,7 +4,7 @@ authorId: pavel.franc
 image: posts/kola/skolske-zahrady-2.jpg
 tags: [Školství]
 ---
-Školské rady jsou nejdůležitější komunikační platformou mezi žáky / rodiči, učiteli / ředitelem a zřizovatelem dané školy. Kvalitní škola se pozná i podle toho, že má aktivní školskou radu mezi jejíž činnosti (dané [školským zákonem](https://www.zakonyprolidi.cz/cs/2004-561)) např. patří:
+**Školské rady jsou nejdůležitější komunikační platformou mezi žáky, rodiči, učiteli, ředitelem a zřizovatelem dané školy.** Kvalitní škola se pozná i podle toho, že má aktivní školskou radu mezi jejíž činnosti (dané [školským zákonem](https://www.zakonyprolidi.cz/cs/2004-561)) např. patří:
 
 - **Dohled nad vzděláváním:** vyjadřuje se ke školnímu vzdělávacímu programu, schvaluje školní řád a pravidla pro hodnocení výsledků vzdělávání žáků
 - **Dohled nad hospodařením:** schvaluje výroční zprávu o činnosti školy, podílí se na zpracování koncepčních záměrů rozvoje školy, projednává návrh rozpočtu a vyjadřuje se k hospodaření
@@ -36,6 +36,6 @@ Piráty bude na [ZŠ U Školské Zahrady](http://www.uskolskezahrady.cz/) zastup
 
 **A teď ještě z jiného soudku.** Je smutnou skutečností, že i tyto nepolitické “funkce” byly přidělovány podle stranického klíče. Nejdříve byli současným místostarostou pro školství Tomášem Tatranským (TOP 09) osloveni zástupci koalice včetně spolupracujícího ANO, poté 8 sobě (Zelených a KDU-ČSL). Až teprve v samém závěru byla nabídnuta možnost zastupovat MČ Praha 8 na jednotlivých školách i zástupcům Pirátů a hnutí 8 žije. Na druhou stranu je hezké, že se mezi našimi politickými oponenty tak rychle a snadno našlo spousty kolegyň a kolegů zastupitelů, kteří chtějí obětovat svůj volný čas pro zlepšení (a kontrolu) našeho osmičkového školství.
 
-**A stejně jako jsou potřeba zástupci zřizovatele na základních školách zřizovaných městskou částí, jsou potřeba i zástupci zřizovatele na středních (a uměleckých) školách zřizovaných Magistrátem hlavního města Prahy.** A jelikož pražským radním pro školství je pirátský zástupce Vít Šimral probíhá výběr zástupců za zřizovatele transparentně skrze webovou stránku [skolskeradyvpraze.cz](https://www.skolskeradyvpraze.cz/), možnost přihlásit se má každý a to bez ohledu na politickou příslušnost. 
+**A stejně jako jsou potřeba zástupci zřizovatele na základních školách zřizovaných městskou částí, jsou potřeba i zástupci zřizovatele na středních (a uměleckých) školách zřizovaných Magistrátem hlavního města Prahy.** A jelikož pražským radním pro školství je pirátský zástupce Vít Šimral, probíhá výběr zástupců za zřizovatele transparentně skrze webovou stránku [skolskeradyvpraze.cz](https://www.skolskeradyvpraze.cz/), možnost přihlásit se má každý a to bez ohledu na politickou příslušnost. 
 
 **Nechcete se zapojit i Vy?**
