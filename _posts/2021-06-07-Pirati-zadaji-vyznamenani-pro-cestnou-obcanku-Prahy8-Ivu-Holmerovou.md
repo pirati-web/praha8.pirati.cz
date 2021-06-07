@@ -9,4 +9,4 @@ tags: [Piráti, Sněmovna]
 
 Je mezi nimi i čestná občanka naší městské části **doc. MUDr. Iva Holmerová, Ph.D.**. Je předsedkyní Alzheimer Europe, členkou výboru INTERDEM, zakladatelkou České alzheimerovské společnosti, jako předchozí předsedkyně čestnou členkou výboru České gerontologické a geriatrické společnosti a zakládající ředitelkou Gerontologického centra v Praze 8.
 
-Mezi další nominované patří epidemiolog  Prof. MUDr. Karel Raška, DrSc., in memoriam, veterán druhé světové války Plk. Jan Horal, MBE, in memoriam, filosof a disident  Prof. PhDr. Jan Sokol, Ph.D., CSc., in memoriam, emeritní rektor Technické univerzity v Liberci Prof. RNDr. David Lukáš, CSc. a zakladatelka dětského souboru Severáček Jiřina Uherková, in memoriam. 
+Mezi další nominované patří epidemiolog **prof. MUDr. Karel Raška, DrSc.**, in memoriam, veterán druhé světové války **plk. Jan Horal, MBE**, in memoriam, filosof a disident **prof. PhDr. Jan Sokol, Ph.D., CSc.**, in memoriam, emeritní rektor Technické univerzity v Liberci **prof. RNDr. David Lukáš, CSc.** a zakladatelka dětského souboru Severáček **Jiřina Uherková**, in memoriam. 
