@@ -2,7 +2,7 @@
 title: Holešovičky se mají stát městskou třídou, pod zem půjdou po dokončení městského okruhu
 authorId: martin.sterba
 image: posts/holesovicky-zmena2022.png
-tags: [Doprava, Libeň, Ulice V Holešovičkách, Územní rozvoj]
+tags: [Doprava, Libeň, Magistrát, Ulice V Holešovičkách, Územní rozvoj]
 ---
 
 **Ulicí V Holešovičkách denně projede víc než 100 tisíc aut, zahloubení ulice pod zem je tedy pro obyvatele naší městské části důležité.** Ještě před volbami jsme potvrdili, že podpoříme zahloubení, a [budeme postupně pracovat na tom, aby se tak stalo](https://praha8.pirati.cz/aktuality/podporujeme-zahloubeni-holesovicek.html). Městská rada dokonce zahloubení má i ve [svém programovém prohlášení](https://www.praha.eu/file/2892031/programove_prohlaseni.pdf). Jak se ale ukazuje, a jak to také potvrdily studie vypracované magistrátem, před dostavbou Městského okruhu není zahloubení proveditelné. 
