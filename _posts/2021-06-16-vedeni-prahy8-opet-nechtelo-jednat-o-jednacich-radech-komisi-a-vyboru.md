@@ -2,7 +2,7 @@
 title: Vedení Prahy 8 opět nechtělo jednat o jednacích řádech komisí a výborů
 authorId: martin.stanek
 image: posts/hlasovani-jednacirady-062020.jpg
-tags: [Piráti, Sněmovna]
+tags: [Transparentnost, Zastupitelstvo]
 ---
 
 **Vedení naší městské části (konkrétně ODS, TOP09-STAN a Patrioti v tiché koalici s ANO) nechce veřejnost na jednáních výborů zastupitelstva a komisí rady.** Tedy nechce veřejnost tam, kde veřejností volení a placení zastupitelé diskutují praktické záležitosti MČ Praha 8.
