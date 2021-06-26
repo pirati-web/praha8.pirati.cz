@@ -9,7 +9,7 @@ img: people/jitka-novotna.jpg
 heroImg: posts/open-source.jpg
 profession: informatička
 partyUid: pirati
-description: specialitka IT
+description: členka MS Praha 8
 mail:
   - jitka.novotna@pirati.cz
 profiles:
