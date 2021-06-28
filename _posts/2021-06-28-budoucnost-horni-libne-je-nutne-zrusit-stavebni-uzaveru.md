@@ -1,5 +1,5 @@
 ---
-title: Budoucnost Horní Libně? Je nutné zrušit stavební uzávěru.
+title: Pro budoucnost Horní Libně je nutné zrušit stavební uzávěru
 authorId: karel.ptacek
 image: posts/liben-vosmikovych.png
 tags: [Časopis Osmička, Libeň, Územní rozvoj]
