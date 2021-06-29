@@ -8,7 +8,7 @@ img: people/miroslav-jahoda.jpg
 heroImg: people/miroslav-jahoda-hero.jpg
 profession: markeťák
 partyUid: bezpp
-description: specialista marketingu
+description: registrovaný příznivec
 mail: mira@jahoda.eu
 profiles:
   facebook: https://www.facebook.com/jahodamira
