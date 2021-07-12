@@ -1,5 +1,5 @@
 ---
-title: Karlín a Holešovice propojí nová lávka HolKa, magistrát vybral zhotovitele
+title: Karlín a Holešovice propojí nová lávka HolKa, Praha vybrala zhotovitele
 author: MHMP
 image: posts/lavka-holesovice-holka2.png
 tags: [Doprava, KarLín, Lávka HolKa]
