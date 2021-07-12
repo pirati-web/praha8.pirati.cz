@@ -1,11 +1,11 @@
 ---
-title: Karlín a Holešovice propojí nová lávka HolKa, magistrát vybrala zhotovitele
+title: Karlín a Holešovice propojí nová lávka HolKa, magistrát vybral zhotovitele
 author: MHMP
 image: posts/lavka-holesovice-holka2.png
 tags: [Doprava, KarLín, Lávka HolKa]
 ---
 
-**Rada hlavního města Prahy dnes rozhodla o výběru dodavatele stavby lávky Holešovice-Karlín (HolKa). Stala se jím společnost Skanska, která ve výběrovém řízení nabídla cenu 298 035 236 Kč bez DPH. 
+**Rada hlavního města Prahy dnes rozhodla o výběru dodavatele stavby lávky Holešovice-Karlín (HolKa). Stala se jím společnost Skanska, která ve výběrovém řízení nabídla cenu 298 035 236 Kč bez DPH.** 
 
 Lávka HolKa pro chodce a cyklisty spojí městské části Praha 7 a Praha 8, předpoklad zahájení stavby je podzim 2021. Pražané by se po nové lávce mohli projít nebo projet už na konci roku 2022.
 
@@ -19,4 +19,4 @@ Stavbu HolKy je zároveň zkoordinovaná s dalšími čtyřmi důležitými akce
 
 >„V krátkém čase jde o další výrazný posun směrem k vybudování zcela nových staveb na březích Vltavy. V červnu radní odsouhlasili vypsání veřejné zakázky na zhotovitele Dvoreckého mostu, který propojí Prahu 4 a Prahu 5. Teď, tedy o měsíc později, jsme zase schválili zhotovitele lávky vedoucí z Holešovic do Karlína, který vzešel z otevřeného výběrového řízení. U obou projektů navíc nedojde ‚jen‘ k novému propojení protilehlých břehů, ale i ke kultivaci přilehlého okolí,“ říká Zdeněk Hřib (Piráti), primátor hlavního města Prahy.
 
-Podoba HolKy vzešla z mezinárodní architektonicko-konstrukční soutěže a vítězná podoba je od autorů Petr Tej, Marek Blank a Jan Mourek. Konstrukce nejde do výšky a nebude bránit chodcům a cyklistům v pohledech na Prahu, vodu a stromy. HolKa bude postavena z ušlechtilého materiálu, ultra-vysokohodnotného betonu (UHPC – ultra-high-performance-concrete) s lesklým bílým mramorovým povrchem. Na lávku bude komfortní a jednoduchý přístup, její návrh počítá i s požadavky protipovodňové ochrany a bezbariérového řešení nástupů na lávku.
+**Podoba HolKy vzešla z mezinárodní architektonicko-konstrukční soutěže a vítězná podoba je od autorů Petr Tej, Marek Blank a Jan Mourek.** Konstrukce nejde do výšky a nebude bránit chodcům a cyklistům v pohledech na Prahu, vodu a stromy. HolKa bude postavena z ušlechtilého materiálu, ultra-vysokohodnotného betonu (UHPC – ultra-high-performance-concrete) s lesklým bílým mramorovým povrchem. Na lávku bude komfortní a jednoduchý přístup, její návrh počítá i s požadavky protipovodňové ochrany a bezbariérového řešení nástupů na lávku.
