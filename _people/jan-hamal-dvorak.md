@@ -15,7 +15,6 @@ teamDescription:
 mail:
   - jan.hamal.dvorak@pirati.cz
 profiles:
-  evidence:  https://evidence.pirati.cz/author/357/
   odmeny:    https://nalodeni.pirati.cz/odmeny/jan.hamal.dvorak
 funkce:
   - <a href="https://www.praha8.cz/Klub-Ceska-piratska-strana.html">zastupitel</a>
