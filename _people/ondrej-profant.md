@@ -13,12 +13,14 @@ mail:
 - ondrej.profant@pirati.cz
 mob:			  +420 607 580 015
 profiles:
-  github:   https://github.com/kedrigern/
-  facebook: https://www.facebook.com/ondrej.profant
-  twitter: 	https://twitter.com/ondrej_profant
-  flickr:	https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=ond%C5%99ej%20profant
-  evidence: https://evidence.pirati.cz/author/8/
-  odmeny:   https://nalodeni.pirati.cz/odmeny/ondrej.profant
+  facebook:  https://www.facebook.com/ondrej.pirat.profant
+  facebook:  https://www.facebook.com/ondrej.profant
+  twitter: 	 https://twitter.com/ondrej_profant
+  instagram: https://www.instagram.com/ondrej_profant
+  github:    https://github.com/kedrigern/
+  flickr:	   https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=ond%C5%99ej%20profant
+  evidence:  https://evidence.pirati.cz/author/8/
+  odmeny:    https://nalodeni.pirati.cz/odmeny/ondrej.profant
 ---
 
 Ondřej Profant (2. května 1988) je poslanec zvolený za Pirátskou stranu. Byl členem přípravného výboru České pirátské strany. Dříve byl předsedou krajského sdružení.
