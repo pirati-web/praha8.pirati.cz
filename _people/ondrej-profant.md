@@ -14,7 +14,6 @@ mail:
 mob:			  +420 607 580 015
 profiles:
   facebook:  https://www.facebook.com/ondrej.pirat.profant
-  facebook:  https://www.facebook.com/ondrej.profant
   twitter: 	 https://twitter.com/ondrej_profant
   instagram: https://www.instagram.com/ondrej_profant
   github:    https://github.com/kedrigern/
