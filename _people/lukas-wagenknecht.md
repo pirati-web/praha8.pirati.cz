@@ -17,8 +17,10 @@ mail:
 profiles:
   facebook: https://www.facebook.com/WagenknechtLuk/
   twitter: https://twitter.com/WagenknechtLuk
+  instagram: https://www.instagram.com/wagenknecht_luk
   blog: http://blog.aktualne.cz/blogy/lukas-wagenknecht.php
   web: https://lukaswagenknecht.cz/
+  flickr: https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=luk%C3%A1%C5%A1%20wagenknecht 
 asistenti:
   - name: Ing. Karolína Ždárská
     position: Asitentka
