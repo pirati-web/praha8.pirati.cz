@@ -5,7 +5,7 @@ image: posts/negrelliho-viadukt.png
 tags: [Doprava, Karlín, ODS]
 ---
 
-**Možná jste [zaznamenali diskuzi](https://www.facebook.com/groups/libenkarlin/posts/4133078633412970/), kdy jeden z pirátských příznivců z Prahy 3 označil ODS Praha 8, že se pokouší pomocí odboru dopravy změnit plány na využití prostoru pod karlínským Negrelliho viaduktem z podniků pro občany na parkovací místa.**
+**Možná jste [zaznamenali diskuzi](https://www.facebook.com/groups/libenkarlin/posts/4133078633412970/), kdy jeden z pražských pirátských příznivců označil ODS Praha 8, že se pokouší pomocí odboru dopravy změnit plány na využití prostoru pod karlínským Negrelliho viaduktem z podniků pro občany na parkovací místa.**
 
 Jsme rádi, že starosta [Ondřej Gros](https://www.facebook.com/gros.ondrej/posts/209405297772997) a [Martin Cibulka](https://www.facebook.com/groups/libenkarlin/posts/4133078633412970/) z ODS Praha 8 všechny ubezpečili, že se jedná o hoax, a že osmičková ODS podporuje i nadále původní plány. Podle nich tam mají být galerie, kavárny, bary - zkrátka místa, kde budeme chtít rádi trávit svůj čas.
 
