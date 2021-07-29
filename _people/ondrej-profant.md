@@ -22,7 +22,7 @@ profiles:
   odmeny:    https://nalodeni.pirati.cz/odmeny/ondrej.profant
 ---
 <div class="mb-4">
-{% include buttons/icon.html href="https://ondrejprofant.cz/" cta="Přejít na www.ondrejprofant.cz" icon="ico--globe" class="content-block--nostyle btn--hoveractive btn--to-orange-300" %}
+{% include buttons/icon.html href="https://ondrejprofant.cz/" cta="Přejít na ondrejprofant.cz" icon="ico--globe" class="content-block--nostyle btn--hoveractive btn--to-orange-300" %}
 </div>
 
 Ondřej Profant (2. května 1988) je poslanec zvolený za Pirátskou stranu. Byl členem přípravného výboru České pirátské strany. Dříve byl předsedou krajského sdružení.
