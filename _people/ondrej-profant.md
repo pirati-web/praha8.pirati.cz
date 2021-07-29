@@ -17,12 +17,13 @@ profiles:
   twitter: 	 https://twitter.com/ondrej_profant
   instagram: https://www.instagram.com/ondrej_profant
   github:    https://github.com/kedrigern/
+  web:       https://www.profant.eu/
   flickr:	   https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=ond%C5%99ej%20profant
   evidence:  https://evidence.pirati.cz/author/8/
   odmeny:    https://nalodeni.pirati.cz/odmeny/ondrej.profant
 ---
 <div class="mb-4">
-{% include buttons/icon.html href="https://ondrejprofant.cz/" cta="Přejít na ondrejprofant.cz" icon="ico--globe" class="content-block--nostyle btn--hoveractive btn--to-orange-300" %}
+{% include buttons/icon.html href="https://www.profant.eu//" cta="Přejít na profant.eu/" icon="ico--globe" class="content-block--nostyle btn--hoveractive btn--to-orange-300" %}
 </div>
 
 Ondřej Profant (2. května 1988) je poslanec zvolený za Pirátskou stranu. Byl členem přípravného výboru České pirátské strany. Dříve byl předsedou krajského sdružení.
