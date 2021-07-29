@@ -31,7 +31,7 @@ asistenti:
     mail: vturko@atlas.cz
 ---
 <div class="mb-4">
-{% include buttons/icon.html href="https://lukaswagenknecht.cz/" cta="Přejít na Lukášovi stránky" icon="ico--globe" class="content-block--nostyle btn--hoveractive btn--to-orange-300" %}
+{% include buttons/icon.html href="https://lukaswagenknecht.cz/" cta="Přejít na www.lukaswagenknecht.cz" icon="ico--globe" class="content-block--nostyle btn--hoveractive btn--to-orange-300" %}
 </div>
 
 V roce 1978 jsem se narodil a následně vyrůstal v Pardubicích. Na Univerzitě Pardubice jsem vystudoval obor Hospodářská politika a správa. Po studiích jsem se začal věnovat profesi interního auditu. V této oblasti se s krátkými přestávkami pohybuji již přes patnáct let. Mimo to přes deset let podnikám v oblasti maloobchodního prodeje.
