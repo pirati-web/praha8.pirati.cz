@@ -1,5 +1,5 @@
 ---
-title: Zastupitel a dobrovolník Karel Ptáček: Očkujte se, není důvod se bát 
+title: Metropolitní očkovací centrum nabízí očkování bez registrace, očkujte se 
 authorId: martin.sterba
 image: posts/karelptacek-dobrovolnik.png
 tags: [Bezpečnost, Pandemie Covid-19]
