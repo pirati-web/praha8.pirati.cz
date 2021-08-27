@@ -1,5 +1,5 @@
 ---
-title: Stačí málo, nedělat nepořádek, není normální házet odpadky na zem!
+title: Stačí málo, nedělat nepořádek. Není normální házet odpadky na zem!
 authorId: martin.sterba
 image: posts/martinsterba-odpadky.jpg
 tags: [Časopis Osmička, Životní prostředí]
