@@ -1,5 +1,5 @@
 ---
-title: Aquacentrum na Šutce se rozšříří, přibude venkovní část
+title: Aquacentrum na Šutce se rozšíří, přibude venkovní část
 authorId: martin.sterba
 image: posts/sutka-bazen.jpg
 tags: [Magistrát, Sport, Šutka]
