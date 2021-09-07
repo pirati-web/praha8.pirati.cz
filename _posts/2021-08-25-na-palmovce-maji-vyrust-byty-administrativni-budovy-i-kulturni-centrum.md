@@ -2,7 +2,7 @@
 title: Na Palmovce mají vyrůst byty, administrativní budovy i kulturní centrum
 authorId: martin.sterba
 image: posts/novapalmovka-nadraziliben.png
-tags: [Palmovka, Nová Palmovka, Územní rozvoj, Veřejný prostor]
+tags: [Libeň, Palmovka, Nová Palmovka, Územní rozvoj, Veřejný prostor]
 ---
 
 **Oblast Palmovky se v příštích letech konečně změní. Vyrostou tady byty, administrativní budovy a je počítáno s kulturním centrem s knihovnou a také se školou a školkou. Chybět samozřejmě nemají ani zelené plochy a park.** Alespoň to jsou plány Pražské developerské společnosti a hlavního města Prahy. 
