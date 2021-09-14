@@ -15,7 +15,7 @@ fancybox:
       - { src: posts/schody-karlin/schody7.jpg, title: Sousedské setkání v Karlíně 7 }
 ---
 
-**Dobrá věc se podařila. V kopečku u cyklostezky, která vede skrz Rohanský ostrov, už snad nedojde k žádnému zranění. V rámci sousedského setkání jsme tady totiž opravili několik let staré dřevěné schody. Na výsledek se můžete podívat sami. **
+**Dobrá věc se podařila. V kopečku u cyklostezky, která vede skrz Rohanský ostrov, už snad nedojde k žádnému zranění. V rámci sousedského setkání jsme tady totiž opravili několik let staré dřevěné schody. Na výsledek se můžete podívat sami.**
 
 Rád bych zde veřejně poděkoval těm, kteří dorazili na sousedskou výpomoc při kultivaci přístupu (sestupu) z cyklostezky v úrovni Přístavu 18600.Hlavní díky patří [Jan Marvel Horn](https://praha8.pirati.cz/lide/jan-horn.html), který dodal materiál a nářadí, dále pak silákovi [Pavel Franc](https://praha8.pirati.cz/lide/pavel-franc.html), Dáše Malé za dodávání pozitivní energie a asistenci při řezání hranolů, Jakubovi který přinesl úžasnou bábovku od Dáši Černé, Jiřímu Sekerovi a jeho kamarádovi (omlouvám se, vypadlo mi jméno), dále náhodnému kolemjdoucímu Markovi, který s námi vydržel až do konce a v neposlední řadě i [Přístav 18600](http://www.pristav18600.cz), který se staral o náš pitný režim a po setmění půjčil dva halogeny a ještě řadě dalším co na chvilku přišli pomoct a pak zase museli jít. 
 
