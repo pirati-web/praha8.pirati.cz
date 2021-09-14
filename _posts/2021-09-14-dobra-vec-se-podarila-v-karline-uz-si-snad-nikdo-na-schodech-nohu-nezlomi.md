@@ -1,8 +1,18 @@
 ---
 title: Dobrá věc se podařila! V Karlíně už si snad nikdo na schodech nohu nezlomí
-authorId: martin.sterba
+authorId: karel.ptacek
 image: posts/schody-karlin/schody1.jpg
 tags: [Karlín, Veřejný prostor]
+fancybox:
+  - name: Sousedské setkání v Karlíně
+    img:
+      - { src: posts/schody-karlin/schody1.jpg, title: Sousedské setkání v Karlíně 1 }
+      - { src: posts/schody-karlin/schody2.jpg, title: Sousedské setkání v Karlíně 2 }
+      - { src: posts/schody-karlin/schody3.jpg, title: Sousedské setkání v Karlíně 3 }
+      - { src: posts/schody-karlin/schody4.jpg, title: Sousedské setkání v Karlíně 4 }
+      - { src: posts/schody-karlin/schody5.jpg, title: Sousedské setkání v Karlíně 5 }
+      - { src: posts/schody-karlin/schody6.jpg, title: Sousedské setkání v Karlíně 6 }
+      - { src: posts/schody-karlin/schody7.jpg, title: Sousedské setkání v Karlíně 7 }
 ---
 
 **Dobrá věc se podařila. Rád bych zde veřejně poděkoval těm, kteří dorazili na sousedskou výpomoc při kultivaci přístupu (sestupu) z cyklostezky v úrovni Přístavu 18600.** 
@@ -23,3 +33,18 @@ Přidávám pár reakcí z mého [postu ve skupině Libeň/Karlín na Facebooku]
 Ještě jednou díky a určitě opět nějakou další sousedskou akci vymyslíme.
 
 Karel z Karlína
+
+
+{% for galery in page.fancybox %}
+<div class="mt-4">
+  <h3>{{ galery.name }}</h3>
+  <div class="grid grid-cols-4 gap-4">
+  {% for item in galery.img %}
+    <div class="">
+      <a data-fancybox="gallery" href="{% asset '{{ item.src }}' @path %}" data-caption="{{ item.title }}">{% asset '{{ item.src }}' magick:resize='200x150^' magick:gravity='center' magick:crop='200x150+0+0' class="rounded" %}</a>
+    </div>
+  {% endfor %}
+  </div>
+</div>
+{% endfor %}
+
