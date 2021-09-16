@@ -1,6 +1,6 @@
 ---
 title: Co si do nového roku pro Prahu 8 přejí její Piráti?
-authorId:
+author: Piráti Praha 8
 image: posts/noviny.jpg
 tags: [Volby 2018, Časopis Osmička, Piráti]
 ---
