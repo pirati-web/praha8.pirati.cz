@@ -16,9 +16,9 @@ U pronájmu kluzišť se rozproudila diskuze ohledně jeho výhodnosti. Ačkoliv
 Navrhovali jsme také vyzvat náměstka primátora pro dopravu Adama Scheinherra (Praha sobě) k lepší koordinaci dopravních úprav na území MČ Praha 8 a k zajištění podpory pěší a hromadné, zejména kolejové dopravy. Ani pro tuto výzvu se u koalice podpora nenašla. Místo toho prošlo původně navržené usnesení od Martina Jedličky (TOP 09). Prošlo toto usnesení:
 
 >Zastupitelstvo městské části Prahy 8
-– I. vyzývá náměstka primátora pro dopravu Adama Scheinherra z Prahy Sobě, aby zanechal veškerých kroků v dopravě, které pod různými záminkami, jako je zvýšená bezpečnost nebo rozvoj cyklodopravy atd. v reálu pouze komplikují dopravu na území MČ Praha 8, ale i v celé Praze, a zhoršují životní prostředí i celkový životní komfort občanů Prahy,
-– II. vyzývá náměstka primátora pro dopravu, aby při přípravě dopravních opatření více dbal stanovisek jednotlivých městských částí,
-– III. pověřuje starostu MČ, radního pro dopravu a předsedu komise pro dopravu, aby s usnesením ZMČ seznámili primátora hl. m. Prahy a náměstka primátora pro dopravu.
+>– I. vyzývá náměstka primátora pro dopravu Adama Scheinherra z Prahy Sobě, aby zanechal veškerých kroků v dopravě, které pod různými záminkami, jako je zvýšená bezpečnost nebo rozvoj cyklodopravy atd. v reálu pouze komplikují dopravu na území MČ Praha 8, ale i v celé Praze, a zhoršují životní prostředí i celkový životní komfort občanů Prahy,
+>– II. vyzývá náměstka primátora pro dopravu, aby při přípravě dopravních opatření více dbal stanovisek jednotlivých městských částí,
+>– III. pověřuje starostu MČ, radního pro dopravu a předsedu komise pro dopravu, aby s usnesením ZMČ seznámili primátora hl. m. Prahy a náměstka primátora pro dopravu.
 
 Náš zastupitel [Karel Ptáček](https://praha8.pirati.cz/lide/karel-ptacek.html) interpeloval radního Tomáše Slabihoudka (TOP 09) ohledně získání informací o tom, jestli Rada městské části Praha 8 řeší budoucí dopravní obslužnost Karlína/Invalidovny. Aktuálně probíhá masivní výstavba na Rohanském ostrově, kde se bude nově dle odhadů pohybovat dalších cca 11 tis. lidí a zajímalo ho, jak na to budeme dopravně připravení. Současně se připravuje i uzavření a rekonstrukce stanice metra Invalidovna a doprava bude kolabovat. Radní Slabihoudek přiznal, že aktuálně Praha 8 nic neřeší, a že je nutné, aby Praha vybudovala městský okruh z Pelc-Tyrolky přes Vysočany do Štěrbohol. 
 
