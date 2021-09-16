@@ -9,7 +9,7 @@ category:
 ordpms: 1
 img: people/martin-sterba.jpg
 heroImg: posts/libensky-zamek.jpg
-profession: manažer on-line komunikace
+profession: manažer a stratég on-line komunikace
 partyUid: pirati
 description: garant komunikace s veřejností
 teamDescription:
@@ -32,8 +32,7 @@ funkce:
   - poradce primátora hl. města Prahy
 ---
 
-
-Martin Štěrba se narodil v roce 1987 v Plzni a do Prahy se finálně přestěhoval v roce 2013. Vystudoval pedagogickou fakultu ZČU v Plzni (obor informatika se zaměřením na vzdělávání) a Univerzitu J.A. Komenského v Praze (obor sociální a mediální komunikace). Pracoval ve velkých mediálních domech (TV Nova, Empressa Media, Economia, Seznam.cz), na „volné noze“, a má zkušenosti i z neziskového sektoru. [Momentálně pracuje](https://linkedin.com/in/sterbamartin/) pracuje jako manažer on-line komunikace, vede týmy komunikace se zaměřením na on-line marketing, a je poradcem primátora hlavního města Prahy Zdeňka Hřiba.
+Martin Štěrba se narodil v roce 1987 v Plzni a do Prahy se finálně přestěhoval v roce 2013. Vystudoval pedagogickou fakultu ZČU v Plzni (obor informatika se zaměřením na vzdělávání) a Univerzitu J.A. Komenského v Praze (obor sociální a mediální komunikace). Pracoval ve velkých mediálních domech (TV Nova, Empressa Media, Economia, Seznam.cz), na „volné noze“, a má zkušenosti i z neziskového sektoru. [Momentálně pracuje](https://linkedin.com/in/sterbamartin/) pracuje jako manažer a stratég on-line komunikace, vede týmy komunikace se zaměřením na on-line marketing, a je poradcem primátora hlavního města Prahy Zdeňka Hřiba.
 
 **Registrovaným příznivcem Pirátů je od března 2018, členem strany potom od prosince 2018. Od 18. 1. 2021 je předsedou MS Praha 8,** předtím působil od ledna 2019 do ledna 2021 jako první místopředseda.
 
