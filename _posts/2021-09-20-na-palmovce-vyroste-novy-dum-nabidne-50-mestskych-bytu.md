@@ -22,6 +22,6 @@ Jeden z nových domů má v příštích letech vyrůst také na Palmovce na roh
 - 12/2023 – předpokládané vydání územního rozhodnutí a stavebního povolení stavebním úřadem
 - 01-03/2024 – předložení stavu projektu dle ukončené Fáze 2 RHMP pro stanovení a schválení dalšího postupu zejména z hlediska určení investora výstavby a zahájení výběrového řízení na dodavatele dokumentace pro výběr dodavatele.
 
-![Palmovka - Polyfunkční dům](/assets/img/posts/almovka-bytovydum2.png)
+![Palmovka - Polyfunkční dům](/assets/img/posts/palmovka-bytovydum2.png)
 
 Kromě polyfunkčního domu na Palmovce se připravuje také bytové domy ve Vršovické ulici, v Dolních Počernicích, v ulice V Botanice a také experimentální projekt modulární bytové výstavby s až 40 městskými nájemními byty na Ládví.
