@@ -13,7 +13,7 @@ Jeden z nových domů má v příštích letech vyrůst také na Palmovce na roh
 
 >"Projekty budou dále připravovány ve spolupráci s dalšími příslušnými odbory města a v souladu s dokumentem zadání investora pro městskou bytovou výstavbu, který rada města schválila v dubnu letošního roku s cílem, aby projekty byly pro město jako vlastníka dlouhodobě ekonomicky a provozně efektivní,“ dodává radní pro bydlení Adam Zábranský (Piráti).
 
->"V současné době, kdy ceny bytů u developerských projektů stále rostou a stávají se pro střední třídu obyvatelstva již nedostupné, vítám tento krok ze strany Magistrátu pozitivně. Věřím, že v budoucnu budou na trhu opět dostupné byty k dlouhodobému pronájmu za přijatelné nájemné,“ říká náš zastupitel [Karel Ptáček](https://praha8.pirati.cz/lide/karel-ptacek.html) (Piráti).
+>"V současné době, kdy ceny bytů u developerských projektů stále rostou a stávají se pro střední třídu obyvatelstva již nedostupné, vítám tento krok ze strany Magistrátu pozitivně. Věřím, že v budoucnu budou na trhu opět dostupné byty k dlouhodobému pronájmu za přijatelné nájemné,“ říká zastupitel Prahy 8 [Karel Ptáček](https://praha8.pirati.cz/lide/karel-ptacek.html) (Piráti).
 
 **Předpokládaný další postup projektu „Palmovka - Zenklova“:**
 - 09-10/2021 – vypsání otevřeného výběrového řízení na zpracovatele dokumentace pro sloučené územní řízení a stavební řízení
