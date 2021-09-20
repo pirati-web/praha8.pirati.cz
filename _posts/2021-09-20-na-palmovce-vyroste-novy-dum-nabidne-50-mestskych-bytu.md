@@ -15,6 +15,13 @@ Jeden z nových domů má v příštích letech vyrůst také na Palmovce na roh
 
 >"V současné době, kdy ceny bytů u developerských projektů stále rostou a stávají se pro střední třídu obyvatelstva již nedostupné, vítám tento krok ze strany Magistrátu pozitivně. Věřím, že v budoucnu budou na trhu opět dostupné byty k dlouhodobému pronájmu za přijatelné nájemné,“ říká náš zastupitel [Karel Ptáček](https://praha8.pirati.cz/lide/karel-ptacek.html) (Piráti).
 
-Kromě polyfunkčního domu na Palmovce se připravuje také bytové domy ve Vršovické ulici, v Dolních Počernicích, v ulice V Botanice a také experimentální projekt modulární bytové výstavby s až 40 městskými nájemními byty na Ládví.
+**Předpokládaný další postup projektu „Palmovka - Zenklova“:**
+- 09-10/2021 – vypsání otevřeného výběrového řízení na zpracovatele dokumentace pro sloučené územní řízení a stavební řízení
+- 12/2021 – výběr zhotovitele projektové dokumentace pro sloučené stavební a územní řízení
+- 3/2022 - 05/2022– předběžná projednání dokumentace, stanoviska DOSS
+- 12/2023 – předpokládané vydání územního rozhodnutí a stavebního povolení stavebním úřadem
+- 01-03/2024 – předložení stavu projektu dle ukončené Fáze 2 RHMP pro stanovení a schválení dalšího postupu zejména z hlediska určení investora výstavby a zahájení výběrového řízení na dodavatele dokumentace pro výběr dodavatele.
 
 ![Palmovka - Polyfunkční dům](/assets/img/posts/almovka-bytovydum2.png)
+
+Kromě polyfunkčního domu na Palmovce se připravuje také bytové domy ve Vršovické ulici, v Dolních Počernicích, v ulice V Botanice a také experimentální projekt modulární bytové výstavby s až 40 městskými nájemními byty na Ládví.
