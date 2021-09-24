@@ -9,7 +9,7 @@ tags: [Nová Palmovka, Magistrát, Zastupitelstvo, Územní rozvoj]
 
 >[návrh majetkového převodu Městské části Praha 8 - odejmutí správy svěřeného nemovitého majetku ve vlastnictví obce, tj. Hlavního města Prahy](https://www.praha8.cz/Podkladove-materialy-zastupitelstva-29-09-2021.html)
 
-Zastupitelé budou hlasovat o převodu pozemků v oblasti pentagonu mezi Rustonkou a Palmovkou, a to včetně pozemků, na kterých stojí torzo nedokončené budovy Nová Palmovka. Pozemky se budou převádět do majetku Hlavního města Prahy.
+Zastupitelé budou hlasovat o převodu pozemků zejména v oblasti pentagonu mezi Rustonkou a Palmovkou, a to včetně pozemků, na kterých stojí torzo nedokončené budovy Nová Palmovka. Pozemky se budou převádět do majetku Hlavního města Prahy.
 
 Cílem je zajistit urbanistický rozvoj celého území a zároveň vyřešit jeden z nejpalčivějších problémů naší městské části. Celému procesu předcházela dlouhá jednání mezi městskou částí Praha 8 a magistrátem. 
 
