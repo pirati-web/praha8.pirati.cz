@@ -19,6 +19,7 @@ mail:
   - karel.ptacek@pirati.cz
 profiles:
   facebook: https://www.facebook.com/karel.ptacek.praha8
+  evidence:  https://evidence.pirati.cz/author/608/
   odmeny:   https://nalodeni.pirati.cz/odmeny/karel.ptacek
 funkce:
   - <a href="https://www.praha8.cz/Klub-Ceska-piratska-strana.html">zastupitel</a>
