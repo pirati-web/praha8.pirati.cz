@@ -1,5 +1,5 @@
 ---
-title: Jsme pro převod Nové Palmovky Magistrátu
+title: Podporujeme převod Nové Palmovky Magistrátu
 authorId: ivo.slavka
 image: posts/ivoslavka_zastupitelstvo_zari2021.jpg
 date: 2021-09-29 09:12:00
@@ -8,7 +8,7 @@ tags: [Nová Palmovka, Územní rozvoj, Zastupitelstvo]
 
 **Vážený pane starosto, rado, zastupitelky a zastupitelé MČ Praha 8, již 11 let se táhne příběh Nové Palmovky, která měla sloužit zejména občanům MČ Praha 8 jako radnice Prahy 8. A co z toho zůstalo? Nedostavěné torzo, které zívá prázdnotou a zpustlost celého území kolem ní, je ostudou všech koalic za posledních x let na Praze 8.**
 
-Dnešním projednávaným materiálem končí možnost ovládání a kontroly rozhodování nad pozemkem a tím i budovou NP. Z toho lze dovodit, že s největší pravděpodobností nebude radnice městské části Praha 8 v této konkrétní budově.
+Dnešním projednávaným materiálem končí možnost ovládání a kontroly rozhodování nad pozemkem a tím i budovou Nové Palmovky. Z toho lze dovodit, že s největší pravděpodobností nebude radnice městské části Praha 8 v této konkrétní budově.
 
 Piráti na Praze 8 měli v plánu radnici pro Prahu 8 dostavět, ale bohužel i tím že nejme v radě, není v našich možnostech tak učinit.
 
