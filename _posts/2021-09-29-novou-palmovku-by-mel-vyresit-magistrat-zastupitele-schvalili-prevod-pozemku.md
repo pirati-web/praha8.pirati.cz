@@ -6,7 +6,7 @@ image: posts/novapalmovka_ivoslavka-martinsterba.jpg
 tags: [Nová Palmovka, Magistrát, Územní rozvoj, Zastupitelstvo]
 ---
 
-**Zastupitelstvo městské části Praha 8 schválilo [převod pozemků pod budovou nedostavěné radnice Nová Palmovka Magistrátu hlavního města Prahy. Hlasovali pro to zastupitelé napříč politickým spektrem.** 
+**Zastupitelstvo městské části Praha 8 schválilo převod pozemků pod budovou nedostavěné radnice Nová Palmovka Magistrátu hlavního města Prahy. Hlasovali pro to zastupitelé napříč politickým spektrem.** 
 
 Nová Palmovka je letitým problém naší městské části. Celý příběh začal v roce 2010, kdy byl projekt výstavby nové radnice a obecního obchodního domu schválen vládnoucí ODS. V roce 2011 byla stavba zahájena, dokončená měla být o tři roky později. Nestalo se tak. Za výstavbu bylo zaplaceno víc než půl miliardy korun. 
 
