@@ -2,7 +2,7 @@
 title: Jsme pro převod Nové Palmovky Magistrátu
 authorId: ivo.slavka
 image: posts/ivoslavka_zastupitelstvo_zari2021.jpg
-date: 2021-09-29 15:30:00
+date: 2021-09-29 09:12:00
 tags: [Nová Palmovka, Územní rozvoj, Zastupitelstvo]
 ---
 
