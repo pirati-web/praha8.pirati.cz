@@ -25,6 +25,4 @@ Magistrátu připomínáme, že Praha 8 bude do budoucna potřebovat novou radni
 
 **Stávající směr aktuálního vývoje celé situace je kompromisem, který jsme ochotni akceptovat, a proto budeme hlasovat PRO.**
 
-**Mgr. Ivo Slávka**
-*místopředseda zastupitelského klubu Pirátů Prahy 8*
-*místopředseda Výboru pro projekt Nová Palmovka MČ Praha 8*
+**Mgr. Ivo Slávka**, *místopředseda zastupitelského klubu Pirátů Prahy 8*
