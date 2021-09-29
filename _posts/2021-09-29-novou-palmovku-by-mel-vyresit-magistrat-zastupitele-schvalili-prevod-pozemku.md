@@ -5,7 +5,7 @@ image: posts/novapalmovka_ivoslavka-martinsterba.jpg
 tags: [Nová Palmovka, Magistrát, Územní rozvoj, Zastupitelstvo]
 ---
 
-**Zastupitelstvo městské části Praha 8 schválilo převod pozemků pod budovou nedostavěné radnice Nová Palmovka Magistrátu hlavního města Prahy. Hlasovali pro to zastupitelé napříč politickým spektrem.** 
+**Zastupitelstvo městské části Praha 8 schválilo [převod pozemků pod budovou nedostavěné radnice Nová Palmovka Magistrátu hlavního města Prahy. Hlasovali pro to zastupitelé napříč politickým spektrem.** 
 
 Nová Palmovka je letitým problém naší městské části. Celý příběh začal v roce 2010, kdy byl projekt výstavby nové radnice a obecního obchodního domu schválen vládnoucí ODS. V roce 2011 byla stavba zahájena, dokončená měla být o tři roky později. Nestalo se tak. Za výstavbu bylo zaplaceno víc než půl miliardy korun. 
 
@@ -23,4 +23,4 @@ Celému procesu předcházelo několikaměsíční jednání mezi zástupci měs
 
 >“Na celé území Palmovky chceme pohlížet komlexně. Již nyní má městský developer ve správě část pozemků, na kterých připravuje výstavbu městských bytů. Naši snahou je sdružit vlastnictví a v přípravě území postupovat pod jednou hlavičkou. Naše intenzivní vyjednávání s Prahou 8 stvrdilo dnešní Zastupitelstvo městské části a město díky tomu muže započít s komplexni přípravou území,“ doplňuje náměstek primátora pro územní rozvoj Petr Hlaváček (TOP 09).
 
-Převod pozemků do správy Magistrátu musí ještě schválit Zastupitelstvo hlavního města, stane se tomu tak v polovině prosince. Do té doby také musí být dořešena třístranná dohoda mezi městkou částí, Magistrátem a Metrostavem, který budovu stavěl. Vedení hlavního města momentálně řeší několik variant využití budovy Nová Palmovka. Nabízí se momentálně tři varianty - první z nich je pro využití Evropské kosmické agentury, druhá počítá s využitím pro potřeby Magistrátu a městských firem a třetí je ve formě koncese. Žádná z variant nepočítá s prodejem pozemků. 
+[Převod pozemků do správy Magistrátu](https://mrak.pirati.cz/s/6AnQHpXWibS9rRi) musí ještě schválit Zastupitelstvo hlavního města, stane se tomu tak v polovině prosince. Do té doby také musí být dořešena třístranná dohoda mezi městkou částí, Magistrátem a Metrostavem, který budovu stavěl. Vedení hlavního města momentálně řeší několik variant využití budovy Nová Palmovka. Nabízí se momentálně tři varianty - první z nich je pro využití Evropské kosmické agentury, druhá počítá s využitím pro potřeby Magistrátu a městských firem a třetí je ve formě koncese. Žádná z variant nepočítá s prodejem pozemků. 
