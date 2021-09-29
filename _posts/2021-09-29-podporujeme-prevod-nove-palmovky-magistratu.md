@@ -24,3 +24,7 @@ Magistrát navrhl komplexnější plány nejenom s projektem Nová Palmovka, ale
 Magistrátu připomínáme, že Praha 8 bude do budoucna potřebovat novou radnici a chceme, aby s ní bylo dále počítáno v magistrátem rozvíjeném území, tzv. Pentagonu kolem budovy Nová Palmovka.
 
 **Stávající směr aktuálního vývoje celé situace je kompromisem, který jsme ochotni akceptovat, a proto budeme hlasovat PRO.**
+
+**Mgr. Ivo Slávka**
+*místopředseda zastupitelského klubu Pirátů Prahy 8*
+*místopředseda Výboru pro projekt Nová Palmovka MČ Praha 8*
