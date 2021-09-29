@@ -2,7 +2,7 @@
 title: Novou Palmovku můžeme dostavět se soukromým investorem, řekl Ivo Slávka MF DNES
 authorId: martin.sterba
 image: posts/novapalmovka_nadvori_cervenec2019.jpg
-tags: [Nová Palmovka, Magistrát, Zastupitelstvo, Územní rozvoj]
+tags: [Nová Palmovka, Územní rozvoj]
 ---
 
 **"Už několik let hyzdí centrální část Prahy 8 rozestavěná budova Nové Palmovky, kde měla sídlit nová radnice městské části a pražská záchranná služba. Kvůli nejasnostem kolem vlastnictví i dalším sporům ale ještě minulé vedení radnice výstavbu pozastavilo. Od té doby budova chátrá,“ píše [Mladá fronta DNES](https://www.pressreader.com/czech-republic/mf-dnes/20200309/282540135394219).**
@@ -20,6 +20,3 @@ Podle Iva Slávky by se tím navíc vyřešila i otázka dotace ve výši zhrub
 >"Věříme, že naopak v případě dostavby nebude nutné tuto dotaci vracet,“ doplnil Slávka.
 
 V současné době se tvoří odborný posudek, který by měl určit, co s budou dál dělat. Na základě nich by poté mělo zastupitelstvo Prahy 8 rozhodnout, co dál. Jednou z možností je dostavba, druhou prodej nebo je možné zvážit i další řešení. Teoreticky ještě pomoci magistrát, ve hře je i varianta, že by objekt převzal a dostavěl. Jisté v současnosti je to, že v komplexu nebude nové sídlo pražské záchranné služby.
-
-
-
