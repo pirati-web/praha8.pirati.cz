@@ -11,7 +11,7 @@ Praha 8 zadala studii, která má posoudit, zda bude výhodnější nedokončen
 
 >“Městská část na dostavbu potřebné stovky milionů korun. Proto navrhuji stavbu prodat. Z hlediska současné finanční situace městské části je to jediná varianta, "tvrdí starosta Ondřej Gros (ODS).
 
-O prodeji torza budovy na Palmovce však definitivně rozhodnuto stále není. Radnice zatím jen vytvořila ze zástupců koalice i opozice Výbor pro projekt Nová Palmovka. Jeho vznik inicioval mimo jiné i náš zastupitel Ivo Slávka. 
+O prodeji torza budovy na Palmovce však definitivně rozhodnuto stále není. Radnice zatím jen vytvořila ze zástupců koalice i opozice [Výbor pro projekt Nová Palmovka](https://www.praha8.cz/Vybory-zastupitelstva-Mestske-casti-Praha-8.html). Jeho vznik inicioval mimo jiné i náš zastupitel Ivo Slávka. 
 
 >“[Z předběžných analýz Pirátů vyplývá](https://praha8.pirati.cz/aktuality/palmovku-nechceme-prodavat-pod-cenou.html), že ve spolupráci se soukromými investory půjde Novou Palmovku dostavět a využívat ji následně pro potřeby úřadu a obyvatel Prahy 8,“ řekl Mladé frontě DNES zastupitel a místopředseda Výboru pro Novou Palmovku [Ivo Slávka](https://praha8.pirati.cz/lide/ivo-slavka.html) (Piráti). 
 
