@@ -5,7 +5,7 @@ image: posts/ivoslavka_zastupitelstvo_zari2021.jpg
 tags: [Nová Palmovka, Územní rozvoj, Zastupitelstvo]
 ---
 
-**Vážený pane Starosto, Rado, Zastupitelky a Zastupitelé MČ Praha 8, již 11 let se táhne příběh Nové Palmovky, která měla sloužit zejména občanům MČ Praha 8 jako radnice Prahy 8. A co z toho zůstalo? Nedostavěné torzo, které zívá prázdnotou a zpustlost celého území kolem ní, je ostudou všech koalic za posledních x let na Praze 8.**
+**Vážený pane Starosto, Rado, zastupitelky a zastupitelé MČ Praha 8, již 11 let se táhne příběh Nové Palmovky, která měla sloužit zejména občanům MČ Praha 8 jako radnice Prahy 8. A co z toho zůstalo? Nedostavěné torzo, které zívá prázdnotou a zpustlost celého území kolem ní, je ostudou všech koalic za posledních x let na Praze 8.**
 
 Dnešním projednávaným materiálem končí možnost ovládání a kontroly rozhodování nad pozemkem a tím i budovou NP. Z toho lze dovodit, že s největší pravděpodobností nebude radnice městské části Praha 8 v této konkrétní budově.
 
@@ -25,4 +25,4 @@ Magistrátu připomínáme, že Praha 8 bude do budoucna potřebovat novou radni
 
 **Stávající směr aktuálního vývoje celé situace je kompromisem, který jsme ochotni akceptovat, a proto budeme hlasovat PRO.**
 
-**Mgr. Ivo Slávka**, *místopředseda zastupitelského klubu Pirátů Prahy 8*
+*Mgr. Ivo Slávka, místopředseda zastupitelského klubu Pirátů Prahy 8*
