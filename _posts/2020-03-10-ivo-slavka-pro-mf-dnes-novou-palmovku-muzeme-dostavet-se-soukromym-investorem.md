@@ -1,5 +1,5 @@
 ---
-title: Ivo Slávka pro MF DNES: Novou Palmovku můžeme dostavět se soukromým investorem
+title: Novou Palmovku můžeme dostavět se soukromým investorem, řekl Ivo Slávka MF DNES
 authorId: martin.sterba
 image: posts/novapalmovka_nadvori_cervenec2019.jpg
 tags: [Nová Palmovka, Magistrát, Zastupitelstvo, Územní rozvoj]
