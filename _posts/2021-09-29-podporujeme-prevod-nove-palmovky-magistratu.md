@@ -1,5 +1,5 @@
 ---
-title: Podporujeme převod Nové Palmovky Magistrátu
+title: Podporujeme převod Nové Palmovky do majetku Magistrátu
 authorId: ivo.slavka
 image: posts/ivoslavka_zastupitelstvo_zari2021.jpg
 date: 2021-09-29 09:12:00
