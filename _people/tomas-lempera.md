@@ -7,7 +7,7 @@ category:
   - regp
 img: people/tomas-lempera.jpg
 heroImg: posts/open-source.jpg
-profession: auditor, člen dozorčí rady
+profession: obchodník
 partyUid: bezpp
 description: registrovaný příznivec
 mail: 
