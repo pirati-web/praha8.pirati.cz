@@ -9,7 +9,7 @@ tags: [Nová Palmovka, Územní rozvoj]
 
 Praha 8 zadala studii, která má posoudit, zda bude výhodnější nedokončenou radnici na Palmovce prodat, dostavět z vlastních zdrojů, nebo využít pomoci soukromých investorů, jak navrhuje opozice. Současná koalice v čele s ODS musí letitý problém vyřešit, objekt chátrá. Městská část navíc musí platit za údržbu a zabezpečení nemalé peníze. 
 
->“Městská část na dostavbu potřebné stovky milionů korun. Proto navrhuji stavbu prodat. Z hlediska současné finanční situace městské části je to jediná varianta, "tvrdí starosta Ondřej Gros (ODS).
+>“Městská část na dostavbu potřebné stovky milionů korun. Proto navrhuji stavbu prodat. Z hlediska současné finanční situace městské části je to jediná varianta," tvrdí starosta Ondřej Gros (ODS).
 
 O prodeji torza budovy na Palmovce však definitivně rozhodnuto stále není. Radnice zatím jen vytvořila ze zástupců koalice i opozice [Výbor pro projekt Nová Palmovka](https://www.praha8.cz/Vybory-zastupitelstva-Mestske-casti-Praha-8.html). Jeho vznik inicioval mimo jiné i náš zastupitel Ivo Slávka. 
 
