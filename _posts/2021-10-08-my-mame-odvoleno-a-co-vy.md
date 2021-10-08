@@ -1,7 +1,7 @@
 ---
 title: My máme odvoleno. A co vy?
 authorId: martin.sterba
-image: posts/volby2021-odvoleno.png
+image: posts/volby21-odvoleno.png
 tags: [Sněmovna, Volby 2021]
 ---
 
