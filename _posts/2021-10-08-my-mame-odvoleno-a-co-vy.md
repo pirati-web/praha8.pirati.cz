@@ -2,7 +2,7 @@
 title: My máme odvoleno. A co vy?
 authorId: martin.sterba
 image: posts/volby21-odvoleno.png
-tags: [Sněmovna, Volby 2021]
+tags: [Volby 2021]
 ---
 
 **Začaly volby do Poslanecké sněmovny. V mnohých volebních místnostech vznikají už od 14 hodin fronty. Chodí mladí i starší. Věříme, že ty výsledky pak budou stát za to. A že naše země začne mít konečně zase nějakou budoucnost.** 
