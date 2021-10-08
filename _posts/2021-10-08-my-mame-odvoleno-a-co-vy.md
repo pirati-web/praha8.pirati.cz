@@ -13,6 +13,6 @@ Hned v brzkých odpoledních hodinách odvolila lídryně pražské kandidátky 
 
 >"Odvoleno hned ve 14:00. Před volební místností už byla fronta. Velká spousta lidí. Vypadá to, že je tu obrovská poptávka po změně. Nenechte propadnout svůj hlas, kterým ovlivníte, jakou cestou bude směřovat naše země v dalších 4 letech!," [popsal na svém Facebooku](https://www.facebook.com/zdenek.hrib.primator/posts/909576986318637) svoji volbu primátor Zdeněk Hřib. 
 
-**My už máme odvoleno také. A co vy?** Nezapomeňte, že volební místnosti se dnes uzavřou ve 22 hodin, otevřeny pak budou zase v sobotu ráno od 8 do 14 hodin. Jestli nevíte do které jít volební místnosti, [využijte tuto aplikaci](https://kudykvolbam.iprpraha.cz/)
+**My už máme odvoleno také. A co vy?** Nezapomeňte, že volební místnosti se dnes uzavřou ve 22 hodin, otevřeny pak budou zase v sobotu ráno od 8 do 14 hodin. Jestli nevíte do které jít volební místnosti, [využijte tuto aplikaci](https://kudykvolbam.iprpraha.cz/). 
 
 PS: Nezapomeňte si zkonstrolovat svoje volební lístky. [V několika případech na Praze 8 se totiž stalo](https://www.facebook.com/piratipraha8/posts/881764905874865), že chyběla naše kandidátní listina. Vždy se můžete spolehnout na volební lístky, které dostanete ve volebních místnostech. 
