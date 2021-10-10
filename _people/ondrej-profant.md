@@ -2,13 +2,12 @@
 uid: ondrej.profant
 name: Ondřej Profant
 category:
- - ustavni-cinitele
  - clenove
 img: people/ondrej-profant.jpg
 heroImg: people/ondrej-profant-hero.jpg
 profession: informatik
 partyUid: pirati
-description: poslanec
+description: člen MS
 mail:
 - ondrej.profant@pirati.cz
 mob:			  +420 607 580 015
