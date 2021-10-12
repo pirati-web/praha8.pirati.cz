@@ -13,3 +13,4 @@ Z veřejného života určitě neodcházím, i nadále budu pracovat na tom, aby
 
 **Ještě jednou díky za to, že jsem mohl být čtyři roky poslancem.** Ivane, Olgo, Jakube a Kláro, držte se! Věřím Vám.
 
+Ondřej Profant
