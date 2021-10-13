@@ -30,7 +30,7 @@ funkce:
 
 Karel Ptáček (1982) se narodil v Praze 8 a celý život zde žije.
 
-Po komunálních volbách v roce 2018 se z druhého místa kandidátky dostal do zastupitelstva MČ Prahy 8 a kromě zastupitelského mandátu působí i jako místopředseda komise Rady pro bytová družstva a SVJ a je i členem komise Rady pro územní rozvoj a památkovou péči. Mimo Prahu 8 je členem pirátského expertního týmu pro územní rozvoj. Od jara do října 2018 byl taktéž místopředsedou místního sdružení Praha 8.
+Po komunálních volbách v roce 2018 se z druhého místa kandidátky dostal do zastupitelstva MČ Prahy 8 a kromě zastupitelského mandátu působí i jako místopředseda komise Rady MČ Praha 8 pro bytová družstva a SVJ a je i členem komise Rady MČ Praha 8 pro územní rozvoj a památkovou péči. Mimo Prahu 8 je členem pirátského expertního týmu pro územní rozvoj. Od jara do října 2018 byl taktéž místopředsedou místního sdružení Praha 8.
 
 Soukromě i profesně se věnuje architektuře a urbanismu. V rámci Prahy 8 se podílel [na vzniku a zavedení kontribucí pro investory a developery](https://praha8.pirati.cz/aktuality/developeri-se-budou-nove-podilet-na-rozvoji-nasi-mestske-casti.html), nebo podporu a konzultace s družstvy a SVJ při žádostech o dotace pro opravu bytových domů. Sám je předsedou bytového družstva i SVJ.
 
