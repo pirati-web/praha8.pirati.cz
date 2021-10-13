@@ -27,10 +27,16 @@ funkce:
   - člen <a href="https://www.praha8.cz/Komise-pro-uzemni-rozvoj-a-pamatkovou-peci-2018-2022.html">Komise pro územní rozvoj a památkovou péči</a>
 ---
 
-Narodil jsem se na Praze 8 a stále zde bydlím. Praha 8, konkrétně Karlín mi velice přirostl k srdci a zažil jsem ještě průmyslový Karlín, ale i jeho velmi rychlou přeměnu po povodních v roce 2002.
 
-Pracovně se pohybuji v developmentu. Někteří lidé si řeknou „opět nějaký developer, co chce zastavět každou louku“. Opak je pravdou. Pracuji jako projektový manažer a snažíme se rekonstruovat staré vybydlené domy s důrazem právě na historické prvky.
+Karel Ptáček (1982) se narodil v Praze 8 a celý život zde žije.
 
-Není mi lhostejný osud Prahy 8 a nesouhlasím se současným vedením a jeho záměry do budoucna. Nechci patřit jen mezi ostatní, kteří brblají a jen si stěžují. Rád bych něco aktivně změnil.
+Po komunálních volbách v roce 2018 se z druhého místa kandidátky dostal do zastupitelstva MČ Prahy 8 a kromě zastupitelského mandátu působí i jako místopředseda komise Rady pro bytová družstva a SVJ a je i členem komise Rady pro územní rozvoj a památkovou péči. Mimo Prahu 8 je členem pirátského expertního týmu pro územní rozvoj. Od jara do října 2018 byl taktéž místopředsedou místního sdružení Praha 8.
 
-Věřím, že Piráti dokáží (a já v jejich součástí) zlepšit a zachránit naši městskou část tak, aby se v ní žilo i našim dětem ještě o něco lépe.
+Soukromě i profesně se věnuje architektuře a urbanismu. V rámci Prahy 8 se podílel [na vzniku a zavedení kontribucí pro investory a developery](https://praha8.pirati.cz/aktuality/developeri-se-budou-nove-podilet-na-rozvoji-nasi-mestske-casti.html), nebo podporu a konzultace s družstvy a SVJ při žádostech o dotace pro opravu bytových domů. Sám je předsedou bytového družstva i SVJ.
+
+Ve svém volnu vypomáhá jako dobrovolník Českého červeného kříže, např. jako zdravotník v rámci Metropolitního očkovacího centra, nebo asistent/doprovod v DC Paprsek při výletech s dětskými klienty mimo brány zařízení.
+
+Profesně se od ukončení studia na VOŠ zaměřoval na development. V minulosti působil jako projektový manažer v rezidenčním a následně komerčním developmentu. Aktuálně pracuje jako projektový manažer ve státní organizaci Správa železnic, kde má na starosti rekonstrukci/výstavbu ŽST Praha-Smíchov + nový Terminál Smíchov.
+
+Jako skvělý způsob pročištění hlavy rád vyráží na chalupu blízko Poděbrad, kde seká trávu, štípe dřevo, nebo si hraje na kutila. Kromě chalupy rád cestuje, sportuje (badminton, volejbal, tenis, golf), sleduje filmy a poslouchá hudbu se sklenkou dobrého vína a přáteli.
+
