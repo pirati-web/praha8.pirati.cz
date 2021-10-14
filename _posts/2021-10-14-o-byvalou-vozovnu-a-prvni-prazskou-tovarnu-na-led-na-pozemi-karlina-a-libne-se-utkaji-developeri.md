@@ -13,9 +13,9 @@ Mezi developery, kteří o areál projevili zájem, jsou podle informací server
 
 Areál zvaný Štrasburk je součástí pentagonu pozemků mezi Rustonkou a Palmovkou. Hlavní město Praha momentálně sdružuje všechny ostatní pozemky pod svojí správu. Na základě nedávno schváleného usnesení městské části Praha 8 dojde k převodu pozemků svěřené městské části Praha 8 v okolí Nové Palmovky. Řeší se také převod pozemků mezi Dopravním podnikem a hlavním městem Praze. O nákupu areálu Štrasburk však Praha neuvažuje. 
 
->“Při dynamice transakcí si upřímně neumím představit, že by hlavní město Praha bylo schopno v tomto procesu uspět. Z hlediska dalšího rozvoje nejde o zásadně strategickou část. Pražská developerská společnost to vnímá tak, že bude přínosné pokud se stane vlastníkem nějaký investor s jasným plánem, s kterým bude možné dosáhnout dohodu o území po té co bude mít HMP dokončen zmíněný domácí úkol sjednocení vlastnictví tam, kde je hlavní město Praha dnes již ovládající osobou,“ říká ředitel Pražské developerské společnosti Petr Urbánek. 
+>“Při dynamice transakcí si upřímně neumím představit, že by hlavní město Praha bylo schopno v tomto procesu uspět. Z hlediska dalšího rozvoje nejde o zásadně strategickou část. Pražská developerská společnost to vnímá tak, že bude přínosné pokud se stane vlastníkem nějaký investor s jasným plánem, s kterým bude možné dosáhnout dohodu o území po té co bude mít dokončeno sjednocení vlastnictví tam, kde je hlavní město Praha dnes již ovládající osobou,“ říká ředitel Pražské developerské společnosti Petr Urbánek. 
 
-Oblast mezi Rustonkou a Palmovkou má v příštích lete obří potenciál stát se skutečným centrem naší městské části. 
+Oblast mezi Rustonkou a Palmovkou má v příštích letech obří potenciál stát se skutečným centrem naší městské části. 
  
  >“Ve spolupráci s našimi kolegy na Magistrátu se snažíme celý proces tlačit tak, aby se dlouho chátrající území, podařilo zlepšit, co nejdřív. V blízké době by se mělo začít s pěší průchodností celé oblasti. Jsme rádi, že se celý proces i díky nám posunul k dalšímu dějství,“ říká předseda místního sdružení Praha 8 [Martin Štěrba](https://praha8.pirati.cz/lide/martin-sterba.html). 
 
