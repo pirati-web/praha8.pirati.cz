@@ -7,7 +7,9 @@ tags: [Libeň, Majetek, Löwitův mlýn]
 
 **Na úřední desce městské části Praha 8 se objevilo oznámení o záměru pronajmout Löwitův mlýn předem známému zájemci. Jedná se o téma, které se řešilo nedávno na jednání zastupitelstva.** Na přímé otázky o budoucnosti mlýna starosta Ondřej Gros ani místostarosta Jiří Vítek neodpověděli. Dozvěděli jsme se pouze, že u Löwitova mlýna bude letos kluziště. 
 
-Místostarosta Vítek k tomu řekl na jednání zastupitelstva 15. 9. 2021 toto: "Když všechno, když Bůh dá, ten provoz toho Lӧwitova mlýnu, ale je to z oblasti kultury a neziskového sektoru. My to nechceme ohrožovat prostě, protože je to tak významný, a tak skvělý projekt, aby se to neohrozilo."
+Místostarosta Jiří Vítek (Patrioti) k tomu řekl na jednání zastupitelstva 15. 9. 2021 toto: 
+
+>"Když všechno, když Bůh dá, ten provoz toho Lӧwitova mlýnu, ale je to z oblasti kultury a neziskového sektoru. My to nechceme ohrožovat prostě, protože je to tak významný, a tak skvělý projekt, aby se to neohrozilo."
 
 ![Kdo získá Löwitův mlýn](/assets/img/posts/lowituvmlyn-kdohoziska.png)
 
