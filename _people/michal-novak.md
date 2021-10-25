@@ -11,7 +11,7 @@ img: people/michal-novak.jpg
 heroImg: posts/tramvaje-bohnice.png
 profession: nezávislý konzultant
 partyUid: pirati
-description: Garant pro dopravu a majetek
+description: koordinátor gesce majetek
 teamDescription:
   zastupitele: předseda zastupitelského klubu
 mail:
