@@ -9,7 +9,7 @@ img: people/jan-horn.jpg
 heroImg: people/jan-horn-hero.jpg
 profession: umělecký kovář a učitel
 partyUid: pirati
-description: specialista na akce pro veřejnost
+description: koordinátor gesce kultura & památková péče
 teamDescription:
   pms: místopředseda MS Praha 8
 mail:
