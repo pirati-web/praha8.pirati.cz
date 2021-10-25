@@ -8,7 +8,7 @@ img: people/neznama-osoba.png
 heroImg: posts/bulovka.jpg
 profession: student farmaceutické fakulty UK
 partyUid: pirati
-description: člen MS P8
+description: člen MS Praha 8
 mail:
   - milan.rydrych@pirati.cz
 profiles:
