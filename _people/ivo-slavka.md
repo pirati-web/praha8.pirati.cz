@@ -11,7 +11,7 @@ img: people/ivo-slavka.jpg
 heroImg: posts/Palmovkastramvaji.jpg
 profession: právník
 partyUid: pirati
-description: garant pro oblast legislativy
+description: koordinátor gesce "finance" a gesce "sociální oblast & přidělování bytů"
 teamDescription:
   zastupitele: místopředseda zastupitelského klubu
 mail:
