@@ -7,7 +7,7 @@ img: people/ondrej-profant.jpg
 heroImg: people/ondrej-profant-hero.jpg
 profession: informatik
 partyUid: pirati
-description: člen MS
+description: člen MS Praha 8
 mail:
 - ondrej.profant@pirati.cz
 mob:			  +420 607 580 015
