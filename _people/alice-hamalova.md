@@ -11,7 +11,7 @@ img: people/alice-hamalova.jpg
 heroImg: posts/zahradky.png
 profession: chemik, výzkumný pracovník
 partyUid: pirati
-description: garantka pro životní prostředí
+description: koordinátorka gesce "životní prostředí"
 teamDescription:
   pms: místopředsedkyně MS Praha 8
   zastupitele: zastupitelka
