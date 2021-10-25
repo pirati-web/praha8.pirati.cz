@@ -11,7 +11,7 @@ img: people/magdalena-opletalova.jpg
 heroImg: posts/psi-louka.jpg
 profession: molekulární bioložka a genetička
 partyUid: pirati
-description: specialistka na sociální oblast
+description: členka MS Praha 8
 teamDescription:
   pms: místopředsedkyně MS Praha 8
 mail:
