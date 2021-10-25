@@ -7,7 +7,7 @@ img: people/tomas-marik.jpg
 heroImg: people/tomas-marik-hero.jpg
 profession: překladatel, knihkupec
 partyUid: pirati
-description: specialista na veřejný prostor
+description: člen MS Praha 8
 mail:
   - tomas.marik@pirati.cz
 profiles:
