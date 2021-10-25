@@ -11,7 +11,7 @@ img: people/jan-kolator.jpg
 heroImg: posts/skatepark-bohnice.jpg
 profession: systémový knihovník
 partyUid: pirati
-description: garant pro bezpečnost
+description: koordinátor gesce bezpečnost
 teamDescription:
   pms: 1. místopředseda MS Praha 8
   contact: kontakt pro nováčky
