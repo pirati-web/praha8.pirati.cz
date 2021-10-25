@@ -10,7 +10,7 @@ img: people/michal-schwarzkopf.jpg
 heroImg: people/michal-schwarzkopf-hero.jpg
 profession: bankovní poradce
 partyUid: pirati
-description: člen MS P8
+description: člen MS Praha 8
 mail:
   - michal.schwarzkopf@pirati.cz
 profiles:
