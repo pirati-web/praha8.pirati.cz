@@ -12,7 +12,7 @@ img: people/karel-ptacek.jpg
 heroImg: posts/rohancity.jpg
 profession: projektový manažer
 partyUid: pirati
-description: garant územního rozvoje
+description: koordinátor gesce územní rozvoj
 teamDescription:
   zastupitele: zastupitel
 mail:
