@@ -9,7 +9,7 @@ img: people/jan-hamal-dvorak.jpg
 heroImg: people/jan-hamal-dvorak-hero.jpg
 profession: informatik
 partyUid: pirati
-description: koordinátor gesce "IT&Transparentnost"
+description: koordinátor gesce IT & Transparentnost
 teamDescription:
   zastupitele: zastupitel
 mail:
