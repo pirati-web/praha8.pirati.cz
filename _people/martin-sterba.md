@@ -11,7 +11,7 @@ img: people/martin-sterba.jpg
 heroImg: posts/libensky-zamek.jpg
 profession: manažer a stratég on-line komunikace
 partyUid: pirati
-description: garant komunikace s veřejností
+description: koordinátor gesce doprava
 teamDescription:
   pms: předseda MS Praha 8
   contact: kontakt pro média
