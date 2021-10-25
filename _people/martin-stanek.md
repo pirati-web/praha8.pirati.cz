@@ -12,7 +12,7 @@ img: people/martin-stanek.jpg
 heroImg: posts/bilydum.png
 profession: geolog
 partyUid: pirati
-description: garant pro transparentnost
+description: člen MS Praha 8
 teamDescription:
   zastupitele: zastupitel
 mob: 775 058 555
