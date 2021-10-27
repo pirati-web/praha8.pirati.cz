@@ -1,7 +1,7 @@
 ---
 title: Kam investovat v roce 2022? Zenklovka a školství musí být na prvním místě
 authorId: jan.horn
-image: posts/zenklova-google.png
+image: posts/zenklova-googlemaps.png
 tags: [Časopis Osmička, Doprava, Investice, Školství]
 ---
 
