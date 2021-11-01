@@ -13,4 +13,4 @@ tags: [Doprava, Tramvaj do Zdib]
 
 >[MÚK Zdiby – rozšíření Prosecké radiály, etapa 2 – direktní větev](https://mapapp.rsd.cz/Upload/Stavby/569/infoletak_d8-muk-zdiby-direktni-vetev.pdf)
 
->[Zdiby–Líbeznice (křížení silnice I/9 a III/0083) u](https://mapapp.rsd.cz/Upload/Stavby/459/infoletak_s9-zdiby-libeznice.pdf)
+>[Zdiby–Líbeznice (křížení silnice I/9 a III/0083)](https://mapapp.rsd.cz/Upload/Stavby/459/infoletak_s9-zdiby-libeznice.pdf)
