@@ -9,7 +9,7 @@ tags: [Doprava, Tramvaj do Zdib]
 
 {% include youtube.html id="ez3ND4pYV4Q" %}
 
-**Co by se mělo konkrétně změnit?** To najdete v informačních létácích, podívejte se:
+**Co by se mělo konkrétně změnit?** To najdete v informačních letácích, podívejte se:
 
 >[MÚK Zdiby – rozšíření Prosecké radiály, etapa 2 – direktní větev](https://mapapp.rsd.cz/Upload/Stavby/569/infoletak_d8-muk-zdiby-direktni-vetev.pdf)
 
