@@ -19,9 +19,9 @@ Začínáme připravovat program pro komunální volby, které nás čekají př
 - **Územní rozvoj ([Karel Ptáček](https://praha8.pirati.cz/lide/karel-ptacek.html)):** 9. 11. 18–19 h. / Pivo Karlín, Pernerova 691/42
 - **Životní prostředí ([Alice Hamalová]((https://praha8.pirati.cz/lide/alice-hamalova.html)):** 16. 11. / [JITSI](http://jitsi.pirati.cz/mety-mspraha8)
 
-Koordinátoři budou rádi, pokud jim napíšete, že máte zájem dorazit. Zapsat se do týmů můžete třeba skrze odkaz https://bit.ly/MSPraha8-MET. 
+Koordinátoři budou rádi, pokud jim napíšete, že máte zájem dorazit. Zapsat se do týmů můžete třeba skrze odkaz [https://bit.ly/MSPraha8-MET](https://bit.ly/MSPraha8-MET). 
 
-Zároveň Vás znova prosím o finanční podporu našeho místního sdružení a to samozřejmě v závislosti na Vašich možnostech. Díky darům budeme moci v Praze 8 růst a rozvíjet se, připravit kvalitní kampaň a věříme, že po volbách budeme moci měnit i naší městskou část Praha 8 k lepšímu. Každý jeden dar využijeme co nejlépe v práci za lepší budoucnost. Za to ručím! Finanční dary na podporu našeho fungování můžete posílat skrze https://bit.ly/DaryProMSPraha8, kde vyberete jiný účel: MS Praha 8 (nebo jen specifický symbol 110108).
+Zároveň Vás znova prosím o finanční podporu našeho místního sdružení a to samozřejmě v závislosti na Vašich možnostech. Díky darům budeme moci v Praze 8 růst a rozvíjet se, připravit kvalitní kampaň a věříme, že po volbách budeme moci měnit i naší městskou část Praha 8 k lepšímu. Každý jeden dar využijeme co nejlépe v práci za lepší budoucnost. Za to ručím! Finanční dary na podporu našeho fungování můžete posílat skrze [https://bit.ly/DaryProMSPraha8](https://bit.ly/DaryProMSPraha8), kde vyberete jiný účel: MS Praha 8 (nebo jen specifický symbol 110108).
 
 Děkuji Vám. S úctou a brzy na viděnou,
 
