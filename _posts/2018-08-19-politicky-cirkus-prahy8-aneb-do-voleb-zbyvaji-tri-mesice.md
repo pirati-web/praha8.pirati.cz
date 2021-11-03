@@ -1,5 +1,5 @@
 ---
-title: Politický cirkus Prahy 8 aneb do voleb zbývají na tři měsíce
+title: Politický cirkus Prahy 8 aneb do voleb zbývají tři měsíce
 authorId: michal.novak
 image: posts/zastupitelstvo.jpg
 tags: [Volby 2018]
