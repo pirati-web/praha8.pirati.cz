@@ -17,7 +17,7 @@ Začínáme připravovat program pro komunální volby, které nás čekají př
 - **Sociální oblast & Přidělování bytů ([Ivo Slávka](https://praha8.pirati.cz/lide/ivo-slavka.html)):** 10. 11. 19–20 h. / [JITSI](http://jitsi.pirati.cz/mety-mspraha8)
 - **Školství, sport a volný čas ([Pavel Franc](https://praha8.pirati.cz/lide/pavel-franc.html)):** 8. 11. 18–19 hod. / [JITSI](http://jitsi.pirati.cz/mety-mspraha8)
 - **Územní rozvoj ([Karel Ptáček](https://praha8.pirati.cz/lide/karel-ptacek.html)):** 9. 11. 18–19 h. / Pivo Karlín, Pernerova 691/42
-- **Životní prostředí ([Alice Hamalová]((https://praha8.pirati.cz/lide/alice-hamalova.html)):** 16. 11. / [JITSI](http://jitsi.pirati.cz/mety-mspraha8)
+- **Životní prostředí ([Alice Hamalová]((https://praha8.pirati.cz/lide/alice-hamalova.html)):** 16. 11. 18–19 h. / [JITSI](http://jitsi.pirati.cz/mety-mspraha8)
 
 Koordinátoři budou rádi, pokud jim napíšete, že máte zájem dorazit. Zapsat se do týmů můžete třeba skrze odkaz [https://bit.ly/MSPraha8-MET](https://bit.ly/MSPraha8-MET). 
 
