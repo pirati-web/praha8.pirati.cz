@@ -15,5 +15,7 @@ Podle místostarosty Jiřího Vítka (Patrioti) má dojít také ke spolupráci 
 
 Před plánovaným otevřením čeká objekt Velkého mlýna adaptace spojená s vybavením prostoru potřebnou infrastrukturou. V prvním stadiu na konci roku 2021 a prvním čtvrtletí roku 2022 má proběhnout příprava adaptace a posléze i její realizace. 
 
+**Jsme zvědaví, jak to bude nakonec vypadat.**
+
 ### Vizualizace vnitřních prostor
 ![Vizualizace vnitřních prostor](/assets/img/posts/lowituvmlyn-vizualizace.jpg)
