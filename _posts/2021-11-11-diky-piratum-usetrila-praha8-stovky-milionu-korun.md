@@ -13,4 +13,4 @@ A o co jde? Městská část Praha 8 získala v roce 2017 600 milionů na financ
 
 V rámci schváleného harmonogramu řešení budoucnosti torza budovy Nová Palmovka došlo, k dohodě, že bude daná částka odpuštěna. Tedy za předpokladu, že si o odpuštění městská část Praha 8 požádá. Je s podivem, že to celé muselo dospět až do této fáze. Je to samozřejmě špatně, a nechápeme, proč starosta Gros dodatek nepodepsal, a proč městskou část vystavil obřímu riziku. 
 
-Městské části jsme ušetřili stovky milionů korun. 
+Městské části jsme ušetřili stovky milionů korun. Není zač!
