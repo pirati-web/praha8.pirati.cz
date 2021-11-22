@@ -2,7 +2,7 @@
 title: Praha vybuduje pěší cestu propojující Palmovku s ulicí Švábky a Rohanským nábřežím
 author: MHMP
 image: posts/svabky-kaufland-googlemaps.png
-tags: [Palmovka, Nová Palmovka, Veřejný prostor, Životní prostředí]
+tags: [Magistrát, Nová Palmovka, Palmovka, Veřejný prostor, Životní prostředí]
 ---
 
 **První projekt předznamenávající budoucí proměnu Palmovky v Praze 8 bude zahrnovat cestu pro pěší, která propojí ulice Zenklova a Švábky.  Sloužit veřejnosti by měla začít v červnu příštího roku a její stavba vyjde na 26 milionů Kč včetně DPH. Koordinací a realizací projektu byla pověřena městská organizace Pražská developerská společnost (PDS).**
