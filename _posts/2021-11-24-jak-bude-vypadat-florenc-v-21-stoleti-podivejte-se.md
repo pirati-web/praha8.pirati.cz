@@ -1,7 +1,7 @@
 ---
 title: Jak bude vypadat Florenc v 21. století? Podívejte se! 
 authorId: karel.ptacek
-image: posts/florenc21/florenc-karelptacek2.jpg
+image: posts/florenc21/florenc-karelptacek2.png
 tags: [Florenc, Územní rozvoj, Veřejný prostor]
 fancybox:
   - name: Jak bude vypadat Florenc?
