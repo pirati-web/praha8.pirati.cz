@@ -4,7 +4,7 @@ author: MHMP
 image: posts/namestibohumilahrabala.png
 tags: [Magistrát, Nová Palmovka, Palmovka, Veřejný prostor, Životní prostředí]
 fancybox:
-  - name: Jak bude vypadat Florenc?
+  - name: Náměstí Bohumila Hrabala dostane novou tvář
     img:
       - { src: posts/namesti-bohumila-hrabala/namhrabala1.jpg, title: }
       - { src: posts/namesti-bohumila-hrabala/namhrabala2.jpg, title: }
