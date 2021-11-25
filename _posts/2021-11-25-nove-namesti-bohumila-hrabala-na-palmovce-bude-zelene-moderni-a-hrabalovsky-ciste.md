@@ -6,10 +6,10 @@ tags: [Magistrát, Nová Palmovka, Palmovka, Veřejný prostor, Životní prost�
 fancybox:
   - name: Náměstí Bohumila Hrabala dostane novou tvář
     img:
-      - { src: posts/namesti-bohumila-hrabala/namhrabala1.jpg, title: }
-      - { src: posts/namesti-bohumila-hrabala/namhrabala2.jpg, title: }
-      - { src: posts/namesti-bohumila-hrabala/namhrabala3.jpg, title: }
-      - { src: posts/namesti-bohumila-hrabala/namhrabala4.jpg, title: }
+      - { src: posts/namesti-bohumila-hrabala/namhrabala1.jpg, title: Náměstí Bohumila Hrabala dostane novou tvář }
+      - { src: posts/namesti-bohumila-hrabala/namhrabala2.jpg, title: Náměstí Bohumila Hrabala dostane novou tvář }
+      - { src: posts/namesti-bohumila-hrabala/namhrabala3.jpg, title: Náměstí Bohumila Hrabala dostane novou tvář }
+      - { src: posts/namesti-bohumila-hrabala/namhrabala4.jpg, title: Náměstí Bohumila Hrabala dostane novou tvář }
 
 ---
 
