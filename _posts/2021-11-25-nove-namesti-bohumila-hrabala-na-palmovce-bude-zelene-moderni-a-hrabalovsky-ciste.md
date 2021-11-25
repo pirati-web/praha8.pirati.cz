@@ -22,5 +22,5 @@ Velmi podstatným momentem je, že realizace náměstí bude koordinována s vý
 >Přijali jsme odpovědnost za proměnu celé této části metropole. Proto už několik let neřešíme jen architekturu a poměr funkcí Palmovka One, ale i jeho okolí. Výsledkem je náměstí Bohumila Hrabala kvalitou dosahující evropských měřítek. A třeba i naše snaha o kvalitní obnovu a zpřístupnění plochy kolem unikátního objektu Libeň – dolní nádraží,“ doplňuje Kamil Hošták ze společnosti Landia Management, která je společně s Discovery Group investorem Palmovka One a společně s městskou částí Praha 8 byla zadavatelem studie nového náměstí Bohumila Hrabala.
 
 ### Ke stažení
-- [Studie Náměstí Bohumila Hrabala (UNIT, 6/2021)](https://drive.google.com/file/d/1YEcIDhC6mI9UTZRm0qjrMRmY1xli6gkC/view?usp=sharing)
+- [Studie Náměstí Bohumila Hrabala (UNIT, 6/2021)](https://mrak.pirati.cz/s/GcS6JiZ9dqAX7Pk)
  
