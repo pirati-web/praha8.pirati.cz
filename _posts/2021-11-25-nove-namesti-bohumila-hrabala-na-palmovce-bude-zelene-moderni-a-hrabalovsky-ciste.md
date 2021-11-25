@@ -3,6 +3,14 @@ title: Nové náměstí Bohumila Hrabala na Palmovce bude zelené, moderní a hr
 author: MHMP
 image: posts/namestibohumilahrabala.png
 tags: [Magistrát, Nová Palmovka, Palmovka, Veřejný prostor, Životní prostředí]
+fancybox:
+  - name: Jak bude vypadat Florenc?
+    img:
+      - { src: posts/namesti-bohumila-hrabala/namhrabala1.jpg, title: }
+      - { src: posts/namesti-bohumila-hrabala/namhrabala2.jpg, title: }
+      - { src: posts/namesti-bohumila-hrabala/namhrabala3.jpg, title: }
+      - { src: posts/namesti-bohumila-hrabala/namhrabala4.jpg, title: }
+
 ---
 
 **Nové náměstí, jež do roku 2025 vznikne v prostoru mezi stávajícím autobusovým nádražím a ulicí Na Žertvách v Praze 8, se stane hned v několika ohledech ukázkovým příkladem řešení městského veřejného prostoru. Palmovka přitom nadále zůstane významným uzlem pro chodce i cestující MHD, kde pohyb lidí je navržen s ohledem na jejich kvalitní orientaci a maximální bezpečnost. Předběžný rozpočet obnovy náměstí je stanoven na 80 milionů korun, investorem je Magistrát hl. m. Prahy.**
@@ -23,4 +31,18 @@ Velmi podstatným momentem je, že realizace náměstí bude koordinována s vý
 
 ### Ke stažení
 - [Studie Náměstí Bohumila Hrabala (UNIT, 6/2021)](https://mrak.pirati.cz/s/GcS6JiZ9dqAX7Pk)
+
+
+{% for galery in page.fancybox %}
+<div class="mt-4">
+  <h3>{{ galery.name }}</h3>
+  <div class="grid grid-cols-4 gap-4">
+  {% for item in galery.img %}
+    <div class="">
+      <a data-fancybox="gallery" href="{% asset '{{ item.src }}' @path %}" data-caption="{{ item.title }}">{% asset '{{ item.src }}' magick:resize='200x150^' magick:gravity='center' magick:crop='200x150+0+0' class="rounded" %}</a>
+    </div>
+  {% endfor %}
+  </div>
+</div>
+{% endfor %}
  
