@@ -1,6 +1,6 @@
 ---
 title: Dohoda s Magistrátem o Nové Palmovce je nejlepší možná pro Prahu 8
-authorId: jan.horn
+authorId: martin.sterba
 image: posts/osmicka_novapalmovka.png
 tags: [Časopis Osmička, Magistrát, Nová Palmovka]
 ---
