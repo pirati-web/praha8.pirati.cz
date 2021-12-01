@@ -1,5 +1,5 @@
 ---
-title: Praha 8 se dohodla s Metrostavem, Nová Palmovka se může dát rozvíjet
+title: Praha 8 se dohodla s Metrostavem, Nová Palmovka se může dál rozvíjet
 authorId: martin.sterba
 date: 2021-12-01
 image: posts/novapalmovka-vizualizace1.png
