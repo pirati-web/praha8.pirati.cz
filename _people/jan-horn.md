@@ -29,9 +29,11 @@ Narozen v dubnu roku 1979 v Praze. Vystudoval nejprve SŠ s ekonomickým zaměř
 Politicky se angažuje v MS na Praze 8, kde se dlouhodobě zapojuje do veřejně prospěšných projektů a akcí. V roce 2021 byl zvolen místopředsedou PMS na Praze 8.
 
 **Dosavadní činnost pro Pirátskou stranu, např.:**
-*    příprava, organizace a medializace ["Akce Čistý Rohan"](https://praha8.pirati.cz/aktuality/kdyz-to-neudelala-mestska-cast-vycistili-jsme-rohansky-ostrov-od-neporadku-sami.html) na P8 v roce 2021
-*    příprava, organizace a medializace ["Akce H"](https://praha8.pirati.cz/aktuality/louze-v-pivovarnicke.html) na P8,
-*    příprava, organizace a medializace "Akce Vrak" na P8,
+*    pomoc s přípravou a organizací [sousedského setkání a zvelebování karlínských schodů](https://praha8.pirati.cz/aktuality/dobra-vec-se-podarila-v-karline-uz-si-snad-nikdo-na-schodech-nohu-nezlomi.html),
+*    pomoc s očkováním seniorů v rámci pandemie nemoci Covid-19 v Praze 8 v roce 2021,
+*    příprava, organizace a medializace ["Akce Čistý Rohan"](https://praha8.pirati.cz/aktuality/kdyz-to-neudelala-mestska-cast-vycistili-jsme-rohansky-ostrov-od-neporadku-sami.html) v Praze 8 v roce 2021,
+*    příprava, organizace a medializace ["Akce H"](https://praha8.pirati.cz/aktuality/louze-v-pivovarnicke.html) u Kotlasky v roce 2018,
+*    příprava, organizace a medializace "Akce Vrak" nedaleko Löwitova mlýnu v roce 2018,
 
 *    vypracování (nakonec nevyužitého) projektu „Pipoušek“,
 *    aktivní pomoc při tvorbě článků a sazby Pirátských listů,
