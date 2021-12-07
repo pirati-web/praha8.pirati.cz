@@ -6,7 +6,7 @@ image: posts/obecnybyty-mahuopletalova.png
 tags: [Bydlení, Sociální služby]
 ---
 
-**Komise pro obecní byty městské části Praha 8 přijala nové zásady a podmínky pro nakládání s byty v domech v majetku hlavního města Prahy svěřených do správy naší městské části, které zohledňují i občany s nízkými příjmy. Ty připravila naše členka komise Magdalena Opletalová společně se Štěpánem Ripkou ze sekretarátu radního pro bydlení a transparentnst hl. města Prahy a a místostarostou Prahy 8 Jiřím Vítkem (Patrioti). V této náročné době se tak jedná o další dobrou zprávu.**
+**Komise pro obecní byty městské části Praha 8 přijala nové zásady a podmínky pro nakládání s byty v domech v majetku hlavního města Prahy svěřených do správy naší městské části, které zohledňují i občany s nízkými příjmy. Ty připravila naše členka komise Magdalena Opletalová společně se Štěpánem Ripkou ze sekretarátu pražského radního pro bydlení a transparentnst a místostarostou Prahy 8 Jiřím Vítkem (Patrioti). V této náročné době se tak jedná o další dobrou zprávu.**
 
 Byty mají být určeny pro osoby, které se ocitly v tíživé bytové situaci a které si nemohou zajistit bytové potřeby vlastními prostředky. V případě, že městské části Praha 8 nebude mít dostatek volných bytů pro tyto účely, budou žadatelé odkazováni na možnost požádat si o byt prostřednictvím příslušného odboru Magistrátu hl. m. Prahy.
 
