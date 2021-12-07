@@ -1,9 +1,9 @@
 ---
-title: Praha 8 má nakročeno k novým zásadám pro přidělování obecních bytů
+title: Máme nakročeno k novým zásadám pro přidělování obecních bytů, pomohli jsme je vytvořit
 authorId: magdalena.opletalova
 date: 2021-12-07
 image: posts/obecnybyty-mahuopletalova.png
-tags: [Nová Palmovka, Magistrát, Územní rozvoj, Zastupitelstvo]
+tags: [Bydlení, Sociální služby]
 ---
 
 **Komise pro obecní byty městské části Praha 8 přijala nové zásady a podmínky pro nakládání s byty v domech v majetku hlavního města Prahy svěřených do správy naší městské části, které zohledňují i občany s nízkými příjmy. Ty připravila naše členka komise Magdalena Opletalová společně se Štěpánem Ripkou ze sekretarátu radního pro bydlení a transparentnst hl. města Prahy a a místostarostou Prahy 8 Jiřím Vítkem (Patrioti). V této náročné době se tak jedná o další dobrou zprávu.**
