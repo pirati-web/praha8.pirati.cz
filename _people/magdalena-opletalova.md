@@ -9,7 +9,7 @@ category:
 ordpms: 4
 img: people/magdalena-opletalova.jpg
 heroImg: posts/psi-louka.jpg
-profession: molekulární bioložka a genetička
+profession: ředitelka Fokus Praha
 partyUid: pirati
 description: členka MS Praha 8
 teamDescription:
