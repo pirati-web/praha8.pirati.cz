@@ -1,7 +1,7 @@
 ---
 title: Městská část Prahy 8 názorně předvedla, jak nedělat rozpočet
 authorId: tomas.marik
-image: posts/finance2.png
+image: posts/finance3.png
 tags: [Finance, Zastupitelstvo]
 ---
 
@@ -30,5 +30,5 @@ V případě rozpočtu Prahy 8 na rok 2018 ale nebyla patrna ani shoda napříč
 **A tak se vás vážení voliči ptáme?** Jak odmítnout postup, kdy vládnoucí koalice bez předchozího projednání s ostatními zastupiteli a bez účasti veřejnosti (tedy vás) odsouhlasí rozpočet MČ s tak gigantickým schodkem? Rozpočet je veřejná věc, musí být veřejně prezentován, diskutován. A námitky občanů musí být už konečně brány vážně a musí být zohledněny při jeho sestavování. Jinak nikdy nebude fungovat princip zastupitelské demokracie. Tito lidé zastupují jen sami sebe. Piráti zastupují lidi, kteří je volí.
 
 ### Odkazy
-- Odkaz na schválený rozpočet: https://www.praha8.cz/Rozpocet-mestske-casti-Praha-8-pro-rok-2018.html
-- Odkaz na záznam z jednání zastupitelstva MČ 8 z 28. 2. 2018: http://bitest.videostream.sk/praha8/archiv/20180228/index.html
+- [Schválený rozpočet na rok 2018](https://www.praha8.cz/Rozpocet-mestske-casti-Praha-8-pro-rok-2018.html
+- [Záznam z jednání zastupitelstva MČ 8 z 28. 2. 2018](http://bitest.videostream.sk/praha8/archiv/20180228/index.html)
