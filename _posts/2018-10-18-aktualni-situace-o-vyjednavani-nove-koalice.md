@@ -3,7 +3,7 @@ title: Vyjednáváme. Společně s 8Žije jsme předložili možným partnerům 
 authorId: alice.hamalova
 date: 2018-10-18
 image: posts/pirati-random1.png
-tags: [Volby 2018]
+tags: [Osmička žije, Volby 2018]
 ---
 
 **Vyjednávací týmy Pirátů a 8žije jednaly od neděle 7. 10. 2018 o vzniku koalice na Praze 8 s TOP 09 a STAN, Patrioty a 8sobě (Zelení a KDU-ČSL). Oba dva týmy se shodly, že jakmile dosáhnou stabilní koaliční většiny hlasů s dalšími partnery, neprodleně vyzvou ke svolání zastupitelstva Prahy 8.**
