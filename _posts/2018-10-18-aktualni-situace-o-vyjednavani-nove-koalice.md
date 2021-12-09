@@ -1,6 +1,6 @@
 ---
 title: Vyjednáváme. Společně s 8Žije jsme předložili možným partnerům několik návrhů uspořádání
-authorID: alice.hamalova
+authorId: alice.hamalova
 date: 2018-10-18
 image: posts/pirati-random1.png
 tags: [Volby 2018]
