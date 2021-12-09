@@ -1,7 +1,7 @@
 ---
 title: Prohlášení k aktuálním kauzám Karla Ptáčka, Michala Schwarzkopfa a Iva Slávky
 authorId: michal.novak
-date: 2021-10-27
+date: 2018-10-27
 image: posts/pirati-random1.png
 tags: [Piráti]
 ---
