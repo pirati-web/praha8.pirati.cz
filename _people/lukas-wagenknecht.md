@@ -21,6 +21,8 @@ profiles:
   blog: http://blog.aktualne.cz/blogy/lukas-wagenknecht.php
   web: https://lukaswagenknecht.cz/
   flickr: https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=luk%C3%A1%C5%A1%20wagenknecht 
+funkce:
+  - senátor
 asistenti:
   - name: Ing. Karolína Ždárská
     position: Asitentka
