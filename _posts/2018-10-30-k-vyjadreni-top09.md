@@ -1,7 +1,7 @@
 ---
 title: TOP 09 a STAN s námi už nechtějí jednat o koalici
 authorId: alice.hamalova
-image: posts/logo-spojenych-sil.png
+image: posts/pirati-random1.png
 tags: [STAN, TOP09, Volby 2018]
 ---
 
