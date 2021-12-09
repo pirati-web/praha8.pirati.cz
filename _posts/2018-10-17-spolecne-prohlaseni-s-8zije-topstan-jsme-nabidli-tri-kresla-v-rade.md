@@ -3,7 +3,7 @@ title: Společné prohlášení s 8Žije. TOP09 a STAN jsme nabídli 3 křesla v
 author: Piráti Praha 8
 date: 2018-10-17
 image: posts/pirati-random1.png
-tags: [Osmička žije, Volby 2018]
+tags: [Osmička žije, TOP09, STAN, Volby 2018]
 ---
 
 **Ač není naším běžným přístupem komentovat běžící jednání, rozhodli jsme se vzhledem k množícím se dotazům našich voličů vydat následující prohlášení k nepřehledné povolební situaci v naší městské části.**
