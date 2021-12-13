@@ -33,4 +33,4 @@ U Pirátů mě zaujaly hodnoty, které sám vyznávám: otevřenost, rovný př�
 
 Mám rád historii, esoteriku, hudbu, filmy a Shakespearovské divadlo v originále.
 
-**Od podzimu 2018 jsem zastupitelem Prahy 8 za Pirát a jsem předsedou našeho zastupitelského klubu.**  Od ledna 2018 do ledna 2019 jsem působil jako předseda místního sdružení, od ledna 2019 do ledna 2021 pak jako jeho místopředseda.
+**Od podzimu 2018 jsem zastupitelem Prahy 8 za Pirát a jsem předsedou našeho zastupitelského klubu.** Od ledna 2018 do ledna 2019 jsem působil jako předseda místního sdružení, od ledna 2019 do ledna 2021 pak jako jeho místopředseda.
