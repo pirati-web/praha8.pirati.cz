@@ -5,7 +5,7 @@ date: 2021-12-16
 image: posts/nova-palmovka-prosinec2021/novapalmovka04.jpeg
 tags: [Nová Palmovka, Magistrát, Územní rozvoj, Zastupitelstvo]
 fancybox:
-  - name: Jak to vypadá v Nové Palmovce (prosinec 2021)
+  - name: Aktuální stav - prosinec 2021
     img:
       - { src: posts/nova-palmovka-prosinec2021/novapalmovka01.jpeg, title: Aktuální stav Nové Palmovky }
       - { src: posts/nova-palmovka-prosinec2021/novapalmovka02.jpeg, title: Aktuální stav Nové Palmovky }
