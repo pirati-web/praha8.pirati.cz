@@ -1,5 +1,5 @@
 ---
-title: Jak vypadá Nová Palmovku uvnitř? Pojďte se podívat!
+title: Jak vypadá Nová Palmovka uvnitř? Pojďte se podívat!
 authorId: martin.sterba
 date: 2021-12-16
 image: posts/nova-palmovka-prosinec2021/novapalmovka04.jpeg
