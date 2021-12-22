@@ -1,5 +1,5 @@
 ---
-title: Na jaře se začne stavět trolejbusová trať z Palmovky
+title: Na jaře se začne stavět trolejbusová trať z Palmovky do Miškovic
 authorId: martin.sterba
 date: 2021-12-22
 image: posts/palmovka-trolejbusy.jpg
