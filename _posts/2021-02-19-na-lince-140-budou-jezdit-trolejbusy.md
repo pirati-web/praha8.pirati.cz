@@ -2,7 +2,7 @@
 title: Na lince 140 z Palmovky do Miškovic budou jezdit trolejbusy
 authorId: martin.sterba
 image: posts/trolejbusy-praha8.jpg
-tags: [Libeň, Doprava, Magistrát]
+tags: [Libeň, Doprava, Magistrát, Trolejbusy v Praze 8]
 ---
 
 **Magistrát nakoupí nové trolejbusy, které budou nasazeny i na linku 140, která vede z Palmovky přes Prosek, Letňany, Čakovice do Miškovic. Trolejbusy tak nahradí zastaralé kloubové autobusy, čímž dojde k významného snížení produkce hluku a emisi škodlivin z autobusů a také k rozvoji nízkouhlíkové městské dopravy a tím i k rozvoji udržitelné mobility.** Vzhledem k vytížení linky dosahuje spotřeba nafty na lince 140 nadprůměrné hodnoty takřka 52 litrů nafty na 100 km.
