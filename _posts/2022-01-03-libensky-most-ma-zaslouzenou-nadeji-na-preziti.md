@@ -3,7 +3,7 @@ title: Libeňský most má zaslouženou naději na přežití
 authorId: tomas.marik 
 date: 2022-01-03
 image: posts/libenskymost2.jpg
-tags: [Časopis Osmička, Doprava, Libeňský most, Veřejný most]
+tags: [Časopis Osmička, Doprava, Libeňský most, Veřejný prostor]
 ---
 
 V roce 2015 vznikla iniciativa "Libeňský most nebourat, nerozšiřovat", na které jsem se osobně podílel. Zejména díky snahám Adama Scheinherra se tehdy podařilo shromáždit obrovské množství dat, posudků, vyjádření, které dokazovaly, že není radno tuto jedinečnou a hodnotnou stavbu bourat ani z ekonomického hlediska, a že projektovaný most dálničního typu je zbytečný. 
