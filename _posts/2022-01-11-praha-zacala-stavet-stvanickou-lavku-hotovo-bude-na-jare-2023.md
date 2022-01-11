@@ -15,11 +15,6 @@ fancybox:
       - { src: posts/zahajeni-stavby-stvanicke-lavky/zahajeni-stavby-stvanicke-lavky7.jpg, title: Zahájení výstavby Štvanické lávky }
       - { src: posts/zahajeni-stavby-stvanicke-lavky/zahajeni-stavby-stvanicke-lavky8.jpg, title: Zahájení výstavby Štvanické lávky }      
       - { src: posts/zahajeni-stavby-stvanicke-lavky/zahajeni-stavby-stvanicke-lavky9.jpg, title: Zahájení výstavby Štvanické lávky }
-  - name: Vizualizace Štvanické lávky
-    img:
-      - { src: posts/vizualizace-stvanicka-lavka/lavky1.jpg, title: Štvanická lávka }
-      - { src: posts/vizualizace-stvanicka-lavka/lavky2.jpg, title: Štvanická lávka }
-      - { src: posts/vizualizace-stvanicka-lavka/lavky3.jpg, title: Štvanická lávka }
 ---
 
 **Dnes byla zahájena stavba Štvanické lávky, která propojí Karlín s Holešovicemi. Hotovo bude za zhruba 14 měsíců - otevření nové lávky by mělo být začátkem jara příští roku. Pěším a cyklistům se tak výrazně usnadní přesun mezi oběma břehy řeky a zlepší se i přístup do zeleně na Štvanici.**
@@ -38,15 +33,15 @@ Podoba HolKy vzešla z mezinárodní architektonicko-konstrukční soutěže a v
 
 Stavba lávky si vyžádá také mimořádná dopravní opatření. Práce budou realizovány v koordinaci s chystanou rekonstrukcí kanalizace na Bubenském nábřeží před Pražskou tržnicí i s následnou obnovou komunikace včetně tramvajové tratě na stejném místě. První omezení automobilové i cyklistické dopravy včetně pěších je naplánováno už od soboty 15. ledna 2022.
 
-<div>
-{% for zs in page.fancybox %}
-	<h3>{{ zs.name }}</h3>
-	<div class="flex">
-	{% for item in zs.img %}
-		<div class="flex-none mr-4">
-			<a data-fancybox="gallery" href="{% asset '{{ item.src }}' @path %}" data-caption="{{ item.title }}">{% asset '{{ item.src }}' magick:resize="200" class=" rounded" width="200" %}</a>
-		</div>
-	{% endfor %}
-	</div>
-{% endfor %}
+{% for galery in page.fancybox %}
+<div class="mt-4">
+  <h3>{{ galery.name }}</h3>
+  <div class="grid grid-cols-4 gap-4">
+  {% for item in galery.img %}
+    <div class="">
+      <a data-fancybox="gallery" href="{% asset '{{ item.src }}' @path %}" data-caption="{{ item.title }}">{% asset '{{ item.src }}' magick:resize='200x150^' magick:gravity='center' magick:crop='200x150+0+0' class="rounded" %}</a>
+    </div>
+  {% endfor %}
+  </div>
 </div>
+{% endfor %}
