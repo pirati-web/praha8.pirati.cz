@@ -30,7 +30,7 @@ Díky lávce se karlínští dostanou za pár minut před brány Holešovické t
 
 >"Spojení novou lávkou mezi Karlínem a Holešovicemi je dobrý krok, jak zajistit občanům snadnou a bezpečnou prostupnost mezi oběma čtvrtěmi pěšky či na kole. Osobně jsem rád, že projekt zahajujeme symbolicky v roce, kdy slavíme 100 let připojení Karlína k hlavnímu městu Praze,“ říká starosta městské části Praha 8 Ondřej Gros (ODS).
 
->"Spojení dvou břehů Vltavy obyvatelé Karlína a Holešovic potřebovali dlouhé roky. Výstavbu lávky, která propojí Karlín s Holešovicemi, jsme proto také v našem programu pro komunální volby v roce 2018. Jsem moc rád, že hlavní město Praha pod vedením Pirátů teď lávku začíná stavět. Dík zaslouží všichni, kteří se na tom podíleli," říká předseda Pirátů v Praze 8 [Martin Štěrba](https://praha8.pirati.cz/lide/martin-sterba.html).
+>"Spojení dvou břehů Vltavy obyvatelé Karlína a Holešovic potřebovali dlouhé roky. Výstavbu lávky, která propojí Karlín s Holešovicemi, jsme proto měli také v našem programu pro komunální volby v roce 2018. Jsem moc rád, že hlavní město Praha pod vedením Pirátů teď lávku začíná stavět. Dík zaslouží všichni, kteří se na tom podíleli," říká předseda Pirátů v Praze 8 [Martin Štěrba](https://praha8.pirati.cz/lide/martin-sterba.html).
 
 Lávka je navržena jako segmentový trámový most s parapetními nosníky. Délka mostu je 299,4 metru, délka boční rampy na Štvanici je 84 metrů. Stavba sestává z osmi polí, maximální rozpětí pole je 55,4 metru. Založena bude hlubinně na velkoprůměrových vrtaných pilotách. Počítá se také se zakládáním v řece Vltavě. Krajní pole na holešovickém břehu je pro případ povodní navrženo jako zdvižné.
 
