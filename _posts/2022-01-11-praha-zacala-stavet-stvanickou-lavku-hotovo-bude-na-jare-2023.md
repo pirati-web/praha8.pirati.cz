@@ -15,6 +15,11 @@ fancybox:
       - { src: posts/zahajeni-stavby-stvanicke-lavky/zahajeni-stavby-stvanicke-lavky7.jpg, title: Zahájení výstavby Štvanické lávky }
       - { src: posts/zahajeni-stavby-stvanicke-lavky/zahajeni-stavby-stvanicke-lavky8.jpg, title: Zahájení výstavby Štvanické lávky }      
       - { src: posts/zahajeni-stavby-stvanicke-lavky/zahajeni-stavby-stvanicke-lavky9.jpg, title: Zahájení výstavby Štvanické lávky }
+- name: Vizualizace Štvanické lávky
+    img:
+      - { src: posts/vizualizace-stvanicka-lavka/lavka1.jpg, title: Vizualizace Štvanické lávky }
+      - { src: posts/vizualizace-stvanicka-lavka/lavka2.jpg, title: Vizualizace Štvanické lávky }
+      - { src: posts/vizualizace-stvanicka-lavka/lavka3.jpg, title: Vizualizace Štvanické lávky }
 ---
 
 **Dnes byla zahájena stavba Štvanické lávky, která propojí Karlín s Holešovicemi. Hotovo bude za zhruba 14 měsíců - otevření nové lávky by mělo být začátkem jara příští roku. Pěším a cyklistům se tak výrazně usnadní přesun mezi oběma břehy řeky a zlepší se i přístup do zeleně na Štvanici.**
