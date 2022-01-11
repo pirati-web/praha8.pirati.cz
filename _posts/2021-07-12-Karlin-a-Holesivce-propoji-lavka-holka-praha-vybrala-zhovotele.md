@@ -2,7 +2,7 @@
 title: Karlín a Holešovice propojí nová lávka HolKa, Praha vybrala zhotovitele
 author: MHMP
 image: posts/lavka-holesovice-holka2.png
-tags: [Doprava, Karlín, Lávka HolKa]
+tags: [Doprava, Karlín, Štvanická lávka (HolKa)]
 ---
 
 **Rada hlavního města Prahy dnes rozhodla o výběru dodavatele stavby lávky Holešovice-Karlín (HolKa). Stala se jím společnost Skanska, která ve výběrovém řízení nabídla cenu 298 035 236 Kč bez DPH.** 
