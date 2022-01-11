@@ -2,7 +2,7 @@
 title: Dobrá zpráva! Holešovice a Karlín propojí nová lávka
 authorId: martin.sterba
 image: posts/lavka-holesovice-holka.jpg
-tags: [Lávka HolKa, Karlín, Doprava]
+tags: [Doprava, Karlín, Štvanická lávka (HolKa)]
 ---
 
 **Měli jsme výstavbu lávky mezi Karlínem a Holešovicemi s názvem HolKa ve svém volebním programu. Jsme proto rádi, že to i díky kolegům na Magistrátu hlavního města Prahy klaplo, a lávka se začne stavět. Hotová bude do konce roku 2022.**
