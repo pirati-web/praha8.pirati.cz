@@ -15,7 +15,7 @@ fancybox:
       - { src: posts/zahajeni-stavby-stvanicke-lavky/zahajeni-stavby-stvanicke-lavky7.jpg, title: Zahájení výstavby Štvanické lávky }
       - { src: posts/zahajeni-stavby-stvanicke-lavky/zahajeni-stavby-stvanicke-lavky8.jpg, title: Zahájení výstavby Štvanické lávky }      
       - { src: posts/zahajeni-stavby-stvanicke-lavky/zahajeni-stavby-stvanicke-lavky9.jpg, title: Zahájení výstavby Štvanické lávky }
-- name: Vizualizace Štvanické lávky
+  - name: Vizualizace Štvanické lávky
     img:
       - { src: posts/vizualizace-stvanicka-lavka/lavka1.jpg, title: Vizualizace Štvanické lávky }
       - { src: posts/vizualizace-stvanicka-lavka/lavka2.jpg, title: Vizualizace Štvanické lávky }
