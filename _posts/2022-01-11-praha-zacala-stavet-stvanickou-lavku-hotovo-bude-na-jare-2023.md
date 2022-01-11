@@ -38,15 +38,15 @@ Podoba HolKy vzešla z mezinárodní architektonicko-konstrukční soutěže a v
 
 Stavba lávky si vyžádá také mimořádná dopravní opatření. Práce budou realizovány v koordinaci s chystanou rekonstrukcí kanalizace na Bubenském nábřeží před Pražskou tržnicí i s následnou obnovou komunikace včetně tramvajové tratě na stejném místě. První omezení automobilové i cyklistické dopravy včetně pěších je naplánováno už od soboty 15. ledna 2022.
 
-{% for galery in page.fancybox %}
-<div class="mt-4">
-  <h3>{{ galery.name }}</h3>
-  <div class="grid grid-cols-4 gap-4">
-  {% for item in galery.img %}
-    <div class="">
-      <a data-fancybox="gallery" href="{% asset '{{ item.src }}' @path %}" data-caption="{{ item.title }}">{% asset '{{ item.src }}' magick:resize='200x150^' magick:gravity='center' magick:crop='200x150+0+0' class="rounded" %}</a>
-    </div>
-  {% endfor %}
-  </div>
-</div>
+<div>
+{% for zs in page.fancybox %}
+	<h3>{{ zs.name }}</h3>
+	<div class="flex">
+	{% for item in zs.img %}
+		<div class="flex-none mr-4">
+			<a data-fancybox="gallery" href="{% asset '{{ item.src }}' @path %}" data-caption="{{ item.title }}">{% asset '{{ item.src }}' magick:resize="200" class=" rounded" width="200" %}</a>
+		</div>
+	{% endfor %}
+	</div>
 {% endfor %}
+</div>
