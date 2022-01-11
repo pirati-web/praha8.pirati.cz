@@ -2,7 +2,7 @@
 title: V zimě začne stavba stopadesátimetrové lávky mezi Karlínem a Holešovicemi
 authorId: martin.sterba
 image: posts/lavka-holesovice-holka3.png
-tags: [Lávka HolKa, Karlín, Doprava]
+tags: [Štvanická lávka (HolKa), Karlín, Doprava]
 ---
 
 **Dlouho očekávaný projekt výstavby lávky HolKa usnadní přesun pěším i cyklistům mezi dvěma dynamicky se rozvíjejícími pražskými čtvrtěmi. Zároveň aktivuje vznik navazujících projektů hlavního města a soukromého investora CA Immo, které přispějí k zatraktivnění vltavského nábřeží v oblasti Rohanského ostrova.**
