@@ -28,7 +28,7 @@ funkce:
 {% include buttons/icon.html href="https://www.profant.eu" cta="Přejít na profant.eu" icon="ico--globe" class="content-block--nostyle btn--hoveractive btn--to-orange-300" %}
 </div>
 
-Ondřej Profant (2. května 1988) je členem místního sdružení Praha 8. Stál u zrodu Pirátů, byl členem přípravného výboru České pirátské strany, později místopředsedou strany a předsedou krajského sdružení. Od roku 2014 do konce roku 2017 byl zastupitelem hlavního města Prahy, od října 2017 do října 2021 pak poslancem Poslanecké sněmovny Parlamentu ČR. 
+Ondřej Profant (2. května 1988) je členem místního sdružení Praha 8. Stál u zrodu Pirátů, byl členem přípravného výboru České pirátské strany, později místopředsedou strany a předsedou krajského sdružení. Od roku 2014 do konce roku 2017 byl zastupitelem hlavního města Prahy, od října 2017 do října 2021 pak poslancem Poslanecké sněmovny Parlamentu ČR. Od ledna 2022 je náměstkem vicepremiéra pro digitalizaci a ministra pro místní rozvoj Ivana Bartoše.
 
 ### Motivace
 
