@@ -20,6 +20,9 @@ profiles:
   flickr:	   https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=ond%C5%99ej%20profant
   evidence:  https://evidence.pirati.cz/author/8/
   odmeny:    https://nalodeni.pirati.cz/odmeny/ondrej.profant
+funkce:
+  - náměstek <a href="https://mmr.cz/cs/kontakty/kontakty-na-vedeni-ministerstva">ministra pro místní rozvoj</a>
+  
 ---
 <div class="mb-4">
 {% include buttons/icon.html href="https://www.profant.eu" cta="Přejít na profant.eu" icon="ico--globe" class="content-block--nostyle btn--hoveractive btn--to-orange-300" %}
