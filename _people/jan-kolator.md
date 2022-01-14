@@ -8,6 +8,7 @@ category:
   - clenove
   - zastupitele
 ordpms: 2
+ordzas: 3
 img: people/jan-kolator.jpg
 heroImg: posts/skatepark-bohnice.jpg
 profession: systémový knihovník
