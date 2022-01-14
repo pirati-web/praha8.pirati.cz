@@ -22,7 +22,7 @@ profiles:
 funkce:
   - místopředsedkyně MS Praha 8
   - členka republikového výboru Pirátů
-  - členka <a href="https://www.praha8.cz/Komise-pro-obecni-byty-2018-2022.html">Komise pro obecní byty</a>
+  - členka <a href="https://www.praha8.cz/Komise-pro-obecni-byty-2018-2022.html">Komise pro obecní byty RMČP8</a>
   - členka <a href="https://www.psp.cz/sqw/snem.sqw?l=cz&id=1570">Stálé komise pro rodinu a rovné příležitosti PSP ČR</a>
 ---
 Jmenuji se Magdalena Opletalová, říká se mi Mahu. Původní profesí jsem molekulární genetička, později matka sedmi skvělých dětí, sociální pracovnice, manažerka, krizová interventka a učitelka. 
