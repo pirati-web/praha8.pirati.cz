@@ -7,7 +7,7 @@ titles:
 category:
   - zastupitele
   - clenove
-ordzas: 3
+ordzas: 4
 img: people/karel-ptacek.jpg
 heroImg: posts/rohancity.jpg
 profession: projektový manažer
