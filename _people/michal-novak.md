@@ -19,6 +19,7 @@ mail:
 profiles:
   facebook:  https://www.facebook.com/icydicey
 funkce:
+  - zastupitel <a href="https://www.praha8.cz/Klub-Ceska-piratska-strana.html">MČ Praha 8</a>
   - předseda <a href="https://www.praha8.cz/Klub-Ceska-piratska-strana.html">zastupitelského klubu</a>
   - místopředseda <a href="https://www.praha8.cz/Vybory-zastupitelstva-Mestske-casti-Praha-8.html">Kontrolního výboru</a>
   - člen <a href="https://www.praha8.cz/Komise-pro-dopravu-2018-2022.html">Komise pro dopravu</a>
