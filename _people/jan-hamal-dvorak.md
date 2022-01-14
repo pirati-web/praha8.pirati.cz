@@ -17,8 +17,8 @@ mail:
 profiles:
   odmeny:    https://nalodeni.pirati.cz/odmeny/jan.hamal.dvorak
 funkce:
-  - <a href="https://www.praha8.cz/Klub-Ceska-piratska-strana.html">zastupitel</a>
-  - místopředseda <a href="https://www.praha8.cz/Komise-pro-informatiku-2018-2022.html">Komise pro informatiku</a>
+  - <a href="https://www.praha8.cz/Klub-Ceska-piratska-strana.html">zastupitel MČ Praha 8</a>
+  - místopředseda <a href="https://www.praha8.cz/Komise-pro-informatiku-2018-2022.html">Komise pro informatiku RMČP8</a>
 ---
 
 Jan Hamal Dvořák (* 11. září 1987 v Praze) Vystudoval gymnázium Vítězslava Nováka v Jindřichově Hradci, kde maturoval z informatiky. Navázal praxí jako správce Linuxových systémů a programátor. V současnosti pracuje především v Národní technické knihovně, kde spravuje infrastrukturu a vyvíjí otevřené aplikace. V oblasti IT také podniká.
