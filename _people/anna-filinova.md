@@ -18,8 +18,6 @@ mail:
 profiles:
  odmeny: https://nalodeni.pirati.cz/odmeny/anna.filinova
 funkce:
-  - <a href="https://www.praha8.cz/Klub-Ceska-piratska-strana.html">zastupitelka</a>
-  - členka <a href="https://www.praha8.cz/Komise-pro-socialni-veci-seniory-a-narodnostni-mensiny-2018-2022.html">Komise pro sociální věci, seniory a národnostní menšiny</a>
 ---
 
 Anna Filínová pochází z Mostu a od roku 2006 žije v Praze.
@@ -35,3 +33,5 @@ Koordinovala kampaň čerčanského hospice, která měla upozornit na možnosti
 Má ráda divadlo, hudbu a knihy. Rok žila v nizozemském Amsterdamu, kde pomáhala místnímu hudebnímu labelu. Také se zde podílela na festivalu krátkých filmů, který pak několik let realizovala i v Praze.
 
 Zajímá se o životní prostředí i o možnosti využití veřejného prostoru. Bojuje za opravu obrovské neudržované zdi pod Proseckými skalami, aby byla následně využita jako plátno a namaloval se zde obraz inspirovaný libeňským dekadentním umělcem Karlem Hlaváčkem.
+
+Po komunálních volbách 2018 byla zvolena zastupitelkou a následně i členkou komise pro sociální věci, seniory a národnostní menšiny. V lednu 2022 na obě funkce rezignovala ze zdravotních důvodů. 
