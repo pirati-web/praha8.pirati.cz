@@ -6,6 +6,7 @@ titles:
 category:
   - pms
   - clenove
+  - zastupitele
 ordpms: 2
 img: people/jan-kolator.jpg
 heroImg: posts/skatepark-bohnice.jpg
@@ -15,12 +16,14 @@ description: koordinátor gesce bezpečnost
 teamDescription:
   pms: 1. místopředseda MS Praha 8
   contact: kontakt pro nováčky
+  zastupitele: zastupitel
 mail:
   - jan.kolator@pirati.cz
 profiles:
   facebook: https://www.facebook.com/jan.kolator.1
   odmeny:   https://nalodeni.pirati.cz/odmeny/jan.kolator
 funkce:
+  - zastupitel MČ Praha 8
   - 1. místopředseda MS Praha 8
   - člen <a href="https://www.praha8.cz/Komise-pro-bezpecnost-a-prevenci-socialnepatologickych-jevu-2018-2022.html">Komise pro bezpečnost a prevenci sociálně patologických jevů</a>
 ---
