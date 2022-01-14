@@ -24,7 +24,7 @@ profiles:
   odmeny:   https://nalodeni.pirati.cz/odmeny/martin.stanek
 funkce:
   - <a href="https://www.praha8.cz/Klub-Ceska-piratska-strana.html">zastupitel MČ Praha 8</a>
-  - člen <a href="https://www.praha8.cz/Komise-pro-kulturu-a-volny-cas-2018-2022.html">Komise pro kulturu a volný čas</a>
+  - člen <a href="https://www.praha8.cz/Komise-pro-kulturu-a-volny-cas-2018-2022.html">Komise pro kulturu a volný čas RMČP8</a>
 ---
 
 
