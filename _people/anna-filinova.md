@@ -10,9 +10,9 @@ img: people/anna-filinova.jpg
 heroImg: posts/rousky_anicka.jpg
 profession: projektová manažerka
 partyUid: bezpp
-description: garantka pro sociální oblast
+description: 
 teamDescription:
-  zastupitele: zastupitelka
+  zastupitele: regp
 mail:
   - anna.filinova@pirati.cz
 profiles:
