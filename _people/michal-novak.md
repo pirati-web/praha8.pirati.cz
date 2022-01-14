@@ -21,9 +21,9 @@ profiles:
 funkce:
   - zastupitel <a href="https://www.praha8.cz/Klub-Ceska-piratska-strana.html">MČ Praha 8</a>
   - předseda <a href="https://www.praha8.cz/Klub-Ceska-piratska-strana.html">zastupitelského klubu</a>
-  - místopředseda <a href="https://www.praha8.cz/Vybory-zastupitelstva-Mestske-casti-Praha-8.html">Kontrolního výboru ZMČ P8</a>
-  - člen <a href="https://www.praha8.cz/Komise-pro-dopravu-2018-2022.html">Komise pro dopravu RMČ P8</a>
-  - člen <a href="https://www.praha8.cz/Komise-pro-majetek-ekonomika-mestskych-organizaci-2018-2022.html">Komise pro majetek (+ekonomika městských organizací) RMČ P8</a>
+  - místopředseda <a href="https://www.praha8.cz/Vybory-zastupitelstva-Mestske-casti-Praha-8.html">Kontrolního výboru ZMČP8</a>
+  - člen <a href="https://www.praha8.cz/Komise-pro-dopravu-2018-2022.html">Komise pro dopravu RMČP8</a>
+  - člen <a href="https://www.praha8.cz/Komise-pro-majetek-ekonomika-mestskych-organizaci-2018-2022.html">Komise pro majetek (+ekonomika městských organizací) RMČP8</a>
 ---
 
 Jsem členem Pirátů od října 2017. Na Praze 8, konkrétně v Kobylisích, žiji od svého jednoho roku (v roce 2021 tedy již 48 let).
