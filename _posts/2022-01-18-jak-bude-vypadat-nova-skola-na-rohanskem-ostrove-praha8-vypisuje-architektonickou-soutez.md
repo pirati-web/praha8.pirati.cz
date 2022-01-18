@@ -11,5 +11,5 @@ Předsedkyní poroty je Ing. arch. Lada Kolaříková, řádnými členy potom z
 Ing. Martin Kodeš (zástupci investora), Ing. Iveta Olšovská (architekt krajinář) a Mgr. Iveta Trojanová (ředitelka školy ZŠ Bohumila Hrabala).
 
 **Více informací:**
-- [web České komory architektů](https://www.cka.cz/cs/souteze/probihajici/navrh-architektonickeho-reseni-zakladni-skoly-rohan-praha-8
+- [web České komory architektů](https://www.cka.cz/cs/souteze/probihajici/navrh-architektonickeho-reseni-zakladni-skoly-rohan-praha-8)
 - [web MČ Praha 8](https://ezak.praha8.cz/contract_display_405.html)
