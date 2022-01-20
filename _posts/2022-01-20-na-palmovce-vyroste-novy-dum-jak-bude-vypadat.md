@@ -1,7 +1,7 @@
 ---
-title: Na Palmovce vyroste nový městský dům, město vyhlásilo soutěž
+title: Na Palmovce vyroste nový městský dům. Jak bude vypadat?
 authorId: karel.ptacek
-image: palmovka-bytovydum5.jpg
+image: posts/palmovka-bytovydum5.jpg
 tags: [Bydlení, Palmovka, Magistrát, Územní rozvoj]
 ---
 
