@@ -9,7 +9,7 @@ tags: [Bydlení, Palmovka, Magistrát, Územní rozvoj]
 
 V přízemí a prvních dvou patrech se počítá se nebytovými prostory pro maloobchod a administrativu, ve vyšších patrech budou městské nájemní byty. Investiční akci schválila Rada hl. m. Prahy a Investiční expertní výbor Pražské developerské společnosti. 
 
-“V současné době, kdy ceny bytů u developerských projektů stále rostou a stávají se pro střední třídu obyvatelstva již nedostupné, vítám tento krok ze strany Magistrátu pozitivně. Věřím, že v budoucnu budou na trhu opět dostupné byty k dlouhodobému pronájmu za přijatelné nájemné,“ říká zastupitel Prahy 8 Karel Ptáček (Piráti).
+>“V současné době, kdy ceny bytů u developerských projektů stále rostou a stávají se pro střední třídu obyvatelstva již nedostupné, vítám tento krok ze strany Magistrátu pozitivně. Věřím, že v budoucnu budou na trhu opět dostupné byty k dlouhodobému pronájmu za přijatelné nájemné,“ říká zastupitel Prahy 8 Karel Ptáček (Piráti).
 
 Kritérii výběrového řízení jsou kvalita návrhu budovy a přilehlých veřejných prostranství, dlouhodobá environmentální a ekonomická udržitelnost stavby a efektivita využití pozemku. 
 
