@@ -3,7 +3,7 @@ title: Praha opraví Libeňský most, velká rekonstrukce začne za dva roky
 authorId: martin.sterba
 date: 2022-01-21
 image: posts/libenskymost3.png
-tags: [Časopis Osmička, Doprava, Libeňský most, Veřejný prostor]
+tags: [Doprava, Libeňský most, Veřejný prostor]
 ---
 
 **Technická správa komunikací (TSK) podepsala tento týden smlouvu na rekontrukci Libeňského soumostí. Soutěže se zúčastnilo pět společností, nejúspěšnější byla společnost Metrostav TBR s nabídkovou cenou 2,181 miliardy korun bez DPH. Stavba začne v roce 2024, na rok tady bude zastaven provoz tramvají.**
