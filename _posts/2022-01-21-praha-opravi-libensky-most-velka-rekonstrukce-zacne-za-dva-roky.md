@@ -1,5 +1,5 @@
 ---
-title: Praha opraví Libeňský most, velká rekonstrukce začne za dva roky.
+title: Praha opraví Libeňský most, velká rekonstrukce začne za dva roky
 authorId: martin.sterba
 date: 2022-01-21
 image: posts/libenskymost3.png
