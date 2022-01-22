@@ -2,7 +2,7 @@
 title: Mosty opravovat včas, ne až když začnou padat
 author: Roman Kučera
 date: 2018-01-31
-image: libenskymost4-ivanbartos-riksa.jpg
+image: posts/libenskymost4-ivanbartos-riksa.jpg
 tags: [Doprava, Libeňský most, Veřejný prostor]
 ---
 
