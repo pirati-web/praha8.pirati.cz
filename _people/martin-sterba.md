@@ -11,9 +11,10 @@ img: people/martin-sterba.jpg
 heroImg: posts/libensky-zamek.jpg
 profession: manažer a stratég on-line komunikace
 partyUid: pirati
-description: koordinátor gesce doprava
+description: předseda MS Praha 8
 teamDescription:
   pms: předseda MS Praha 8
+  clenove: koordinátor gesce doprava
   contact: kontakt pro média
 mob: +420 732 408 769
 mail:

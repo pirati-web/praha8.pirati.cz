@@ -13,11 +13,12 @@ img: people/jan-kolator.jpg
 heroImg: posts/skatepark-bohnice.jpg
 profession: systémový knihovník
 partyUid: pirati
-description: koordinátor gesce bezpečnost
+description: 1. místopředseda MS Praha 8
 teamDescription:
   pms: 1. místopředseda MS Praha 8
-  contact: kontakt pro nováčky
   zastupitele: zastupitel
+  clenove: koordinátor gesce bezpečnost
+  contact: kontakt pro nováčky
 mail:
   - jan.kolator@pirati.cz
 profiles:
