@@ -1,6 +1,6 @@
 ---
 title: Piráty na Praze 8 povede do voleb Martin Štěrba
-authorId: martin.sterba
+author: Piráti Praha 8 
 date: 2022-02-01
 image: posts/martin-sterba/01-lidr-leden2022.jpg
 tags: [Piráti, Tisková zpráva, Volby 2022]
