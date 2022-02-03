@@ -6,7 +6,7 @@ image: posts/zastupitelstvo_leden2022.jpg
 tags: [Piráti, Tisková zpráva, Volby 2022]
 ---
 
-**Na středečním jednání zastupitelstva městské části Praha Prahy 8 představila vládnoucí koalice v čele s ODS návrh rozpočtu pro rok 2022. Je schodkový a nekoncepční**
+**Na středečním jednání zastupitelstva městské části Praha Prahy 8 představila vládnoucí koalice v čele s ODS návrh rozpočtu pro rok 2022. Je schodkový a nekoncepční.**
 
 Naše zastupitelka [Alice Hamalová](https://praha8.pirati.cz/lide/alice-hamalova.html) v rámci rozpravy o rozpočtu položila radě více než 20 konkrétních dotazů k jednotlivým kapitolám a položkám. Je smutné, že byť řadu stejných dotazů pokládala již na finančním výboru minulý týden, ani tam ani dnes se jí ani občanům často nedostalo dostatečných odpovědí.
 
