@@ -16,7 +16,7 @@ Naše zastupitelka [Alice Hamalová](https://praha8.pirati.cz/lide/alice-hamalov
 
 ![Hlasování o rozpočtu MČ Praha 8 na rok 2022](/assets/img/posts/rozpocet2022-schvaleni.jpg)
 
-A co dál se dnes v jednacím sále "Bílého domu" řešilo? Diskutovalo se například o plánované studii pro území sídliště Invalidovny. Její vznik jsme samozřejmě podpořili. Řeč přišla také na dotace pro sport, kulturu a volnočasové aktivity. 
+A co dál se dnes v jednacím sále "Bílého domu" řešilo? Diskutovalo se například o plánované studii pro území sídliště Invalidovny. Řeč přišla také na dotace pro sport, kulturu a volnočasové aktivity. 
 
 >"Velmi oceňuji to, že se podařilo navýšit alokaci finančních prostředků pro toto dotační řízení. Zvláště v této post-pandemické době chceme podporovat děti, aby se hýbaly a aby sportovaly," říká zastupitel [Pavel Franc](https://praha8.pirati.cz/lide/pavel-franc.html).
 
