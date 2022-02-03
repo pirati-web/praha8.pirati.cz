@@ -20,7 +20,6 @@ funkce:
   - <a href="https://www.praha8.cz/Klub-Ceska-piratska-strana.html">zastupitel MČ Praha 8</a>
   - místopředseda <a href="https://www.praha8.cz/Klub-Ceska-piratska-strana.html">zastupitelského klubu</a>
   - člen <a href="https://www.praha8.cz/Komise-pro-obecni-byty-2018-2022.html">Komise pro obecní byty RMČP8</a>
-  - člen <a href="https://www.praha8.cz/Vybory-zastupitelstva-Mestske-casti-Praha-8.html">Výboru pro projekt Nová Palmovka ZMČP8</a>
   - člen <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33600">Výboru pro legislativu, veřejnou správu a transparentnost ZHMP</a>
 profiles:
   odmeny:   https://nalodeni.pirati.cz/odmeny/ivo.slavka
