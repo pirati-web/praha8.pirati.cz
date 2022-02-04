@@ -6,7 +6,7 @@ image: posts/martin-sterba/01-lidr-leden2022.jpg
 tags: [Piráti, Tisková zpráva, Volby 2022]
 ---
 
-**Místní sdružení Pirátů na Praze 8 si v minulých dnech zvolilo lídra do podzimních komunálních voleb. Stal se jím současný předseda místního sdružení a marketér a stratég Martin Štěrba.**
+**Místní sdružení Pirátů na Praze 8 si v minulých dnech zvolilo lídra do podzimních komunálních voleb. Stal se jím současný předseda místního sdružení a marketér a stratég [Martin Štěrba](https://praha8.pirati.cz/lide/martin-sterba.html).**
 
 >“Moc si toho vážím, je to pro mě velká čest. Udělám v následujících měsících vše pro to, abychom mohli konečně pracovat pro naší městskou část. Přál bych si rozvíjející se, dynamickou a moderní Prahu 8. Takovou, kde budou chtít lidé trávit svůj volný čas. Takovou, kde je dostatek zeleně. Takovou, kde není na ulicích nepořádek. Takovou, kde se hledá, jak to udělat a ne proč to nejde udělat. A také takovou, za kterou se nebudeme muset stydět!,” říká [Martin Štěrba](https://praha8.pirati.cz/lide/martin-sterba.html). Mezi jeho hlavní priority patří čistota ulic a odpadové hospodářství, doprava pro všechny, digitalizace a otevřenost, územní rozvoj a vzdělávání a volný čas.
 
