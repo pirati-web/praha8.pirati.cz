@@ -32,17 +32,7 @@ Narozen v dubnu roku 1979 v Praze. Vystudoval nejprve SŠ s ekonomickým zaměř
 
 Politicky se angažuje v MS na Praze 8, kde se dlouhodobě zapojuje do veřejně prospěšných projektů a akcí. V roce 2021 byl zvolen místopředsedou PMS na Praze 8.
 
-**Dosavadní činnost pro Pirátskou stranu, např.:**
-- pomoc s přípravou a organizací [sousedského setkání a zvelebování karlínských schodů](https://praha8.pirati.cz/aktuality/dobra-vec-se-podarila-v-karline-uz-si-snad-nikdo-na-schodech-nohu-nezlomi.html),
-- příprava, organizace a medializace ["Akce Čistý Rohan"](https://praha8.pirati.cz/aktuality/kdyz-to-neudelala-mestska-cast-vycistili-jsme-rohansky-ostrov-od-neporadku-sami.html) v Praze 8 v roce 2021,
-- příprava, organizace a medializace ["Akce H"](https://praha8.pirati.cz/aktuality/louze-v-pivovarnicke.html) u Kotlasky v roce 2018,
-- příprava, organizace a medializace "Akce Vrak" nedaleko Löwitova mlýnu v roce 2018,
-
-- vypracování (nakonec nevyužitého) projektu „Pipoušek“,
-- aktivní pomoc při tvorbě článků a sazby Pirátských listů,
-- aktivní materiální a technologická pomoc při výstavbě nového Pirátského centra
-
-**Příklady mé občanské aktivity**
+**Příklady občanské aktivity**
 
 - **Klokánek Chabařovická” (2020)** - kvůli administrativním obstrukcím v průběhu COVID situace zůstaly děti v péči Klokánku bez peněz a podpory. Připojil se se k občanské iniciativě a pomohl s penězi, nákupem potravin i dopravou.
 
@@ -50,3 +40,12 @@ Politicky se angažuje v MS na Praze 8, kde se dlouhodobě zapojuje do veřejně
 
 - **Elsnicovo náměstí” (2020)** - když vznikla občanská iniciativa, jejímž cílem bylo osadit a zkrášlit obří květináče na Elsnicově náměstí, chyběla spousta úrodné zeminy a její doprava. Obojí zajistil.
 
+- **Akce H (2018)** - jednalo se o první větší pirátskou akci ve veřejném prostoru. [S louží v Pivovarnické ulici](https://praha8.pirati.cz/aktuality/louze-v-pivovarnicke.html) si dlouho nikdo nevěděl rady, tak jsme jí odstranili sami. 
+
+- **Čistý Rohan (2021)** - Nedávná akce, kdy jsme [vyslyšeli stížnosti občanů na katastrofální stav Rohanského poloostrova](https://praha8.pirati.cz/aktuality/kdyz-to-neudelala-mestska-cast-vycistili-jsme-rohansky-ostrov-od-neporadku-sami.html). Společně s Martinem Štěrbou jsme zajistili součinnost občanů a Magistrátu hlavního města Prahy a výsledkem byla akce s obřím virálním dosahem. O prospěchu této akce IMHO svědčí i fakt, že jen toxického biologického materiálu (stříkačky a léky) jsme řádně zlikvidovali téměř 10 kilogramů! 
+
+- **[Přístavní schody (2021)](https://praha8.pirati.cz/aktuality/dobra-vec-se-podarila-v-karline-uz-si-snad-nikdo-na-schodech-nohu-nezlomi.html)** - Opět se jednalo o reakci na stížnosti občanů a opět se akce vydařila. Celá akce byla naplánována a realizována během 48 hodin.
+
+- **Radniční autovrak (2018)** - Podhradí Libeňského Zámečku několik let hyzdil autovrak, který už hrozil průsakem chemikálií do Rokytky, a úřední postup nedokázal situaci efektivně řešit. Honza dokázal, že i při dodržení všech legislativních nároků to lze. 
+
+- **Vrak u Magistrátu na Mariánském náměstí (2019)** - Youtuber MikeJePán se snažil zesměšnit nové vedení magistrátu za Zdeňka Hřiba tím, že vystavil svůj takzvaný “neodstranitelný” reklamní autovrak před budovu Nové Radnice. Honza napomohl účinnému a legislativně čistému řešení, akci překazil a přispěl tak k okamžitému odstranění vraku.
