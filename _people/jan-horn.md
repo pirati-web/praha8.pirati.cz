@@ -4,7 +4,7 @@ name: Jan Horn
 category:
   - pms
   - clenove
-ordpms: 5
+ordpms: 4
 img: people/jan-horn.jpg
 heroImg: people/jan-horn-hero.jpg
 profession: umělecký kovář a učitel
