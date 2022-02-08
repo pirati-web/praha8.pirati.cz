@@ -22,7 +22,7 @@ funkce:
 ---
 Jmenuji se Magdalena Opletalová, říká se mi Mahu. Původní profesí jsem molekulární genetička, později matka sedmi skvělých dětí, sociální pracovnice, manažerka, krizová interventka a učitelka. 
 
-V současné době pracuji jako ředitelka ve Fokusu Praha. Zároveň jsem krizová interventka v Bílém kruhu bezpečí a učím asertivní komunikaci učitele a sociální pracovníky. Od prosince 2021 jsem členkou sněmovní [Stálé komise pro rodinu a rovné příležitosti](https://www.psp.cz/sqw/snem.sqw?l=cz&id=1570). Rok byla členkou předsednictva místního sdružení Praha 8 a členkou republikového výboru Pirátů. 
+V současné době pracuji jako ředitelka ve Fokusu Praha. Zároveň jsem krizová interventka v Bílém kruhu bezpečí a učím asertivní komunikaci učitele a sociální pracovníky. Rok jsem byla členkou předsednictva místního sdružení Praha 8 a členkou republikového výboru Pirátů. Od prosince 2021 jsem členkou sněmovní [Stálé komise pro rodinu a rovné příležitosti](https://www.psp.cz/sqw/snem.sqw?l=cz&id=1570).
 
 Věnuji se hlavně sociální oblasti a rovněž oblasti lidskoprávní. Mým tématem je pomoc obětem trestných činů – především domácího násilí, znásilnění a zneužití, dále sociální bydlení, duševní zdraví a sociální začleňování. 
 
