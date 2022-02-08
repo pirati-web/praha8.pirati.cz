@@ -24,7 +24,7 @@ funkce:
   - <a href="https://www.praha8.cz/Klub-Ceska-piratska-strana.html">zastupitelka MČ Praha 8</a>
   - členka <a href="https://www.praha8.cz/Vybory-zastupitelstva-Mestske-casti-Praha-8.html">Finančního výboru ZMČP8</a>
   - členka <a href="https://www.praha8.cz/Komise-pro-zivotni-prostredi-2018-2022.html">Komise pro životní prostředí RMČP8</a>
-  - členka <a href="https://www.zelivska.cz/zepro-o-nas.html">dozorčí rady Želivská provozní a.s</a>
+  - členka <a href="https://www.zelivska.cz/zepro-o-nas.html">dozorčí rady Želivské provozní a.s</a>
 ---
 
 Jsem ročník 90 a bydlím v Kobylisích se svým manželem. Pocházím z Krnova, menšího města ve Slezsku. Mám zkušenosti z výzkumného prostředí, kde jsem se podílela na výrobě léčebného přípravku proti rakovině a na dostavbě a vedení provozu laserových laboratoří Fyzikálního ústavu Akademie věd.
