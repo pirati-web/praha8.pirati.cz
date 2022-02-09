@@ -4,7 +4,7 @@ name: Anna Filínová
 titles:
   before: Bc.
 category:
-  - regp
+  - clenove
 ordzas: 3
 img: people/anna-filinova.jpg
 heroImg: posts/rousky_anicka.jpg
