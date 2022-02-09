@@ -2,7 +2,7 @@
 uid: magdalena.opletalova
 name: Magdalena Opletalová
 titles:
-  before: Mgr. et Mgr
+  before: Mgr. et Mgr.
 category:
   - regp
 img: people/magdalena-opletalova.jpg
