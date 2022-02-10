@@ -12,9 +12,10 @@ img: people/martin-stanek.jpg
 heroImg: posts/bilydum.png
 profession: geolog
 partyUid: pirati
-description: člen MS Praha 8
+description: místopředseda MS Praha 8
 teamDescription:
   zastupitele: zastupitel
+  clenove: člen MS Praha 8
 mob: 775 058 555
 mail:
   -  martin.stanek@pirati.cz
@@ -24,6 +25,7 @@ profiles:
   odmeny:   https://nalodeni.pirati.cz/odmeny/martin.stanek
 funkce:
   - <a href="https://www.praha8.cz/Klub-Ceska-piratska-strana.html">zastupitel MČ Praha 8</a>
+  - místopředseda MS Praha 8
   - člen <a href="https://www.praha8.cz/Komise-pro-kulturu-a-volny-cas-2018-2022.html">Komise pro kulturu a volný čas RMČP8</a>
 ---
 
