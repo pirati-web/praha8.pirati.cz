@@ -5,9 +5,11 @@ titles:
   before: Mgr.
   after: Ph.D.
 category:
+  - pms
   - zastupitele
   - clenove
 ordzas: 3
+ordpms: 5
 img: people/martin-stanek.jpg
 heroImg: posts/bilydum.png
 profession: geolog
