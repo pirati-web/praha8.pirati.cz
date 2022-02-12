@@ -38,6 +38,4 @@ Moc se těším na spolupráci s každým z vás! Pojďte do toho s námi!
 
 S pozdravem 
 
-Martin Štěrba
-*předseda MS Praha 8*
-*lídr Pirátů do voleb do Zastupitelstva MČ Praha 8*
+Martin Štěrba, lídr Pirátů do voleb do Zastupitelstva MČ Praha 8
