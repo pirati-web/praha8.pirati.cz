@@ -1,5 +1,5 @@
 ---
-title: Zapojte se do voleb i vy! V primárkách skládáme pirátskou kandidátku
+title: Do pirátských primárek se můžete zapojit i Vy! Pojďte s námi dělat Prahu 8 lepší
 authorId: martin.sterba
 image: posts/praha8-zvysky.png
 tags: [Piráti, Volby 2022]
