@@ -5,8 +5,7 @@ image: posts/praha8-zvysky.png
 tags: [Piráti, Volby 2022]
 ---
 
-Milí pirátští přátelé, 
-dovolte mi, abych Vás upozornil, že běží primární volby do Zastupitelstva městské části Praha 8 v rámci našeho místního sdružení. V rámci něj volíme kandidátku, která nás bude reprezentovat v komunálních volbách, které se uskuteční tento podzim. 
+**Milí pirátští přátelé**, dovolte mi, abych Vás upozornil, že běží primární volby do Zastupitelstva městské části Praha 8 v rámci našeho místního sdružení. V rámci něj volíme kandidátku, která nás bude reprezentovat v komunálních volbách, které se uskuteční tento podzim. 
 
 Moc si toho vážím a je pro mě velká čest, že můžu stát v čele naší kandidátky. Slibuji, že udělám v následujících měsících vše pro to, abychom mohli konečně pracovat pro naší městskou část. Přál bych si rozvíjející se, dynamickou a moderní Prahu 8. Takovou, kde budou chtít lidé trávit svůj volný čas. Takovou, kde je dostatek zeleně. Takovou, kde není na ulicích nepořádek. Takovou, kde se hledá, jak to udělat a ne proč to nejde udělat. A také takovou, za kterou se nebudeme muset stydět!
 
@@ -38,4 +37,4 @@ Moc se těším na spolupráci s každým z vás! Pojďte do toho s námi!
 
 S pozdravem 
 
-Martin Štěrba, lídr Pirátů do voleb do Zastupitelstva MČ Praha 8
+*Martin Štěrba, lídr Pirátů ve volbách do Zastupitelstva MČ Praha 8 2022*
