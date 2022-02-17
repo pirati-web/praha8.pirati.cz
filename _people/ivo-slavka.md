@@ -31,6 +31,6 @@ Vystudoval Gymnázium Nové Mesto nad Váhom, Hotelovou akademii Piešťany a n�
 
 Od roku 2011 pracuje na Ministerstvu průmyslu a obchodu jako právník. V současné době je vedoucím Oddělení ekonomického Odboru hospodářské správy a do jeho gesce spadá zadávání veřejných zakázek, resortní systém centralizovaného zadávání veřejných zakázek a centrální nákup státu, výkon funkce správce rozpočtu a nakládání s majetkem státu.
 
-S Piráty se poprvé setkal na akcích v městské části Praha 8. Kromě Prahy 8, kde je od roku 2008 zastupitelem, se zapojuje i na celostátní úrovni a to hlavně v oblastech LGBT práva, rodinné a sociální politiky jako je téma dětí z dětských domovů, náhradní rodinné péče apod. Kromě toho ho zajímají témata z e-governmentu, systemizace státní správy, rovnoprávnosti či služebního zákona. 
+S Piráty se poprvé setkal na akcích v městské části Praha 8. Kromě Prahy 8, kde je od roku 2018 zastupitelem, se zapojuje i na celostátní úrovni a to hlavně v oblastech LGBT práva, rodinné a sociální politiky jako je téma dětí z dětských domovů, náhradní rodinné péče apod. Kromě toho ho zajímají témata z e-governmentu, systemizace státní správy, rovnoprávnosti či služebního zákona. 
 
 U Pirátů ho zaujaly hodnoty, které sám vyznává - tedy otevřenost, rovný přístup ke všem a touha něco změnit. K jeho koníčkům patří adrenalinové sporty a procházky v přírodě s rodinou.
