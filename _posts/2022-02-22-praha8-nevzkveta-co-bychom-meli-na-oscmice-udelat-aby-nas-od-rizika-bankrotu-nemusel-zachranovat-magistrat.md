@@ -1,5 +1,5 @@
 ---
-title: Praha 8 nevzkvétá. Co bychom měli na osmičce udělat, aby nás od rizika bankrotu nemusel zachraňovat magistrát
+title: Praha 8 nevzkvétá. Co bychom měli na osmičce udělat, aby nás od rizika bankrotu nemusel zachraňovat magistrát?
 authorId: martin.sterba
 date: 2022-02-22
 image: posts/libenskyzamek-novaradnice.png
@@ -15,4 +15,3 @@ V první řadě bychom mohli začít tím, že městská část nebude všechny 
 V druhé řadě bychom si měli říct, že rozpočet městské části prostě není nafukovací ani bezedný. Je třeba to říkat nahlas, protože zkontrolovat si to přes chybějící aplikaci Cityvizor stále nemůžeme. Pojďme začít hlídat, aby peníze z téměř miliardového rozpočtu netekly tam, kam nemají nebo netekly “třikrát na stejnou věc”. Můžeme se jen řečnicky ptát, proč třeba platíme za úklid, který leckde není vidět? Proč se neopravují byty? Nebo proč se uklízí sníh, který ani nenapadl?
 
 Slovy Václava Havla, naše městská část nevzkvétá. A to hlavně proto, že žijeme pouze přítomností. Nemáme žádnou vizi, jak by Praha 8 měla vypadat za pět či deset let. Kdybychom takovou vizi měli, třeba by nás pak nemusel magistrát zachraňovat. 
-
