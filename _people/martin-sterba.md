@@ -30,10 +30,9 @@ profiles:
 funkce:
   - předseda MS Praha 8
   - místopředseda <a href="https://www.praha8.cz/Komise-Redakcni-rada-casopisu-Osmicka-2018-2022.html">Redakční rady časopisu Osmička</a>
-  - poradce primátora hl. města Prahy
 ---
 
-Martin Štěrba se narodil v roce 1987 v Plzni a do Prahy se finálně přestěhoval v roce 2013. Vystudoval pedagogickou fakultu ZČU v Plzni (obor informatika se zaměřením na vzdělávání) a Univerzitu J.A. Komenského v Praze (obor sociální a mediální komunikace). Pracoval ve velkých mediálních domech (TV Nova, Empressa Media, Economia, Seznam.cz), na „volné noze“, a má zkušenosti i z neziskového sektoru. [Momentálně pracuje](https://linkedin.com/in/sterbamartin/) pracuje jako manažer a stratég on-line komunikace, vede týmy komunikace se zaměřením na on-line marketing, a je poradcem primátora hlavního města Prahy Zdeňka Hřiba.
+Martin Štěrba se narodil v roce 1987 v Plzni a do Prahy se finálně přestěhoval v roce 2013. Vystudoval pedagogickou fakultu ZČU v Plzni (obor informatika se zaměřením na vzdělávání) a Univerzitu J.A. Komenského v Praze (obor sociální a mediální komunikace). Pracoval ve velkých mediálních domech (TV Nova, Empressa Media, Economia, Seznam.cz), na „volné noze“, a má zkušenosti i z neziskového sektoru. Od ledna 2019 do února 2022 byl poradcem primátora hlavního města Prahy Zdeňka Hřiba. [Momentálně pracuje](https://linkedin.com/in/sterbamartin/) pracuje jako manažer a stratég on-line komunikace a vede týmy komunikace se zaměřením na on-line marketing. 
 
 **Registrovaným příznivcem Pirátů je od března 2018, členem strany potom od prosince 2018. Od 18. 1. 2021 je předsedou MS Praha 8,** předtím působil od ledna 2019 do ledna 2021 jako první místopředseda.
 
