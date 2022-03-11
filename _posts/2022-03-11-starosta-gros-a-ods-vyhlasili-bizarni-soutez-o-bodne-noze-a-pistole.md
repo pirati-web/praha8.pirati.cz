@@ -10,7 +10,7 @@ tags: [ODS]
 
 Moje česká vlajka je výtvarná soutěž, ve které mají účastníci libovolným způsobem výtvatně ztvárnit českou vlajku. Může se jí zúčasntit každý a jednou z cen, jenž mohou vyhrát účastníci od 13 let, je třeba dýka s 19 cm dlouhou čepelí, která je popisována jako "Tichý zabiják". Držitelé zbrojního průkazu mohou vyhrát dokonce pistoli.
 
->"Zdá se, že jde o aktivitu spojenou s blížícími se komunálními volbami. Myšlenka dělat soutěž inspirovanou a motivovanou národní hrdostí a českou národní vlajkou zase tak špatná není, provedení a ceny jsou ale zcela mimo. Nechat soutěžit děti o nože a dospělé se zbrojním průkazem o pistoli ve hře, kdy mají kreslit a tvořit s motivem české státní vlajky, je zkrátka bizár," říká předseda Pirátů v Praze 8 a lídr v komunálních volbách Martin Štěrba. 
+>"Zdá se, že jde o aktivitu spojenou s blížícími se komunálními volbami. Myšlenka dělat soutěž inspirovanou a motivovanou národní hrdostí a českou národní vlajkou zase tak špatná není, provedení a ceny jsou ale zcela mimo. Nechat soutěžit děti o nože a dospělé se zbrojním průkazem o pistoli ve hře, kdy mají kreslit a tvořit s motivem české státní vlajky, je zkrátka bizár," říká předseda Pirátů v Praze 8 a lídr v komunálních volbách [Martin Štěrba](https://praha8.pirati.cz/lide/martin-sterba.html). 
 
 Nad soutěží se pozastavili i občané na sociálních sítích. 
 
