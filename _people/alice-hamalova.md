@@ -19,6 +19,8 @@ mail:
   - alice.hamalova@pirati.cz
 profiles:
   facebook: https://www.facebook.com/alice.hamalova
+  odmeny:   https://nalodeni.pirati.cz/odmeny/alice.hamalova
+  evidence: https://evidence.pirati.cz/
 funkce:
   - místopředsedkyně MS Praha 8
   - <a href="https://www.praha8.cz/Klub-Ceska-piratska-strana.html">zastupitelka MČ Praha 8</a>
