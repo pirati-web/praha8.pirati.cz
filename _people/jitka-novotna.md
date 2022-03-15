@@ -13,6 +13,8 @@ description: členka MS Praha 8
 mail:
   - jitka.novotna@pirati.cz
 profiles:
+  facebook:  https://www.facebook.com/jitka.novotna.7528
+funkce:
   - členka <a href="https://www.praha8.cz/Komise-pro-informatiku-2018-2022.html">Komise pro informatiku</a>
 ---
 
