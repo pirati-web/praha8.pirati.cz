@@ -15,7 +15,7 @@ mail:
 profiles:
   facebook:  https://www.facebook.com/jitka.novotna.7528
 funkce:
-  - členka <a href="https://www.praha8.cz/Komise-pro-informatiku-2018-2022.html">Komise pro informatiku</a>
+  - členka <a href="https://www.praha8.cz/Komise-pro-informatiku-2018-2022.html">Komise pro informatiku RMČP8</a>
 ---
 
 Studovala na matematickém gymnáziu v Bílovci a následně Matfyz, obor Informatika, zaměření Diskrétní modely a algoritmy. Následně pracovala jako testerka v SUSE Linuxu a studovala doktorát na ČVUT. Je dlouholetým uživatelem Linuxu, organizovala šifrovačku PoŠkole. Mezi její další zájmy patří larpy, cestování a horolezectví.
