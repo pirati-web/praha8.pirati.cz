@@ -2,8 +2,8 @@
 title: Výročí atentátu na Heydricha je třeba si připomínat
 authorId: martin.sterba
 date: 2021-05-27
-image: posts/gros-mojeceskavlajka.png
-tags: [Anthropoid]
+image: posts/anthropoid2021/anthropoid2021_12.jpg
+tags: [Anthropoid, Libeň]
 fancybox:
   - name: Pietní akt 27. 5. 2021
     img:
