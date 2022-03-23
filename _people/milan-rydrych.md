@@ -14,6 +14,6 @@ mail:
 profiles:
 ---
 
-Jmenuji se Milan Rydrych, je mi 24 let a jsem v posledním ročníku farmaceutické fakulty Univerzity Karlovy, a začíná pracovat ve Fakultní nemocnici Královské Vinohrady. Pochází z Berouna, v létě 2021 se přestěhoval do Libně. 
+Jmenuji se Milan Rydrych, je mi 24 let a jsem v posledním ročníku farmaceutické fakulty Univerzity Karlovy, a začínám pracovat ve Fakultní nemocnici Královské Vinohrady. Pocházím z Berouna, v létě 2021 jsem se přestěhoval do Libně. 
 
-Klade hlavní důraz na transparentnost, digitalizaci a rovný přístup k příležitostem. I vzhledem k oboru svého studia se zajímá hlavně o zdravotnictví, sociální oblast a vzdělávání. 
+Kladu hlavní důraz na transparentnost, digitalizaci a rovný přístup k příležitostem. I vzhledem k oboru svého studia se zajímám hlavně o zdravotnictví, sociální oblast a vzdělávání. 
