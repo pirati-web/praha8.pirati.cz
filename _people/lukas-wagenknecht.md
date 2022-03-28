@@ -26,7 +26,7 @@ funkce:
   - člen <a href="https://ppas.cz/o-nas">dozorčí rady Pražské plynárenské, a.s.</a>
 asistenti:
   - name: Ing. Karolína Ždárská
-    position: Asitentka
+    position: Asistentka
     mail: k.zdarska@gmail.com
     mob: +420 736 513 283
   - name: Ing. Václav Turko
