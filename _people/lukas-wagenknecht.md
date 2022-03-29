@@ -11,6 +11,9 @@ heroImg: people/lukas-wagenknecht-hero.jpg
 profession: ekonom, interní auditor
 partyUid: pirati
 description: senátor
+teamDescription: 
+  ustavni-cinitele: senator
+  clenove: člen MS Praha 8
 mob: +420 608 303 542
 mail:
  - wagenknechtl@senat.cz
