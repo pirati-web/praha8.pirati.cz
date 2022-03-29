@@ -1,10 +1,10 @@
 ---
-title: Týden na hranicích českýma očima - bomby nad hlavou nechtějí ani bohatí, ani chudí
+title: Týden na hranicích českýma očima - bomby nad hlavou nechtějí ani bohatí ani chudí
 author: Petra Slezáková
 image: posts/03-28-tyden-na-hranicich-ukrajina/hranice-ukrajina10.jpg
-tags: [Ukrajina]
+tags: [Piráti, Ukrajina]
 fancybox:
-  - name: Náměstí Bohumila Hrabala dostane novou tvář
+  - name: Podívejte se na fotky...
     img:
       - { src: posts/03-28-tyden-na-hranicich-ukrajina/hranice-ukrajina01.jpg, title: Týden na hranicích českýma očima }
       - { src: posts/03-28-tyden-na-hranicich-ukrajina/hranice-ukrajina02.jpg, title: Týden na hranicích českýma očima }
@@ -20,7 +20,7 @@ fancybox:
       - { src: posts/03-28-tyden-na-hranicich-ukrajina/hranice-ukrajina12.jpg, title: Týden na hranicích českýma očima }
 ---
 
-**Michaela Beránková je pirátkou z Prahy 13, na Magistrátu pracuje jako asistentka zastupitele Tomáše Murňáka. V březnu však na několik dní vyměnila své oblíbené šaty za reflexní vestu a vydala se pomáhat uprchlíkům k ukrajinské hranici. Ve Vyšném Nemeckém a později Michalovcích strávila dohromady týden. Co tam dělala a viděla?** 
+**[Michaela Beránková](https://praha13.pirati.cz/lide/michaela-berankova.html) je pirátkou z městské části Praha 13 a na Magistrátu pracuje jako asistentka zastupitele [Tomáše Murňáka](https://praha.pirati.cz/lide/tomas-murnak.html). V březnu však na několik dní vyměnila své oblíbené šaty za reflexní vestu a vydala se pomáhat uprchlíkům k ukrajinské hranici. Ve Vyšném Nemeckém a později Michalovcích strávila dohromady týden. Co tam dělala a viděla?** 
 
 **Co bylo tím zásadním momentem, který tě vyslal na hranice?**<br />
 Partner na začátku války přišel s tím, že by jel tranzitně na hranice pro uprchlíky. Chtěla jsem jet s ním, ale tím bych zabírala místo v autě. Byla jsem i připravená ubytovat na nezbytně nutnou dobu ty, které přiveze, pokud by neměli kam jít. Přicházely ale informace, že na blind tam člověk jezdit nemá a na hranicích je zmatek. Tak jsem navrhla, že bychom s tím zmatkem mohli pomoci. Přes sociální sítě jsem se spojili se slovenskými skauty a odjeli do Vyšného Nemeckého. Tam jsme byli na víkend, takže jsme absolvovali dvě dvanáctihodinové služby. Později jsme se vrátili na pět dní do hotspotu v slovenských Michalovcích. Vlakem, to už byla cena benzinu někde jinde, přesto jsem ten rozdíl v ceně poslala Člověku v tísni.
