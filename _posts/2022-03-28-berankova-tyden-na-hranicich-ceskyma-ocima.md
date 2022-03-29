@@ -1,23 +1,23 @@
 ---
-title: Týden na hranicích českýma očima - bomby nad hlavou nechtějí ani bohatí ani chudí
+title: Týden na hranicích českýma očima Michaely Beránkové - bomby nad hlavou nechtějí ani bohatí ani chudí
 author: Petra Slezáková
 image: posts/03-28-tyden-na-hranicich-ukrajina/hranice-ukrajina10.jpg
 tags: [Piráti, Ukrajina]
 fancybox:
   - name: Podívejte se na fotky...
     img:
-      - { src: posts/03-28-tyden-na-hranicich-ukrajina/hranice-ukrajina01.jpg, title: Týden na hranicích českýma očima }
-      - { src: posts/03-28-tyden-na-hranicich-ukrajina/hranice-ukrajina02.jpg, title: Týden na hranicích českýma očima }
-      - { src: posts/03-28-tyden-na-hranicich-ukrajina/hranice-ukrajina03.jpg, title: Týden na hranicích českýma očima }
-      - { src: posts/03-28-tyden-na-hranicich-ukrajina/hranice-ukrajina04.jpg, title: Týden na hranicích českýma očima }
-      - { src: posts/03-28-tyden-na-hranicich-ukrajina/hranice-ukrajina05.jpg, title: Týden na hranicích českýma očima }
-      - { src: posts/03-28-tyden-na-hranicich-ukrajina/hranice-ukrajina06.jpg, title: Týden na hranicích českýma očima }
-      - { src: posts/03-28-tyden-na-hranicich-ukrajina/hranice-ukrajina07.jpg, title: Týden na hranicích českýma očima }
-      - { src: posts/03-28-tyden-na-hranicich-ukrajina/hranice-ukrajina08.jpg, title: Týden na hranicích českýma očima }
-      - { src: posts/03-28-tyden-na-hranicich-ukrajina/hranice-ukrajina09.jpg, title: Týden na hranicích českýma očima }
-      - { src: posts/03-28-tyden-na-hranicich-ukrajina/hranice-ukrajina10.jpg, title: Týden na hranicích českýma očima }
-      - { src: posts/03-28-tyden-na-hranicich-ukrajina/hranice-ukrajina11.jpg, title: Týden na hranicích českýma očima }
-      - { src: posts/03-28-tyden-na-hranicich-ukrajina/hranice-ukrajina12.jpg, title: Týden na hranicích českýma očima }
+      - { src: "https://a.pirati.cz/praha/img/posts/galerie/03-28-tyden-na-hranicich-ukrajina/hranice-ukrajina01.jpg", title: Týden na hranicích českýma očima }
+      - { src: "https://a.pirati.cz/praha/img/posts/galerie/03-28-tyden-na-hranicich-ukrajina/hranice-ukrajina02.jpg", title: Týden na hranicích českýma očima }
+      - { src: "https://a.pirati.cz/praha/img/posts/galerie/03-28-tyden-na-hranicich-ukrajina/hranice-ukrajina03.jpg", title: Týden na hranicích českýma očima }
+      - { src: "https://a.pirati.cz/praha/img/posts/galerie/03-28-tyden-na-hranicich-ukrajina/hranice-ukrajina04.jpg", title: Týden na hranicích českýma očima }
+      - { src: "https://a.pirati.cz/praha/img/posts/galerie/03-28-tyden-na-hranicich-ukrajina/hranice-ukrajina05.jpg", title: Týden na hranicích českýma očima }
+      - { src: "https://a.pirati.cz/praha/img/posts/galerie/03-28-tyden-na-hranicich-ukrajina/hranice-ukrajina06.jpg", title: Týden na hranicích českýma očima }
+      - { src: "https://a.pirati.cz/praha/img/posts/galerie/03-28-tyden-na-hranicich-ukrajina/hranice-ukrajina07.jpg", title: Týden na hranicích českýma očima }
+      - { src: "https://a.pirati.cz/praha/img/posts/galerie/03-28-tyden-na-hranicich-ukrajina/hranice-ukrajina08.jpg", title: Týden na hranicích českýma očima }
+      - { src: "https://a.pirati.cz/praha/img/posts/galerie/03-28-tyden-na-hranicich-ukrajina/hranice-ukrajina09.jpg", title: Týden na hranicích českýma očima }
+      - { src: "https://a.pirati.cz/praha/img/posts/galerie/03-28-tyden-na-hranicich-ukrajina/hranice-ukrajina10.jpg", title: Týden na hranicích českýma očima }
+      - { src: "https://a.pirati.cz/praha/img/posts/galerie/03-28-tyden-na-hranicich-ukrajina/hranice-ukrajina11.jpg", title: Týden na hranicích českýma očima }
+      - { src: "https://a.pirati.cz/praha/img/posts/galerie/03-28-tyden-na-hranicich-ukrajina/hranice-ukrajina12.jpg", title: Týden na hranicích českýma očima }
 ---
 
 **[Michaela Beránková](https://praha13.pirati.cz/lide/michaela-berankova.html) je pirátkou z městské části Praha 13 a na Magistrátu pracuje jako asistentka zastupitele [Tomáše Murňáka](https://praha.pirati.cz/lide/tomas-murnak.html). V březnu však na několik dní vyměnila své oblíbené šaty za reflexní vestu a vydala se pomáhat uprchlíkům k ukrajinské hranici. Ve Vyšném Nemeckém a později Michalovcích strávila dohromady týden. Co tam dělala a viděla?** 
