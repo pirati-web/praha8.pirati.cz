@@ -21,18 +21,6 @@ Důležitou součást projektu tvoří také zeleň a vodní prvky vytvářejíc
 
 >"Návrh byl v průběhu roku konzultován a prezentován zástupcům městské části Praha 8, vedení Magistrátu hlavního města Prahy, Institutu plánování a rozvoje Prahy nebo Galerie hlavního města Prahy. Připomínky a podněty nevedly ke kompromisu, naopak pomohly návrh ještě zlepšit ku prospěchu budoucích uživatelů. Jsem přesvědčený, že projekt na Palmovce umožní vytvořit náměstí 21. století a klíčový veřejný prostor v Praze,“ konstatuje Tomáš Hřebík (STAN), radní městské části Praha 8 pro strategický rozvoj.
 
-Architektům z ateliéru UNIT se podařilo překonat četné komplikované vztahy v řešené lokalitě. K nejcitlivějším patřilo napojení na podzemní tubus metra, kdy například nebylo možné osázet celou plochu nad ním zelení, a zároveň na povrchovou dopravu. Zachovány zůstanou všechny tramvajové tratě, zůstane i část autobusových linek, ovšem jako elektrobusy či trolejbusy.
-
->"Podoba náměstí vychází zejména z návrhů samotných obyvatel. Rozloučíme se s individui, která nyní Palmovku okupují a vytvoříme zde příjemné místo pro setkávání místních. Náměstí bude konečně vypadat tak, jak si zaslouží, a ne jako prostor, kterým se ve večerních hodinách bojíte procházet,“ komentuje plán na proměnu Palmovky Petr Pelc (TOP 09), koordinátor projektu Palmovka TEĎ.
-
-Velmi podstatným momentem je, že realizace náměstí bude koordinována s výstavbou polyfunkčního objektu Palmovka One, který navrhli architekti ze studia Obermeyer Helika. Libeň, pro kterou je tento prostor zásadní, tak získá hned dva důležité impulsy pro celkovou revitalizaci.
-
->Přijali jsme odpovědnost za proměnu celé této části metropole. Proto už několik let neřešíme jen architekturu a poměr funkcí Palmovka One, ale i jeho okolí. Výsledkem je náměstí Bohumila Hrabala kvalitou dosahující evropských měřítek. A třeba i naše snaha o kvalitní obnovu a zpřístupnění plochy kolem unikátního objektu Libeň – dolní nádraží,“ doplňuje Kamil Hošták ze společnosti Landia Management, která je společně s Discovery Group investorem Palmovka One a společně s městskou částí Praha 8 byla zadavatelem studie nového náměstí Bohumila Hrabala.
-
-### Ke stažení
-- [Studie Náměstí Bohumila Hrabala (UNIT, 6/2021)](https://mrak.pirati.cz/s/GcS6JiZ9dqAX7Pk)
-
-
 {% for galery in page.fancybox %}
 <div class="mt-4">
   <h3>{{ galery.name }}</h3>
@@ -45,4 +33,15 @@ Velmi podstatným momentem je, že realizace náměstí bude koordinována s vý
   </div>
 </div>
 {% endfor %}
+
+Architektům z ateliéru UNIT se podařilo překonat četné komplikované vztahy v řešené lokalitě. K nejcitlivějším patřilo napojení na podzemní tubus metra, kdy například nebylo možné osázet celou plochu nad ním zelení, a zároveň na povrchovou dopravu. Zachovány zůstanou všechny tramvajové tratě, zůstane i část autobusových linek, ovšem jako elektrobusy či trolejbusy.
+
+>"Podoba náměstí vychází zejména z návrhů samotných obyvatel. Rozloučíme se s individui, která nyní Palmovku okupují a vytvoříme zde příjemné místo pro setkávání místních. Náměstí bude konečně vypadat tak, jak si zaslouží, a ne jako prostor, kterým se ve večerních hodinách bojíte procházet,“ komentuje plán na proměnu Palmovky Petr Pelc (TOP 09), koordinátor projektu Palmovka TEĎ.
+
+Velmi podstatným momentem je, že realizace náměstí bude koordinována s výstavbou polyfunkčního objektu Palmovka One, který navrhli architekti ze studia Obermeyer Helika. Libeň, pro kterou je tento prostor zásadní, tak získá hned dva důležité impulsy pro celkovou revitalizaci.
+
+>Přijali jsme odpovědnost za proměnu celé této části metropole. Proto už několik let neřešíme jen architekturu a poměr funkcí Palmovka One, ale i jeho okolí. Výsledkem je náměstí Bohumila Hrabala kvalitou dosahující evropských měřítek. A třeba i naše snaha o kvalitní obnovu a zpřístupnění plochy kolem unikátního objektu Libeň – dolní nádraží,“ doplňuje Kamil Hošták ze společnosti Landia Management, která je společně s Discovery Group investorem Palmovka One a společně s městskou částí Praha 8 byla zadavatelem studie nového náměstí Bohumila Hrabala.
+
+### Ke stažení
+- [Studie Náměstí Bohumila Hrabala (UNIT, 6/2021)](https://mrak.pirati.cz/s/GcS6JiZ9dqAX7Pk)
  
