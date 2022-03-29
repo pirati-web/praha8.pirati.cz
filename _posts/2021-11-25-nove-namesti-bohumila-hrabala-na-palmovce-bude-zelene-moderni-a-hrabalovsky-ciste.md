@@ -33,7 +33,7 @@ Důležitou součást projektu tvoří také zeleň a vodní prvky vytvářejíc
   </div>
 </div>
 {% endfor %}
-
+<br /><br />
 Architektům z ateliéru UNIT se podařilo překonat četné komplikované vztahy v řešené lokalitě. K nejcitlivějším patřilo napojení na podzemní tubus metra, kdy například nebylo možné osázet celou plochu nad ním zelení, a zároveň na povrchovou dopravu. Zachovány zůstanou všechny tramvajové tratě, zůstane i část autobusových linek, ovšem jako elektrobusy či trolejbusy.
 
 >"Podoba náměstí vychází zejména z návrhů samotných obyvatel. Rozloučíme se s individui, která nyní Palmovku okupují a vytvoříme zde příjemné místo pro setkávání místních. Náměstí bude konečně vypadat tak, jak si zaslouží, a ne jako prostor, kterým se ve večerních hodinách bojíte procházet,“ komentuje plán na proměnu Palmovky Petr Pelc (TOP 09), koordinátor projektu Palmovka TEĎ.
