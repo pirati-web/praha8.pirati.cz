@@ -1,5 +1,5 @@
 ---
-title: Týden na hranicích českýma očima Michaely Beránkové - bomby nad hlavou nechtějí ani bohatí ani chudí
+title: Týden na hranicích českýma očima - bomby nad hlavou nechtějí ani bohatí ani chudí
 author: Petra Slezáková
 image: posts/03-28-tyden-na-hranicich-ukrajina/hranice-ukrajina10.jpg
 tags: [Piráti, Ukrajina]
