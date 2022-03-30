@@ -8,17 +8,16 @@ contactPersons:
   - martin.sterba
   - jan.kolator
 ---
- <h1>Přidejte se k nám</h1>
-
+# Přidejte se k nám
 **Zajímá vás co děláme na osmičce, a chtěli byste se zapojit?** Neváhejte a přijďte za námi na otevřenou (on-line či off-line) schůzi. Potkáváme se pravidelně, přesná data najdete v našem <a href="{{site.calendar.page}}">kalendáři</a>. Těšíme se na viděnou.
 
 **Komunikujeme pravidelně na Facebooku**, najdete nás jako [Piráti Praha 8](https://fb.com/piratipraha8). Webové stránky pražského sdružení najdete na [praha.pirati.cz](https://praha.pirati.cz/).
 
-<h4>Transparentnost</h4>
+# Transparentnost
 - Odměny za veřejné funkce najdete na společném pirátském webu [nalodeni.pirati.cz/odmeny](https://nalodeni.pirati.cz/odmeny/).
 - Veškerou evidenci kontaktů a schůzek najdete na [evidence.pirati.cz](https://evidence.pirati.cz/).
 
-<h1>Podpořte nás!</h1>
+# Podpořte nás!
 
 - **Finanční dary na podporu našeho fungování** můžete posílat na [dary.pirati.cz](https://dary.pirati.cz/podpor-kraj/praha/adresne-dary-pro-ks-praha/), kde vyberete Jiný účel: MS Praha 8.
 - **Finanční dary na podporu komunálních voleb v Praze 8** můžete posílat na [dary.pirati.cz](https://dary.pirati.cz/podpor-kraj/praha/adresne-dary-pro-ks-praha/?p=190108)
