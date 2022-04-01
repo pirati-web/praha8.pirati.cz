@@ -24,6 +24,7 @@ profiles:
   twitter:   https://twitter.com/sterbamartin
   linkedin:  https://linkedin.com/in/sterbamartin/
   instagram: https://www.instagram.com/sterbamartin__
+  github:    https://github.com/martinsterba
   web:       http://www.sterba.eu
   evidence:  https://evidence.pirati.cz/author/357/
   odmeny:    https://nalodeni.pirati.cz/odmeny/martin.sterba
