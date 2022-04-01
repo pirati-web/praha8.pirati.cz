@@ -18,12 +18,13 @@ mob: +420 608 303 542
 mail:
  - wagenknechtl@senat.cz
 profiles:
-  facebook: https://www.facebook.com/WagenknechtLuk/
-  twitter: https://twitter.com/WagenknechtLuk
-  instagram: https://www.instagram.com/wagenknecht_luk
-  blog: http://blog.aktualne.cz/blogy/lukas-wagenknecht.php
-  web: https://lukaswagenknecht.cz/
-  flickr: https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=luk%C3%A1%C5%A1%20wagenknecht 
+  facebook:   https://www.facebook.com/WagenknechtLuk/
+  twitter:    https://twitter.com/WagenknechtLuk
+  instagram:  https://www.instagram.com/wagenknecht_luk
+  blog:       http://blog.aktualne.cz/blogy/lukas-wagenknecht.php
+  web:        https://lukaswagenknecht.cz/
+  wikipedia:  https://cs.wikipedia.org/wiki/Luk%C3%A1%C5%A1_Wagenknecht 
+  flickr:     https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=luk%C3%A1%C5%A1%20wagenknecht 
 funkce:
   - senátor
   - člen <a href="https://ppas.cz/o-nas">dozorčí rady Pražské plynárenské, a.s.</a>
