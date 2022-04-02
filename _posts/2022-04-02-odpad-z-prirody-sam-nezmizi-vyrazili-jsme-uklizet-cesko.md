@@ -18,7 +18,7 @@ fancybox:
       - { src: posts/2022-04-02-uklidmecesko/uklidmecesko10.jpeg, title: Odpad z přírody sám nezmizí. Vyrazili jsme uklízet Česko }
 ---
 
-**My čekali jaro, a zatím přišel mráz.  I tak by se dala nazvat první dubnová sobota, kdy se konala tradiční celostátní akce Ukliďme Česko. A zúčastnili jsme se jí i my – Jan Kolátor vyrazil do Ďáblického háje a Martin Štěrba se studentským spolkem Koridor do okolí kolejí 17. listopadu v Holešovičkách. Do Holešoviček dorazil také Zdeněk Hřib - primátor Prahy.** 
+**My čekali jaro, a zatím přišel mráz.  I tak by se dala nazvat první dubnová sobota, kdy se konala tradiční celostátní akce Ukliďme Česko. A zúčastnili jsme se jí i my – Jan Kolátor vyrazil do Ďáblického háje a Martin Štěrba se studentským spolkem Koridor do okolí kolejí 17. listopadu v Holešovičkách. Do Holešoviček dorazil také náš pirátský primátor Zdeněk Hřib.** 
 
 Obě místa prokoukla a díky zaslouží všichni, kteří se do úklidu zapojili. Kam jste vyrazili vy?
 
