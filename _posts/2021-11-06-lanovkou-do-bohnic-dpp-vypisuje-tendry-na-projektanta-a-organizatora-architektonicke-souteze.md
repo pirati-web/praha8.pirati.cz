@@ -1,15 +1,15 @@
 ---
 title: Lanovkou do Bohnic? Dopravní podnik vypisuje tendry na projektanta a organizátora architektonické soutěže
 authorId: martin.sterba
-image: posts/lanovka-bohnice-podbaba/vizualizace2.jpg
+image: posts/lanovka-bohnice-podbaba/vizualizace3.jpg
 tags: [Bohnice, Doprava, Lanovka Bohnice–Podbaba, Magistrát]
 fancybox:
   - name: Lanovka Bohnice–Podbaba
     img:
-      - { src: posts/lanovka-bohnice-podbaba/vizualizace1.jpg, title: Lanovka Bohnice–Podbaba 1 }
-      - { src: posts/lanovka-bohnice-podbaba/vizualizace2.jpg, title: Lanovka Bohnice–Podbaba 2 }
-      - { src: posts/lanovka-bohnice-podbaba/vizualizace3.jpg, title: Lanovka Bohnice–Podbaba 3 }
-      - { src: posts/lanovka-bohnice-podbaba/vizualizace4.jpg, title: Lanovka Bohnice–Podbaba 4 }
+      - { src: posts/vizualizace/lanovka-bohnice-podbaba/vizualizace1.jpg, title: Lanovka Bohnice–Podbaba 1 }
+      - { src: posts/vizualizace/lanovka-bohnice-podbaba/vizualizace2.jpg, title: Lanovka Bohnice–Podbaba 2 }
+      - { src: posts/vizualizace/lanovka-bohnice-podbaba/vizualizace3.jpg, title: Lanovka Bohnice–Podbaba 3 }
+      - { src: posts/vizualizace/lanovka-bohnice-podbaba/vizualizace4.jpg, title: Lanovka Bohnice–Podbaba 4 }
 ---
 
 **Dopravní podnik hlavního města Prahy vypsal veřejnou zakázku na projektanta lanovky z Podbaby přes ZOO do Bohnic a tendr na organizátora mezinárodní architektonické soutěže na podobu tří stanic lanovky a pěti podpůrných pilířů. Vítězové obou zakázek by měli být známí do konce ledna 2022.** [Realizaci lanovky Podbaba – Troja – Bohnice schválila Rada hlavního města Prahy v létě 2020.](https://praha8.pirati.cz/aktuality/potvrzeni-lanovky-do-bohnic.html). Předpokládaná délka je cca 2,3 km a předpokládané náklady na její výstavbu jsou odhadovány na přibližně dvě miliardy korun.
