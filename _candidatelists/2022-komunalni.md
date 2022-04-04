@@ -6,7 +6,7 @@ leader:
   uid: martin.sterba
   age: 35
   city: Libeň
-  profession: manažer a stratég on-line komunikace
+  profession: manažer a stratég on-line komunikace, ředitel NNO
   partyUid: pirati
 head:
 # 2
@@ -41,7 +41,7 @@ head:
     partyUid: pirati
 # 7
   - uid: ivo.slavka
-    profession: právník, vedoucí oddělení investic a výběrových řízení na MPO
+    profession: právník, vedoucí oddělení investic a výběrových řízení na MPO ČR
     age: 56
     city: Kobylisy
     partyUid: pirati 
@@ -59,17 +59,17 @@ head:
     partyUid: pirati
 # 10
   - uid: veronika.siftova
-    profession: ministerský rada
+    profession: ministerský rada Ministerstva vnitra ČR
     age: 100
-    city: 
+    city: Libeň
     partyUid: bezpp  
 
 tail:
 # 11
   - name: Mgr. Karolína Gattermayerová
-    profession: scénáristka
-    age: 100
-    city: 
+    profession: scénáristka, copywriterka
+    age: 29
+    city: Libeň
     partyUid: bezpp     
 # 12
   - uid: ondrej.profant
@@ -79,7 +79,7 @@ tail:
     partyUid: pirati
 # 13
   - uid: petr.bisek
-    profession: bývalý vydavatel Amerických listů
+    profession: novinář, bývalý vydavatel Amerických listů
     age: 100
     city: Ďáblice
     partyUid: pirati
