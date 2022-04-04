@@ -1,7 +1,7 @@
 ---
 title: Lanovkou do Bohnic? Dopravní podnik vypisuje tendry na projektanta a organizátora architektonické soutěže
 authorId: martin.sterba
-image: posts/lanovka-bohnice-podbaba/vizualizace3.jpg
+image: posts/vizualizace/lanovka-bohnice-podbaba/vizualizace3.jpg
 tags: [Bohnice, Doprava, Lanovka Bohnice–Podbaba, Magistrát]
 fancybox:
   - name: Lanovka Bohnice–Podbaba
