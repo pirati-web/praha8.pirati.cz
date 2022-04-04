@@ -23,7 +23,7 @@ fancybox:
       - { src: posts/2018-04-28-akcelouze/louze15.jpg, title: Praha 8 slíbila, že louže se splašky odstraní. Neodstranila... }
 ---
 
-Někteří z vás možná zaznamenali na sociálních sítích nedávnou „kauzu“ Libeňské louže a do ní vytékajících fekálií. Pokud nyní očekáváte stý a první článek, snažící se nalézt konkrétního neschopného radního či úředníka, mýlíte se. Problém je totiž podle nás někde úplně jinde.
+**Někteří z vás možná zaznamenali na sociálních sítích nedávnou „kauzu“ Libeňské louže a do ní vytékajících fekálií. Pokud nyní očekáváte stý a první článek, snažící se nalézt konkrétního neschopného radního či úředníka, mýlíte se. Problém je totiž podle nás někde úplně jinde.**
 
 ### Shrňme si obecně známá fakta:
 V ul. Pivovarnická se vytváří už více než deset let obří louže s dobrými třiceti kubíky dešťové vody. Skutečný problém nastal přibližně před rokem a půl, kdy z nedalekého kanálu ve svahu nad kaluží začaly vyvěrat fekálie a obohacovat dříve neškodnou dešťovou vodu v kaluži o poněkud složitější chemické vzorce. Tím se samozřejmě situace zkomplikovala, neboť tak vzniklo nejenom širší riziko znečištění prostředí, ale také ohrožení hygienické, nemluvě o
