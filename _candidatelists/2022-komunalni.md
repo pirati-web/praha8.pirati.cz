@@ -58,7 +58,7 @@ head:
     city: Karlín
     partyUid: pirati
 # 10
-  - name: Ing. Veronika Šiftová 
+  - uid: veronika.siftova
     profession: ministerský rada
     age: 100
     city: 
