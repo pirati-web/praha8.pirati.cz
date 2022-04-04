@@ -10,7 +10,6 @@ fancybox:
       - { src: posts/vizualizace/namesti-bohumila-hrabala/namhrabala2.jpg, title: Náměstí Bohumila Hrabala dostane novou tvář }
       - { src: posts/vizualizace/namesti-bohumila-hrabala/namhrabala3.jpg, title: Náměstí Bohumila Hrabala dostane novou tvář }
       - { src: posts/vizualizace/namesti-bohumila-hrabala/namhrabala4.jpg, title: Náměstí Bohumila Hrabala dostane novou tvář }
-
 ---
 
 **Nové náměstí, jež do roku 2025 vznikne v prostoru mezi stávajícím autobusovým nádražím a ulicí Na Žertvách v Praze 8, se stane hned v několika ohledech ukázkovým příkladem řešení městského veřejného prostoru. Palmovka přitom nadále zůstane významným uzlem pro chodce i cestující MHD, kde pohyb lidí je navržen s ohledem na jejich kvalitní orientaci a maximální bezpečnost. Předběžný rozpočet obnovy náměstí je stanoven na 80 milionů korun, investorem je Magistrát hl. m. Prahy.**
