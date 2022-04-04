@@ -210,7 +210,7 @@ tail:
     city: PRAHA 8
     partyUid: bezpp  
 # 35
-  - uid: michal.schwarzkopf
+  - name: TBD
     profession: TBD
     age: 100
     city: PRAHA 8
