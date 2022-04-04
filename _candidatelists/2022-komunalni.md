@@ -84,7 +84,7 @@ tail:
     city: Ďáblice
     partyUid: pirati
 # 14
-  - uid: anna.filinova
+  - name: TBD
     profession: TBD
     age: 100
     city: PRAHA 8
