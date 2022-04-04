@@ -6,17 +6,17 @@ tags: [Volby 2021]
 fancybox:
   - name: Zahájení tour po městských částech s Jakubem Michálkem
     img:
-      - { src: posts/tour-jakubmichalek/tour-jakubmichalek1.jpg, title: Zahájení tour po městských částech s Jakubem Michálkem 1 }
-      - { src: posts/tour-jakubmichalek/tour-jakubmichalek2.jpg, title: Zahájení tour po městských částech s Jakubem Michálkem 2 }
-      - { src: posts/tour-jakubmichalek/tour-jakubmichalek3.jpg, title: Zahájení tour po městských částech s Jakubem Michálkem 3 }
-      - { src: posts/tour-jakubmichalek/tour-jakubmichalek4.jpg, title: Zahájení tour po městských částech s Jakubem Michálkem 4 }
-      - { src: posts/tour-jakubmichalek/tour-jakubmichalek5.jpg, title: Zahájení tour po městských částech s Jakubem Michálkem 5 }
-      - { src: posts/tour-jakubmichalek/tour-jakubmichalek6.jpg, title: Zahájení tour po městských částech s Jakubem Michálkem 6 }
-      - { src: posts/tour-jakubmichalek/tour-jakubmichalek7.jpg, title: Zahájení tour po městských částech s Jakubem Michálkem 7 }
-      - { src: posts/tour-jakubmichalek/tour-jakubmichalek8.jpg, title: Zahájení tour po městských částech s Jakubem Michálkem 8 }
-      - { src: posts/tour-jakubmichalek/tour-jakubmichalek9.jpg, title: Zahájení tour po městských částech s Jakubem Michálkem 9 }
-      - { src: posts/tour-jakubmichalek/tour-jakubmichalek10.jpg, title: Zahájení tour po městských částech s Jakubem Michálkem 10 }
-      - { src: posts/tour-jakubmichalek/tour-jakubmichalek11.jpg, title: Zahájení tour po městských částech s Jakubem Michálkem 11 }
+      - { src: posts/2021-09-03-tour-jakubmichalek/tour-jakubmichalek1.jpg, title: Zahájení tour po městských částech s Jakubem Michálkem 1 }
+      - { src: posts/2021-09-03-tour-jakubmichalek/tour-jakubmichalek2.jpg, title: Zahájení tour po městských částech s Jakubem Michálkem 2 }
+      - { src: posts/2021-09-03-tour-jakubmichalek/tour-jakubmichalek3.jpg, title: Zahájení tour po městských částech s Jakubem Michálkem 3 }
+      - { src: posts/2021-09-03-tour-jakubmichalek/tour-jakubmichalek4.jpg, title: Zahájení tour po městských částech s Jakubem Michálkem 4 }
+      - { src: posts/2021-09-03-tour-jakubmichalek/tour-jakubmichalek5.jpg, title: Zahájení tour po městských částech s Jakubem Michálkem 5 }
+      - { src: posts/2021-09-03-tour-jakubmichalek/tour-jakubmichalek6.jpg, title: Zahájení tour po městských částech s Jakubem Michálkem 6 }
+      - { src: posts/2021-09-03-tour-jakubmichalek/tour-jakubmichalek7.jpg, title: Zahájení tour po městských částech s Jakubem Michálkem 7 }
+      - { src: posts/2021-09-03-tour-jakubmichalek/tour-jakubmichalek8.jpg, title: Zahájení tour po městských částech s Jakubem Michálkem 8 }
+      - { src: posts/2021-09-03-tour-jakubmichalek/tour-jakubmichalek9.jpg, title: Zahájení tour po městských částech s Jakubem Michálkem 9 }
+      - { src: posts/2021-09-03-tour-jakubmichalek/tour-jakubmichalek10.jpg, title: Zahájení tour po městských částech s Jakubem Michálkem 10 }
+      - { src: posts/2021-09-03-tour-jakubmichalek/tour-jakubmichalek11.jpg, title: Zahájení tour po městských částech s Jakubem Michálkem 11 }
 ---
 
 **Po letních prázdninách jsme opět vyrazili do ulic. A zářijové zahájení ostré fáze kampaně do Poslanecké sněmovny jsme si nemohli přát lepší.** Předseda pirátského poslaneckého klubu [Jakub Michálek](https://www.pirati.cz/lide/jakub-michalek/) u nás zahájil svojí tour po městských částech a my jsme ho provedli z Palmovky přes Rohanský ostrov až na Florenc. Společně s ním, poslancem [Janem Lipavským](https://www.pirati.cz/lide/jan-lipavsky/), senátorem za Prahu 8 [Lukášem Wagenknechtem](https://praha8.pirati.cz/lide/lukas-wagenknecht.html) a mnohými dalšími jsme pak na Florenci rozdali stovky koaličních listů a stovky jahodových nanuků.
