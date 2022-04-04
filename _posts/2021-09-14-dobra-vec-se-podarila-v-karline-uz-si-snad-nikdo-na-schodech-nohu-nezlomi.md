@@ -1,18 +1,18 @@
 ---
 title: Dobrá věc se podařila! V Karlíně už si snad nikdo na schodech nohu nezlomí
 authorId: karel.ptacek
-image: posts/schody-karlin/schody1.jpg
+image: posts/2021-09-14-schodykarlin/schody1.jpeg
 tags: [Karlín, Veřejný prostor]
 fancybox:
   - name: Sousedské setkání v Karlíně
     img:
-      - { src: posts/schody-karlin/schody1.jpg, title: Sousedské setkání v Karlíně 1 }
-      - { src: posts/schody-karlin/schody2.jpg, title: Sousedské setkání v Karlíně 2 }
-      - { src: posts/schody-karlin/schody3.jpg, title: Sousedské setkání v Karlíně 3 }
-      - { src: posts/schody-karlin/schody4.jpg, title: Sousedské setkání v Karlíně 4 }
-      - { src: posts/schody-karlin/schody5.jpg, title: Sousedské setkání v Karlíně 5 }
-      - { src: posts/schody-karlin/schody6.jpg, title: Sousedské setkání v Karlíně 6 }
-      - { src: posts/schody-karlin/schody7.jpg, title: Sousedské setkání v Karlíně 7 }
+      - { src: posts/2021-09-14-schodykarlin/schody1.jpeg, title: Sousedské setkání v Karlíně 1 }
+      - { src: posts/2021-09-14-schodykarlin/schody2.jpeg, title: Sousedské setkání v Karlíně 2 }
+      - { src: posts/2021-09-14-schodykarlin/schody3.jpeg, title: Sousedské setkání v Karlíně 3 }
+      - { src: posts/2021-09-14-schodykarlin/schody4.jpeg, title: Sousedské setkání v Karlíně 4 }
+      - { src: posts/2021-09-14-schodykarlin/schody5.jpeg, title: Sousedské setkání v Karlíně 5 }
+      - { src: posts/2021-09-14-schodykarlin/schody6.jpeg, title: Sousedské setkání v Karlíně 6 }
+      - { src: posts/2021-09-14-schodykarlin/schody7.jpeg, title: Sousedské setkání v Karlíně 7 }
 ---
 
 **Dobrá věc se podařila. V kopečku u cyklostezky, která vede skrz Rohanský ostrov, už snad nedojde k žádnému zranění. V rámci sousedského setkání jsme tady totiž opravili několik let staré dřevěné schody. Na výsledek se můžete podívat sami.**
