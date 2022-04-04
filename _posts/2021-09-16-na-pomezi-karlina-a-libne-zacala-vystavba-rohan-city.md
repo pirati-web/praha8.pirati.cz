@@ -1,24 +1,24 @@
 ---
 title: Na pomezí Karlína a Libně začala výstavba Rohan City
 authorId: martin.sterba
-image: posts/rohancity/rohancity11.png
+image: posts/vizualizace/rohancity/rohancity11.png
 tags: [Libeň, Karlín, Rohanský ostrov, Veřejný prostor, Územní rozvoj]
 fancybox:
   - name: Rohan City
     img:
-      - { src: posts/rohancity/rohancity1.png, title: Na pomezí Karlína a Libně začala výstavba Rohan City 1 }
-      - { src: posts/rohancity/rohancity2.png, title: Na pomezí Karlína a Libně začala výstavba Rohan City 2 }
-      - { src: posts/rohancity/rohancity3.png, title: Na pomezí Karlína a Libně začala výstavba Rohan City 3 }
-      - { src: posts/rohancity/rohancity4.png, title: Na pomezí Karlína a Libně začala výstavba Rohan City 4 }
-      - { src: posts/rohancity/rohancity5.png, title: Na pomezí Karlína a Libně začala výstavba Rohan City 5 }
-      - { src: posts/rohancity/rohancity6.png, title: Na pomezí Karlína a Libně začala výstavba Rohan City 6 }
-      - { src: posts/rohancity/rohancity7.png, title: Na pomezí Karlína a Libně začala výstavba Rohan City 7 }
-      - { src: posts/rohancity/rohancity8.png, title: Na pomezí Karlína a Libně začala výstavba Rohan City 8 }
-      - { src: posts/rohancity/rohancity9.png, title: Na pomezí Karlína a Libně začala výstavba Rohan City 9 }
-      - { src: posts/rohancity/rohancity10.png, title: Na pomezí Karlína a Libně začala výstavba Rohan City 10 }
-      - { src: posts/rohancity/rohancity11.png, title: Na pomezí Karlína a Libně začala výstavba Rohan City 11 }
-      - { src: posts/rohancity/rohancity12.png, title: Na pomezí Karlína a Libně začala výstavba Rohan City 12 }
-      - { src: posts/rohancity/rohancity13.png, title: Na pomezí Karlína a Libně začala výstavba Rohan City 13 }
+      - { src: posts/vizualizace/rohancity/rohancity1.png, title: Na pomezí Karlína a Libně začala výstavba Rohan City 1 }
+      - { src: posts/vizualizace/rohancity/rohancity2.png, title: Na pomezí Karlína a Libně začala výstavba Rohan City 2 }
+      - { src: posts/vizualizace/rohancity/rohancity3.png, title: Na pomezí Karlína a Libně začala výstavba Rohan City 3 }
+      - { src: posts/vizualizace/rohancity/rohancity4.png, title: Na pomezí Karlína a Libně začala výstavba Rohan City 4 }
+      - { src: posts/vizualizace/rohancity/rohancity5.png, title: Na pomezí Karlína a Libně začala výstavba Rohan City 5 }
+      - { src: posts/vizualizace/rohancity/rohancity6.png, title: Na pomezí Karlína a Libně začala výstavba Rohan City 6 }
+      - { src: posts/vizualizace/rohancity/rohancity7.png, title: Na pomezí Karlína a Libně začala výstavba Rohan City 7 }
+      - { src: posts/vizualizace/rohancity/rohancity8.png, title: Na pomezí Karlína a Libně začala výstavba Rohan City 8 }
+      - { src: posts/vizualizace/rohancity/rohancity9.png, title: Na pomezí Karlína a Libně začala výstavba Rohan City 9 }
+      - { src: posts/vizualizace/rohancity/rohancity10.png, title: Na pomezí Karlína a Libně začala výstavba Rohan City 10 }
+      - { src: posts/vizualizace/rohancity/rohancity11.png, title: Na pomezí Karlína a Libně začala výstavba Rohan City 11 }
+      - { src: posts/vizualizace/rohancity/rohancity12.png, title: Na pomezí Karlína a Libně začala výstavba Rohan City 12 }
+      - { src: posts/vizualizace/rohancity/rohancity13.png, title: Na pomezí Karlína a Libně začala výstavba Rohan City 13 }
 ---
 
 **Příprava projektu Rohan City trvala 13 let, zahrnovala nejen řadu studií a [projednávání s veřejností, ale i diskuzí s urbanisty a architekty](https://praha8.pirati.cz/aktuality/jaka-bude-budoucnost-rohanskeho-ostrova-zapojte-se-do-diskuze.html). Před pár dny došlo k oficiálnímu zahájení stavby. V nové čtvrti na pomezí Karlína a Libně by mělo v příštích letech najít nový domov a práci zhruba 11 tisíc lidí.**
