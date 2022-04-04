@@ -51,8 +51,6 @@ head:
     age: 100
     city: Ďáblice
     partyUid: bezpp
-
-tail:
 # 9
   - uid: karel.ptacek
     profession: projektový manažer
@@ -65,6 +63,8 @@ tail:
     age: 100
     city: 
     partyUid: bezpp  
+
+tail:
 # 11
   - name: Mgr. Karolína Gattermayerová
     profession: scénáristka
