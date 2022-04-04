@@ -1,6 +1,7 @@
 # Welcome to Jekyll!
 administrator:
   email: pavel.franc@pirati.cz # mail kam pujdou maily o webu
+  email: martin.sterba@pirati.cz
 github:
   url: https://github.com/pirati-web/praha8.pirati.cz/
   branch: master
