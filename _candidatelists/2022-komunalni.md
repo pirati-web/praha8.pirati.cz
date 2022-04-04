@@ -90,7 +90,7 @@ tail:
     city: PRAHA 8
     partyUid: bezpp 
 # 15
-  - name: TBD
+  - name: Místo šampionů, MBA
     profession: TBD
     age: 100
     city: PRAHA 8
