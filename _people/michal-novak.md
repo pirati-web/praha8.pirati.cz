@@ -18,6 +18,8 @@ mail:
   - michal.novak@pirati.cz
 profiles:
   facebook:  https://www.facebook.com/icydicey
+  twitter:   https://twitter.com/xelagem
+  linkedin:  https://www.linkedin.com/in/michalnovakmba/
 funkce:
   - <a href="https://www.praha8.cz/Klub-Ceska-piratska-strana.html">zastupitel MČ Praha 8</a>
   - předseda <a href="https://www.praha8.cz/Klub-Ceska-piratska-strana.html">zastupitelského klubu</a>
