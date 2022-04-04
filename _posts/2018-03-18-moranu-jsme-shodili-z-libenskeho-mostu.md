@@ -2,19 +2,19 @@
 title: Moranu jsme shodili z Libeňského mostu
 authorId: tomas.marik 
 date: 2018-03-18
-image: posts/2018-03-28-vynasenimorany/morana5.jpg
+image: posts/2018-03-28-vynasenimorany/morana5.jpeg
 tags: [Libeňský most, Piráti]
 fancybox:
   - name: Vynášení Morany
     img:
-      - { src: posts/2018-03-28-vynasenimorany/morana1.jpg, title: Vynášení Morany }
-      - { src: posts/2018-03-28-vynasenimorany/morana2.jpg, title: Vynášení Morany }
-      - { src: posts/2018-03-28-vynasenimorany/morana3.jpg, title: Vynášení Morany }
-      - { src: posts/2018-03-28-vynasenimorany/morana4.jpg, title: Vynášení Morany }
-      - { src: posts/2018-03-28-vynasenimorany/morana5.jpg, title: Vynášení Morany }
-      - { src: posts/2018-03-28-vynasenimorany/morana6.jpg, title: Vynášení Morany }
-      - { src: posts/2018-03-28-vynasenimorany/morana7.jpg, title: Vynášení Morany }
-      - { src: posts/2018-03-28-vynasenimorany/morana8.jpg, title: Vynášení Morany }
+      - { src: posts/2018-03-28-vynasenimorany/morana1.jpeg, title: Vynášení Morany }
+      - { src: posts/2018-03-28-vynasenimorany/morana2.jpeg, title: Vynášení Morany }
+      - { src: posts/2018-03-28-vynasenimorany/morana3.jpeg, title: Vynášení Morany }
+      - { src: posts/2018-03-28-vynasenimorany/morana4.jpeg, title: Vynášení Morany }
+      - { src: posts/2018-03-28-vynasenimorany/morana5.jpeg, title: Vynášení Morany }
+      - { src: posts/2018-03-28-vynasenimorany/morana6.jpeg, title: Vynášení Morany }
+      - { src: posts/2018-03-28-vynasenimorany/morana7.jpeg, title: Vynášení Morany }
+      - { src: posts/2018-03-28-vynasenimorany/morana8.jpeg, title: Vynášení Morany }
 ---
 
 **V neděli 18. března 2018 pořádalo Místní sdružení Pirátů na Praze 8 akci Vynášení Morany na Libeňském mostu.**
