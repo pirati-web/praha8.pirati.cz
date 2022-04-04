@@ -2,25 +2,25 @@
 title: Výročí atentátu na Heydricha je třeba si připomínat
 authorId: martin.sterba
 date: 2021-05-27
-image: posts/anthropoid2021/anthropoid2021_12.jpg
+image: posts/2021-05-27-anthropoid/anthropoid2021_12.jpg
 tags: [Anthropoid, Libeň]
 fancybox:
   - name: Pietní akt 27. 5. 2021
     img:
-      - { src: posts/anthropoid2021/anthropoid2021_01.jpg, title: Pietní akt 27. 5. 2021 }
-      - { src: posts/anthropoid2021/anthropoid2021_02.jpg, title: Pietní akt 27. 5. 2021 }
-      - { src: posts/anthropoid2021/anthropoid2021_03.jpg, title: Pietní akt 27. 5. 2021 }
-      - { src: posts/anthropoid2021/anthropoid2021_04.jpg, title: Pietní akt 27. 5. 2021 }
-      - { src: posts/anthropoid2021/anthropoid2021_05.jpg, title: Pietní akt 27. 5. 2021 }
-      - { src: posts/anthropoid2021/anthropoid2021_06.jpg, title: Pietní akt 27. 5. 2021 }
-      - { src: posts/anthropoid2021/anthropoid2021_07.jpg, title: Pietní akt 27. 5. 2021 }
-      - { src: posts/anthropoid2021/anthropoid2021_08.jpg, title: Pietní akt 27. 5. 2021 }
-      - { src: posts/anthropoid2021/anthropoid2021_09.jpg, title: Pietní akt 27. 5. 2021 }
-      - { src: posts/anthropoid2021/anthropoid2021_10.jpg, title: Pietní akt 27. 5. 2021 }
-      - { src: posts/anthropoid2021/anthropoid2021_11.jpg, title: Pietní akt 27. 5. 2021 }
-      - { src: posts/anthropoid2021/anthropoid2021_12.jpg, title: Pietní akt 27. 5. 2021 }
-      - { src: posts/anthropoid2021/anthropoid2021_13.jpg, title: Pietní akt 27. 5. 2021 }
-      - { src: posts/anthropoid2021/anthropoid2021_14.jpg, title: Pietní akt 27. 5. 2021 }
+      - { src: posts/2021-05-27-anthropoid/anthropoid2021_1.jpg, title: Pietní akt 27. 5. 2021 }
+      - { src: posts/2021-05-27-anthropoid/anthropoid2021_2.jpg, title: Pietní akt 27. 5. 2021 }
+      - { src: posts/2021-05-27-anthropoid/anthropoid2021_3.jpg, title: Pietní akt 27. 5. 2021 }
+      - { src: posts/2021-05-27-anthropoid/anthropoid2021_4.jpg, title: Pietní akt 27. 5. 2021 }
+      - { src: posts/2021-05-27-anthropoid/anthropoid2021_5.jpg, title: Pietní akt 27. 5. 2021 }
+      - { src: posts/2021-05-27-anthropoid/anthropoid2021_6.jpg, title: Pietní akt 27. 5. 2021 }
+      - { src: posts/2021-05-27-anthropoid/anthropoid2021_7.jpg, title: Pietní akt 27. 5. 2021 }
+      - { src: posts/2021-05-27-anthropoid/anthropoid2021_8.jpg, title: Pietní akt 27. 5. 2021 }
+      - { src: posts/2021-05-27-anthropoid/anthropoid2021_9.jpg, title: Pietní akt 27. 5. 2021 }
+      - { src: posts/2021-05-27-anthropoid/anthropoid2021_10.jpg, title: Pietní akt 27. 5. 2021 }
+      - { src: posts/2021-05-27-anthropoid/anthropoid2021_11.jpg, title: Pietní akt 27. 5. 2021 }
+      - { src: posts/2021-05-27-anthropoid/anthropoid2021_12.jpg, title: Pietní akt 27. 5. 2021 }
+      - { src: posts/2021-05-27-anthropoid/anthropoid2021_13.jpg, title: Pietní akt 27. 5. 2021 }
+      - { src: posts/2021-05-27-anthropoid/anthropoid2021_14.jpg, title: Pietní akt 27. 5. 2021 }
 ---
 
 **Předseda našeho místního sdružení [Martin Štěrba](https://praha8.pirati.cz/lide/martin-sterba.html) dnes společně se zástupci vedení městské části Praha 8, magistrátu, slovenské a britské ambasády a mnohými dalšími položil kytici k pomníku operace Anthropoid.**
