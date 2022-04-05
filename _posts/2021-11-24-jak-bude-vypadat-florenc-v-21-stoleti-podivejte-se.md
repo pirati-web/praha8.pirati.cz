@@ -6,12 +6,12 @@ tags: [Florenc, Územní rozvoj, Veřejný prostor]
 fancybox:
   - name: Jak bude vypadat Florenc?
     img:
-      - { src: posts/2021-11-24-florenc21/florenc1.jpg, title: Jak bude vypadat Florenc? }
-      - { src: posts/2021-11-24-florenc21/florenc2.jpg, title: Jak bude vypadat Florenc? }
-      - { src: posts/2021-11-24-florenc21/florenc3.jpg, title: Jak bude vypadat Florenc? }
-      - { src: posts/2021-11-24-florenc21/florenc4.jpg, title: Jak bude vypadat Florenc? }  
-      - { src: posts/2021-11-24-florenc21/florenc5.jpg, title: Jak bude vypadat Florenc? }
-      - { src: posts/2021-11-24-florenc21/florenc6.jpg, title: Jak bude vypadat Florenc? }
+      - { src: posts/2021-11-24-florenc21/florenc1.jpg, title: Budoucí podoba Florence podle architektů }
+      - { src: posts/2021-11-24-florenc21/florenc2.jpg, title: Budoucí podoba Florence podle architektů }
+      - { src: posts/2021-11-24-florenc21/florenc3.jpg, title: Budoucí podoba Florence podle architektů }
+      - { src: posts/2021-11-24-florenc21/florenc4.jpg, title: Budoucí podoba Florence podle architektů }  
+      - { src: posts/2021-11-24-florenc21/florenc5.jpg, title: Budoucí podoba Florence podle architektů }
+      - { src: posts/2021-11-24-florenc21/florenc6.jpg, title: Budoucí podoba Florence podle architektů }
 ---
 
 **Autobusové nádraží Florenc a přilehlé území směrem k Masarykovu nádraží čekají v budoucnu velké změny. Jak by mělo území vypadat vzejde z urbanistické soutěže. Institut plánování a rozvoje představil tři finální návrhy, ze kterých na začátku prosince vyberou vítěze.**
