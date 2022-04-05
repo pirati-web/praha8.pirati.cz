@@ -1,71 +1,71 @@
 ---
 title: Na kole do školy? Děti by chtěly, problém je ale s parkováním
 authorId: pavel.franc
-image: posts/kola/buresova-1.jpg
+image: posts/2021-04-15-nakoledoskoly/buresova-1.jpg
 tags: [Cyklodoprava, Školství]
 fancybox:
   - name: ZŠ Burešova
     img:
-      - { src: posts/kola/buresova-2.jpg, title: ZŠ Burešova - celkový pohled }
-      - { src: posts/kola/buresova-1.jpg, title: ZŠ Burešova - kolárna }
+      - { src: posts/2021-04-15-nakoledoskoly/buresova-2.jpg, title: ZŠ Burešova - celkový pohled }
+      - { src: posts/2021-04-15-nakoledoskoly/buresova-1.jpg, title: ZŠ Burešova - kolárna }
   - name: ZŠ Mazurská
     img:
-      - { src: posts/kola/mazurska-2.jpg, title: ZŠ Mazurská - celkový pohled }
-      - { src: posts/kola/mazurska-1.jpg, title: ZŠ Mazurská - kolárna }
+      - { src: posts/2021-04-15-nakoledoskoly/mazurska-2.jpg, title: ZŠ Mazurská - celkový pohled }
+      - { src: posts/2021-04-15-nakoledoskoly/mazurska-1.jpg, title: ZŠ Mazurská - kolárna }
   - name: ZŠ Ústavní
     img:
-      - { src: posts/kola/ustavni-2.jpg, title: ZŠ Ústavní - celkový pohled }
-      - { src: posts/kola/ustavni-1.jpg, title: ZŠ Ústavní - kolárna }
+      - { src: posts/2021-04-15-nakoledoskoly/ustavni-2.jpg, title: ZŠ Ústavní - celkový pohled }
+      - { src: posts/2021-04-15-nakoledoskoly/ustavni-1.jpg, title: ZŠ Ústavní - kolárna }
   - name: ZŠ U Školské zahrady
     img:
-      - { src: posts/kola/skolske-zahrady-2.jpg, title: ZŠ U Školské zahrady - celkový pohled }
-      - { src: posts/kola/skolske-zahrady-1.jpg, title: ZŠ U Školské zahrady - stojany }
+      - { src: posts/2021-04-15-nakoledoskoly/skolske-zahrady-2.jpg, title: ZŠ U Školské zahrady - celkový pohled }
+      - { src: posts/2021-04-15-nakoledoskoly/skolske-zahrady-1.jpg, title: ZŠ U Školské zahrady - stojany }
   - name: ZŠ Libčická
     img:
-      - { src: posts/kola/libcicka-2.jpg, title: ZŠ Libčická - celkový pohled }
-      - { src: posts/kola/libcicka-1.jpg, title: ZŠ Libčická - stojany }
+      - { src: posts/2021-04-15-nakoledoskoly/libcicka-2.jpg, title: ZŠ Libčická - celkový pohled }
+      - { src: posts/2021-04-15-nakoledoskoly/libcicka-1.jpg, title: ZŠ Libčická - stojany }
   - name: ZŠ Lyčkovo náměstí / Pernerova
     img:
-      - { src: posts/kola/lyckovo-nam-3.jpg, title: ZŠ Lyčkovo náměstí - celkový pohled }
-      - { src: posts/kola/lyckovo-nam-2.jpg, title: ZŠ Lyčkovo náměstí - stojany }
-      - { src: posts/kola/lyckovo-nam-1.jpg, title: ZŠ Lyčkovo náměstí - stojany }
-      - { src: posts/kola/pernerova-1.jpg, title: ZŠ Pernerova - stojany }
+      - { src: posts/2021-04-15-nakoledoskoly/lyckovo-nam-3.jpg, title: ZŠ Lyčkovo náměstí - celkový pohled }
+      - { src: posts/2021-04-15-nakoledoskoly/lyckovo-nam-2.jpg, title: ZŠ Lyčkovo náměstí - stojany }
+      - { src: posts/2021-04-15-nakoledoskoly/lyckovo-nam-1.jpg, title: ZŠ Lyčkovo náměstí - stojany }
+      - { src: posts/2021-04-15-nakoledoskoly/pernerova-1.jpg, title: ZŠ Pernerova - stojany }
   - name: ZŠ Dolákova
     img:
-      - { src: posts/kola/dolakova-2.jpg, title: ZŠ Dolákova - celkový pohled }
-      - { src: posts/kola/dolakova-1.jpg, title: ZŠ Dolákova - stojany }
+      - { src: posts/2021-04-15-nakoledoskoly/dolakova-2.jpg, title: ZŠ Dolákova - celkový pohled }
+      - { src: posts/2021-04-15-nakoledoskoly/dolakova-1.jpg, title: ZŠ Dolákova - stojany }
   - name: ZŠ Glowackého
     img:
-      - { src: posts/kola/glowackeho-2.jpg, title: ZŠ Glowackého - celkový pohled }
-      - { src: posts/kola/glowackeho-1.jpg, title: ZŠ Glowackého - stojany }
+      - { src: posts/2021-04-15-nakoledoskoly/glowackeho-2.jpg, title: ZŠ Glowackého - celkový pohled }
+      - { src: posts/2021-04-15-nakoledoskoly/glowackeho-1.jpg, title: ZŠ Glowackého - stojany }
   - name: ZŠ Slovanka
     img:
-      - { src: posts/kola/slovanka-2.jpg, title: ZŠ Slovanka - celkový pohled }
-      - { src: posts/kola/slovanka-1.jpg, title: ZŠ Slovanka - stojany }
+      - { src: posts/2021-04-15-nakoledoskoly/slovanka-2.jpg, title: ZŠ Slovanka - celkový pohled }
+      - { src: posts/2021-04-15-nakoledoskoly/slovanka-1.jpg, title: ZŠ Slovanka - stojany }
   - name: ZŠ Šutka
     img:
-      - { src: posts/kola/sutka-2.jpg, title: ZŠ Šutka - celkový pohled }
-      - { src: posts/kola/sutka-1.jpg, title: ZŠ Šutka - stojany }
+      - { src: posts/2021-04-15-nakoledoskoly/sutka-2.jpg, title: ZŠ Šutka - celkový pohled }
+      - { src: posts/2021-04-15-nakoledoskoly/sutka-1.jpg, title: ZŠ Šutka - stojany }
   - name: ZŠ Hovorčovická
     img:
-      - { src: posts/kola/hovorcovicka-2.jpg, title: ZŠ Hovorčovická - celkový pohled }
-      - { src: posts/kola/hovorcovicka-1.jpg, title: ZŠ Hovorčovická - stojany }
+      - { src: posts/2021-04-15-nakoledoskoly/hovorcovicka-2.jpg, title: ZŠ Hovorčovická - celkový pohled }
+      - { src: posts/2021-04-15-nakoledoskoly/hovorcovicka-1.jpg, title: ZŠ Hovorčovická - stojany }
   - name: ZŠ Petra Strozziho
     img:
-      - { src: posts/kola/petr-strozzi-2.jpg, title: ZŠ Petra Strozziho - celkový pohled 1 }
-      - { src: posts/kola/petr-strozzi-1.jpg, title: ZŠ Petra Strozziho - celkový pohled 2 }
+      - { src: posts/2021-04-15-nakoledoskoly/petr-strozzi-2.jpg, title: ZŠ Petra Strozziho - celkový pohled 1 }
+      - { src: posts/2021-04-15-nakoledoskoly/petr-strozzi-1.jpg, title: ZŠ Petra Strozziho - celkový pohled 2 }
   - name: ZŠ Žernosecká
     img:
-      - { src: posts/kola/zernosecka-2.jpg, title: ZŠ Žernosecká - celkový pohled 1 }
-      - { src: posts/kola/zernosecka-1.jpg, title: ZŠ Žernosecká - celkový pohled 2 }
+      - { src: posts/2021-04-15-nakoledoskoly/zernosecka-2.jpg, title: ZŠ Žernosecká - celkový pohled 1 }
+      - { src: posts/2021-04-15-nakoledoskoly/zernosecka-1.jpg, title: ZŠ Žernosecká - celkový pohled 2 }
   - name: ZŠ Bohumila Hrabala
     img:
-      - { src: posts/kola/bohumil-hrabal-1.jpg, title: ZŠ Bohumila Hrabala - celkový pohled }
-      - { src: posts/kola/bohumil-hrabal-2.jpg, title: ZŠ Bohumila Hrabala - budova Na Korábě }
+      - { src: posts/2021-04-15-nakoledoskoly/bohumil-hrabal-1.jpg, title: ZŠ Bohumila Hrabala - celkový pohled }
+      - { src: posts/2021-04-15-nakoledoskoly/bohumil-hrabal-2.jpg, title: ZŠ Bohumila Hrabala - budova Na Korábě }
   - name: ZŠ Palmovka
     img:
-      - { src: posts/kola/palmovka-1.jpg, title: ZŠ Palmovka - celkový pohled 1 }
-      - { src: posts/kola/palmovka-2.jpg, title: ZŠ Palmovka - celkový pohled 2 }
+      - { src: posts/2021-04-15-nakoledoskoly/palmovka-1.jpg, title: ZŠ Palmovka - celkový pohled 1 }
+      - { src: posts/2021-04-15-nakoledoskoly/palmovka-2.jpg, title: ZŠ Palmovka - celkový pohled 2 }
 ---
 
 Není to tak dávno, co v <a href="/aktuality/zeptal-se-nekdo-obyvatel-karlina.html">časopise Osmička</a> a následně pak i na sociálích sítích proběhla opětovná diskuse ohledně cykloobousměrek v Karlíně. Při této příležitosti jsme zmínili, že než bojovat na jedné ze dvou barikád, raději bychom namířili síly jinam a pomohli našim dětem, aby mohli jezdit do školy na kole či koloběžce. Následně se na nás obrátila celá řada rodičů podporující tuto aktivitu. A tak jsme se pustili do pátrání ...
