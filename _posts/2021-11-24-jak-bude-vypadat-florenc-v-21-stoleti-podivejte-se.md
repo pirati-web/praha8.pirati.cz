@@ -6,12 +6,12 @@ tags: [Florenc, Územní rozvoj, Veřejný prostor]
 fancybox:
   - name: Jak bude vypadat Florenc?
     img:
-      - { src: posts/2021-11-24-florenc21/florenc1.jpg, title: DE ARCHITEKTEN CIE., M2AU, LOLA LANDSCAPE ARCHITECTS - Při průchodu pod Magistrálou návštěvník zažívá mnoho-vrstvou městskou krajinu v níž se setkávají různé světy: pěší park, zklidněný proud aut a lidé, kteří se pod stropem přeměněných viaduktů scházejí při sportu, hře, trhu nebo malém koncertu. }
-      - { src: posts/2021-11-24-florenc21/florenc2.jpg, title: DE ARCHITEKTEN CIE., M2AU, LOLA LANDSCAPE ARCHITECTS - Mezi oblouky dvou tratí Negreli se nachází velmi atraktivní a rušné náměstí obklopené bary a restauracemi. Při pozorování přijíždějících a odjíždějících autobusů si můžete vychutnat pivo a občerstvení na jednom z mnoha piknikových stolků. }
-      - { src: posts/2021-11-24-florenc21/florenc3.jpg, title: UNIT ARCHITEKTI, A69 – ARCHITEKTI, MARKO&PLACEMAKERS - Vzniká lokalita s vlastním charakterem a identitou, splňující nejpřísnější standardy 21. století: kompaktní, polyfunkční, enviromentálně i ekonomicky udržitelná. Zároveň však lokalita přirozeně navazující na okolní pražské historické prostředí: struktura městských bloků, kde domy lidského měřítka vymezuji živá veřejná prostranství. Lokalita s nejvyšší ambici, přitom ale neokázalá a schopná srůst se svým okolím. Kus města respektující danosti místa i obrovskou škálu budoucího využiti. Řešení na pohled složité na papíře a při tom intuitivní a přívětivé pro skutečné užívání. }
-      - { src: posts/flore2021-11-24-florenc21nc21/florenc4.jpg, title: UNIT ARCHITEKTI, A69 – ARCHITEKTI, MARKO&PLACEMAKERS - Vzniká lokalita s vlastním charakterem a identitou, splňující nejpřísnější standardy 21. století: kompaktní, polyfunkční, enviromentálně i ekonomicky udržitelná. Zároveň však lokalita přirozeně navazující na okolní pražské historické prostředí: struktura městských bloků, kde domy lidského měřítka vymezuji živá veřejná prostranství. Lokalita s nejvyšší ambici, přitom ale neokázalá a schopná srůst se svým okolím. Kus města respektující danosti místa i obrovskou škálu budoucího využiti. Řešení na pohled složité na papíře a při tom intuitivní a přívětivé pro skutečné užívání. }  
-      - { src: posts/2021-11-24-florenc21/florenc5.jpg, title: AGPS ARCHITECTURE, ATELIER GIROT, IBV HÜSLER - Jádrem navrhovaného území je park Těšnov, který bude revitalizován a rozšířen tak, aby se propojil s nábřežím Vltavy na severu a dosáhl až ke kolejišti Masarykova nádraží v jižní části lokality. }
-      - { src: posts/2021-11-24-florenc21/florenc6.jpg, title: AGPS ARCHITECTURE, ATELIER GIROT, IBV HÜSLER - Jádrem navrhovaného území je park Těšnov, který bude revitalizován a rozšířen tak, aby se propojil s nábřežím Vltavy na severu a dosáhl až ke kolejišti Masarykova nádraží v jižní části lokality. }
+      - { src: posts/2021-11-24-florenc21/florenc1.jpg, title: Jak bude vypadat Florenc? }
+      - { src: posts/2021-11-24-florenc21/florenc2.jpg, title: Jak bude vypadat Florenc? }
+      - { src: posts/2021-11-24-florenc21/florenc3.jpg, title: Jak bude vypadat Florenc? }
+      - { src: posts/2021-11-24-florenc21/florenc4.jpg, title: Jak bude vypadat Florenc? }  
+      - { src: posts/2021-11-24-florenc21/florenc5.jpg, title: Jak bude vypadat Florenc? }
+      - { src: posts/2021-11-24-florenc21/florenc6.jpg, title: Jak bude vypadat Florenc? }
 ---
 
 **Autobusové nádraží Florenc a přilehlé území směrem k Masarykovu nádraží čekají v budoucnu velké změny. Jak by mělo území vypadat vzejde z urbanistické soutěže. Institut plánování a rozvoje představil tři finální návrhy, ze kterých na začátku prosince vyberou vítěze.**
