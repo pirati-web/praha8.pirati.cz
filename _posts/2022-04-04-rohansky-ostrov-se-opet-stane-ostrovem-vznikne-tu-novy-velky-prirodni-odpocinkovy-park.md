@@ -13,7 +13,7 @@ tags: [Park Maniny, Rohanský ostrov, Životní prostředí]
 
 {% include youtube.html id="zpB1A76CtU4" %}
 
-O konkrétní podobě celého parku rozhodne mezinárodní architektonická soutěž, kterou vyhlásí Praha Institut plánování a rozvoje Prahy.
+O konkrétní podobě celého parku rozhodne mezinárodní architektonická soutěž, kterou vyhlásí Praha a Institut plánování a rozvoje Prahy.
 
 ## Ke stažení
 - [Řešené území Parku Maniny a Koncepce Rohanského a Libeňského ostrova](https://iprpraha.cz/assets/files/files/6583a0f871550acc6845fa20fa121ef7.pdf)
