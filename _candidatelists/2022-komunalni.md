@@ -96,7 +96,7 @@ tail:
     city: PRAHA 8
     partyUid: bezpp
 # 16
-  - name: TBD
+  - name: Je to sice nepostupové, ale pořád skvělé!
     profession: TBD
     age: 100
     city: PRAHA 8
