@@ -2,23 +2,23 @@
 title: Jak vypadá Nová Palmovka uvnitř? Pojďte se podívat!
 authorId: martin.sterba
 date: 2021-12-16
-image: posts/nova-palmovka-prosinec2021/novapalmovka04.jpeg
+image: posts/2021-12-16-novapalmovka/novapalmovka04.jpeg
 tags: [Nová Palmovka, Magistrát, Územní rozvoj, Zastupitelstvo]
 fancybox:
   - name: Aktuální stav - prosinec 2021
     img:
-      - { src: posts/nova-palmovka-prosinec2021/novapalmovka01.jpeg, title: Aktuální stav Nové Palmovky }
-      - { src: posts/nova-palmovka-prosinec2021/novapalmovka02.jpeg, title: Aktuální stav Nové Palmovky }
-      - { src: posts/nova-palmovka-prosinec2021/novapalmovka03.jpeg, title: Aktuální stav Nové Palmovky }
-      - { src: posts/nova-palmovka-prosinec2021/novapalmovka04.jpeg, title: Aktuální stav Nové Palmovky }
-      - { src: posts/nova-palmovka-prosinec2021/novapalmovka05.jpeg, title: Aktuální stav Nové Palmovky }
-      - { src: posts/nova-palmovka-prosinec2021/novapalmovka06.jpeg, title: Aktuální stav Nové Palmovky }
-      - { src: posts/nova-palmovka-prosinec2021/novapalmovka07.jpeg, title: Aktuální stav Nové Palmovky }
-      - { src: posts/nova-palmovka-prosinec2021/novapalmovka08.jpeg, title: Aktuální stav Nové Palmovky }      
-      - { src: posts/nova-palmovka-prosinec2021/novapalmovka09.jpeg, title: Aktuální stav Nové Palmovky }
-      - { src: posts/nova-palmovka-prosinec2021/novapalmovka10.jpeg, title: Aktuální stav Nové Palmovky }
-      - { src: posts/nova-palmovka-prosinec2021/novapalmovka11.jpeg, title: Aktuální stav Nové Palmovky }
-      - { src: posts/nova-palmovka-prosinec2021/novapalmovka12.jpeg, title: Aktuální stav Nové Palmovky }
+      - { src: posts/2021-12-16-novapalmovka/novapalmovka01.jpeg, title: Aktuální stav Nové Palmovky }
+      - { src: posts/2021-12-16-novapalmovka/novapalmovka02.jpeg, title: Aktuální stav Nové Palmovky }
+      - { src: posts/2021-12-16-novapalmovka/novapalmovka03.jpeg, title: Aktuální stav Nové Palmovky }
+      - { src: posts/2021-12-16-novapalmovka/novapalmovka04.jpeg, title: Aktuální stav Nové Palmovky }
+      - { src: posts/2021-12-16-novapalmovka/novapalmovka05.jpeg, title: Aktuální stav Nové Palmovky }
+      - { src: posts/2021-12-16-novapalmovka/novapalmovka06.jpeg, title: Aktuální stav Nové Palmovky }
+      - { src: posts/2021-12-16-novapalmovka/novapalmovka07.jpeg, title: Aktuální stav Nové Palmovky }
+      - { src: posts/2021-12-16-novapalmovka/novapalmovka08.jpeg, title: Aktuální stav Nové Palmovky }      
+      - { src: posts/2021-12-16-novapalmovka/novapalmovka09.jpeg, title: Aktuální stav Nové Palmovky }
+      - { src: posts/2021-12-16-novapalmovka/novapalmovka10.jpeg, title: Aktuální stav Nové Palmovky }
+      - { src: posts/2021-12-16-novapalmovka/novapalmovka11.jpeg, title: Aktuální stav Nové Palmovky }
+      - { src: posts/2021-12-16-novapalmovka/novapalmovka12.jpeg, title: Aktuální stav Nové Palmovky }
 ---
 
 **Torzo nedostavěné radnice Nová Palmovka míří do majetku hlavního města Prahy. Jsme rádi, že se to i s pomocí našich pirátských kolegů na magistrátu povedlo vyřešit v tomto volebním období. Neustále jsme totiž opakovali, že je nutné konat rychle. Nová Palmovka snad brzy začne ožívat.**
