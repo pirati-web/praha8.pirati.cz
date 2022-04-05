@@ -1,24 +1,24 @@
 ---
 title: Když to neudělala městská část, vyčistili jsme Rohanský ostrov od nepořádku sami
 authorId: martin.sterba
-image: posts/rohanskyostrov-uklid/uklid-rohanskyostrov4.jpg
+image: posts/2021-05-22-rohanskyostrov-uklid/uklid-rohanskyostrov4.jpg
 tags: [Libeň, Karlín, Rohanský ostrov, Veřejný prostor, Životní prostředí]
 fancybox:
   - name: Rohanský ostrov před a po
     img:
-      - { src: posts/rohanskyostrov-uklid/uklid-rohanskyostrov-pred1.jpg, title: Takto to na ostrově vypadalo před úklidem 1 }
-      - { src: posts/rohanskyostrov-uklid/uklid-rohanskyostrov-pred2.jpg, title: Takto to na ostrově vypadalo před úklidem 2 }
-      - { src: posts/rohanskyostrov-uklid/uklid-rohanskyostrov-po1.jpg, title: Takto to na ostrově vypadalo po úklidu 1 }
-      - { src: posts/rohanskyostrov-uklid/uklid-rohanskyostrov-po2.jpg, title: Takto to na ostrově vypadalo po úklidu 2 }
+      - { src: posts/2021-05-22-rohanskyostrov-uklid/uklid-rohanskyostrov-pred1.jpg, title: Takto to na ostrově vypadalo před úklidem 1 }
+      - { src: posts/2021-05-22-rohanskyostrov-uklid/uklid-rohanskyostrov-pred2.jpg, title: Takto to na ostrově vypadalo před úklidem 2 }
+      - { src: posts/2021-05-22-rohanskyostrov-uklid/uklid-rohanskyostrov-po1.jpg, title: Takto to na ostrově vypadalo po úklidu 1 }
+      - { src: posts/2021-05-22-rohanskyostrov-uklid/uklid-rohanskyostrov-po2.jpg, title: Takto to na ostrově vypadalo po úklidu 2 }
   - name: Fotografie z akce
     img:
-      - { src: posts/rohanskyostrov-uklid/uklid-rohanskyostrov1.jpg, title: Úklid Rohanského ostrova 1 }
-      - { src: posts/rohanskyostrov-uklid/uklid-rohanskyostrov2.jpg, title: Úklid Rohanského ostrova 2 }
-      - { src: posts/rohanskyostrov-uklid/uklid-rohanskyostrov3.jpg, title: Úklid Rohanského ostrova 3 }
-      - { src: posts/rohanskyostrov-uklid/uklid-rohanskyostrov5.jpg, title: Úklid Rohanského ostrova 6 }
-      - { src: posts/rohanskyostrov-uklid/uklid-rohanskyostrov6.jpg, title: Úklid Rohanského ostrova 7 }
-      - { src: posts/rohanskyostrov-uklid/uklid-rohanskyostrov7.jpg, title: Úklid Rohanského ostrova 8 }
-      - { src: posts/rohanskyostrov-uklid/uklid-rohanskyostrov8.jpg, title: Úklid Rohanského ostrova 9 }
+      - { src: posts/2021-05-22-rohanskyostrov-uklid/uklid-rohanskyostrov1.jpg, title: Úklid Rohanského ostrova 1 }
+      - { src: posts/2021-05-22-rohanskyostrov-uklid/uklid-rohanskyostrov2.jpg, title: Úklid Rohanského ostrova 2 }
+      - { src: posts/2021-05-22-rohanskyostrov-uklid/uklid-rohanskyostrov3.jpg, title: Úklid Rohanského ostrova 3 }
+      - { src: posts/2021-05-22-rohanskyostrov-uklid/uklid-rohanskyostrov5.jpg, title: Úklid Rohanského ostrova 6 }
+      - { src: posts/2021-05-22-rohanskyostrov-uklid/uklid-rohanskyostrov6.jpg, title: Úklid Rohanského ostrova 7 }
+      - { src: posts/2021-05-22-rohanskyostrov-uklid/uklid-rohanskyostrov7.jpg, title: Úklid Rohanského ostrova 8 }
+      - { src: posts/2021-05-22-rohanskyostrov-uklid/uklid-rohanskyostrov8.jpg, title: Úklid Rohanského ostrova 9 }
 ---
 
 **Dnes jsme šli uklízet Rohanský ostrov. Už jsme se totiž nemohli koukat na ten nepořádek, který tam dlouhodobě je.** Jedná o [nepořádek na pozemku, který má ve správě MČ Praha 8](https://vdp.cuzk.cz/vdp/ruian/parcely/2073551101) a je jen pár kroků od míst, kde si hrají děti.
