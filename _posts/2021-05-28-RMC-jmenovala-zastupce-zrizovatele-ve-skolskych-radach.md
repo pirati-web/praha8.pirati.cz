@@ -1,7 +1,7 @@
 ---
 title: Praha 8 jmenovala nové zástupce ve školských radách, do jedné z nich míří i náš Pavel Franc
 authorId: pavel.franc
-image: posts/kola/skolske-zahrady-2.jpg
+image: posts/2021-04-15-nakoledoskoly/skolske-zahrady-2.jpg
 tags: [Školství]
 ---
 **Školské rady jsou nejdůležitější komunikační platformou mezi žáky, rodiči, učiteli, ředitelem a zřizovatelem dané školy.** Kvalitní škola se pozná i podle toho, že má aktivní školskou radu mezi jejíž činnosti (dané [školským zákonem](https://www.zakonyprolidi.cz/cs/2004-561)) např. patří:
