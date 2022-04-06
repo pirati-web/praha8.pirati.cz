@@ -12,4 +12,4 @@ tags: [Nová Palmovka, Palmovka]
 - Pražská developerská společnost, příspěvková organizace hl.... začne prověřovat, zda je možné budovy pro tento účel stavebně upravit a případně jaké úpravy a další kroky by pro to byly potřeba. Když vše půjde dobře, za 3 roky by se nový uživatel mohl nastěhovat. 
 - Ekonomický potenciál tohoto území je enormní, probíhají jednání o rozvoji celé oblasti "pentagon". Je počítáno s tím, že hodnota pozemků vzroste v příštích letech zhruba pětkrát. Vzniknout by tady podle předběžných plánů měly byty, škola, školka i kulturní zařízení. 
 
-Plánu je hodně, ale jak se tak lidově říká "už aby to bylo". Palmovka změnu potřebuje! 
+Plánů je hodně, ale jak se tak lidově říká "už aby to bylo". Palmovka změnu potřebuje! 
