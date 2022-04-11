@@ -14,7 +14,6 @@ teamDescription:
   regp: registrovaná příznivkyně
 mob: 
 mail:
-  - veronika.siftova@seznam.cz
 profiles:
   facebook:  https://www.facebook.com/kaja.litschova
   linkedin:  https://cz.linkedin.com/in/karol%C3%ADna-gattermayerov%C3%A1-a4b454131
