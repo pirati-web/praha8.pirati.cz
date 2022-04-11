@@ -2,8 +2,6 @@
 uid: jan.horn
 name: Jan Horn
 category:
-  - regp
-ordpms: 4
 img: people/jan-horn.jpg
 heroImg: people/jan-horn-hero.jpg
 profession: umělecký kovář a učitel
