@@ -1,5 +1,5 @@
 ---
-uid: karolina-gattermayerova
+uid: karolina.gattermayerova
 name: Karolína Gattermayerová
 titles:
   before: MgA.
