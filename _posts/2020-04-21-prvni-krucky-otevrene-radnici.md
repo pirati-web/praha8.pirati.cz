@@ -2,7 +2,7 @@
 title: První krůčky k otevřené radnici na Praze 8
 authorId: martin.stanek
 image: posts/open-source.jpg
-tags: [Digitalizace, Transparentnost, Zastupitelstvo]
+tags: [IT, Digitalizace, Transparentnost, Zastupitelstvo]
 ---
 
 **Zastupitel za Piráty Martin Staněk dnes prosadil dlouhodobý úkol pro Radu MČ Praha, aby zavedla open source systém pro vyřizování a hodnocení veškerých dotací, které Praha 8 uděluje.**

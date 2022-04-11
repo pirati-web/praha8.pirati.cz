@@ -2,7 +2,7 @@
 title: V CAMPu byl představen bohnický park K Pazderkám a nové obchodní centrum. Potřebujeme ho?
 authorId: karel.ptacek
 image: posts/ocbohnice.jpg
-tags: [Bohnice, Obchodní centrum, Veřejný prostor]
+tags: [Bohnice, Veřejný prostor]
 ---
 
 **Dnes dopoledne proběhla krátká prezentace a představení záměru umístění obchodního domu Kaufland na rohu ulic K Pazderkám a Lodžská v Bohnicích. Představení probíhalo živě on-line z Centra architektury a městského plánování (CAMP).**
