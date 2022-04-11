@@ -66,7 +66,7 @@ head:
 
 tail:
 # 11
-  - name: Mgr. Karolína Gattermayerová
+  - uid: karolina.gattermayerova
     profession: scénáristka, copywriterka
     age: 29
     city: Libeň
