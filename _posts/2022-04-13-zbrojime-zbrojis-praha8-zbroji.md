@@ -9,7 +9,7 @@ tags: [ODS]
 
 ODS Praha 8, která vede radnici u nás na Praze 8, na sebe už před časem [upozornila bizarní hrou pro veřejnost](https://praha8.pirati.cz/aktuality/starosta-gros-a-ods-vyhlasili-bizarni-soutez-o-bodne-noze-a-pistole.html), kde byla hlavní výhrou funkční palná zbraň. 
 
-Po rozpoutání války na Ukrajině založili předseda finančního výboru Martin Cibulka z ODS, společně s radním Liborem Paulusem z ODS a zastupitelem Michalem Janovským z Patriotů [spolek Paratus](https://www.paratus.pro) (česky "připravený"). Znak v podobě lipových listů v barvách trikolóry na mundúrovém pozadí dává tušit, kam avizované kurzy budou směřovat.
+Nedlouho před rozpoutání války na Ukrajině založili předseda finančního výboru Martin Cibulka z ODS, společně s radním Liborem Paulusem z ODS a zastupitelem Michalem Janovským z Patriotů [spolek Paratus](https://www.paratus.pro) (česky "připravený"). Znak v podobě lipových listů v barvách trikolóry na mundúrovém pozadí dává tušit, kam avizované kurzy budou směřovat.
 
 Chápeme třeba kurz první pomoci, i když poplatek ve výši 1 500,- Kč asi většinu lidí odradí. V úterý uskutečněný - pro obyvatele  Prahy 8 bezplatný - "Informativní kurz pro zájemce o zbrojní průkaz" ovšem spíše slouží propagaci vášně pana Cibulky pro zbraně všeho druhu, než by napomohl řešení krizové situace v mezích Zákona o zbraních (119/2002 Sb.). 
 
