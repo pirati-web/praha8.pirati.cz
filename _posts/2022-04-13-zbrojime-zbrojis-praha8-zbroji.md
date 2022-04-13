@@ -7,7 +7,7 @@ tags: [ODS]
 
 **Válka na Ukrajině nenechává nikoho chladným. Většinou se snažíme pomáhat postiženému obyvatelstvu na místě nebo uprchlíkům u nás. Bojíme se eskalace konfliktu a někteří se snaží připravit i na eventualitu válečného konfliktu v České republice.** Například osvěžování polozapomenutých znalostí z branné výchovy nebude na škodu a může poskytovat pocit bezpečí. Užitečnost jiných aktivit je samozřejmě sporná a jsou i tací, kteří konflikt zneužívají třeba pro své obchodní zájmy.
 
-ODS Praha 8, která vede radnici u nás na Praze 8, na sebe už před časem na sebe [upozornila bizarní hrou pro veřejnost](https://praha8.pirati.cz/aktuality/starosta-gros-a-ods-vyhlasili-bizarni-soutez-o-bodne-noze-a-pistole.html), kde byla hlavní výhrou funkční palná zbraň. 
+ODS Praha 8, která vede radnici u nás na Praze 8, na sebe už před časem [upozornila bizarní hrou pro veřejnost](https://praha8.pirati.cz/aktuality/starosta-gros-a-ods-vyhlasili-bizarni-soutez-o-bodne-noze-a-pistole.html), kde byla hlavní výhrou funkční palná zbraň. 
 
 Po rozpoutání války na Ukrajině založili předseda finančního výboru Martin Cibulka z ODS, společně s radním Liborem Paulusem z ODS a zastupitelem Michalem Janovským z Patriotů [spolek Paratus](https://www.paratus.pro) (česky "připravený"). Znak v podobě lipových listů v barvách trikolóry na mundúrovém pozadí dává tušit, kam avizované kurzy budou směřovat.
 
