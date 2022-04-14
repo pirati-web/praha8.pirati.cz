@@ -2,7 +2,7 @@
 title: "Praha získá ve směnách se státem Kasárna Karlín, dojde k oživení celého objektu"
 authorId: martin.sterba
 image:  posts/kasarna-karlin.jpg
-tags:   [Karlín, Kasárna Karlín]
+tags:   [Karlín, Kasárna Karlín, Magistrát]
 ---
 
 **Hlavní město a stát finišují jednu z historicky největších směn svých nemovitostí. Transakce se týká budov a pozemků v hodnotě přesahující dohromady čtyři miliardy korun. Praha a Česká republika, zejména pak Úřad pro zastupování státu ve věcech majetkových (ÚZSVM), se dohodly na směně konkrétních budov a pozemků po dvou letech jednání. Předmětem směny je například Nemocnice Na Bulovce či Kasárna Karlín.**
