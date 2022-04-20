@@ -20,20 +20,20 @@ main:
 
   - name: Rozcestník
     submenu:
-      - name: Web MČ Praha 8
+      - name: MČ Praha 8
         link: "http://www.praha8.cz"
       - name: Portál Pražana
         link: "http://www.portalprazana.cz"
-      - name: Lítačka
+      - name: PID Lítačka
         link: "http://www.pidlitacka.cz"
-      - name: Bezpečnost – Praha.eu
-        link: "https://bezpecnost.praha.eu"
       - name: Praha školská
         link: "https://www.prahaskolska.eu"
       - name: Praha volnočasová
         link: "https://prahavolnocasova.cz"
       - name: Praha sportovní
         link: "https://prahasportovni.eu"  
+      - name: Bezpečnost.Praha.eu
+        link: "https://bezpecnost.praha.eu"
       - name: Praha v číslech - Pragozor
         link: "https://www.pragozor.cz"
       - name: Praha zítra (Nové stavební projekty)
@@ -72,7 +72,7 @@ bottom:
 
 
 # Display transparency section in the footer?
-transparencySection: true
+transparencySection: false
 
 contact:
   - martin.sterba
