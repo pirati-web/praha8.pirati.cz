@@ -17,6 +17,31 @@ main:
     name: Lidé
   - link: /program/
     name: Program
+
+  - name: Rozcestník
+    submenu:
+      - name: Web MČ Praha 8
+        link: "http://www.praha8.cz"
+      - name: Portál Pražana
+        link: "http://www.portalprazana.cz"
+      - name: Lítačka
+        link: "http://www.pidlitacka.cz"
+      - name: Bezpečnost – Praha.eu
+        link: "https://bezpecnost.praha.eu"
+      - name: Praha školská
+        link: "https://www.prahaskolska.eu"
+      - name: Praha volnočasová
+        link: "https://prahavolnocasova.cz"
+      - name: Praha sportovní
+        link: "https://prahasportovni.eu"  
+      - name: Praha v číslech - Pragozor
+        link: "https://www.pragozor.cz"
+      - name: Praha zítra (Nové stavební projekty)
+        link: "https://praha.camp/praha-zitra/"
+      - name: Realitní portál Prahy
+        link: "https://realitniportalpraha.cz"
+      - name: Institut plánování a rozvoje Praha 
+        link: "https:://iprpraha.cz"
   - link: /kontakt/
     name: Kontakt
 
@@ -31,10 +56,10 @@ bottom:
   - class: small-12 medium-4
     title: Makáme
     links:
-      - link: /lide/
-        name: Lidé
       - link: /aktuality/
         name: Aktuality
+      - link: /lide/
+        name: Lidé
   - class: small-12 medium-4
     title: Otevřenost
     links:
@@ -47,7 +72,7 @@ bottom:
 
 
 # Display transparency section in the footer?
-transparencySection: false
+transparencySection: true
 
 contact:
   - martin.sterba
