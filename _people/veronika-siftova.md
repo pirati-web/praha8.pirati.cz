@@ -20,6 +20,12 @@ profiles:
 funkce:
 ---
 
-Veronika Šiftová pracuje jako ministerský rada na Ministerstvu vnitra a je registrovanou příznivkyní Pirátské strany. 
+**Jmenuji se Veronika Šiftová a jsem původem z malého horského města jménem Trutnov.** V Praze jsem vystudovala Vysokou školu finanční a správní se zaměřením na "Hospodářskou politiku a správu", obor Politický management bakalářské studium a Veřejnou správu v magisterském stupni. Mými koníčky jsou cestování, žila jsem půl roku v zahraničí, kde jsem procestovala Evropu a dostala se do Maroka, Latinské Ameriky. Kromě cestování miluju četbu knih, vzdělávání a hudbu. Sama jsem hrála 9 let na klavír, 10 let na zobcovou flétnu a 14 let na gramofony zejména elektronickou muziku. Po škole jsem nastoupila k soudnímu exekutorovi. 
+
+Nyní pracuji jako ministerský rada na Ministerstvu vnitra, zabývám se primárně ekonomikou a vnitřním rozpočtem OSS. Z tohoto důvodu bych se ráda věnovala zejména hospodářské politice a správě, financím a rozpočtu v rámci územní municipality. Domnívám se, že efektivní, transparentní a průhledná veřejná správa je jedním ze základních milníků a priorit, na kterých je zapotřebí neustále systematicky pracovat. 
+
+Momentálně jsem registrovaný příznivec Pirátů, ale do budoucna bych měla zájem se angažovat aktivně, podílet se na chodu MS části Prahy 8, kde nyní také bydlím. 
+
+To, co uděláme dnes, ovlivní našeho života na dalších pár let,je tedy pouze na nás, jakým způsobem bude naše budoucnost vypadat.
 
 Žije v Libni v Praze 8.
