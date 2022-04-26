@@ -5,7 +5,7 @@ uid: 2022-komunalni
 leader:
   uid: martin.sterba
   age: 35
-  city: Libeň
+  city: Praha 8 – Libeň
   profession: manažer a stratég on-line komunikace, ředitel NNO
   partyUid: pirati
 head:
@@ -13,55 +13,55 @@ head:
   - uid: michal.novak
     profession: konzultant
     age: 50
-    city: Kobylisy
+    city: Praha 8 – Kobylisy
     partyUid: pirati
 # 3
   - uid: alice.hamalova
     profession: vedoucí administrativního odboru Pirátů
     age: 32
-    city: Kobylisy
+    city: Praha 8 – Kobylisy
     partyUid: pirati
 # 4
   - uid: jan.kolator
     profession: systémový knihovník
     age: 43
-    city: Bohnice
+    city: Praha 8 – Bohnice
     partyUid: pirati    
 # 5
   - uid: martin.stanek
     profession: geolog
     age: 39
-    city: Ládví
+    city: Praha 8 – Ládví
     partyUid: pirati
 # 6
   - uid: pavel.franc
     profession: IT manažer
     age: 43
-    city: Kobylisy
+    city: Praha 8 – Kobylisy
     partyUid: pirati
 # 7
   - uid: ivo.slavka
     profession: právník, vedoucí oddělení investic a výběrových řízení na MPO ČR
     age: 56
-    city: Kobylisy
+    city: Praha 8 – Kobylisy
     partyUid: pirati 
 # 8
   - uid: jakub.jiran
     profession: auditor, člen dozorčí rady Dopravního podniku hl. města Prahy
     age: 100
-    city: Ďáblice
+    city: Praha 8 – Ďáblice
     partyUid: bezpp
 # 9
   - uid: karel.ptacek
     profession: projektový manažer
     age: 40
-    city: Karlín
+    city: Praha 8 – Karlín
     partyUid: pirati
 # 10
   - uid: veronika.siftova
     profession: ministerský rada Ministerstva vnitra ČR
     age: 100
-    city: Libeň
+    city: Praha 8 – Libeň
     partyUid: bezpp  
 
 tail:
@@ -69,20 +69,20 @@ tail:
   - uid: karolina.gattermayerova
     profession: scénáristka, copywriterka
     age: 29
-    city: Libeň
+    city: Praha 8 – Libeň
     partyUid: bezpp     
 # 12
   - uid: ondrej.profant
     profession: náměstek ministra pro místní rozvoj ČR
     age: 34
-    city: Kobylisy
+    city: Praha 8 – Kobylisy
     partyUid: pirati
 # 13
   - uid: petr.bisek
     profession: novinář, bývalý vydavatel Amerických listů
     age: 100
-    city: Ďáblice
-    partyUid: pirati
+    city: Praha 8 – Ďáblice
+    partyUid: bezpp
 # 14
   - name: TBD
     profession: TBD
@@ -90,13 +90,13 @@ tail:
     city: PRAHA 8
     partyUid: bezpp 
 # 15
-  - name: Místo šampionů, MBA
+  - name: TBD
     profession: TBD
     age: 100
     city: PRAHA 8
     partyUid: bezpp
 # 16
-  - name: Je to sice nepostupové, ale pořád skvělé!
+  - name: TBD
     profession: TBD
     age: 100
     city: PRAHA 8
