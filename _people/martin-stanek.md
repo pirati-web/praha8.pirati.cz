@@ -9,7 +9,7 @@ category:
   - zastupitele
   - clenove
 ordzas: 3
-ordpms: 5
+ordpms: 3
 img: people/martin-stanek.jpg
 heroImg: posts/bilydum.png
 profession: geolog

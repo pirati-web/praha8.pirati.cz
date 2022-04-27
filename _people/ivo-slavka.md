@@ -4,9 +4,11 @@ name: Ivo Slávka
 titles:
   before: Mgr.
 category:
+  - pms 
   - zastupitele
   - clenove
 ordzas: 2
+ordpms: 4
 img: people/ivo-slavka.jpg
 heroImg: posts/Palmovkastramvaji.jpg
 profession: právník

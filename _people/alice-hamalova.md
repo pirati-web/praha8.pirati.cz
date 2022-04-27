@@ -2,10 +2,8 @@
 uid: alice.hamalova
 name: Alice Hamalová
 category:
-  - pms
   - zastupitele
   - clenove
-ordpms: 3
 ordzas: 3
 img: people/alice-hamalova.jpg
 heroImg: posts/zahradky.png
