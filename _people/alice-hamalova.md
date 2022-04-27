@@ -20,7 +20,6 @@ profiles:
   odmeny:   https://nalodeni.pirati.cz/odmeny/alice.hamalova
   evidence: https://evidence.pirati.cz/
 funkce:
-  - místopředsedkyně MS Praha 8
   - <a href="https://www.praha8.cz/Klub-Ceska-piratska-strana.html">zastupitelka MČ Praha 8</a>
   - členka <a href="https://www.praha8.cz/Vybory-zastupitelstva-Mestske-casti-Praha-8.html">Finančního výboru ZMČP8</a>
   - členka <a href="https://www.praha8.cz/Komise-pro-zivotni-prostredi-2018-2022.html">Komise pro životní prostředí RMČP8</a>

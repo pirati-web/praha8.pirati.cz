@@ -18,6 +18,7 @@ description: místopředseda MS Praha 8
 teamDescription:
   zastupitele: zastupitel
   clenove: člen MS Praha 8
+  pms: místopředseda MS Praha 8
 mob: 775 058 555
 mail:
   -  martin.stanek@pirati.cz

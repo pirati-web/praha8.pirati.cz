@@ -13,12 +13,15 @@ img: people/ivo-slavka.jpg
 heroImg: posts/Palmovkastramvaji.jpg
 profession: právník
 partyUid: pirati
-description: koordinátor gesce finance a gesce sociální oblast & přidělování bytů
+description: místopředseda MS Praha 8
 teamDescription:
   zastupitele: místopředseda zastupitelského klubu
+  pms: místopředseda MS Praha 8
+  clenove: koordinátor gesce finance a gesce sociální oblast & přidělování bytů
 mail:
   - ivo.slavka@pirati.cz
 funkce:
+  - místopředseda MS Praha 8
   - <a href="https://www.praha8.cz/Klub-Ceska-piratska-strana.html">zastupitel MČ Praha 8</a>
   - místopředseda <a href="https://www.praha8.cz/Klub-Ceska-piratska-strana.html">zastupitelského klubu</a>
   - člen <a href="https://www.praha8.cz/Komise-pro-obecni-byty-2018-2022.html">Komise pro obecní byty RMČP8</a>
