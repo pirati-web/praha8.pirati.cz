@@ -2,7 +2,7 @@
 title: Politický cirkus Prahy 8 aneb do voleb zbývají tři měsíce
 authorId: michal.novak
 image: posts/zastupitelstvo.jpg
-tags: [Volby 2018]
+tags: [Metropolitní plán, Volby 2018]
 ---
 
 **Zazní hlas radního, který momentálně vede schůzi zastupitelstva Prahy 8: "Otevírám diskuzi!". Do té ale není nikdo přihlášen. Proto o pár sekund později stejný radní hlásí "Končím diskuzi!". A hlasuje se. Jeden bod programu se zvládne za pár minut. Krátké představení bodu bez uvedení jakýchkoliv argumentů a pak výše popsaný scénář. A takto cca patnáctkrát nebo dvacetkrát dokola. Jako dobře secvičené představení. Zastupitelé, koaliční i ti opoziční, jako poslušní vystupující znající svoji roli. Hlavně neudělat nic špatně. Hlavně nevybočit. Prostě politický cirkus.**
