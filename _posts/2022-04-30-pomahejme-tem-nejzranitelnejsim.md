@@ -5,7 +5,7 @@ image: posts/libensky-zamek2.jpg
 tags: [Časopis Osmička]
 ---
 
-*Poslední dva roky byly pro spoustu z nás kvůli pandemii Covid-19 náročné. A když už jsme si mysleli, že se nám alespoň částečně ulevilo, tak 24. února se zase téměř všechno změnilo. Rusko napadlo Ukrajinu a Vladimír Putin si začal krutě vynucovat svojí pozornost po celém světě. Zabíjí nevinné lidi, ženy i děti a neštítí se ničeho.**
+**Poslední dva roky byly pro spoustu z nás kvůli pandemii Covid-19 náročné. A když už jsme si mysleli, že se nám alespoň částečně ulevilo, tak 24. února se zase téměř všechno změnilo. Rusko napadlo Ukrajinu a Vladimír Putin si začal krutě vynucovat svojí pozornost po celém světě. Zabíjí nevinné lidi, ženy i děti a neštítí se ničeho.**
 
 I díky válce na Ukrajině dochází k inflaci, zdražování cen pohonných hmot a blbé náladě ve společnosti. A to nemusím ani mluvit o tom, že se kvůli ambicím několika lidí v loňském roce spustila energetická krize a náklady na energie mnohým lidem vystoupaly do neskutečných výšin. Podtrženo, sečteno. Životní náklady stoupají, to si musíme přiznat.
 
