@@ -4,12 +4,11 @@ name: Magdalena Opletalová
 titles:
   before: Mgr. et Mgr.
 category:
-  - regp
 img: people/magdalena-opletalova.jpg
 heroImg: posts/psi-louka.jpg
 profession: ředitelka Fokus Praha
 partyUid: bezpp
-description: podporovatelka
+description: 
 teamDescription:
 mail:
   - magdalena.opletalova@pirati.cz
