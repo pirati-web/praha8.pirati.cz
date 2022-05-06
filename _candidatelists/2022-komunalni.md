@@ -84,43 +84,43 @@ tail:
     city: Praha 8 – Ďáblice
     partyUid: bezpp
 # 14
-  - name: TBD
+  - name: Vojtěch Blahoš
     profession: TBD
     age: 100
     city: PRAHA 8
     partyUid: bezpp 
 # 15
-  - name: TBD
+  - name: Květa Maříková
     profession: TBD
     age: 100
     city: PRAHA 8
     partyUid: bezpp
 # 16
-  - name: TBD
+  - uid: lukas.kost
     profession: TBD
     age: 100
     city: PRAHA 8
     partyUid: bezpp
 # 17
-  - name: TBD
-    profession: TBD
+  - uid: miroslav.jahoda
+    profession: marketér
     age: 100
     city: PRAHA 8
     partyUid: bezpp
 # 18
-  - name: TBD
+  - uid: iva.nachtmannova
     profession: TBD
     age: 100
     city: PRAHA 8
     partyUid: bezpp
 # 19
-  - name: TBD
+  - name: Alix Guillard
     profession: TBD
     age: 100
     city: PRAHA 8
     partyUid: bezpp
 # 20
-  - name: TBD
+  - uid: michal.schwarzkopf
     profession: TBD
     age: 100
     city: PRAHA 8
