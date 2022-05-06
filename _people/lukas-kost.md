@@ -1,7 +1,8 @@
 ---
 uid: lukas.kost
 name: Lukáš Kost
-titles: Mgr.
+titles:
+  before: Mgr.
 category:
   - regp
 img: people/lukas-kost.png

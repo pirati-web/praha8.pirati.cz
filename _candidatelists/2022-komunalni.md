@@ -85,7 +85,7 @@ tail:
     partyUid: bezpp
 # 14
   - name: Vojtěch Blahoš
-    profession: TBD
+    profession: student
     age: 100
     city: PRAHA 8
     partyUid: bezpp 
@@ -94,10 +94,10 @@ tail:
     profession: TBD
     age: 100
     city: PRAHA 8
-    partyUid: bezpp
+    partyUid: pirati
 # 16
   - uid: lukas.kost
-    profession: TBD
+    profession: učitel na základní a střední škole
     age: 100
     city: PRAHA 8
     partyUid: bezpp
@@ -124,7 +124,7 @@ tail:
     profession: TBD
     age: 100
     city: PRAHA 8
-    partyUid: bezpp 
+    partyUid: pirati 
 # 21
   - name: TBD
     profession: TBD
