@@ -22,6 +22,6 @@ Podobné je to v oblasti relativně malého sídliště Písečná, dvě stanice
 **A co konkrétně pro obyvatele sídlišť děláme?**
 >Zorganizovali jsme několik schůzek občanů z uvedených lokalit s našimi pirátskými kolegy na magistrátu, kde máme zastoupení nejen v radě a zastupitelstvu Prahy, ale také například ve výborech pro územní rozvoj nebo majetek. Právě tyto výbory mohou ovlivnit postup města v daných kauzách nebo alespoň apelovat na státní správu, aby k nim změnila svůj postoj.I tohle je forma participativní politiky, kterou máme u Pirátů rádi. Je to praktický příklad spolupráce občanů s politiky. 
 
-Proto stále platí – ozvěte se nám se svými problémy třeba na e-mail @praha8.pirati.cz. Rádi Vás uslyšíme, a rádi Vám pomůžeme. Všichni totiž chceme, aby byla Praha 8 skutečně lepším místem pro život. 
+Proto stále platí – ozvěte se nám se svými problémy třeba na e-mail praha8@pirati.cz. Rádi Vás uslyšíme, a rádi Vám pomůžeme. Všichni totiž chceme, aby byla Praha 8 skutečně lepším místem pro život. 
 
 *PS: S ničím nesouvisející poznámka “pod čarou”. Osobně preferuji čistý vývar před zahuštěnou polévkou. :)*
