@@ -53,7 +53,7 @@ head:
     partyUid: bezpp
 # 9
   - uid: karel.ptacek
-    profession: projektový manažer
+    profession: projektový manažer ve Správě železnic
     age: 40
     city: Praha 8 – Karlín
     partyUid: pirati
@@ -91,9 +91,9 @@ tail:
     partyUid: bezpp 
 # 15
   - name: Květa Maříková
-    profession: TBD
+    profession: knihovnice na mateřské dovolené
     age: 100
-    city: PRAHA 8
+    city: PRAHA 8 – Libeň
     partyUid: pirati
 # 16
   - uid: lukas.kost
@@ -105,25 +105,25 @@ tail:
   - uid: miroslav.jahoda
     profession: marketér
     age: 100
-    city: PRAHA 8
+    city: PRAHA 8 – Kobylisy
     partyUid: bezpp
 # 18
   - uid: iva.nachtmannova
-    profession: TBD
+    profession: novinářka a kurýr
     age: 100
     city: PRAHA 8
     partyUid: bezpp
 # 19
-  - name: Alix Guillard
-    profession: TBD
+  - uid: alix.guillard
+    profession: vývojář
     age: 100
-    city: PRAHA 8
+    city: PRAHA 8 – Libeň
     partyUid: bezpp
 # 20
   - uid: michal.schwarzkopf
-    profession: TBD
+    profession: finanční konzultant
     age: 100
-    city: PRAHA 8
+    city: PRAHA 8 – Karlín
     partyUid: pirati 
 # 21
   - name: TBD
