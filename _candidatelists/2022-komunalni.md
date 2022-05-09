@@ -90,7 +90,7 @@ tail:
     city: PRAHA 8
     partyUid: bezpp 
 # 15
-  - name: Květa Maříková
+  - uid: kveta.marikova
     profession: knihovnice na mateřské dovolené
     age: 100
     city: PRAHA 8 – Libeň
