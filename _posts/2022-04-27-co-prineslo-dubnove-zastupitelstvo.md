@@ -13,7 +13,7 @@ Schváleny byly také dotace pro volnočasové sportovní i nesportovní aktivit
 
 Městská část Praha 8 pomůže lékařkám ze Zenklovy ulice, které dostaly od majitelů domů výpověď. Ta byla nedávno posunuta do konce června. Lékařky se pak velmi pravděpodobně přesunou do teskodomků poblíž Bílého domu. Jsem rád, že se tímto problém nezabývají jen Piráti, ale i kolegové z Osmička žije a ODS. 
 
-Prodiskutován byl i - z mého pohledu - velmi dobře [zpracovaný plán rozvoje naší městské části v příštích letech](https://drive.google.com/file/d/1CEFd9XcOY_WywGbenMY__F2TfTvYLUms/view?usp=sharing). Potřebu vzniku tohoto plánu odsouhlasilo zastupitelstvo už v roce 2019, a jedná se především o koncepční nástroj zejména ve vztahu ke stavebním záměrům. Tři roky na něm pracovala Česká zemědělská univerzita. 
+Prodiskutován byl i - z mého pohledu - velmi dobře [zpracovaný plán rozvoje naší městské části v příštích letech](https://drive.google.com/file/d/10MSaHM3SS_6JIKVA3NKO3FodHbg_QSVQ/view?usp=sharing). Potřebu vzniku tohoto plánu odsouhlasilo zastupitelstvo už v roce 2019, a jedná se především o koncepční nástroj zejména ve vztahu ke stavebním záměrům. Tři roky na něm pracovala Česká zemědělská univerzita. 
 
 Od koalice během interpelací zaznělo, že elektronické zápisy do škol, které jsou v mnoha městských částech standardem, letos nebudou. Věřím že, podobně jako to šlo na dvojce, šestce, sedmičce či jedenáctce, to příští rok půjde i u nás. 
 
