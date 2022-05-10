@@ -3,7 +3,7 @@ uid: kveta.marikova
 name: Květa Maříková
 category:
 img: people/kveta-marikova.jpg
-heroImg: people/libensky-zamek.jpg
+heroImg: people/tomas-marik-hero.jpg
 profession: knihovnice
 partyUid: pirati
 description: členka Pirátské strany
