@@ -6,18 +6,18 @@ leader:
   uid: martin.sterba
   age: 35
   city: Praha 8 – Libeň
-  profession: manažer a stratég on-line komunikace, ředitel NNO
+  profession: manažer a stratég on-line komunikace
   partyUid: pirati
 head:
 # 2
   - uid: michal.novak
-    profession: konzultant
+    profession: obchodní konzultant
     age: 50
     city: Praha 8 – Kobylisy
     partyUid: pirati
 # 3
   - uid: alice.hamalova
-    profession: vedoucí administrativního odboru Pirátů
+    profession: členka dozorčí rady Želivské provozní a.s
     age: 32
     city: Praha 8 – Kobylisy
     partyUid: pirati
@@ -42,13 +42,13 @@ head:
 # 7
   - uid: ivo.slavka
     profession: právník, vedoucí oddělení investic a výběrových řízení na MPO ČR
-    age: 56
+    age: 55
     city: Praha 8 – Kobylisy
     partyUid: pirati 
 # 8
   - uid: jakub.jiran
     profession: auditor, člen dozorčí rady Dopravního podniku hl. města Prahy
-    age: 100
+    age: 44
     city: Praha 8 – Ďáblice
     partyUid: bezpp
 # 9
@@ -60,69 +60,69 @@ head:
 # 10
   - uid: veronika.siftova
     profession: ministerský rada Ministerstva vnitra ČR
-    age: 100
+    age: 33
     city: Praha 8 – Libeň
     partyUid: bezpp  
 
 tail:
 # 11
   - uid: karolina.gattermayerova
-    profession: scénáristka, copywriterka
+    profession: scénáristka a copywriterka
     age: 29
     city: Praha 8 – Libeň
     partyUid: bezpp     
 # 12
   - uid: ondrej.profant
-    profession: náměstek ministra pro místní rozvoj ČR
+    profession: náměstek vícepremiéra a ministra pro místní rozvoj ČR
     age: 34
     city: Praha 8 – Kobylisy
     partyUid: pirati
 # 13
   - uid: petr.bisek
-    profession: novinář, bývalý vydavatel Amerických listů
-    age: 100
-    city: Praha 8 – Ďáblice
+    profession: novinář a bývalý vydavatel Amerických listů
+    age: 81
+    city: Praha 8 – Kobylisy
     partyUid: bezpp
 # 14
   - name: Vojtěch Blahoš
-    profession: student
-    age: 100
-    city: PRAHA 8
+    profession: student mezinárodních vztahů
+    age: 20
+    city: Praha 8 – Bohnice
     partyUid: bezpp 
 # 15
   - uid: kveta.marikova
     profession: knihovnice na mateřské dovolené
-    age: 100
-    city: PRAHA 8 – Libeň
+    age: 46
+    city: Praha 8 – Libeň
     partyUid: pirati
 # 16
   - uid: lukas.kost
     profession: učitel na základní a střední škole
-    age: 100
-    city: PRAHA 8
+    age: 48
+    city: Praha 8 – Libeň
     partyUid: bezpp
 # 17
   - uid: miroslav.jahoda
-    profession: marketér
-    age: 100
+    profession: marketér na volné noze
+    age: 34
     city: PRAHA 8 – Kobylisy
     partyUid: bezpp
 # 18
   - uid: iva.nachtmannova
-    profession: novinářka a kurýr
-    age: 100
-    city: PRAHA 8
+    profession: novinářka a kurýrka
+    age: 46
+    city: Praha 8 – Libeň
     partyUid: bezpp
 # 19
   - uid: alix.guillard
-    profession: vývojář
-    age: 100
-    city: PRAHA 8 – Libeň
+    profession: IT vývojář
+    age: 50
+    city: Praha 8 – Libeň
     partyUid: bezpp
 # 20
   - uid: michal.schwarzkopf
     profession: finanční konzultant
-    age: 100
+    age: 40
     city: PRAHA 8 – Karlín
     partyUid: pirati 
 # 21
