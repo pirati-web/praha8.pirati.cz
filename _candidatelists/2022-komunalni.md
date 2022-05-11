@@ -252,7 +252,7 @@ tail:
     city: Praha 8 – 
     partyUid: bezpp    
 # 42
-  - uid: Jitka Novotná
+  - uid: jitka.novotna
     profession: programátorka
     age: 32
     city: Praha 8 – Libeň
