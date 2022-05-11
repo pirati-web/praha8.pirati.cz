@@ -105,7 +105,7 @@ tail:
   - uid: miroslav.jahoda
     profession: marketér na volné noze
     age: 34
-    city: PRAHA 8 – Kobylisy
+    city: Praha 8 – Kobylisy
     partyUid: bezpp
 # 18
   - uid: iva.nachtmannova
@@ -123,115 +123,115 @@ tail:
   - uid: michal.schwarzkopf
     profession: finanční konzultant
     age: 40
-    city: PRAHA 8 – Karlín
+    city: Praha 8 – Karlín
     partyUid: pirati 
 # 21
   - name: TBD
     profession: TBD
     age: 100
-    city: PRAHA 8
+    city: Praha 8 – 
     partyUid: bezpp   
 # 22
   - name: TBD
     profession: TBD
     age: 100
-    city: PRAHA 8
+    city: Praha 8 – 
     partyUid: bezpp
 # 23
   - name: TBD
     profession: TBD
     age: 100
-    city: PRAHA 8
+    city: Praha 8 – 
     partyUid: bezpp
 # 24
   - name: TBD
     profession: TBD
     age: 100
-    city: PRAHA 8
+    city: Praha 8 – 
     partyUid: bezpp 
 # 25
   - name: TBD
     profession: TBD
     age: 100
-    city: PRAHA 8
+    city: Praha 8 – 
     partyUid: bezpp
 # 26
   - name: TBD
     profession: TBD
     age: 100
-    city: PRAHA 8
+    city: Praha 8 – 
     partyUid: bezpp
 # 27
   - name: TBD
     profession: TBD
     age: 100
-    city: PRAHA 8
+    city: Praha 8 – 
     partyUid: bezpp
 # 28
   - name: TBD
     profession: TBD
     age: 100
-    city: PRAHA 8
+    city: Praha 8 – 
     partyUid: bezpp
 # 29
   - name: TBD
     profession: TBD
     age: 100
-    city: PRAHA 8
+    city: Praha 8 – 
     partyUid: bezpp
 # 30
   - name: TBD
     profession: TBD
     age: 100
-    city: PRAHA 8
+    city: Praha 8 – 
     partyUid: bezpp
 # 31
   - name: TBD
     profession: TBD
     age: 100
-    city: PRAHA 8
+    city: Praha 8 – 
     partyUid: bezpp
 # 32
   - name: TBD
     profession: TBD
     age: 100
-    city: PRAHA 8
+    city: Praha 8 – 
     partyUid: bezpp
 # 33
   - name: TBD
     profession: TBD
     age: 100
-    city: PRAHA 8
+    city: Praha 8 – 
     partyUid: bezpp
 # 34
   - name: TBD
     profession: TBD
     age: 100
-    city: PRAHA 8
+    city: Praha 8 – 
     partyUid: bezpp  
 # 35
   - name: TBD
     profession: TBD
     age: 100
-    city: PRAHA 8
+    city: Praha 8 – 
     partyUid: bezpp
 # 36
   - name: TBD
     profession: TBD
     age: 100
-    city: PRAHA 8
+    city: Praha 8 – 
     partyUid: bezpp
 # 37
   - name: TBD
     profession: TBD
     age: 100
-    city: PRAHA 8
+    city: Praha 8 – 
     partyUid: bezpp
 # 38
   - name: TBD
     profession: TBD
     age: 100
-    city: PRAHA 8
+    city: Praha 8 – 
     partyUid: bezpp
 # 39
   - name: TBD
@@ -243,20 +243,20 @@ tail:
   - name: TBD
     profession: TBD
     age: 100
-    city: PRAHA 8
+    city: Praha 8 – 
     partyUid: bezpp
 # 41
   - name: TBD
     profession: TBD
     age: 100
-    city: PRAHA 8
+    city: Praha 8 – 
     partyUid: bezpp    
 # 42
-  - name: TBD
-    profession: TBD
-    age: 100
-    city: PRAHA 8
-    partyUid: bezpp
+  - uid: Jitka Novotná
+    profession: programátorka
+    age: 32
+    city: Praha 8 – Libeň
+    partyUid: pirati
 # 43
   - name: TBD
     profession: TBD
@@ -267,12 +267,12 @@ tail:
   - name: TBD
     profession: TBD
     age: 100
-    city: PRAHA 8
+    city: Praha 8 – 
     partyUid: bezpp
 # 45
-  - name: TBD
-    profession: TBD
-    age: 100
-    city: PRAHA 8
+  - name: Martin Vávra, Dis.
+    profession: programátor mobilních aplikací
+    age: 41
+    city: Praha 8 – Bohnice
     partyUid: bezpp   
 ---
