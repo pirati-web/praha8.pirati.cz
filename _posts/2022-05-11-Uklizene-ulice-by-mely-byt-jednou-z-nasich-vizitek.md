@@ -9,6 +9,6 @@ tags: [Životní prostředí]
 
 Jsem přesvědčený, že kontejnery na tříděný odpad patří pod zem. V tomto volebním období se ale téměř žádné u nás v Praze 8 nepostavily. Rád bych to po volbách změnil. Určitě podpořím větší efektivitu vyvážení odpadů a také rozmístění nových kontejnerů například na olej či bioodpad.  
 
-![Chceme versus Nechceme](posts/popelnice-post.png)
+![Chceme versus Nechceme](http://praha8.pirati.cz/assets/img/posts/popelnice-post.png)
 
 Uklizené ulice by měly být jednou z našich vizitek. Těší mě, že hodně z vás tolik třídí odpad a byl bych nerad, kdyby přeplněné popelnice naší snahu o zelenější planetu takto znepříjemňovaly.
