@@ -17,7 +17,7 @@ head:
     partyUid: pirati
 # 3
   - uid: alice.hamalova
-    profession: členka dozorčí rady Želivské provozní a.s
+    profession: vedoucí administrativy, členka dozorčí rady Želivské provozní
     age: 32
     city: Praha 8 – Kobylisy
     partyUid: pirati
