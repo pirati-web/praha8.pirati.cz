@@ -84,7 +84,7 @@ tail:
     city: Praha 8 – Kobylisy
     partyUid: bezpp
 # 14
-  - name: Vojtěch Blahoš
+  - uid: vojtech.blahos
     profession: student mezinárodních vztahů
     age: 20
     city: Praha 8 – Bohnice
