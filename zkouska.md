@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<article class="hero hero--image " style="--image-url: url(https://cdn-vsh.prague.eu/object/1771/19944509-810442812463555-7779431778268709462-o.jpg)">
+<article class="hero hero--image " style="--image-url: url("/assets/img/hero-hero-pozadi.jpg">
   <div class="container grid lg:grid-rows-4 lg:grid-cols-7 gap-2 items-center">
     <div class="lg:row-span-4 lg:col-span-3 order-1">
       <h1 class="head-alt-md md:head-alt-xl">Jsme Piráti <br />z Prahy 8! Máme odvahu dělat věci správně!</h1>
@@ -10,11 +10,11 @@ layout: default
     <div class="lg:row-span-1 lg:col-span-3 order-3">
       <div class="mt-4 md:mt-8 space-y-4">
         <button class="btn btn--white btn--fullwidth md:btn--autowidth text-lg">
-          <div class="btn__body "><a href="/volby/plneni-programu/2018-komunalni.html">Plníme náš program pro Prahu 8</a></div>
+          <div class="btn__body "><a href="/program/">Plníme náš program pro Prahu 8</a></div>
         </button>
 
         <button class="btn btn--white btn--fullwidth md:btn--autowidth text-lg">
-          <div class="btn__body "><a href="/lide/mestske-casti/">Seznamte se s námi!</a></div>
+          <div class="btn__body "><a href="/lide/">Seznamte se s námi!</a></div>
         </button>
 
       </div>
