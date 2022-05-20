@@ -2,7 +2,7 @@
 title: Sídliště nezahušťovat, nejsou polévka. Nové byty patří na brownfieldy
 authorId: michal.novak
 image: posts/dablice-sidliste.jpg
-tags: [Bydlení, Kobylisy, Územní rozvoj]
+tags: [Bydlení, Ďáblice, Kobylisy, Územní rozvoj]
 ---
 
 **Dobrý kaldoun má být důkladně zahuštěný – sídliště ne. Jeho obyvatelé totiž potřebují volně dýchat, potřebují prostor a ne nové domy postavené pár metrů od těch jejich. Tohoto postoje se držíme, dle našeho volebního programu, od samého počátku naší činnosti na Praze 8.**

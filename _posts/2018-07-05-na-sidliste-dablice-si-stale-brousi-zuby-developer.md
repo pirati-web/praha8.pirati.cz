@@ -2,10 +2,10 @@
 title: Na sídliště Ďáblice si stále brousí zuby developer
 author: Michaela Krupičková
 image: posts/tanvaldska.jpg
-tags: [Kobylisy, Metropolitní plán, Územní rozvoj]
+tags: [Ďáblice, Metropolitní plán, Územní rozvoj]
 ---
 
-Petici STOP VÝSTAVBĚ VYSOKOPODLAŽNÍCH BUDOV podepsalo již 6700 petentů a 29 zástupců bytových domů vydalo Společné prohlášení, v němž zdůrazňují potřebu respektovat vůli místních občanů. Nejenže Magistrát hlavního města Prahy  v loňském září přijal usnesení o nesouhlasu s výstavbou, ale i další odborníci označují výstavbu za nekoncepční. Přesto společnost CPI chce svůj záměr na sídlišti Ďáblice uskutečnit.
+**Petici STOP VÝSTAVBĚ VYSOKOPODLAŽNÍCH BUDOV podepsalo již 6 700 petentů a 29 zástupců bytových domů vydalo Společné prohlášení, v němž zdůrazňují potřebu respektovat vůli místních občanů. Nejenže Magistrát hlavního města Prahy v loňském září přijal usnesení o nesouhlasu s výstavbou, ale i další odborníci označují výstavbu za nekoncepční. Přesto společnost CPI chce svůj záměr na sídlišti Ďáblice uskutečnit.**
 
 ### Jak je to možné?
 
