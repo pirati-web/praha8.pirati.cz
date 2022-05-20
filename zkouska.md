@@ -20,7 +20,7 @@ layout: default
       </div>
     </div>
     <div class="lg:row-span-5 lg:col-span-4 order-2">
-      <img src="/assets/img/hero-home-praha8.png" />
+      <img src="/assets/img/hero-home-praha.png" />
     </div>
   </div>
 </article>
