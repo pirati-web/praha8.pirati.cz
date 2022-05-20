@@ -5,7 +5,7 @@ layout: default
 <article class="hero hero--image " style="--image-url: url(https://cdn-vsh.prague.eu/object/1771/19944509-810442812463555-7779431778268709462-o.jpg)">
   <div class="container grid lg:grid-rows-4 lg:grid-cols-7 gap-2 items-center">
     <div class="lg:row-span-4 lg:col-span-3 order-1">
-      <h1 class="head-alt-md md:head-alt-xl">Jsme Piráti z Prahy 8!<br />Máme odvahu dělat věci správně!</h1>
+      <h1 class="head-alt-md md:head-alt-xl">Jsme Piráti <br />z Prahy 8! Máme odvahu dělat věci správně!</h1>
     </div>
     <div class="lg:row-span-1 lg:col-span-3 order-3">
       <div class="mt-4 md:mt-8 space-y-4">
