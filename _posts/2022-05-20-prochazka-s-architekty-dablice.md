@@ -19,7 +19,7 @@ fancybox:
 
 Cestu jsme zahájili u Penny Marketu na Ládví a poté pokračovali k nedalekému parkovišti v Davídkově ulici, kde se strhla velká debata o budoucnosti tohoto místa. Magistrát totiž prověřuje, jestli by tady nemohlo vzniknout modulární bydlení. V místě je nedostatek parkovacích míst, a spíš než nový dům, by místo zasloužit kultivaci parkování. Navíc stavět tady cokoliv proti vůli místních je prostě špatně. Je třeba najít takové řešení, které bude vyhovovat všem. Studie Vize Sídliště Ďáblice tady navíc s žádnou stavbou nepočítá, tak se do toho ani v budoucnu nepouštějme. 
 
-V cestě jsme se zastavili také u objektů Včel, kde by CPI chtěla postavit obří věžáky. I jejich výstavbu samozřejmě odmítáme. [Dlouhodobě totiž opakujeme, že jsme proti zahušťování sídlišť.](https://praha8.pirati.cz/aktuality/sidliste-nezahustovat-nejsou-polevka-nove-byty-patri-na-brownfieldy.html) A obří věžáky sem zkrátka nepatří. 
+V cestě jsme se zastavili také u objektů Včel, kde by [CPI chtěla postavit obří věžáky](https://praha8.pirati.cz/aktuality/na-sidliste-dablice-si-stale-brousi-zuby-developer.html). I jejich výstavbu samozřejmě odmítáme. [Dlouhodobě totiž opakujeme, že jsme proti zahušťování sídlišť.](https://praha8.pirati.cz/aktuality/sidliste-nezahustovat-nejsou-polevka-nove-byty-patri-na-brownfieldy.html) A obří věžáky sem zkrátka nepatří. 
 
 Krátce jsme pobyli také u louky vedle Základní školy Žernosecká. I když se původně plánovalo, že bude louka zastavěná, návrh Metropolitního plánu počítá se zachováním zeleně. A to je dobře. 
 
