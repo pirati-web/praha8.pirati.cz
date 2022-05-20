@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<article class="hero hero--image " style="--image-url: url("/assets/img/hero-hero-pozadi.jpg">
+<article class="hero hero--image " style="--image-url: url("/assets/img/hero-home-pozadi.jpg">
   <div class="container grid lg:grid-rows-4 lg:grid-cols-7 gap-2 items-center">
     <div class="lg:row-span-4 lg:col-span-3 order-1">
       <h1 class="head-alt-md md:head-alt-xl">Jsme Piráti <br />z Prahy 8! Máme odvahu dělat věci správně!</h1>
