@@ -20,7 +20,7 @@ layout: default
       </div>
     </div>
     <div class="lg:row-span-5 lg:col-span-4 order-2">
-      <img src="/assets/img/hero-home-praha.png" />
+      <img src="/assets/img/hero-home-praha8.png" />
     </div>
   </div>
 </article>
@@ -28,7 +28,7 @@ layout: default
 <div class="container container--default pt-4 lg:pb-24">
   <br />
   {% include homepage/news.html title="Aktuality z osmičky" %}
+  {% include homepage/countdown.html deadline="2022-09-23 14:00:00" %}
   {% include homepage/calendar.html %}
   {% include homepage/social.html %}
-  {% include homepage/countdown.html deadline="2022-09-23 14:00:00" %}
 </div>
