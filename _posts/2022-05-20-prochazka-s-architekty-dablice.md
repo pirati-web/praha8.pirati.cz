@@ -13,7 +13,6 @@ fancybox:
       - { src: posts/2022-05-19-prochazka-dablice/dablice5.jpeg, title: Procházka po sídlišti Ďáblice }
       - { src: posts/2022-05-19-prochazka-dablice/dablice6.jpeg, title: Procházka po sídlišti Ďáblice }
       - { src: posts/2022-05-19-prochazka-dablice/dablice7.jpeg, title: Procházka po sídlišti Ďáblice }
-      - { src: posts/2022-05-19-prochazka-dablice/dablice8.jpeg, title: Procházka po sídlišti Ďáblice }
 ---
 
 **Čtvrteční procházka s architekty Vize sídliště Ďáblice pod taktovkou uskupení Krásné Kobylisy se moc povedla. Dorazilo několik stovek lidí, kteří se aktivně zajímají o osud nejkrásnějšího českého sídliště a já jsem rád, že jsem se s řadou z vás mohl vidět osobně a popovídat si s vámi o budoucnosti Ďáblic.**
