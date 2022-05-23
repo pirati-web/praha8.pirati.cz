@@ -1,6 +1,9 @@
 ---
 uid: kveta.marikova
 name: Květa Maříková
+titles:
+  before:
+  after: BBus. (Hons)
 category:
 img: people/kveta-marikova.jpg
 heroImg: people/tomas-marik-hero.jpg
