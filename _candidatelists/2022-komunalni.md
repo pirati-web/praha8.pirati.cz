@@ -75,7 +75,7 @@ tail:
   - uid: ondrej.profant
     profession: náměstek vícepremiéra a ministra pro místní rozvoj ČR
     age: 34
-    city: Praha 8 – Kobylisy
+    city: Praha 8 – Libeň
     partyUid: pirati
 # 13
   - uid: petr.bisek
@@ -126,70 +126,70 @@ tail:
     city: Praha 8 – Karlín
     partyUid: pirati 
 # 21
-  - name: TBD
-    profession: TBD
-    age: 100
-    city: Praha 8 – 
+  - name: Petr Fürbach
+    profession: osvětlovač
+    age: 39
+    city: Praha 8 – Čimice
     partyUid: bezpp   
 # 22
-  - name: TBD
+  - name: Klára Přibáňová
     profession: TBD
-    age: 100
+    age: 27
     city: Praha 8 – 
     partyUid: bezpp
 # 23
-  - name: TBD
-    profession: TBD
-    age: 100
-    city: Praha 8 – 
+  - name: Viktor Balogh
+    profession: software developer
+    age: 40
+    city: Praha 8 – Ládví
     partyUid: bezpp
 # 24
-  - name: TBD
-    profession: TBD
-    age: 100
-    city: Praha 8 – 
+  - name: Josef Gajdoš
+    profession: provozní manažer
+    age: 37
+    city: Praha 8 – Karlín
     partyUid: bezpp 
 # 25
-  - name: TBD
-    profession: TBD
-    age: 100
-    city: Praha 8 – 
+  - name: Jakub Tadeáš Simon
+    profession: OSVČ
+    age: 26
+    city: Praha 8 – Kobylisy
     partyUid: bezpp
 # 26
-  - name: TBD
-    profession: TBD
-    age: 100
-    city: Praha 8 – 
+  - name: Mgr. Ondřej Smělý
+    profession: auditor
+    age: 27
+    city: Praha 8 – Kobylisy
     partyUid: bezpp
 # 27
-  - name: TBD
-    profession: TBD
-    age: 100
-    city: Praha 8 – 
+  - name: Ing. Marcela Ujhelyiová
+    profession: odborný rada v odboru bilance zahraničního obchodu
+    age: 66
+    city: Praha 8 – Bohnice
     partyUid: bezpp
 # 28
-  - name: TBD
-    profession: TBD
-    age: 100
-    city: Praha 8 – 
+  - name: Ing. Alena Ivanová
+    profession: koordinační projektový a programový pracovník na UK
+    age: 36
+    city: Praha 8 – Čimice
     partyUid: bezpp
 # 29
-  - name: TBD
-    profession: TBD
-    age: 100
-    city: Praha 8 – 
+  - name: Ing. Tomáš Otradovec
+    profession: programátor
+    age: 47
+    city: Praha 8 – Karlín
     partyUid: bezpp
 # 30
-  - name: TBD
-    profession: TBD
-    age: 100
-    city: Praha 8 – 
+  - name: Ing. Jan Novák
+    profession: důchodce
+    age: 72
+    city: Praha 8 – Kobylisy
     partyUid: bezpp
 # 31
-  - name: TBD
-    profession: TBD
-    age: 100
-    city: Praha 8 – 
+  - name: Mgr. MgA. Markéta Čermáková
+    profession: psycholožka
+    age: 46
+    city: Praha 8 – Bohnice
     partyUid: bezpp
 # 32
   - name: TBD
@@ -264,10 +264,10 @@ tail:
     city: PRAHA 8
     partyUid: bezpp
 # 44
-  - name: TBD
-    profession: TBD
-    age: 100
-    city: Praha 8 – 
+  - name: Ing. Jakub Slávka, DiS.
+    profession: ministerský rada na Ministerstvu práce a sociálních věcí
+    age: 41
+    city: Praha 8 – Kobylisy
     partyUid: bezpp
 # 45
   - name: Martin Vávra, Dis.
