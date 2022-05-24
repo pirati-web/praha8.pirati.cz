@@ -240,10 +240,10 @@ tail:
     city: PRAHA 8
     partyUid: bezpp
 # 40
-  - name: TBD
-    profession: TBD
-    age: 100
-    city: Praha 8 – 
+  - name: Nicola Samcová
+    profession: kadeřnice
+    age: 32
+    city: Praha 8 – Kobylisy
     partyUid: bezpp
 # 41
   - name: TBD
@@ -258,9 +258,9 @@ tail:
     city: Praha 8 – Libeň
     partyUid: pirati
 # 43
-  - name: TBD
-    profession: TBD
-    age: 100
+  - name: Michal Samec
+    profession: obchodní zástupce
+    age: 36
     city: PRAHA 8
     partyUid: bezpp
 # 44
