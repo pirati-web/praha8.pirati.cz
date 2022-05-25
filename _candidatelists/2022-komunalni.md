@@ -63,8 +63,6 @@ head:
     age: 33
     city: Praha 8 – Libeň
     partyUid: bezpp  
-
-tail:
 # 11
   - uid: karolina.gattermayerova
     profession: scénáristka a copywriterka
@@ -77,6 +75,7 @@ tail:
     age: 34
     city: Praha 8 – Libeň
     partyUid: pirati
+tail:
 # 13
   - uid: petr.bisek
     profession: novinář a bývalý vydavatel Amerických listů
@@ -192,10 +191,10 @@ tail:
     city: Praha 8 – Bohnice
     partyUid: bezpp
 # 32
-  - name: TBD
-    profession: TBD
-    age: 100
-    city: Praha 8 – 
+  - uid: tomas.lempera
+    profession: obchodní manažer
+    age: 28
+    city: Praha 8 – Libeň
     partyUid: bezpp
 # 33
   - name: TBD
@@ -240,17 +239,17 @@ tail:
     city: PRAHA 8
     partyUid: bezpp
 # 40
+  - name: TBD
+    profession: TBD
+    age: 100
+    city: PRAHA 8
+    partyUid: bezpp
+# 41
   - name: Nicola Samcová
     profession: kadeřnice
     age: 32
     city: Praha 8 – Kobylisy
     partyUid: bezpp
-# 41
-  - name: TBD
-    profession: TBD
-    age: 100
-    city: Praha 8 – 
-    partyUid: bezpp    
 # 42
   - uid: jitka.novotna
     profession: programátorka
