@@ -65,7 +65,7 @@ head:
     partyUid: bezpp  
 # 11
   - uid: karolina.gattermayerova
-    profession: scénáristka a copywriterka
+    profession: scenáristka a copywriterka
     age: 29
     city: Praha 8 – Libeň
     partyUid: bezpp     
