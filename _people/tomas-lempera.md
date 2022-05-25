@@ -5,9 +5,9 @@ titles:
   before: 
 category:
   - regp
-img: people/tomas-lempera.jpg
+img: people/tomas-lempera2.png
 heroImg: posts/open-source.jpg
-profession: obchodník
+profession: obchodní manažer
 partyUid: bezpp
 description: registrovaný příznivec
 mail: 
