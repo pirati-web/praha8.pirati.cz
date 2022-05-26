@@ -2,7 +2,7 @@
 title: Oslavy 80 let Operace Anthropoid začínají zítra
 authorId: martin.sterba
 image: posts/anthropoid-80let.jpg
-tags: [Anthropoid Libeň]
+tags: [Anthropoid, Libeň]
 ---
 
 **O tomto víkendu nás čekají velké oslavy výročí 80 let Operace Anthropoid. Jistě nemusím vysvětlovat, o co v roce 1942 šlo. Cíl byl tehdy jasný - zneškodnit zastupujícího říšského protektora a tyrana českého národa Reinharda Heydricha. Tato událost se stala 27. května 1942 v 10:35 minut v zatáčce u Vychovatelny.**
