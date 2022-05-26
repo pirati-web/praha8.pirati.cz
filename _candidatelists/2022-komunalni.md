@@ -16,7 +16,7 @@ head:
     city: Praha 8 – Kobylisy
     partyUid: pirati
 # 3
-  - name: TBD 
+  - name: Bude doplněno 
     profession: TBD
     age: 
     city: Praha 8
