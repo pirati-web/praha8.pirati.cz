@@ -15,12 +15,6 @@ head:
     age: 50
     city: Praha 8 – Kobylisy
     partyUid: pirati
-# 3
-  - name: Bude doplněno 
-    profession: TBD
-    age: 
-    city: Praha 8
-    partyUid: pirati
 # 4
   - uid: jan.kolator
     profession: systémový knihovník
