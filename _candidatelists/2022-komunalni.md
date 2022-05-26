@@ -16,10 +16,10 @@ head:
     city: Praha 8 – Kobylisy
     partyUid: pirati
 # 3
-  - uid: alice.hamalova
-    profession: vedoucí administrativy, členka dozorčí rady Želivské provozní
-    age: 32
-    city: Praha 8 – Kobylisy
+  - name: TBD 
+    profession: TBD
+    age: 
+    city: Praha 8
     partyUid: pirati
 # 4
   - uid: jan.kolator
