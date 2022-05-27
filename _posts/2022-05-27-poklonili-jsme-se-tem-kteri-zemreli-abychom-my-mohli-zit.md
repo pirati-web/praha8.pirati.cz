@@ -4,7 +4,7 @@ authorId: martin.sterba
 image: posts/2022-05-27-anthropoid80/anthropoid09.jpg
 tags: [Anthropoid, Libeň]
 fancybox:
-  - name: Ukliďme Česko v Praze 8
+  - name: 80 let Operace Anthropoid
     img:
       - { src: posts/2022-05-27-anthropoid80/anthropoid01.jpg, title: 80 let od Operace Anthropoid }
       - { src: posts/2022-05-27-anthropoid80/anthropoid02.jpg, title: 80 let od Operace Anthropoid }
@@ -20,8 +20,6 @@ fancybox:
 Dnes se na tom stejném místě a ve stejný čas jen o 80 let později uskutečnila strhující rekonstrukce celého atentátu. O chvíli později jsme se společně s ministryní obrany Janou Černochovou, ministrem zahraničí Janem Lipavským, primátorem Prahy a mnohými dalšími u nedalekého pomníku poklonili a vzdali hold těm, kteří zemřeli, abychom my mohli žít!
 
 Atentát provedli před 80 lety výsadkáři Jozef Gabčík a Jan Kubiš a svým příkladem ukázali, že Češi (a Slováci) umí být zkrátka i národem hrdinů, kteří se nevzdávají.
-
-**Podívejte se na fotky.** 
 
 {% for galery in page.fancybox %}
 <div class="mt-4">
