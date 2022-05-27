@@ -78,7 +78,7 @@ tail:
     partyUid: bezpp 
 # 13
   - uid: kveta.marikova
-    profession: knihovnice na mateřské dovolené
+    profession: knihovnice
     age: 46
     city: Praha 8 – Libeň
     partyUid: pirati
