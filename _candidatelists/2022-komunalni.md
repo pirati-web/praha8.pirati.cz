@@ -41,7 +41,7 @@ head:
     partyUid: bezpp
 # 7
   - uid: karel.ptacek
-    profession: projektový manažer ve Správě železnic
+    profession: projektový manažer, zastupitel MČ Praha 8
     age: 40
     city: Praha 8 – Karlín
     partyUid: pirati
@@ -59,7 +59,7 @@ head:
     partyUid: bezpp     
 # 10
   - uid: ondrej.profant
-    profession: náměstek vícepremiéra a ministra pro místní rozvoj ČR
+    profession: náměstek vicepremiéra a ministra pro místní rozvoj ČR
     age: 34
     city: Praha 8 – Libeň
     partyUid: pirati
