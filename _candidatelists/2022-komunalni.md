@@ -191,7 +191,7 @@ tail:
     city: Praha 8 – Bohnice
     partyUid: bezpp
 # 32
-  - name: Ondřej Kliment
+  - uid: ondrej.kliment
     profession: projektový manažer v IT
     age: 35
     city: Praha 8 – Kobylisy
@@ -213,7 +213,7 @@ tail:
     profession: projektový a programový pracovník
     age: 37
     city: Praha 8 – Trója
-    partyUid: bepp
+    partyUid: bezpp
 # 36
   - name: Denisa Néel
     profession: nezávislá IT konzultantka
