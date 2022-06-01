@@ -177,49 +177,48 @@ tail:
     profession: obchodní manažer
     age: 28
     city: Praha 8 – Libeň
+    partyUid: bezpp
 # 30
+  - name: Barbora Vyšínová
+    profession: PR koordinátor
+    age: 30
+    city: Praha 8 – Trója
+    partyUid: bezpp
+# 31
   - name: Mgr. MgA. Markéta Čermáková
     profession: psycholožka
     age: 46
     city: Praha 8 – Bohnice
     partyUid: bezpp
-
+# 32
+  - name: Ondřej Kliment
+    profession: projektový manažer v IT
+    age: 35
+    city: Praha 8 – Kobylisy
+    partyUid: pirati
+# 33
+  - name: Kamila Murphy
+    profession: TBD
+    age: TBD
+    city: Praha 8 – Libeň
     partyUid: bezpp
-# 31
+# 34
+  - name: Jaroslav Hofrichter
+    profession: finanční poradce
+    age: 32
+    city: Praha 8 – Libeň 
+    partyUid: bezpp  
+# 35
   - name: Bc. Daniela Dolejšová
     profession: projektový a programový pracovník
     age: 37
     city: Praha 8 – Trója
     partyUid: bepp
-# 32
-  - name: TBD
-    profession: TBD
-    age: 100
-    city: Praha 8 – 
-    partyUid: bezpp
-# 33
-  - name: TBD
-    profession: TBD
-    age: 100
-    city: Praha 8 – 
-    partyUid: bezpp
-# 34
-  - name: TBD
-    profession: TBD
-    age: 100
-    city: Praha 8 – 
-    partyUid: bezpp  
-# 35
-  - name: TBD
-    profession: TBD
-    age: 100
-    city: Praha 8 – 
-    partyUid: bezpp
 # 36
-  - name: TBD
-    profession: TBD
-    age: 100
-    city: Praha 8 – 
+  - name: Denisa Néel
+    profession: nezávislá IT konzultantka
+    age: 37
+    city: Praha 8 – Karlín
     partyUid: bezpp
 # 37
   - name: TBD
