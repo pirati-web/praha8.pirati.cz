@@ -5,7 +5,7 @@ titles:
   before:
   after: 
 category:
-img: people/odrej-kliment.jpg
+img: people/ondrej-kliment.jpg
 heroImg: posts/libensky-zamek.jpg
 profession: projektový manažer v IT
 partyUid: pirati
