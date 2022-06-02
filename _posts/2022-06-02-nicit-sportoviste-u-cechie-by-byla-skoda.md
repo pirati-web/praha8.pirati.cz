@@ -23,6 +23,6 @@ Ve druhé části proběhla diskuze primárně o projektu nad metrem. Bylo inves
 
 Na posledním jednání zastupitelstva MČ Praha 8 jsme si schválili vytvoření územní studie pro Invalidovnu. Jako nejzásadnější problém vidíme plánovanou masivní zástavbu právě v prostoru Čechie a nad stanicí metra Invalidovna.
 
-![Výstavba nad stanicí metra Invalidovna](/posts/invadlidovna-cechie.jpg)invalidovna-novavystavba.png)
+![Výstavba nad stanicí metra Invalidovna](/posts/invalidovna-novavystavba.png)
 
 **Právě s ohledem na navrženou změnu územního plánu a na rušení sportovních ploch, což je podle nás to velká chyba, proběhne v pondělí 13. června schůzka s investorem, zástupci MČ Prahy 8, zástupci občanů u náměstka primátora pro územní rozvoj hl. města Prahy Petra Hlaváčka. Výsledkem by měl být určitý kompromis mezi investorem a požadavky obyvatel sídliště, tak i zástupci radnice.**
