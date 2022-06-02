@@ -1,5 +1,5 @@
 ---
-title: Ničit sportoviště u Čechie by byla velká škoda. Je dobře, že se o sídlišti Invalidovna diskutuje 
+title: U Čechie chceme zachovat sport. Je dobře, že se o sídlišti Invalidovna diskutuje 
 authorId: karel.ptacek
 image: posts/invalidovna-diskuze.jpg
 tags: [Invalidovna, Karlín, Územní rozvoj]
