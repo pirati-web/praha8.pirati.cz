@@ -5,7 +5,7 @@ image: posts/invalidovna-diskuze.jpg
 tags: [Invalidovna, Karlín, Územní rozvoj, ]
 ---
 
-**Tento týden proběhlo setkání obyvatel sídliště Invalidovna v Divadle Kámen, kterou pořádal spolek Za Invalidovnu. Tématem k diskuzi byly celkem tři stavby v daném území a to budoucí druhá budova J&T Banky vedle současného sídla, projekt Čechie a výstavba nad stanicí metra Invalidovna.** 
+**Tento týden proběhlo setkání obyvatel sídliště Invalidovna, kterou pořádal spolek Za Invalidovnu. Tématem k diskuzi byly celkem tři stavby v daném území a to budoucí druhá budova J&T Banky vedle současného sídla, projekt Čechie a výstavba nad stanicí metra Invalidovna.** 
 
 Na setkání přišlo několik desítek obyvatel a zaplnili tak tamní divadelní sál Kámen. Jedním z návštěvníků byl i náš pirátský zastupitel a člen komise pro územní rozvoj Karel Ptáček. Dlouhodobě sleduje projekt Čechie a jako jediný už v dubnu 2019 hlasoval PROTI předložené studii zástavby Čechie. Všichni ostatní zástupci politických stran zástavbu tehdy podpořili.
 
