@@ -12,6 +12,8 @@ partyUid: bezpp
 description: registrovaný příznivec
 mail: jakub.jiran@pirati.cz
 profiles:
+  facebook: https://www.facebook.com/jakub.jiran.33
+  linkedin: https://www.linkedin.com/in/jakub-jiran-83341095/
 funkce:
   - člen dozorční rady <a href="https://www.dpp.cz/spolecnost/o-spolecnosti/organizacni-struktura">Dopravního podniku hl. města Prahy</a>
 ---

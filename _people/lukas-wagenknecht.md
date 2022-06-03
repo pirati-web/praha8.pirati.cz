@@ -21,6 +21,7 @@ profiles:
   facebook:   https://www.facebook.com/WagenknechtLuk/
   twitter:    https://twitter.com/WagenknechtLuk
   instagram:  https://www.instagram.com/wagenknecht_luk
+  linkedin:   https://www.linkedin.com/in/lukas-wagenknecht-b4229813/
   blog:       http://blog.aktualne.cz/blogy/lukas-wagenknecht.php
   web:        https://lukaswagenknecht.cz/
   wikipedia:  https://cs.wikipedia.org/wiki/Luk%C3%A1%C5%A1_Wagenknecht 

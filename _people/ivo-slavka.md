@@ -29,6 +29,8 @@ funkce:
   - člen <a href="https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vybory_zastupitelstva/index.html?committeeId=33600">Výboru pro legislativu, veřejnou správu a transparentnost ZHMP</a>
 profiles:
   odmeny:   https://nalodeni.pirati.cz/odmeny/ivo.slavka
+  facebook: https://www.facebook.com/ivo.praha.10
+  linkedin: https://www.linkedin.com/in/ivo-sl%C3%A1vka-02315b106/
 ---
 
 Ivo Slávka se narodil v roce 1966. Pochází ze slovenského Nového Mesta nad Váhom a od roku 2009 žije na Praze 8 v Kobylisích. Je v registrovaném partnerství a s partnerem mají v dlouhodobé pěstounské péči 2 děti.
