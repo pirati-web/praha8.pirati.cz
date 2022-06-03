@@ -119,59 +119,59 @@ tail:
     city: Praha 8 – Čimice
     partyUid: bezpp   
 # 20
-  - name: Klára Přibáňová
-    profession: TBD
-    age: 27
-    city: Praha 8 – 
-    partyUid: bezpp
-# 21
   - name: Viktor Balogh
     profession: software developer
     age: 40
     city: Praha 8 – Ládví
     partyUid: bezpp
-# 22
+# 21
   - name: Josef Gajdoš
     profession: provozní manažer
     age: 37
     city: Praha 8 – Karlín
     partyUid: bezpp 
-# 23
+# 22
   - name: Jakub Tadeáš Simon
     profession: OSVČ
     age: 26
     city: Praha 8 – Kobylisy
     partyUid: bezpp
-# 24
+# 23
   - name: Mgr. Ondřej Smělý
     profession: auditor
     age: 27
     city: Praha 8 – Kobylisy
     partyUid: bezpp
-# 25
+# 24
   - name: Ing. Marcela Ujhelyiová
     profession: odborný rada v odboru bilance zahraničního obchodu
     age: 66
     city: Praha 8 – Bohnice
     partyUid: bezpp
-# 26
+# 25
   - name: Ing. Alena Ivanová
     profession: koordinační projektový a programový pracovník na UK
     age: 36
     city: Praha 8 – Čimice
     partyUid: bezpp
-# 27
+# 26
   - name: Ing. Tomáš Otradovec
     profession: programátor
     age: 47
     city: Praha 8 – Karlín
     partyUid: bezpp
-# 28
+# 27
   - name: Ing. Jan Novák
     profession: důchodce
     age: 72
     city: Praha 8 – Kobylisy
     partyUid: bezpp
+# 28
+  - uid: ondrej.kliment
+    profession: projektový manažer v IT
+    age: 35
+    city: Praha 8 – Kobylisy
+    partyUid: pirati
 # 29
   - uid: tomas.lempera
     profession: obchodní manažer
@@ -191,34 +191,34 @@ tail:
     city: Praha 8 – Bohnice
     partyUid: bezpp
 # 32
-  - uid: ondrej.kliment
-    profession: projektový manažer v IT
-    age: 35
-    city: Praha 8 – Kobylisy
-    partyUid: pirati
-# 33
   - name: Kamila Murphy
     profession: TBD
     age: TBD
     city: Praha 8 – Libeň
     partyUid: bezpp
-# 34
+# 33
   - name: Jaroslav Hofrichter
     profession: finanční poradce
     age: 32
     city: Praha 8 – Libeň 
     partyUid: bezpp  
-# 35
+# 34
   - name: Bc. Daniela Dolejšová
     profession: projektový a programový pracovník
     age: 37
     city: Praha 8 – Trója
     partyUid: bezpp
-# 36
+# 35
   - name: Denisa Néel
     profession: nezávislá IT konzultantka
     age: 37
     city: Praha 8 – Karlín
+    partyUid: bezpp
+# 36
+  - name: TBD
+    profession: TBD
+    age: 100
+    city: Praha 8 – 
     partyUid: bezpp
 # 37
   - name: TBD
