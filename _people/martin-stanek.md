@@ -5,33 +5,29 @@ titles:
   before: Mgr.
   after: Ph.D.
 category:
-  - pms
   - zastupitele
   - clenove
 ordzas: 3
-ordpms: 3
 img: people/martin-stanek.jpg
 heroImg: posts/bilydum.png
 profession: geolog
 partyUid: pirati
-description: místopředseda MS Praha 8
+description: zastupitel MČ Praha 8
 teamDescription:
   zastupitele: zastupitel
   clenove: člen MS Praha 8
-  pms: místopředseda MS Praha 8
 mob: 775 058 555
 mail:
   -  martin.stanek@pirati.cz
 profiles:
-  facebook: https://www.facebook.com/martin.stanek.39750
+  facebook:  https://www.facebook.com/martin.stanek.39750
   evidence:  https://evidence.pirati.cz/author/458/
-  odmeny:   https://nalodeni.pirati.cz/odmeny/martin.stanek
+  odmeny:    https://nalodeni.pirati.cz/odmeny/martin.stanek
 funkce:
   - <a href="https://www.praha8.cz/Klub-Ceska-piratska-strana.html">zastupitel MČ Praha 8</a>
   - místopředseda MS Praha 8
   - člen <a href="https://www.praha8.cz/Komise-pro-kulturu-a-volny-cas-2018-2022.html">Komise pro kulturu a volný čas RMČP8</a>
 ---
-
 
 Martin Staněk (* 1983) je [zastupitelem MČ Praha 8](https://www.praha8.cz/appo/card/74/Stanek-Martin.html) a členem [Komise pro kulturu a volný čas](https://www.praha8.cz/Komise-pro-kulturu-a-volny-cas-2018-2022.html).
 
@@ -52,4 +48,4 @@ Jako předseda místního sdružení Piráti Praha 8 od ledna 2019 do ledna 2021
 
 V profesionálním životě se věnuje výzkumu a popularizaci věd o Zemi. Zabývá se především stavbou hornin a experimentálním měřením jejich fyzikálních vlastností. Například sleduje, jaký vliv mají trhliny v hornině na její propustnost a jaký to má význam pro hlubinné úložiště radioaktivního odpadu nebo pro čerpání tepelné energie ze Země.
 
-Volný čas rád tráví volejbalem, florbalem, hrou na piano a filozofováním s kamarády :-)
+Volný čas rád tráví volejbalem, florbalem, hrou na piano a filozofováním s kamarády. :-)
