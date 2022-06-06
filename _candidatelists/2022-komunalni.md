@@ -215,9 +215,9 @@ tail:
     city: Praha 8 – Karlín
     partyUid: bezpp
 # 36
-  - name: TBD
-    profession: TBD
-    age: 100
+  - name: Lea Bradáčová
+    profession: IT specialistka
+    age: 37
     city: Praha 8 – 
     partyUid: bezpp
 # 37
@@ -233,16 +233,16 @@ tail:
     city: Praha 8 – 
     partyUid: bezpp
 # 39
-  - name: TBD
-    profession: TBD
-    age: 100
-    city: PRAHA 8
-    partyUid: bezpp
+  - uid: tomas.marik
+    profession: knihkupec
+    age: 48
+    city: Praha 8 - Libeň
+    partyUid: pirati
 # 40
-  - name: TBD
-    profession: TBD
-    age: 100
-    city: PRAHA 8
+  - name: Ing. Jan Finger
+    profession: pojišťovací makléř
+    age: 53
+    city: Praha 8 - Karlín
     partyUid: bezpp
 # 41
   - name: Nicola Samcová
