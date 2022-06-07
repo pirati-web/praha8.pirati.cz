@@ -191,34 +191,34 @@ tail:
     city: Praha 8 – Bohnice
     partyUid: bezpp
 # 32
-  - name: Kamila Murphy
-    profession: TBD
-    age: TBD
-    city: Praha 8 – Libeň
-    partyUid: bezpp
-# 33
   - name: Jaroslav Hofrichter
     profession: finanční poradce
     age: 32
     city: Praha 8 – Libeň 
     partyUid: bezpp  
-# 34
+# 33
   - name: Bc. Daniela Dolejšová
     profession: projektový a programový pracovník
     age: 37
     city: Praha 8 – Trója
     partyUid: bezpp
-# 35
+# 34
   - name: Denisa Néel
     profession: nezávislá IT konzultantka
     age: 37
     city: Praha 8 – Karlín
     partyUid: bezpp
-# 36
+# 35
   - name: Lea Bradáčová
     profession: IT specialistka
     age: 37
     city: Praha 8 – 
+    partyUid: bezpp
+# 36
+  - name: Klára Kocourková
+    profession: na mateřské dovolené
+    age: 33
+    city: Praha 8 – Karlín
     partyUid: bezpp
 # 37
   - name: TBD
