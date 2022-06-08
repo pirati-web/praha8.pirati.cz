@@ -1,6 +1,6 @@
 ---
 title: Nové náměstí Bohumila Hrabala na Palmovce bude zelené, moderní a hrabalovsky lidské
-author: MHMP
+authorId: martin.sterba
 image: posts/vizualizace/namesti-bohumila-hrabala/namestibohumilahrabala.png
 tags: [Magistrát, Nová Palmovka, Palmovka, Veřejný prostor, Životní prostředí]
 fancybox:
@@ -17,8 +17,6 @@ fancybox:
 Důležitou součást projektu tvoří také zeleň a vodní prvky vytvářející příjemné mikroklima. A Bohumila Hrabala, po němž je náměstí pojmenováno, budou v duchu poetiky jeho textů připomínat drobné instalace a zdánlivě nenápadné prvky poutající pozornost chodců. I díky velmi citlivému řešení na novém náměstí vznikne kultivovaný prostor pro cestující, setkávání i zákoutí pro dětské aktivity. A to celoročně, čemuž napomohou nejen zelené střechy stromů, ale také příjemné kavárny v objektu ochranného systému metra a další zastřešené prostory. Vše v přirozeném, lidském měřítku a s řadou překvapivých, hravých momentů odkazujících k Bohumilu Hrabalovi.
 
 Návrh byl v průběhu roku konzultován a prezentován zástupcům městské části Praha 8, vedení Magistrátu hlavního města Prahy, Institutu plánování a rozvoje Prahy nebo Galerie hlavního města Prahy. Připomínky a podněty nevedly ke kompromisu, naopak pomohly návrh ještě zlepšit ku prospěchu budoucích uživatelů. Nová podoba náměstí vychází zejména z návrhů samotných obyvatel. Náměstí bude konečně vypadat tak, jak si zaslouží, a ne jako prostor, kterým se ve večerních hodinách bojíte procházet.
-
->Přijali jsme odpovědnost za proměnu celé této části metropole. Proto už několik let neřešíme jen architekturu a poměr funkcí Palmovka One, ale i jeho okolí. Výsledkem je náměstí Bohumila Hrabala kvalitou dosahující evropských měřítek. A třeba i naše snaha o kvalitní obnovu a zpřístupnění plochy kolem unikátního objektu Libeň – dolní nádraží,“ doplňuje Kamil Hošták ze společnosti Landia Management, která je společně s Discovery Group investorem Palmovka One a společně s městskou částí Praha 8 byla zadavatelem studie nového náměstí Bohumila Hrabala.
 
 {% for galery in page.fancybox %}
 <div class="mt-4">
