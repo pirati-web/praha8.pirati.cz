@@ -210,9 +210,9 @@ tail:
     partyUid: bezpp
 # 35
   - name: Lea Bradáčová
-    profession: IT specialistka
+    profession: specialistka IT
     age: 37
-    city: Praha 8 – 
+    city: Praha 8 – Bohnice
     partyUid: bezpp
 # 36
   - name: Klára Kocourková
@@ -227,28 +227,28 @@ tail:
     city: Praha 8 – 
     partyUid: bezpp
 # 38
-  - name: TBD
-    profession: TBD
-    age: 100
-    city: Praha 8 – 
-    partyUid: bezpp
-# 39
   - uid: tomas.marik
     profession: knihkupec
     age: 48
     city: Praha 8 - Libeň
     partyUid: pirati
-# 40
+# 39
   - name: Ing. Jan Finger
     profession: pojišťovací makléř
     age: 53
     city: Praha 8 - Karlín
     partyUid: bezpp
-# 41
+# 40
   - name: Nicola Samcová
     profession: kadeřnice
     age: 32
     city: Praha 8 – Kobylisy
+    partyUid: bezpp
+# 41
+  - name: Michal Samec
+    profession: obchodní zástupce
+    age: 36
+    city: PRAHA 8
     partyUid: bezpp
 # 42
   - uid: jitka.novotna
@@ -257,10 +257,10 @@ tail:
     city: Praha 8 – Libeň
     partyUid: pirati
 # 43
-  - name: Michal Samec
-    profession: obchodní zástupce
-    age: 36
-    city: PRAHA 8
+  - name: Doc. Ing. Hana Gattermayerová, CSc.
+    profession: statik
+    age: 67
+    city: Praha 8 – Libeň
     partyUid: bezpp
 # 44
   - name: Ing. Jakub Slávka, DiS.
