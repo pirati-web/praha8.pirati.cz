@@ -221,10 +221,10 @@ tail:
     city: Praha 8 – Karlín
     partyUid: bezpp
 # 37
-  - name: TBD
-    profession: TBD
-    age: 100
-    city: Praha 8 – 
+  - name: David Mrkvič
+    profession: řidič
+    age: 35
+    city: Praha 8 – Ďáblice 
     partyUid: bezpp
 # 38
   - uid: tomas.marik
