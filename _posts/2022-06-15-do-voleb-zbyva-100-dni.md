@@ -1,7 +1,7 @@
 ---
 title: Do zářijových komunálních voleb zbývá méně než 100 dní
 authorId: martin.sterba
-image: posts/transparentnost-image.png
+image: posts/transparentnost-100dnidovoleb.png
 tags: [Volby 2022, Transparentnost]
 ---
 
