@@ -221,9 +221,9 @@ tail:
     city: Praha 8 – Karlín
     partyUid: bezpp
 # 37
-  - name: David Mrkvič
+  - name: David Mrkvic
     profession: řidič
-    age: 35
+    age: 53
     city: Praha 8 – Ďáblice 
     partyUid: bezpp
 # 38
