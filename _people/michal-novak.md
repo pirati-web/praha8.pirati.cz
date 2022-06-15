@@ -4,16 +4,20 @@ name: Michal Novák
 titles:
   after: MBA
 category:
+  - pms
   - zastupitele
   - clenove
 ordzas: 1
+ordpms: 4
 img: people/michal-novak.jpg
 heroImg: posts/tramvaje-bohnice.png
 profession: nezávislý konzultant
 partyUid: pirati
-description: koordinátor gesce majetek
+description: předseda zastupitelského klubu
 teamDescription:
   zastupitele: předseda zastupitelského klubu
+  pms: místopředseda MS Praha 8
+  clenove: koordinátor gesce majetek
 mail:
   - michal.novak@pirati.cz
 profiles:
@@ -23,6 +27,7 @@ profiles:
 funkce:
   - <a href="https://www.praha8.cz/Klub-Ceska-piratska-strana.html">zastupitel MČ Praha 8</a>
   - předseda <a href="https://www.praha8.cz/Klub-Ceska-piratska-strana.html">zastupitelského klubu</a>
+  - místopředseda MS Praha 8
   - místopředseda <a href="https://www.praha8.cz/Vybory-zastupitelstva-Mestske-casti-Praha-8.html">Kontrolního výboru ZMČP8</a>
   - člen <a href="https://www.praha8.cz/Komise-pro-dopravu-2018-2022.html">Komise pro dopravu RMČP8</a>
   - člen <a href="https://www.praha8.cz/Komise-pro-majetek-ekonomika-mestskych-organizaci-2018-2022.html">Komise pro majetek (+ekonomika městských organizací) RMČP8</a>
