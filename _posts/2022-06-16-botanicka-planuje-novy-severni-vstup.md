@@ -9,7 +9,7 @@ tags: [Bohnice, Botanická zahrada]
 
 Takto popisují architekti z ateliéru Zdeňka Fránka novou vstupní budovu Botanická zahrada Praha blízko bohnického sídliště. Střechy nad vstupní veřejnou částí s pokladnou a prodejnou květin a administrativní částí mají být zelené a přístupné návštěvníkům. Součástí budovy má být také restaurace, kavárna a knihovna s přednáškovým sálem. 
 
-![Botanická zahrada v budoucnu](/assets/img/posts/otanicka2022-2.jpg)
+![Botanická zahrada v budoucnu](/assets/img/posts/botanicka2022-2.jpg)
 
 >"Mně se návrh líbí, nicméně parkoviště mi přijde příliš naddimenzované a chci věřit, že výsledné provedení míst pro parkování bude "v zelené variantě" a nikoliv "ve velké vyasfaltované ploše"," říká náš kandidát na starostu Prahy 8 [Martin Štěrba](http://www.praha8.pirati.cz/lide/martin-sterba.html). 
 
