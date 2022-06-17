@@ -15,9 +15,14 @@ main:
     name: Aktuality
   - link: /lide/
     name: Lidé
-  - link: /program/
-    name: Program
-
+  - name: Komunální volby
+    submenu:
+      - name: Komunální volby 2022
+        link: /volby/2022-komunalni.html
+      - name: Komunální volby 2018
+        link: /volby/2018-komunalni.html
+      - name: Senátní volby 2018
+        link: "http://https://lukaswagenknecht.cz"
   - name: Rozcestník
     submenu:
       - name: MČ Praha 8

@@ -11,7 +11,7 @@ customizeHeader: true
 {% endcapture %}
 
 {% capture subContent %}
-  <h2 class="head-xs md:head-base mt-2 text-center">Tady bude heslo do kampaně</h2>
+  <h2 class="head-xs md:head-base mt-2 text-center">Odvaha řídit Prahu 8 správně</h2>
 {% endcapture %}
 
 {% include elections-header.html mainContent=mainContent subContent=subContent %}
