@@ -41,7 +41,7 @@ head:
     partyUid: bezpp
 # 7
   - uid: karel.ptacek
-    profession: projektový manažer, zastupitel MČ Praha 8
+    profession: projektový manažer
     age: 40
     city: Praha 8 – Karlín
     partyUid: pirati
