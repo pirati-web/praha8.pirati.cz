@@ -11,7 +11,7 @@ customizeHeader: true
 {% endcapture %}
 
 {% capture subContent %}
-  <h2 class="head-xs md:head-base mt-2 text-center">Šance <strong>změnit budoucnost</strong></h2>
+  <h2 class="head-xs md:head-base mt-2 text-center">Šance <strong>změnit budoucnost</strong>. Jsme na prahu změny!</h2>
 {% endcapture %}
 
 {% include elections-header.html mainContent=mainContent subContent=subContent %}
