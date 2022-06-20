@@ -7,7 +7,7 @@ category:
   - regp
 img: people/jakub-jiran.jpg
 heroImg: people/jakub-jiran-hero.jpg
-profession: auditor, člen dozorčí rady
+profession: právník, člen dozorčí rady
 partyUid: bezpp
 description: registrovaný příznivec
 mail: jakub.jiran@pirati.cz

@@ -35,7 +35,7 @@ head:
     partyUid: pirati 
 # 6
   - uid: jakub.jiran
-    profession: auditor, člen dozorčí rady Dopravního podniku hl. města Prahy
+    profession: právník, člen dozorčí rady Dopravního podniku hl. města Prahy
     age: 44
     city: Praha 8 – Ďáblice
     partyUid: bezpp

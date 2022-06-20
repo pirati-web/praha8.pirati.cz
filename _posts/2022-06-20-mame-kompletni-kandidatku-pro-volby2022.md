@@ -12,7 +12,7 @@ tags: [Volby 2022]
 3. [Jan Kolátor](http://praha8.pirati.cz/lide/jan-kolator.html), systémový knihovník
 4. [Pavel Franc](http://praha8.pirati.cz/lide/pavel-franc.html), IT manažer
 5. [Ivo Slávka](http://praha8.pirati.cz/lide/ivo-slavka.html), právník, vedoucí oddělení investic na MPO ČR
-6. [Jakub Jiran](http://praha8.pirati.cz/lide/jakub-jiran.html), auditor a člen dozorčí rady DPP
+6. [Jakub Jiran](http://praha8.pirati.cz/lide/jakub-jiran.html), právník a člen dozorčí rady DPP
 7. [Karel Ptáček](http://praha8.pirati.cz/lide/karel-ptacek.html), projektový manažer
 8. [Veronika Šiftová](http://praha8.pirati.cz/lide/veronika-siftova.html), ministerský rada na Ministerstvu vnitra
 9. [Karolína Gattermayerová](http://praha8.pirati.cz/lide/karolina-gattermayerova.html), scenáristka a copywriterka
