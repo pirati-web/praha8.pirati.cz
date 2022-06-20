@@ -10,7 +10,7 @@ tags: [Volby 2022]
 1. [Martin Štěrba](http://praha8.pirati.cz/lide/martin-sterba.html), manažer a stratég on-line komunikace 
 2. [Michal Novak](http://praha8.pirati.cz/lide/michal-novak.html), obchodní konzultant
 3. [Jan Kolátor](http://praha8.pirati.cz/lide/jan-kolator.html), systémový knihovník
-4. [Pavel Franc]](http://praha8.pirati.cz/lide/pavel-franc.html), IT manažer
+4. [Pavel Franc](http://praha8.pirati.cz/lide/pavel-franc.html), IT manažer
 5. [Ivo Slávka](http://praha8.pirati.cz/lide/ivo-slavka.html), právník, vedoucí oddělení investic na MPO ČR
 6. [Jakub Jiran](http://praha8.pirati.cz/lide/jakub-jiran.html), auditor a člen dozorčí rady DPP
 7. [Karel Ptáček](http://praha8.pirati.cz/lide/karel-ptacek.html), projektový manažer
@@ -24,7 +24,7 @@ tags: [Volby 2022]
 15. [Miroslav Jahoda](http://praha8.pirati.cz/lide/maroslav-jahoda.html), marketér
 16. [Iva Nachtmannová](http://praha8.pirati.cz/lide/iva-nachtmannova.html), novinářka a kurýrka
 17. [Alix Guillard](http://praha8.pirati.cz/lide/alix-guillard.html), IT vývojář
-18. [Michal Schwarzkopf]](http://praha8.pirati.cz/lide/michal-schwarzkopf.html), finanční konzultant
+18. [Michal Schwarzkopf](http://praha8.pirati.cz/lide/michal-schwarzkopf.html), finanční konzultant
 19. Petr Fürbach, osvětlovač
 20. Viktor Balogh, software developer
 21. Josef Gajdoš, provozní manažer
