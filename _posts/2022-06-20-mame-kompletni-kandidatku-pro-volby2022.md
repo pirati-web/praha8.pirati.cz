@@ -10,14 +10,14 @@ tags: [Volby 2022]
 1. [Martin Štěrba](http://praha8.pirati.cz/lide/martin-sterba.html), manažer a stratég on-line komunikace 
 2. [Michal Novak](http://praha8.pirati.cz/lide/michal-novak.html), obchodní konzultant
 3. [Jan Kolátor](http://praha8.pirati.cz/lide/jan-kolator.html), systémový knihovník
-4. [Pavel Franc](](http://praha8.pirati.cz/lide/pavel-franc.html), IT manažer
-5. [Ivo Slávka]](http://praha8.pirati.cz/lide/ivo-slavka.html), právník, vedoucí oddělení investic na MPO ČR
-6. [Jakub Jiran](](http://praha8.pirati.cz/lide/jakub-jiran.html), auditor a člen dozorčí rady DPP
-7. [Karel Ptáček]](http://praha8.pirati.cz/lide/karel-ptacek.html), projektový manažer
-8. [Veronika Šiftová](](http://praha8.pirati.cz/lide/veronika-siftova.html), ministerský rada na Ministerstvu vnitra
+4. [Pavel Franc]](http://praha8.pirati.cz/lide/pavel-franc.html), IT manažer
+5. [Ivo Slávka](http://praha8.pirati.cz/lide/ivo-slavka.html), právník, vedoucí oddělení investic na MPO ČR
+6. [Jakub Jiran](http://praha8.pirati.cz/lide/jakub-jiran.html), auditor a člen dozorčí rady DPP
+7. [Karel Ptáček](http://praha8.pirati.cz/lide/karel-ptacek.html), projektový manažer
+8. [Veronika Šiftová](http://praha8.pirati.cz/lide/veronika-siftova.html), ministerský rada na Ministerstvu vnitra
 9. [Karolína Gattermayerová](http://praha8.pirati.cz/lide/karolina-gattermayerova.html), scenáristka a copywriterka
-10. [Ondřej Profant]](http://praha8.pirati.cz/lide/ondrej-profant.html), náměstek vicepremiéra pro digitalizaci
-11. [Petr Bísek]](http://praha8.pirati.cz/lide/petr-bisek.html), novinář a bývalý vydavatel Amerických listů
+10. [Ondřej Profant](http://praha8.pirati.cz/lide/ondrej-profant.html), náměstek vicepremiéra pro digitalizaci
+11. [Petr Bísek](http://praha8.pirati.cz/lide/petr-bisek.html), novinář a bývalý vydavatel Amerických listů
 12. [Vojtěch Blahoš](http://praha8.pirati.cz/lide/vojtech-blahos.html), student mezinárodních vztahů
 13. [Květa Maříková](http://praha8.pirati.cz/lide/kveta-marikova.html), knihovnice
 14. [Lukáš Kost](http://praha8.pirati.cz/lide/lukas-kost.html), učitel na základní a střední škole
