@@ -5,7 +5,7 @@ image: posts/tramvaj-bohnice2.png
 tags: [Doprava, Tramvaj do Bohnic, Tramvaj do Zdib]
 ---
 
-**Trojkou z Ďáblic do Letňan, sedmnáctkou a devatenáctkou do Bohnic, desítkou do Zdib a devětadvacítkou z Karlína přes Holešovice do Tróji.** Pražská integrovaná doprava aktualizovala plán rozvoje linek MHD do roku 2032. Je mezi nimi i celá řada linek, které se dotýkají naší městské části. Takto budeme moci zřejmě koncem tohoto desetiletí jezdit tramvajemi v rámci naší městské části. 
+**Trojkou z Ďáblic do Letňan, sedmnáctkou a devatenáctkou do Bohnic, desítkou do Zdib a devětadvacítkou z Karlína přes Holešovice do Tróji. [Pražská integrovaná doprava aktualizovala plán rozvoje linek MHD do roku 2032.](https://pid.cz/rozvoj-linek-2022-2032)** Je mezi nimi i celá řada linek, které se dotýkají naší městské části. Takto budeme moci zřejmě koncem tohoto desetiletí jezdit tramvajemi v rámci naší městské části. 
 Pojďme si to představit
 
 **3:** původní trasa – Kobylisy – Sídliště Ďáblice - Letňany – Nádraží Čakovice
@@ -29,5 +29,6 @@ Všechny nové tramvajové i trolejbusové linky podporujeme. A věříme, že d
 Na kterou změnu se na osmičce těšíte nejvíc? Já si vybrat neumím, jako fanoušek tramvajové dopravy se totiž těším až budou hotové všechny. 
 
 ### Plán rozvoje MHD 2022–2032
-*Klepnutím na mapy se dostanete na Google Maps.*
+*Klepnutím na mapu se dostanete na Google Maps.*
+
 [![Rozvoj MHD 2022–2032](/assets/img/posts/rozvojMHD-2022-2032.png)](https://www.google.com/maps/d/u/0/viewer?mid=1vBkdHaN2_AupbbI2E21kmBVMTrLhXxo&ll=50.06829669740465%2C14.468642800000007&z=12)
