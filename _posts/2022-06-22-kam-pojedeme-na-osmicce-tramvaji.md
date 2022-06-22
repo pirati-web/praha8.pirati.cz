@@ -6,7 +6,8 @@ tags: [Doprava, Tramvaj do Bohnic, Tramvaj do Zdib]
 ---
 
 **Trojkou z Ďáblic do Letňan, sedmnáctkou a devatenáctkou do Bohnic, desítkou do Zdib a devětadvacítkou z Karlína přes Holešovice do Tróji. [Pražská integrovaná doprava aktualizovala plán rozvoje linek MHD do roku 2032.](https://pid.cz/rozvoj-linek-2022-2032)** Je mezi nimi i celá řada linek, které se dotýkají naší městské části. Takto budeme moci zřejmě koncem tohoto desetiletí jezdit tramvajemi v rámci naší městské části. 
-Pojďme si to představit
+
+Pojďme si to představit:
 
 **3:** původní trasa – Kobylisy – Sídliště Ďáblice - Letňany – Nádraží Čakovice
 
