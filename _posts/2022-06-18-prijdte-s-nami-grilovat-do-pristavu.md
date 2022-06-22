@@ -1,5 +1,5 @@
 ---
-title: Máme odvahu řídit Prahu 8 správně, toto je naše kompletní kandidátka
+title: Zveme vás na grilování s Piráty do Přístavu 186 00
 authorId: martin.sterba
 image: posts/pozvanka_grilovanispiraty2022.png
 tags: [Piráti]
