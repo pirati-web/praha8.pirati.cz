@@ -28,7 +28,7 @@ tags: [Volby 2022]
 19. Petr Fürbach, osvětlovač
 20. Viktor Balogh, software developer
 21. Josef Gajdoš, provozní manažer
-22. Jakub Tadeáš Simon, OSVČ
+22. Jakub Tadeáš Simon, personalista
 23. Ondřej Smělý, auditor
 24. Marcela Ujhelyiová, odborný rada v odboru zahraničního obchodu
 25. Alena Ivanová, koordinační projektový pracovník

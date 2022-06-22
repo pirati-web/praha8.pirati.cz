@@ -132,7 +132,7 @@ tail:
     partyUid: bezpp 
 # 22
   - name: Jakub Tadeáš Simon
-    profession: OSVČ
+    profession: personalista
     age: 26
     city: Praha 8 – Kobylisy
     partyUid: bezpp
