@@ -19,7 +19,7 @@ Pojďme si to představit:
 
 **29:** Trojská – Holešovice – Rohanský ostrov – Karlín – Hlavní nádraží
 
-**58:** přeměna autobusové linky 148 v trolejbusovou v trase Palmovka – Miškovice
+**58:** přeměna autobusové linky 140 v trolejbusovou v trase Palmovka – Miškovice
 
 **61:** přeměna autobusové linky 201 v trolejbusovou v trase Nádraží Holešovice – Černý Most
 
