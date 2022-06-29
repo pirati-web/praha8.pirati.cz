@@ -5,7 +5,7 @@ image: posts/hlubucek-dozimetr.png
 tags: [Zastupitelstvo, Transparentnost]
 ---
 
-**Zastupitelstvo MČ Praha 8 se dnes na svém jednání zabývalo aktuální kauzou Dozimetr. Uložilo neprodleně zajistit provedení auditů zakázek a ostatních smluvních vztahů MČ Praha 8 a neprodleně zajistit provedení auditů zakázek a ostatních smluvních vztahů příspěvkových organizací a společností založených MČ Praha 8.** Prověřeny budou všechny firmy spojené s aktéry kauzy Dozimetr doplněné o společnosti Landia Manegement a Equita Consulting.
+**Zastupitelstvo MČ Praha 8 se dnes na svém jednání zabývalo aktuální kauzou Dozimetr. Uložilo neprodleně zajistit provedení auditů zakázek a ostatních smluvních vztahů MČ Praha 8 a neprodleně zajistit provedení auditů zakázek a ostatních smluvních vztahů příspěvkových organizací a společností založených MČ Praha 8.** Prověřeny budou všechny firmy spojené s aktéry kauzy Dozimetr doplněné o společnosti Landia Management a Equita Consulting.
 
 Všechno bylo schváleno hlasy všemi přítomných zastupitelů napříč politickým spektrem.
 
