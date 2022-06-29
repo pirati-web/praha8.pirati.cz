@@ -66,7 +66,7 @@ Všechno bylo schváleno hlasy všemi přítomných zastupitelů napříč polit
 |		      | UNIPROG SOLUTIONS, a.s.	                 | 25094670 |
 | další 	      |	ANALOGIA a.s.	                         | 29257255 |
 | 		      | KOMO-COM, s. r. o.	                 | 26007282 |
-| 		      |	Landia Manegement, s.r.o.                | 28510020 |
+| 		      |	Landia Management, s.r.o.                | 28510020 |
 | 		      |	Equita Consulting, s.r.o.                | 25761421 |
 
 
