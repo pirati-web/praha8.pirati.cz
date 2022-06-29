@@ -27,12 +27,11 @@ Všechno bylo schváleno hlasy všemi přítomných zastupitelů napříč polit
 
 *termín: 31. 8. 2022*
 
-
 ### Prověřeny budou tyto společnosti:
 
 | aktér               | zájmová společnost                       | IČ       |
 |---------------------|------------------------------------------|----------|
-| Michal Redl.        | ABS spol. s r.o.	                 | 46978780 |
+| Michal Redl         | ABS spol. s r.o.	                       | 46978780 |
 |                     | PTR INVEST, spol.s r.o.                  | 60754371 |
 |                     | IHM Invest s.r.o.                        | 26914085 |
 |                     | GAMBLER ZLÍN s.r.o.                      | 60733942 |
@@ -42,32 +41,30 @@ Všechno bylo schváleno hlasy všemi přítomných zastupitelů napříč polit
 |Pavel Dovhomilja     | B&M Investment, s.r.o.                   | 28374088 |
 |                     | Digicode s.r.o.	                         | 24731838 |
 |                     | Enttiva s.r.o.	                         | 28993144 |
-|                     | HJ-DBC, a.s.	                         | 27865819 |
-|                     | IMASTRADO, s.r.o.	                 | 02380633 |
+|                     | HJ-DBC, a.s.	                           | 27865819 |
+|                     | IMASTRADO, s.r.o.	                       | 02380633 |
 |                     | JEFFREY CLIENTS a.s.                     | 24782505 |
-|		      | Open-source Aliance, z.s.                | 08088543 |
-|		      | Tarbenon Waste Management a.s.           | 07967501 |
-|  		      | Sea View Development a.s.	         | 08310009 |
-| 		      | Block33 Czech a.s.		         | 08998493 |
-|		      | Provisio, s.r.o.		         | 02008637 |
-|		      | Information Systems Factory Group s.r.o. | 03440621 |
-|Zakaría Nemrah	      | CSNS s.r.o.		                 | 04824849 |
-| 		      | NEXTQUEST s.r.o.		         | 07483783 |
-| 		      | Residence Poštovní dvůr s.r.o.           | 07483716 |
-| 		      | Quattro project s.r.o.	                 | 08834377 |
-|		      | ZDP Estate s.r.o.		         | 14087006 |
-|	              | Sesaneli s.r.o.	                         | 05046416 |
-| 		      | VKM Group s.r.o.	                 | 01803425 |
+|		                  | Open-source Aliance, z.s.                | 08088543 |
+|		                  | Tarbenon Waste Management a.s.           | 07967501 |
+|  		                | Sea View Development a.s.	               | 08310009 |
+| 		                | Block33 Czech a.s.		                   | 08998493 |
+|		                  | Provisio, s.r.o.		                     | 02008637 |
+|		                  | Information Systems Factory Group s.r.o. | 03440621 |
+|Zakaría Nemrah	      | CSNS s.r.o.		                           | 04824849 |
+| 		                | NEXTQUEST s.r.o.		                     | 07483783 |
+| 		                | Residence Poštovní dvůr s.r.o.           | 07483716 |
+| 		                | Quattro project s.r.o.	                 | 08834377 |
+|		                  | ZDP Estate s.r.o.		                     | 14087006 |
+|	                    | Sesaneli s.r.o.	                         | 05046416 |
+| 		                | VKM Group s.r.o.	                       | 01803425 |
 | Ing. Martin Vejsada | MAVERIX INNOVATION s. r. o.              | 07920644 |
-| 		      | VPÚ DECO Praha a.s.	                 | 60193280 |
-|Ivo Pitrman	      |	H4 GROUP s.r.o.	                         | 28357388 |
-| Ing. Maroš Jančovič |	UNIPROG servis s.r.o.	                 | 25101943 |
-|		      |	TAXNET, s.r.o.		                 | 25359924 |
-|		      |	T-SOFT a.s.		                 | 40766314 |
-|		      | UNIPROG SOLUTIONS, a.s.	                 | 25094670 |
-| další 	      |	ANALOGIA a.s.	                         | 29257255 |
-| 		      | KOMO-COM, s. r. o.	                 | 26007282 |
-| 		      |	Landia Management, s.r.o.                | 28510020 |
-| 		      |	Equita Consulting, s.r.o.                | 25761421 |
-
-
+| 		                | VPÚ DECO Praha a.s.	                     | 60193280 |
+|Ivo Pitrman	        |	H4 GROUP s.r.o.	                         | 28357388 |
+| Ing. Maroš Jančovič |	UNIPROG servis s.r.o.	                   | 25101943 |
+|		                  |	TAXNET, s.r.o.		                       | 25359924 |
+|		                  |	T-SOFT a.s.		                           | 40766314 |
+|		                  | UNIPROG SOLUTIONS, a.s.	                 | 25094670 |
+| další 	            |	ANALOGIA a.s.	                           | 29257255 |
+| 		                | KOMO-COM, s. r. o.	                     | 26007282 |
+| 		                |	Landia Management, s.r.o.                | 28510020 |
+| 		                |	Equita Consulting, s.r.o.                | 25761421 |
