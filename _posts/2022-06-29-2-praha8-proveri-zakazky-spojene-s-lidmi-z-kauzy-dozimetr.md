@@ -14,6 +14,7 @@ Všechno bylo schváleno hlasy všemi přítomných zastupitelů napříč polit
 **20. Zastupitelstvo městské části Praha 8 konané dne 29. 6. 2022 k návrhu provedení auditu zakázek ÚMČ Praha 8, příspěvkových organizací MČ Praha 8 a společností založených MČ Praha 8.**
 
 **Zastupitelstvo městské části:**
+
 **1. bere na vědomí**
 - dosud známé informace související s vyšetřováním případu označovaných OČTŘ pod názvem „Dozimetr“ a z důvodu zachování principu dobré správy 
 
