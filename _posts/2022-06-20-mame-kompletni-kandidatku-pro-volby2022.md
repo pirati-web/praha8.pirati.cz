@@ -8,7 +8,7 @@ tags: [Volby 2022]
 **Do zářijových komunálních voleb půjdeme v městské části Praha 8 v tomto složení. Máme odvahu řídit Prahu 8 správně!** Seznamte se.
 
 1. [Martin Štěrba](http://praha8.pirati.cz/lide/martin-sterba.html), manažer a stratég on-line komunikace 
-2. [Michal Novak](http://praha8.pirati.cz/lide/michal-novak.html), obchodní konzultant
+2. [Michal Novák](http://praha8.pirati.cz/lide/michal-novak.html), obchodní konzultant
 3. [Jan Kolátor](http://praha8.pirati.cz/lide/jan-kolator.html), systémový knihovník
 4. [Pavel Franc](http://praha8.pirati.cz/lide/pavel-franc.html), IT manažer
 5. [Ivo Slávka](http://praha8.pirati.cz/lide/ivo-slavka.html), právník, vedoucí oddělení investic na MPO ČR
