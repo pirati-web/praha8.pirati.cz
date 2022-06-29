@@ -1,7 +1,7 @@
 ---
 title: "Zastupitelstvo MČ Praha 8 schválilo prověření firem spojených s aktéry kauzy Dozimetr"
 authorId: martin.sterba
-image: posts/portrety-2022/pavel-franc.jpg
+image: posts/hlubucek-dozimetr.png
 tags: [Zastupitelstvo, Transparenstnost]
 ---
 
@@ -64,8 +64,8 @@ představitele statutárních orgánů společnosti založených MČ Praha 8 k n
 |		      |	T-SOFT a.s.		                 | 40766314 |
 |		      | UNIPROG SOLUTIONS, a.s.	                 | 25094670 |
 | další 	      |	ANALOGIA a.s.	                         | 29257255 |
-		      | KOMO-COM, s. r. o.	                 | 26007282 |
-		      |	Landia Manegement, s.r.o.                | 28510020 |
-		      |	Equita Consulting, s.r.o.                | 25761421 |
+| 		      | KOMO-COM, s. r. o.	                 | 26007282 |
+| 		      |	Landia Manegement, s.r.o.                | 28510020 |
+| 		      |	Equita Consulting, s.r.o.                | 25761421 |
 
 
