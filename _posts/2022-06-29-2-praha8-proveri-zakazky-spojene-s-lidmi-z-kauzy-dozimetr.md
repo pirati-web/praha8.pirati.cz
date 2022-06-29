@@ -9,18 +9,20 @@ tags: [Zastupitelstvo, Transparentnost]
 
 Všechno bylo schváleno hlasy všemi přítomných zastupitelů napříč politickým spektrem.
 
->**20. Zastupitelstvo městské části Praha 8 konané dne 29. 6. 2022** 
+### Schválené usnesení: 
 
-k návrhu provedení auditu zakázek ÚMČ Praha 8, příspěvkových organizací MČ Praha 8 a společností založených MČ Praha 8,
+**20. Zastupitelstvo městské části Praha 8 konané dne 29. 6. 2022 k návrhu provedení auditu zakázek ÚMČ Praha 8, příspěvkových organizací MČ Praha 8 a společností založených MČ Praha 8.**
 
->**Zastupitelstvo městské části:**
+**Zastupitelstvo městské části:**
 **1. bere na vědomí**
 dosud známé informace související s vyšetřováním případu označovaných OČTŘ pod názvem „Dozimetr“ a z důvodu zachování principu dobré správy 
+
 **2. ukládá**
-2. 1. neprodleně zajistit provedení auditů zakázek a ostatních smluvních vztahů MČ Praha 8, realizovaných v období od 1. 1. 2010 do současnosti se zvláštním zřetelem na vazby dodavatelů na osoby dosud obviněné v kauze Dozimetr, prostřednictvím auditorské společnosti s prokazatelnými zkušenostmi v provádění auditů, a to nejméně v rozsahu uvedeném v příloze tohoto usnesení. 
-2. 2. neprodleně zajistit provedení auditů zakázek a ostatních smluvních vztahů MČ Praha 8 příspěvkových organizací a společností založených MČ Praha 8, realizovaných v období od 1. 1. 2010 do současnosti, se zvláštním zřetelem na vazby dodatevalů na osoby dosud obviněné v případě „Dozimetr“, provádění auditů, a to nejméně v rozsahu uvedením v příloze tohoto usnesení a předat výsledek k rukám tajemníka ÚMČ Praha 
+- 2. 1. neprodleně zajistit provedení auditů zakázek a ostatních smluvních vztahů MČ Praha 8, realizovaných v období od 1. 1. 2010 do současnosti se zvláštním zřetelem na vazby dodavatelů na osoby dosud obviněné v kauze Dozimetr, prostřednictvím auditorské společnosti s prokazatelnými zkušenostmi v provádění auditů, a to nejméně v rozsahu uvedeném v příloze tohoto usnesení. 
+- 2. 2. neprodleně zajistit provedení auditů zakázek a ostatních smluvních vztahů MČ Praha 8 příspěvkových organizací a společností založených MČ Praha 8, realizovaných v období od 1. 1. 2010 do současnosti, se zvláštním zřetelem na vazby dodatevalů na osoby dosud obviněné v případě „Dozimetr“, provádění auditů, a to nejméně v rozsahu uvedením v příloze tohoto usnesení a předat výsledek k rukám tajemníka ÚMČ Praha 
+
 **3. vyzývá**
-představitele statutárních orgánů společnosti založených MČ Praha 8 k neprodlenému provedení auditů zakázek těchto společností, realizovaných v období od 1. 1. 2010 do současnosti, se zvláštním zřetelem na vazby dodavatelů na osoby dosud obviněné v případu „Dozimetr“, prostřednictvím auditorské společnosti s prokazatelnými zkušenostmi v provádění auditů, a to nejméně v rozsahu uvedeném v příloze tohoto usnesení a předat výsledek k rukám tajemníka ÚMČ Praha 8. 
+-  představitele statutárních orgánů společnosti založených MČ Praha 8 k neprodlenému provedení auditů zakázek těchto společností, realizovaných v období od 1. 1. 2010 do současnosti, se zvláštním zřetelem na vazby dodavatelů na osoby dosud obviněné v případu „Dozimetr“, prostřednictvím auditorské společnosti s prokazatelnými zkušenostmi v provádění auditů, a to nejméně v rozsahu uvedeném v příloze tohoto usnesení a předat výsledek k rukám tajemníka ÚMČ Praha 8. 
 
 ### Prověřeny budou tyto společnosti:
 
