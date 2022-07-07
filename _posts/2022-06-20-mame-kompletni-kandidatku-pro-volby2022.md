@@ -50,5 +50,5 @@ tags: [Volby 2022]
 41. Michal Samec, obchodní zástupce
 42. [Jitka Novotná](http://praha8.pirati.cz/lide/jitka-novotna.html), programátorka
 43. Hana Gattermayerová, statik
-44. Jakub Slávka, ministerský rada
+44. Jakub Slávka, ministerský rada na Ministerstvu práce a sociálních věcí
 45. Martin Vávra, programátor mobilních aplikací
