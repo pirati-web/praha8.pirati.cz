@@ -21,7 +21,7 @@ fancybox2:
 
 **Okolí Palmovky je dlouhodobě zanedbané a její stav bohužel neutěšený. Během několika následujících let se začne výrazně měnit a již nyní se usilovně pracuje na jejich přípravách, které umožní zásadní proměnu. Palmovka bude v budoucnu vyhledávanou lokalitou s plně dostupnou a potřebnou občanskou vybaveností.**
 
-Často se diskutuje o přeměně současného autobusového nádraží. Tyto pozemky Dopravní podnik prodal investorovi, který na místě postaví soubor budov s propojením vstupu do metra a [budoucího náměstí Bohumila Hrabala](https://praha8.pirati.cz/aktuality/nove-namesti-bohumila-hrabala-na-palmovce-bude-zelene-moderni-a-hrabalovsky-lidske.html).
+[Často se diskutuje o přeměně současného autobusového nádraží](https://praha8.pirati.cz/aktuality/nove-namesti-bohumila-hrabala-na-palmovce-bude-zelene-moderni-a-hrabalovsky-lidske.html). Tyto pozemky Dopravní podnik před lety prodal investorovi, který na místě postaví soubor budov s propojením vstupu do metra a budoucího náměstí Bohumila Hrabala.
 
 {% for galery in page.fancybox1 %}
 <div class="mt-4">
