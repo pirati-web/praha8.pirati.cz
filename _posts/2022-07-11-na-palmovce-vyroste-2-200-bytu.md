@@ -1,5 +1,5 @@
 ---
-title: "Do roku 2033 vyroste na Palmovce 2 200 nových bytů a nový park"
+title: "Do roku 2033 vyroste mezi Invalidovnou a Palmovkou 2 200 bytů"
 authorId: martin.sterba
 image: posts/palmovka-model1.jpg
 tags: [Bydlení, Palmovka, Nová Palmovka, Územní rozvoj]
@@ -9,7 +9,7 @@ tags: [Bydlení, Palmovka, Nová Palmovka, Územní rozvoj]
 
 >"Celá oblast má obří potenciál stát se skutečným centrem naší městské části, během příštích 10 letech tady totiž vyroste kompletně nová čtvrť s ambicí stát se "Andělem" pravého břehu Vltavy," říká náš kandidát na starostu [Martin Štěrba](https://praha8.pirati.cz/lide/martin-sterba.html).
 
-Připravuje se výstavba 2.200 městských bytů, administrativy, kulturního centra, obchodů, kaváren či barů. Nedokončené torzo radnice se pak promění v nové sídlo EUSPA - EU Agency for the Space Programme. Počítá se také se základní školou, školkou a knihovnou. Velká pozornost bude věnována kvalitnímu veřejnému prostoru. Těšit se můžeme na nový centrální park s promenádou, několik menších náměstí a řadu vnitrobloků, které budou díky zeleni, lavičkám a vodním prvkům příjemným místem pro pobyt dětí i dospělých.
+Připravuje se výstavba 2 200 městských bytů, administrativy, kulturního centra, obchodů, kaváren či barů. Nedokončené torzo radnice se pak promění v nové sídlo EUSPA - EU Agency for the Space Programme. Počítá se také se základní školou, školkou a knihovnou. Velká pozornost bude věnována kvalitnímu veřejnému prostoru. Těšit se můžeme na nový centrální park s promenádou, několik menších náměstí a řadu vnitrobloků, které budou díky zeleni, lavičkám a vodním prvkům příjemným místem pro pobyt dětí i dospělých.
 
 ![Model Palmovky](/assets/img/posts/palmovka-model2.jpg)
 
