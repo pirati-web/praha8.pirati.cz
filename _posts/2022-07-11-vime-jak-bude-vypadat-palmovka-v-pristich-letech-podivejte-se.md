@@ -27,7 +27,7 @@ fancybox2:
 <div class="mt-4">
   <h3>{{ galery.name }}</h3>
   <div class="grid grid-cols-4 gap-4">
-  {% for item in galery.img %}
+  {% for item in galery.img %}https://praha8.pirati.cz/aktuality/vime-jak-bude-vypadat-palmovka-v-pristich-letech-podivejte-se.html
     <div class="">
       <a data-fancybox="gallery" href="{% asset '{{ item.src }}' @path %}" data-caption="{{ item.title }}">{% asset '{{ item.src }}' magick:resize='200x150^' magick:gravity='center' magick:crop='200x150+0+0' class="rounded" %}</a>
     </div>
@@ -37,7 +37,7 @@ fancybox2:
 {% endfor %}
 <br />
 
-Přímo na křižovatce, poblíž křížení ulic Zenklova a Libeňský most [vyroste dvojdům určený především pro městské nájemní bydlení](https://praha8.pirati.cz/aktuality/magistrat-na-palmovce-postavi-novy-polyfunkcni-dum-jak-bude-vypadat.html). V přízemí a prvních dvou patrech se počítá s nebytovými (maloobchodními a administrativními) prostory, vy vyšších patrech s byty o různých dispozicích. Aktuálně je vyhlášena soutěž na zpracovatele architektonického návrhu pro celý pozemek a projektové dokumentace pro první z budov. Investorem je Hlavní město Praha. 
+Přímo na křižovatce, poblíž křížení ulic Zenklova a Libeňský most [vyroste dvojdům určený především pro městské nájemní bydlení](https://praha8.pirati.cz/aktuality/magistrat-na-palmovce-postavi-novy-polyfunkcni-dum-jak-bude-vypadat.html). V přízemí a prvních dvou patrech se počítá s nebytovými (maloobchodními a administrativními) prostory, ve vyšších patrech s byty o různých dispozicích. Aktuálně je vyhlášena soutěž na zpracovatele architektonického návrhu pro celý pozemek a projektové dokumentace pro první z budov. Investorem je Hlavní město Praha. 
 
 Asi nejzásadnější prostor pro budoucí zástavbu Palmovky je tzv. oblast Pentagonu. Je to území ohraničené ulicemi Voctářova, U Rustonky, Sokolovská, Zenklova až k Libeňskému mostu. Hlavní město Praha, která je největším vlastníkem tamních pozemků uzavřela memorandum s ostatními vlastníky, jako je Dopravní podnik, nebo MČ Praha 8, aj. o společném postupu a koordinaci tohoto záměru. Celé to bylo svěřené Pražské developerské společnosti, což je příspěvková organizace zřízena hlavním městem Prahou.
 
