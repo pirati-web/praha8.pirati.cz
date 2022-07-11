@@ -2,7 +2,7 @@
 title: "Víme, jak bude vypadat Palmovka v příštích letech! Podívejte se!"
 authorId: karel.ptacek
 image: posts/vizualizace/palmovka/palmovka-vizualizace4.jpg
-tags: [Palmovka, Nová Palmovka]
+tags: [Palmovka, Nová Palmovka, Územní rozvoj]
 fancybox:
   - name: Náměstí Bohumila Hrabala dostane novou tvář
     img:
