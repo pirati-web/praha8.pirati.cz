@@ -21,7 +21,7 @@ fancybox2:
 
 **Okolí Palmovky je dlouhodobě zanedbané a její stav bohužel neutěšený. Během několika následujících let se začne výrazně měnit a již nyní se usilovně pracuje na jejich přípravách, které umožní zásadní proměnu. Palmovka bude v budoucnu vyhledávanou lokalitou s plně dostupnou a potřebnou občanskou vybaveností.**
 
-Často se diskutuje o přeměně současného autobusového nádraží. Tyto pozemky Dopravní podnik prodal investorovi, který na místě postaví soubor budov s propojením vstupu do metra a budoucího náměstí Bohumila Hrabala.
+Často se diskutuje o přeměně současného autobusového nádraží. Tyto pozemky Dopravní podnik prodal investorovi, který na místě postaví soubor budov s propojením vstupu do metra a [budoucího náměstí Bohumila Hrabala](https://praha8.pirati.cz/aktuality/nove-namesti-bohumila-hrabala-na-palmovce-bude-zelene-moderni-a-hrabalovsky-lidske.html).
 
 {% for galery in page.fancybox1 %}
 <div class="mt-4">
@@ -37,9 +37,9 @@ fancybox2:
 {% endfor %}
 <br />
 
-Přímo na křižovatce, poblíž křížení ulic Zenklova a Libeňský most vyroste dvojdům určený především pro městské nájemní bydlení. V přízemí a prvních dvou patrech se počítá s nebytovými (maloobchodními a administrativními) prostory, vy vyšších patrech s byty o různých dispozicích. Aktuálně je vyhlášena soutěž na zpracovatele architektonického návrhu pro celý pozemek a projektové dokumentace pro první z budov. Investorem je Hlavní město Praha. 
+Přímo na křižovatce, poblíž křížení ulic Zenklova a Libeňský most [vyroste dvojdům určený především pro městské nájemní bydlení](https://praha8.pirati.cz/aktuality/magistrat-na-palmovce-postavi-novy-polyfunkcni-dum-jak-bude-vypadat.html). V přízemí a prvních dvou patrech se počítá s nebytovými (maloobchodními a administrativními) prostory, vy vyšších patrech s byty o různých dispozicích. Aktuálně je vyhlášena soutěž na zpracovatele architektonického návrhu pro celý pozemek a projektové dokumentace pro první z budov. Investorem je Hlavní město Praha. 
 
-Asi nejzásadnější prostor pro budoucí zástavbu Palmovky je tzv. oblast Pentagonu. Je to území ohraničené ulicemi Voctářova, U Rustonky, Sokolovská, Zenklova až k Libeňskému mostu. Hlavní město Praha, která je největším vlastníkem tamních pozemků uzavřela memorandum s ostatními vlastníky, jako je Dopravní podnik, nebo MČ Praha 8, aj. o společném postupu a koordinaci tohoto záměru. Celé to bylo svěřené Pražské developerské společnosti, která je výhradně vlastněna Hl. městem Prahou.
+Asi nejzásadnější prostor pro budoucí zástavbu Palmovky je tzv. oblast Pentagonu. Je to území ohraničené ulicemi Voctářova, U Rustonky, Sokolovská, Zenklova až k Libeňskému mostu. Hlavní město Praha, která je největším vlastníkem tamních pozemků uzavřela memorandum s ostatními vlastníky, jako je Dopravní podnik, nebo MČ Praha 8, aj. o společném postupu a koordinaci tohoto záměru. Celé to bylo svěřené Pražské developerské společnosti, což je příspěvková organizace zřízena hlavním městem Prahou.
 
 {% for galery in page.fancybox2 %}
 <div class="mt-4">
