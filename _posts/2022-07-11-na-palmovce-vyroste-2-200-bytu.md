@@ -7,7 +7,7 @@ tags: [Bydlení, Palmovka, Nová Palmovka, Územní rozvoj]
 
 **Osmihektarový brownfield na Palmovce, největší rozvojové území s širším centru metropole, které majetkově ovládá hlavní město Praha, čeká velká proměna. Pro představu – jedná se o území ohraničené ulicemi Voctářova, U Rustonky, Sokolovská, Zenklova až k Libeňskému mostu.**
 
-Celá oblast má obří potenciál stát se skutečným centrem naší městské části, během příštích 10 letech tady totiž vyroste kompletně nová čtvrť s ambicí stát se "Andělem" pravého břehu Vltavy.
+>"Celá oblast má obří potenciál stát se skutečným centrem naší městské části, během příštích 10 letech tady totiž vyroste kompletně nová čtvrť s ambicí stát se "Andělem" pravého břehu Vltavy," říká náš kandidát na starostu [Martin Štěrba](https://praha8.pirati.cz/lide/martin-sterba.html).
 
 Připravuje se výstavba 2.200 městských bytů, administrativy, kulturního centra, obchodů, kaváren či barů. Nedokončené torzo radnice se pak promění v nové sídlo EUSPA - EU Agency for the Space Programme. Počítá se také se základní školou, školkou a knihovnou. Velká pozornost bude věnována kvalitnímu veřejnému prostoru. Těšit se můžeme na nový centrální park s promenádou, několik menších náměstí a řadu vnitrobloků, které budou díky zeleni, lavičkám a vodním prvkům příjemným místem pro pobyt dětí i dospělých.
 
