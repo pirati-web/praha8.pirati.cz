@@ -3,7 +3,7 @@ title: "Víme, jak bude vypadat Palmovka v příštích letech! Podívejte se!"
 authorId: karel.ptacek
 image: posts/vizualizace/palmovka/palmovka-vizualizace4.jpg
 tags: [Palmovka, Nová Palmovka]
-fancybox1:
+fancybox:
   - name: Náměstí Bohumila Hrabala dostane novou tvář
     img:
       - { src: posts/vizualizace/namesti-bohumila-hrabala/namhrabala1.jpg, title: Náměstí Bohumila Hrabala dostane novou tvář }
@@ -23,6 +23,19 @@ fancybox2:
 
 [Často se diskutuje o přeměně současného autobusového nádraží](https://praha8.pirati.cz/aktuality/nove-namesti-bohumila-hrabala-na-palmovce-bude-zelene-moderni-a-hrabalovsky-lidske.html). Tyto pozemky Dopravní podnik před lety prodal investorovi, který na místě postaví soubor budov s propojením vstupu do metra a budoucího náměstí Bohumila Hrabala.
 
+{% for galery in page.fancybox %}
+<div class="mt-4">
+  <h3>{{ galery.name }}</h3>
+  <div class="grid grid-cols-4 gap-4">
+  {% for item in galery.img %}
+    <div class="">
+      <a data-fancybox="gallery" href="{% asset '{{ item.src }}' @path %}" data-caption="{{ item.title }}">{% asset '{{ item.src }}' magick:resize='200x150^' magick:gravity='center' magick:crop='200x150+0+0' class="rounded" %}</a>
+    </div>
+  {% endfor %}
+  </div>
+</div>
+{% endfor %}
+<br />
 Přímo na křižovatce, poblíž křížení ulic Zenklova a Libeňský most [vyroste dvojdům určený především pro městské nájemní bydlení](https://praha8.pirati.cz/aktuality/magistrat-na-palmovce-postavi-novy-polyfunkcni-dum-jak-bude-vypadat.html). V přízemí a prvních dvou patrech se počítá s nebytovými (maloobchodními a administrativními) prostory, ve vyšších patrech s byty o různých dispozicích. Aktuálně je vyhlášena soutěž na zpracovatele architektonického návrhu pro celý pozemek a projektové dokumentace pro první z budov. Investorem je Hlavní město Praha. 
 
 Asi nejzásadnější prostor pro budoucí zástavbu Palmovky je tzv. oblast Pentagonu. Je to území ohraničené ulicemi Voctářova, U Rustonky, Sokolovská, Zenklova až k Libeňskému mostu. Hlavní město Praha, která je největším vlastníkem tamních pozemků uzavřela memorandum s ostatními vlastníky, jako je Dopravní podnik, nebo MČ Praha 8, aj. o společném postupu a koordinaci tohoto záměru. Celé to bylo svěřené Pražské developerské společnosti, což je příspěvková organizace zřízena hlavním městem Prahou.
@@ -40,7 +53,6 @@ Asi nejzásadnější prostor pro budoucí zástavbu Palmovky je tzv. oblast Pen
 </div>
 {% endfor %}
 <br />
-
 Z územní studie, která se nyní pořizuje, je patrné, že by v lokalitě mělo vzniknout zdravotnické zařízení, školní zařízení a převážně nájemní byty.
 
 ### Model budoucí podoby Palmovky můžete vidět i osobně
