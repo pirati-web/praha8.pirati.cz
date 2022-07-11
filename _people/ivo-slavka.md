@@ -17,7 +17,7 @@ description: místopředseda MS Praha 8
 teamDescription:
   zastupitele: místopředseda zastupitelského klubu
   pms: místopředseda MS Praha 8
-  clenove: koordinátor gesce finance a gesce sociální oblast & přidělování bytů
+  clenove: člen MS Praha 8
 mail:
   - ivo.slavka@pirati.cz
 funkce:

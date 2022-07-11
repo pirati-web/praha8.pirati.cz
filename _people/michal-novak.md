@@ -17,7 +17,7 @@ description: předseda zastupitelského klubu
 teamDescription:
   zastupitele: předseda zastupitelského klubu
   pms: místopředseda MS Praha 8
-  clenove: koordinátor gesce majetek
+  clenove: člen MS Praha 8
 mail:
   - michal.novak@pirati.cz
 profiles:

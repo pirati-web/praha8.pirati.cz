@@ -14,7 +14,7 @@ partyUid: pirati
 description: předseda MS Praha 8
 teamDescription:
   pms: předseda MS Praha 8
-  clenove: koordinátor gesce doprava
+  clenove: člen MS Praha 8
   contact: kontakt pro média
 mob: +420 732 408 769
 mail:

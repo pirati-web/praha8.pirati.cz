@@ -12,7 +12,7 @@ img: people/karel-ptacek.jpg
 heroImg: posts/rohancity.jpg
 profession: projektový manažer
 partyUid: pirati
-description: koordinátor gesce územní rozvoj
+description: člen MS Praha 8
 teamDescription:
   zastupitele: zastupitel
 mail:

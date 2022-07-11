@@ -11,7 +11,7 @@ img: people/pavel-franc.jpg
 heroImg: posts/kluziste_ladvi.png
 profession: IT manažer
 partyUid: pirati
-description: koordinátor gesce školství, sport a volný čas
+description: člen MS Praha 8
 teamDescription:
   zastupitele: zastupitel
 mail:
