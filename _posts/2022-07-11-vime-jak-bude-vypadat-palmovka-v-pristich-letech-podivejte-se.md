@@ -58,7 +58,7 @@ Asi nejzásadnější prostor pro budoucí zástavbu Palmovky je tzv. oblast Pen
 Z územní studie, která se nyní pořizuje, je patrné, že by v lokalitě mělo vzniknout zdravotnické zařízení, školní zařízení a převážně nájemní byty.
 (foto Pentagon koncepce využití foto Pentagon perspektiva)
 
-### Model Palmovky budoucí podoby Palmovky můžete do října osobně
+### Model Palmovky budoucí podoby můžete vidět osobně
 V rámci Landscape festivalu je možné vidět vytvořený model tzv. "Pentagonu“ na Palmovce. Na základě pořizované uzemní studie Palmovky vznikla možná podoba budoucích objektů. Zajímavé je, že tento model počítá pouze se zachováním hlavní budovy rozestavěné původní radnice a ubouráním zamýšleného obchodního centra. Součástí záměru je i vznikl nového náměstí u dochované drážní budovy s pobytovými schody a parkem. Tento model spolu s dalšími informačními bannery je k vidění až do 2. října a to od středy do neděle vždy od 12 do 18 hodin na adrese Zenklova 2530/23.
 
 ### Ke stažení
