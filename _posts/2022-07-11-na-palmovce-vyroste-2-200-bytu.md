@@ -1,5 +1,5 @@
 ---
-title: "Do roku 2033 vyroste na mezi Invalidovnou a Palmovkou 2 200 městských bytů"
+title: "Do roku 2033 vyroste mezi Invalidovnou a Palmovkou 2 200 bytů"
 authorId: martin.sterba
 image: posts/palmovka-model1.jpg
 tags: [Bydlení, Palmovka, Nová Palmovka, Územní rozvoj]
