@@ -1,7 +1,7 @@
 ---
 title: "Löwitův mlýn získá na 15 let spolek Velký mlýn. Bez výběrového řízení!"
-authorId: karel.ptacek
-image: posts/vizualizace/palmovka/palmovka-vizualizace6.jpg
+authorId: martin.sterba
+image: posts/lowituvmlyn_akce2.jpg
 tags: [Löwitův mlýn, Libeň]
 ---
 
