@@ -3,9 +3,9 @@ uid: ondrej.profant
 name: Ondřej Profant
 category:
  - clenove
-img: people/ondrej-profant.jpg
+img: people/ondrej-profant-2021.jpg
 heroImg: people/ondrej-profant-hero.jpg
-profession: informatik
+profession: informatik a náměstka vicepremiéra pro digitalizaci
 partyUid: pirati
 description: garant oblasti IT a moderní radnice
 mail:
