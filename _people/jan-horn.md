@@ -3,7 +3,7 @@ uid: jan.horn
 name: Jan Horn
 category:
 img: people/jan-horn.jpg
-heroImg: people/jan-horn-hero.jpg
+heroImg: posts/praha8-zvysky.png
 profession: umělecký kovář a učitel
 partyUid: bezpp
 description: podporovatel

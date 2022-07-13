@@ -6,7 +6,7 @@ category:
   - clenove
 ordzas: 3
 img: people/alice-hamalova.jpg
-heroImg: posts/zahradky.png
+heroImg: posts/praha8-zvysky.png
 profession: chemik, výzkumný pracovník
 partyUid: pirati
 description: členka MS Praha 8

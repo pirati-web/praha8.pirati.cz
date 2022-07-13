@@ -5,7 +5,7 @@ titles:
   before: Mgr. et Mgr.
 category:
 img: people/magdalena-opletalova.jpg
-heroImg: posts/psi-louka.jpg
+heroImg: posts/praha8-zvysky.png
 profession: ředitelka Fokus Praha
 partyUid: bezpp
 description: 

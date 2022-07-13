@@ -7,7 +7,7 @@ titles:
 category:
   - clenove
 img: people/michal-schwarzkopf.jpg
-heroImg: people/michal-schwarzkopf-hero.jpg
+heroImg: posts/praha8-zvysky.png
 profession: bankovní poradce
 partyUid: pirati
 description: člen MS Praha 8

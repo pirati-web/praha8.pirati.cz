@@ -6,7 +6,7 @@ titles:
 category:
   - regp
 img: people/alix-guillard-2022.jpg
-heroImg: posts/libensky-zamek.jpg
+heroImg: posts/praha8-zvysky.png
 profession: vývojář
 partyUid: bezpp
 description: registrovaný příznivec

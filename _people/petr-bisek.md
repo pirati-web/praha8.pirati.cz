@@ -5,7 +5,7 @@ titles:
 category:
   - regp
 img: people/petr-bisek-2022.jpg
-heroImg: people/petr-bisek-hero.jpg
+heroImg: posts/praha8-zvysky.png
 profession: novinář, vydavatel Amerických listů (1990–2010)
 partyUid: bezpp
 description: registrovaný příznivec

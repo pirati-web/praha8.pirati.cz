@@ -6,7 +6,7 @@ category:
   - clenove
 ordzas: 3
 img: people/jan-hamal-dvorak.jpg
-heroImg: people/jan-hamal-dvorak-hero.jpg
+heroImg: posts/praha8-zvysky.png
 profession: informatik
 partyUid: pirati
 description: člen MS Praha 8

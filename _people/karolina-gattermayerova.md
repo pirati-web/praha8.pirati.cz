@@ -6,7 +6,7 @@ titles:
 category:
   - regp
 img: people/karolina-gattermayerova-2022-2.jpg
-heroImg: posts/libensky-zamek.jpg
+heroImg: posts/praha8-zvysky.png
 profession: copywriterka, scénáristka
 partyUid: bezpp
 description: registrovaná příznivkyně

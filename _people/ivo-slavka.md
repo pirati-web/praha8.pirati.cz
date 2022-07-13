@@ -10,7 +10,7 @@ category:
 ordzas: 2
 ordpms: 4
 img: people/ivo-slavka-2022.jpg
-heroImg: posts/Palmovkastramvaji.jpg
+heroImg: posts/praha8-zvysky.png
 profession: právník
 partyUid: pirati
 description: místopředseda MS Praha 8

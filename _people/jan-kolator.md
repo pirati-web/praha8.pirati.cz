@@ -10,7 +10,7 @@ category:
 ordpms: 2
 ordzas: 3
 img: people/jan-kolator.jpg
-heroImg: posts/skatepark-bohnice.jpg
+heroImg: posts/praha8-zvysky.png
 profession: systémový knihovník
 partyUid: pirati
 description: 1. místopředseda MS Praha 8

@@ -7,7 +7,7 @@ category:
   - ustavni-cinitele
   - clenove
 img: people/lukas-wagenknecht.jpg
-heroImg: people/lukas-wagenknecht-hero.jpg
+heroImg: posts/praha8-zvysky.png
 profession: ekonom, interní auditor
 partyUid: pirati
 description: senátor

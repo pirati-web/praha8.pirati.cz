@@ -8,7 +8,7 @@ category:
     - clenove
 ordzas: 3
 img: people/pavel-franc-2022.jpg
-heroImg: posts/kluziste_ladvi.png
+heroImg: posts/praha8-zvysky.png
 profession: IT manažer
 partyUid: pirati
 description: garant oblasti školství a sportu

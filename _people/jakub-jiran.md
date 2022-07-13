@@ -6,7 +6,7 @@ titles:
 category:
   - regp
 img: people/jakub-jiran.jpg
-heroImg: people/jakub-jiran-hero.jpg
+heroImg: posts/praha8-zvysky.png
 profession: právník, člen dozorčí rady
 partyUid: bezpp
 description: registrovaný příznivec

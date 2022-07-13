@@ -4,7 +4,7 @@ name: Tomáš Mařík
 category:
   - clenove
 img: people/tomas-marik-2022.jpg
-heroImg: people/tomas-marik-hero.jpg
+heroImg: posts/praha8-zvysky.png
 profession: překladatel, knihkupec
 partyUid: pirati
 description: garant oblasti životního prostředí

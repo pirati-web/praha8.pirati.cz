@@ -7,7 +7,7 @@ category:
   - clenove
 ordzas: 3
 img: people/anna-filinova.jpg
-heroImg: posts/rousky_anicka.jpg
+heroImg: posts/praha8-zvysky.png
 profession: projektová manažerka
 partyUid: pirati
 description: členka MS Praha 8

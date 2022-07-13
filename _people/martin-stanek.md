@@ -9,7 +9,7 @@ category:
   - clenove
 ordzas: 3
 img: people/martin-stanek.jpg
-heroImg: posts/bilydum.png
+heroImg: posts/praha8-zvysky.png
 profession: geolog
 partyUid: pirati
 description: zastupitel MČ Praha 8

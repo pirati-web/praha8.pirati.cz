@@ -6,7 +6,7 @@ titles:
   after: BBus (Hons)
 category:
 img: people/kveta-marikova-2022.jpg
-heroImg: people/tomas-marik-hero.jpg
+heroImg: posts/praha8-zvysky.png
 profession: knihovnice
 partyUid: pirati
 description: členka Pirátské strany

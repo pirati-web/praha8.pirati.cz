@@ -9,7 +9,7 @@ category:
   - clenove
 ordzas: 4
 img: people/karel-ptacek-2022.jpg
-heroImg: posts/rohancity.jpg
+heroImg: posts/invadlidovna-cechie.jpg
 profession: projektový manažer
 partyUid: pirati
 description: zastupitel

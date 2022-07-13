@@ -4,7 +4,7 @@ name: Ondřej Profant
 category:
  - clenove
 img: people/ondrej-profant-2021.jpg
-heroImg: people/ondrej-profant-hero.jpg
+heroImg: posts/praha8-zvysky.png
 profession: informatik a náměstka vicepremiéra pro digitalizaci
 partyUid: pirati
 description: garant oblasti IT a moderní radnice

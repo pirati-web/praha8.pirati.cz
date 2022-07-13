@@ -6,7 +6,7 @@ titles:
 category:
   - regp
 img: people/tomas-lempera2.png
-heroImg: posts/open-source.jpg
+heroImg: posts/praha8-zvysky.png
 profession: obchodní manažer
 partyUid: bezpp
 description: registrovaný příznivec

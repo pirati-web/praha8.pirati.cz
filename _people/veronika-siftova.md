@@ -6,7 +6,7 @@ titles:
 category:
   - regp
 img: people/veronika-siftova-2022.jpg
-heroImg: posts/libensky-zamek.jpg
+heroImg: posts/praha8-zvysky.png
 profession: ministerský rada Ministerstva vnitra
 partyUid: bezpp
 description: registrovaná příznivkyně

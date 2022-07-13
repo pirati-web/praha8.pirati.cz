@@ -10,7 +10,7 @@ category:
 ordzas: 1
 ordpms: 4
 img: people/michal-novak-2022.jpg
-heroImg: posts/tramvaje-bohnice.png
+heroImg: posts/praha8-zvysky.png
 profession: nezávislý konzultant
 partyUid: pirati
 description: předseda zastupitelského klubu

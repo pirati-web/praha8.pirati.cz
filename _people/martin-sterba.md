@@ -8,7 +8,7 @@ category:
   - clenove
 ordpms: 1
 img: people/martin-sterba-2022.jpg
-heroImg: posts/libensky-zamek.jpg
+heroImg: posts/praha8-zvysky.png
 profession: manažer a stratég on-line komunikace
 partyUid: pirati
 description: předseda MS Praha 8

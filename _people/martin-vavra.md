@@ -6,7 +6,7 @@ titles:
 category:
   - regp
 img: people/martin-vavra-2022.jpg
-heroImg: posts/lanovkabohnice2.png
+heroImg: posts/praha8-zvysky.png
 profession: programátor mobilních aplikací
 partyUid: bezpp
 description: registrovaný příznivec

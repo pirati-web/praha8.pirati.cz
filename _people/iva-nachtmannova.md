@@ -6,7 +6,7 @@ titles:
 category:
   - regp
 img: people/iva-nachtmannova.jpg
-heroImg: posts/libensky-zamek.jpg
+heroImg: posts/praha8-zvysky.png
 profession: ex-novinářka
 partyUid: bezpp
 description: registrovaná příznivkyně

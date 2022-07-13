@@ -5,7 +5,7 @@ titles:
 category:
   - regp
 img: people/miroslav-jahoda.jpg
-heroImg: people/miroslav-jahoda-hero.jpg
+heroImg: posts/praha8-zvysky.png
 profession: markeťák
 partyUid: bezpp
 description: registrovaný příznivec

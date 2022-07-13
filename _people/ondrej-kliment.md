@@ -6,7 +6,7 @@ titles:
   after: 
 category:
 img: people/ondrej-kliment.jpg
-heroImg: posts/libensky-zamek.jpg
+heroImg: posts/praha8-zvysky.png
 profession: projektový manažer v IT
 partyUid: pirati
 description: člen Pirátské strany

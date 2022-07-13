@@ -6,7 +6,7 @@ titles:
 category:
   - regp
 img: people/lukas-kost.png
-heroImg: posts/kluziste_ladvi.png
+heroImg: posts/praha8-zvysky.png
 profession: ZŠ a SŠ učitel
 partyUid: bezpp
 description: registrovaný příznivec

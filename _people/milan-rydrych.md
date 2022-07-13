@@ -5,7 +5,7 @@ titles:
 category:
   - regp
 img: people/neznama-osoba.png
-heroImg: posts/bulovka.jpg
+heroImg: posts/praha8-zvysky.png
 profession: student farmaceutické fakulty UK
 partyUid: bezpp
 description: podporovatel

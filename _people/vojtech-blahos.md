@@ -6,7 +6,7 @@ titles:
 category:
   - regp
 img: people/vojtech-blahos-2022.jpg
-heroImg: posts/libensky-zamek.jpg
+heroImg: posts/praha8-zvysky.png
 profession: student mezinárodních vztahů
 partyUid: bezpp
 description: registrovaný příznivec
