@@ -9,7 +9,7 @@ category:
   - clenove
 ordzas: 1
 ordpms: 4
-img: people/michal-novak.jpg
+img: people/michal-novak-2022.jpg
 heroImg: posts/tramvaje-bohnice.png
 profession: nezávislý konzultant
 partyUid: pirati
@@ -17,7 +17,7 @@ description: předseda zastupitelského klubu
 teamDescription:
   zastupitele: předseda zastupitelského klubu
   pms: místopředseda MS Praha 8
-  clenove: člen MS Praha 8
+  clenove: garant oblasti majetku
 mail:
   - michal.novak@pirati.cz
 profiles:

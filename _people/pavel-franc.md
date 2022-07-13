@@ -7,11 +7,11 @@ category:
     - zastupitele
     - clenove
 ordzas: 3
-img: people/pavel-franc.jpg
+img: people/pavel-franc-2022.jpg
 heroImg: posts/kluziste_ladvi.png
 profession: IT manažer
 partyUid: pirati
-description: člen MS Praha 8
+description: garant oblasti školství a sportu
 teamDescription:
   zastupitele: zastupitel
 mail:

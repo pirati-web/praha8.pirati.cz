@@ -4,7 +4,7 @@ name: Petr Bísek
 titles:
 category:
   - regp
-img: people/petr-bisek.png
+img: people/petr-bisek-2022.jpg
 heroImg: people/petr-bisek-hero.jpg
 profession: novinář, vydavatel Amerických listů (1990–2010)
 partyUid: bezpp

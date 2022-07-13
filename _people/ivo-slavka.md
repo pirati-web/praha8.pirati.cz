@@ -9,7 +9,7 @@ category:
   - clenove
 ordzas: 2
 ordpms: 4
-img: people/ivo-slavka.jpg
+img: people/ivo-slavka-2022.jpg
 heroImg: posts/Palmovkastramvaji.jpg
 profession: právník
 partyUid: pirati
@@ -17,7 +17,7 @@ description: místopředseda MS Praha 8
 teamDescription:
   zastupitele: místopředseda zastupitelského klubu
   pms: místopředseda MS Praha 8
-  clenove: člen MS Praha 8
+  clenove: garant oblasti sociální politiky
 mail:
   - ivo.slavka@pirati.cz
 funkce:

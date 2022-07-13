@@ -5,7 +5,7 @@ titles:
   before: 
 category:
   - regp
-img: people/vojtech-blahos.jpg
+img: people/vojtech-blahos-2022.jpg
 heroImg: posts/libensky-zamek.jpg
 profession: student mezinárodních vztahů
 partyUid: bezpp

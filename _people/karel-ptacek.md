@@ -8,13 +8,14 @@ category:
   - zastupitele
   - clenove
 ordzas: 4
-img: people/karel-ptacek.jpg
+img: people/karel-ptacek-2022.jpg
 heroImg: posts/rohancity.jpg
 profession: projektový manažer
 partyUid: pirati
-description: člen MS Praha 8
+description: zastupitel
 teamDescription:
   zastupitele: zastupitel
+  clenove: garant oblasti územního rozvoje
 mail:
   - karel.ptacek@pirati.cz
 profiles:

@@ -1,6 +1,6 @@
 ---
 title: Praha tramvajová! Do roku 2030 vzniknou kilometry nových kolejí
-authorId: ladislav.povysil
+author: Ladislav Povýšil
 image: posts/tramvaje-palmovka.jpg
 tags: [Doprava, Kobylisy, Bohnice, Tramvaj do Bohnic, Tramvaj do Zdib]
 ---

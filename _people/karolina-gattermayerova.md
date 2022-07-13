@@ -5,13 +5,13 @@ titles:
   before: MgA.
 category:
   - regp
-img: people/karolina-gattermayerova.jpg
+img: people/karolina-gattermayerova-2022.jpg
 heroImg: posts/libensky-zamek.jpg
 profession: copywriterka, scénáristka
 partyUid: bezpp
 description: registrovaná příznivkyně
 teamDescription:
-  regp: registrovaná příznivkyně
+  regp: garant oblasti kultury
 mob: 
 mail:
 profiles:

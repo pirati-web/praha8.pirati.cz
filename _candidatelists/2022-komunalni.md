@@ -269,7 +269,7 @@ tail:
     city: Praha 8 – Kobylisy
     partyUid: bezpp
 # 45
-  - name: Martin Vávra, Dis.
+  - uid: martin.vavra
     profession: programátor mobilních aplikací
     age: 41
     city: Praha 8 – Bohnice

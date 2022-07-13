@@ -5,7 +5,7 @@ titles:
   before:
   after: BBus (Hons)
 category:
-img: people/kveta-marikova.jpg
+img: people/kveta-marikova-2022.jpg
 heroImg: people/tomas-marik-hero.jpg
 profession: knihovnice
 partyUid: pirati

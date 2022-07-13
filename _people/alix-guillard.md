@@ -5,7 +5,7 @@ titles:
   before:
 category:
   - regp
-img: people/alix-guillard.jpg
+img: people/alix-guillard-2022.jpg
 heroImg: posts/libensky-zamek.jpg
 profession: vývojář
 partyUid: bezpp

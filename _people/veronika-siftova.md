@@ -5,7 +5,7 @@ titles:
   before: Ing.
 category:
   - regp
-img: people/veronika-siftova.jpg
+img: people/veronika-siftova-2022.jpg
 heroImg: posts/libensky-zamek.jpg
 profession: ministerský rada
 partyUid: bezpp

@@ -3,11 +3,11 @@ uid: tomas.marik
 name: Tomáš Mařík
 category:
   - clenove
-img: people/tomas-marik.jpg
+img: people/tomas-marik-2022.jpg
 heroImg: people/tomas-marik-hero.jpg
 profession: překladatel, knihkupec
 partyUid: pirati
-description: člen MS Praha 8
+description: garant oblasti životního prostředí
 mail:
   - tomas.marik@pirati.cz
 profiles:

@@ -17,7 +17,7 @@ description: 1. místopředseda MS Praha 8
 teamDescription:
   pms: 1. místopředseda MS Praha 8
   zastupitele: zastupitel
-  clenove: člen MS Praha 8
+  clenove: garant oblasti bezpečnosti
   contact: kontakt pro nováčky
 mail:
   - jan.kolator@pirati.cz
