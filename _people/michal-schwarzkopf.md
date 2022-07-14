@@ -6,7 +6,7 @@ titles:
   after: Ph.D.
 category:
   - clenove
-img: people/michal-schwarzkopf.jpg
+img: people/michal-schwarzkopf-2022.jpg
 heroImg: posts/praha8-zvysky.png
 profession: bankovní poradce
 partyUid: pirati
