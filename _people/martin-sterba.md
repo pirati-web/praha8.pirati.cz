@@ -7,7 +7,7 @@ category:
   - pms
   - clenove
 ordpms: 1
-img: people/martin-sterba-2022.jpg
+img: people/martin-sterba-2022-2.jpg
 heroImg: posts/praha8-zvysky.png
 profession: manažer a stratég on-line komunikace
 partyUid: pirati
