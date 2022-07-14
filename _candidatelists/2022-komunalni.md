@@ -29,7 +29,7 @@ head:
     partyUid: pirati
 # 5
   - uid: ivo.slavka
-    profession: právník, vedoucí oddělení investic a výběrových řízení na MPO ČR
+    profession: právník, právník, vedoucí oddělení ekonomického odboru hospodářské správy MPO ČR
     age: 55
     city: Praha 8 – Kobylisy
     partyUid: pirati 
