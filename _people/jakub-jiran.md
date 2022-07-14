@@ -5,7 +5,7 @@ titles:
   before: Mgr.
 category:
   - regp
-img: people/jakub-jiran.jpg
+img: people/jakub-jiran-2022.jpg
 heroImg: posts/praha8-zvysky.png
 profession: právník, člen dozorčí rady
 partyUid: bezpp

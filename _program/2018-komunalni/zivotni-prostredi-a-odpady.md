@@ -6,7 +6,7 @@ uid: zivotni-prostredi
 order: 3
 garant: alice.hamalova
 redmine: 28225
-img: program/zivotni-prostredi.jpg
+img: program/2018/zivotni-prostredi.jpg
 intro: >
  Zdravé životní prostředí je základem pro to, aby se Pražanům dobře žilo. Budeme bojovat proti přehřívání města, znečisťování ovzduší a rušivým vlivům, které člověka nenechají v klidu spát. Politiku životního prostředí stavíme na přirozené motivaci, respektu a účasti veřejnosti.
 ---

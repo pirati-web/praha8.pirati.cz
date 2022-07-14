@@ -6,7 +6,7 @@ uid: otevrena-radnice
 order: 1
 garant: martin.stanek
 redmine: 28177
-img: program/otevrena-radnice.jpg
+img: program/2018/otevrena-radnice.jpg
 intro: >
   Uděláme z Prahy nejtransparentnější město v Česku. Dnes má Praha problém hlavně s neprůhlednými městskými firmami, které hospodaří s desítkami miliard korun ročně.  Občané a protikorupční analytici musí mít k dispozici dostatek informací, aby mohli politiky a úředníky kontrolovat. Zapojíme občany do rozhodování o městě.
 ---

@@ -6,7 +6,7 @@ uid: skolstvi
 order: 5
 garant: pavel.franc
 redmine: 28273
-img: program/skolstvi.jpg
+img: program/2018/skolstvi.jpg
 intro: >
   Pražské školy vychovávají budoucí občany schopné se prosadit v rychle se měnících podmínkách, zdaleka ne jen pro potřeby pracovního trhu. Budeme školám poskytovat dostatek financí na mzdy, provoz a meziškolní aktivity, ale i na profesní rozvoj učitelů a na zavedení a rozvoj inovativních vzdělávacích směrů podle poptávky Pražanů.
 ---
