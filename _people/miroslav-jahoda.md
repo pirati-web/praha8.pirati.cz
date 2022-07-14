@@ -4,7 +4,7 @@ name: Miroslav Jahoda
 titles:
 category:
   - regp
-img: people/miroslav-jahoda.jpg
+img: people/miroslav-jahoda-2022.jpg
 heroImg: posts/praha8-zvysky.png
 profession: markeťák
 partyUid: bezpp
