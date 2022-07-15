@@ -27,7 +27,7 @@ Narozen v dubnu roku 1979 v Praze. Vystudoval nejprve SŠ s ekonomickým zaměř
 
 Politicky se angažuje v MS na Praze 8, kde se dlouhodobě zapojuje do veřejně prospěšných projektů a akcí. V roce 2021 byl zvolen místopředsedou PMS na Praze 8.
 
-**Příklady občanské aktivity**
+**Příklady občanské aktivity pod pirátskou vlajkou**
 
 - **Klokánek Chabařovická” (2020)** - kvůli administrativním obstrukcím v průběhu COVID situace zůstaly děti v péči Klokánku bez peněz a podpory. Připojil se se k občanské iniciativě a pomohl s penězi, nákupem potravin i dopravou.
 

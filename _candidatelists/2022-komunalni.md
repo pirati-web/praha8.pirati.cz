@@ -37,7 +37,7 @@ head:
   - uid: jakub.jiran
     profession: právník, člen dozorčí rady Dopravního podniku hl. města Prahy
     age: 44
-    city: Praha 8 – Ďáblice
+    city: Praha 8 – Nové Ďáblice
     partyUid: bezpp
 # 7
   - uid: karel.ptacek
