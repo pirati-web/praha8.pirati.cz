@@ -1,5 +1,5 @@
 ---
-title: Buďme připraveni! bezpečnost nemůžeme podceňovat
+title: Buďme připraveni! Bezpečnost nemůžeme podceňovat
 campaignCategoryUid: 2022-komunalni
 campaignGroupUid: volby-2022
 uid: budme-pripraveni-bezpecnost-nemuzeme-podcenovat
