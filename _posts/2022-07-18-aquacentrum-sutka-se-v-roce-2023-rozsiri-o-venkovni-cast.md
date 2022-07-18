@@ -2,7 +2,7 @@
 title: "Aquacentrum Šutka bude v roce 2023 rozšířeno o venkovní část"
 authorId: martin.sterba
 image: posts/aquacentrum-sutka.jpg
-tags: [Životní prostředí]
+tags: [Šutka]
 ---
 
 **Čekají nás opravdu horké dny. Tento týden by mělo být až 35 stupňů. Všichni proto jistě přemýšlíme, jak se v takových vedrech zchladit, a hledáme místo, kam se jít osvěžit.**
