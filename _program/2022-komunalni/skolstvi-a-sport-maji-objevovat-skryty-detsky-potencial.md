@@ -23,7 +23,7 @@ intro: >
 - Zajistíme vznik nových dětských skupin.
 - Zařídíme spádovost – děti nemají jezdit do školky přes celou “osmičku”. 
 
-Lepší a dostupnější sportoviště pro širokou veřejnost
+## Lepší a dostupnější sportoviště pro širokou veřejnost
 - Založíme příspěvkovou organizaci “Praha 8 sportovní”, která bude řešit provoz všech sportovišť.
 - Podporujeme výstavbu nových sportovišť a dětských hřišť.
 - Vyjednáme převod Stadionu Mládeže na Palmovce do majetku MČ Praha 8 a zařídíme jeho rekonstrukci.
@@ -31,4 +31,3 @@ Lepší a dostupnější sportoviště pro širokou veřejnost
 - Chceme sdílená sportoviště – dopoledne školy, odpoledne kroužky a veřejnost.
 - Podporujeme dostavbu venkovního areálu u Aquaparku Šutka.
 - Převezmeme od státu a města do nájmu Koupaliště Stírka a budeme ho rekonstruovat a provozovat.
-
