@@ -180,7 +180,7 @@ tail:
     partyUid: bezpp
 # 30
   - name: Barbora Vyšínová
-    profession: PR koordinátor
+    profession: PR koordinátorka
     age: 30
     city: Praha 8 – Trója
     partyUid: bezpp
