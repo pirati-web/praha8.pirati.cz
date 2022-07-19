@@ -2,7 +2,7 @@
 title: Prodejna Albert na Invalidovně půjde k zemi, chystá se nová zástavba
 authorId: karel.ptacek
 image: posts/invalidovna-metro.png
-tags: [Karlín, Občanská vybavenost]
+tags: [Invalidovna, Karlín, Občanská vybavenost]
 ---
 
 **Začátkem listopadu byl otevřen zmodernizovaný Albert nedaleko metra Křižíkova. Zcela jiný osud čeká prodejnu Albert u metra Invalidovna.** Odbor územního rozvoje a výstavby městské části Praha 8 potvrdil odstranění stavby. Důvodem je příprava pozemku pro budoucí stavbu kancelářské budovy.
