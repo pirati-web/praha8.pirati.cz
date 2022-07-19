@@ -1,7 +1,7 @@
 ---
 title: "Lidé z Invalidovny chtějí obchod, ne kanceláře! O budoucnosti sídliště je třeba diskutovat"
 authorId: karel.ptacek
-image: posts/posts/vizualizace/rustonka-west/rustonka-west2.jpeg
+image: posts/vizualizace/rustonka-west/rustonka-west2.jpeg
 tags: [Palmovka, Nová Palmovka, Územní rozvoj]
 fancybox:
   - name: Rustonka West
