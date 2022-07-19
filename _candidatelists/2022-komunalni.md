@@ -63,13 +63,13 @@ head:
     age: 34
     city: Praha 8 – Libeň
     partyUid: pirati
-tail:
 # 11
   - uid: petr.bisek
-    profession: novinář a bývalý vydavatel Amerických listů
+    profession: publicista a bývalý vydavatel Amerických listů
     age: 81
     city: Praha 8 – Kobylisy
     partyUid: bezpp
+tail:
 # 12
   - uid: vojtech.blahos
     profession: student mezinárodních vztahů
