@@ -11,7 +11,7 @@ fancybox:
       - { src: posts/vizualizace/rustonka-west/rustonka-west4.jpeg, title: Rustonka West}
       - { src: posts/vizualizace/rustonka-west/rustonka-west5.jpeg, title: Rustonka West}
 fancybox2:
-  - name: Výstavba nad metrem Invalidovna (původní verze)
+  - name: Výstavba nad metrem Invalidovna
     img:
       - { src: posts/vizualizace/invalidovna/invalidovna.jpg, title: Invalidovna }
       - { src: posts/vizualizace/invalidovna/invalidovna2.png, title: Invalidovna }
@@ -74,7 +74,7 @@ Jako druhý projekt byla představena aktualizovaná studie **projektu Čechie**
 </div>
 {% endfor %}
 <br />
-Jako třetí se prezentoval **záměr společnosti Trigema**, která nedávno koupila objekt přímo nad metrem Invalidovna a chystá zde nájemní bytový dům se službami.
+Jako třetí se prezentoval **záměr společnosti Trigema**, která nedávno koupila objekt přímo nad metrem Invalidovna a chystá zde nájemní bytový dům se službami. Dojde k přepracování původního projektu, který vidíte na vizualizacích. Trigema zároveň staví i bytový dům přímo naproti budově Invalidovny. 
 
 **Následná diskuze byla velmi zajímavá a zaznělo například i to, že si obyvatelé přejí obchoďák a ne kanceláře**. Jiní nechtějí stavět nic, další uvítají rozšíření možností dostupného bydlení a zlepšení občanské vybavenosti v podobě většího supermarketu.
 
