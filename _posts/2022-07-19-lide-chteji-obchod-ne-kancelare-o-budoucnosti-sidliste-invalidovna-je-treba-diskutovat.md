@@ -13,9 +13,9 @@ fancybox:
 fancybox2:
   - name: Výstavba nad metrem Invalidovna
     img:
-      - { src: posts/vizualizace/invalidovna/invalidovna.jpg, title: Invalidovna }
-      - { src: posts/vizualizace/invalidovna/invalidovna2.png, title: Invalidovna }
-      - { src: posts/vizualizace/invalidovna/invalidovna3.png, title: Invalidovna }
+      - { src: posts/vizualizace/invalidovna/invalidovna.jpg, title: Invalidovna (současný stav)}
+      - { src: posts/vizualizace/invalidovna/invalidovna2.png, title: Invalidovna (původní verze projektu)}
+      - { src: posts/vizualizace/invalidovna/invalidovna3.png, title: Invalidovna (původní verze projektu)}
 fancybox3:
   - name: Čechie
     img:
