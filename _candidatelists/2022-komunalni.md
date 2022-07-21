@@ -235,7 +235,7 @@ tail:
 # 39
   - name: Ing. Jan Finger
     profession: pojišťovací makléř
-    age: 53
+    age: 43
     city: Praha 8 - Karlín
     partyUid: bezpp
 # 40
