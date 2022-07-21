@@ -6,7 +6,7 @@ category:
   - regp
 img: people/petr-bisek-2022.jpg
 heroImg: posts/praha8-zvysky.png
-profession: novinář, vydavatel Amerických listů (1990–2010)
+profession: publicista, vydavatel Amerických listů (1990–2010)
 partyUid: bezpp
 description: registrovaný příznivec
 mail: czechrower@yahoo.com
@@ -24,7 +24,7 @@ Petr Bísek je jedním z ředitelů washingtonské organizace American Friends o
 
 Po návratu do Čech v roce 2014 se pátým rokem v MF Dnes ve sloupku Zpověď věnuje různým námětům z veřejného i soukromého života.
 
-Petr Bísek je člen správní rady hudebního festivalu Americké jaro, člen dozorčí rady Střediska Diakonie Českobratrské církve evangelické a do roku 2019 byl trénerem veslařské mládeže v USA a v Praze.
+Petr Bísek je člen správní rady hudebního festivalu Americké jaro, člen dozorčí rady Střediska Diakonie Českobratrské církve evangelické a do roku 2019 byl trenérem veslařské mládeže v USA a v Praze.
 
 **Proč se rozhodl pro Piráty?** Petr Bísek praktikuje heslo "umění odejít", tj. ve správný čas uvolnit prostor nové generaci, a v rámci možností jí pomoct k dosažení nutných změn ve společnosti.
 
