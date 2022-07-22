@@ -6,17 +6,17 @@ tags: [Palmovka, Nová Palmovka, Územní rozvoj]
 fancybox:
   - name: Náměstí Bohumila Hrabala dostane novou tvář
     img:
-      - { src: posts/vizualizace/namesti-bohumila-hrabala/namhrabala1.jpg, title: Náměstí Bohumila Hrabala dostane novou tvář }
-      - { src: posts/vizualizace/namesti-bohumila-hrabala/namhrabala2.jpg, title: Náměstí Bohumila Hrabala dostane novou tvář }
-      - { src: posts/vizualizace/namesti-bohumila-hrabala/namhrabala3.jpg, title: Náměstí Bohumila Hrabala dostane novou tvář }
-      - { src: posts/vizualizace/namesti-bohumila-hrabala/namhrabala4.jpg, title: Náměstí Bohumila Hrabala dostane novou tvář }
+      - { src: posts/vizualizace/namesti-bohumila-hrabala/namhrabala1.jpg, title: Náměstí Bohumila Hrabala dostane novou tvář (vizualizace Unit Architekti) }
+      - { src: posts/vizualizace/namesti-bohumila-hrabala/namhrabala2.jpg, title: Náměstí Bohumila Hrabala dostane novou tvář (vizualizace Unit Architekti) }
+      - { src: posts/vizualizace/namesti-bohumila-hrabala/namhrabala3.jpg, title: Náměstí Bohumila Hrabala dostane novou tvář (vizualizace Unit Architekti) }
+      - { src: posts/vizualizace/namesti-bohumila-hrabala/namhrabala4.jpg, title: Náměstí Bohumila Hrabala dostane novou tvář (vizualizace Unit Architekti) }
 fancybox2:
   - name: Palmovka v příštím desetiletí
     img:
-      - { src: posts/vizualizace/palmovka/palmovka-vizualizace3.jpg, title: Palmovka v příštím desetiletí }
-      - { src: posts/vizualizace/palmovka/palmovka-vizualizace4.jpg, title: Palmovka v příštím desetiletí }
-      - { src: posts/vizualizace/palmovka/palmovka-vizualizace5.jpg, title: Palmovka v příštím desetiletí}
-      - { src: posts/vizualizace/palmovka/palmovka-vizualizace6.jpg, title: Palmovka v příštím desetiletí }
+      - { src: posts/vizualizace/palmovka/palmovka-vizualizace3.jpg, title: Palmovka v příštím desetiletí (vizualizace Unit Architekti) }
+      - { src: posts/vizualizace/palmovka/palmovka-vizualizace4.jpg, title: Palmovka v příštím desetiletí (vizualizace Unit Architekti) }
+      - { src: posts/vizualizace/palmovka/palmovka-vizualizace5.jpg, title: Palmovka v příštím desetiletí (vizualizace Unit Architekti) }
+      - { src: posts/vizualizace/palmovka/palmovka-vizualizace6.jpg, title: Palmovka v příštím desetiletí (vizualizace Unit Architekti) }
 ---
 
 **Okolí Palmovky je dlouhodobě zanedbané a její stav bohužel neutěšený. Během několika následujících let se začne výrazně měnit a již nyní se usilovně pracuje na jejich přípravách, které umožní zásadní proměnu. Palmovka bude v budoucnu vyhledávanou lokalitou s plně dostupnou a potřebnou občanskou vybaveností.**
