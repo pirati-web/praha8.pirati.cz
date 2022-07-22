@@ -6,17 +6,17 @@ tags: [Palmovka, Nová Palmovka, Územní rozvoj]
 fancybox:
   - name: Náměstí Bohumila Hrabala dostane novou tvář
     img:
-      - { src: posts/vizualizace/namesti-bohumila-hrabala/namhrabala1.jpg, title: Náměstí Bohumila Hrabala dostane novou tvář (vizualizace Unit Architekti) }
-      - { src: posts/vizualizace/namesti-bohumila-hrabala/namhrabala2.jpg, title: Náměstí Bohumila Hrabala dostane novou tvář (vizualizace Unit Architekti) }
-      - { src: posts/vizualizace/namesti-bohumila-hrabala/namhrabala3.jpg, title: Náměstí Bohumila Hrabala dostane novou tvář (vizualizace Unit Architekti) }
-      - { src: posts/vizualizace/namesti-bohumila-hrabala/namhrabala4.jpg, title: Náměstí Bohumila Hrabala dostane novou tvář (vizualizace Unit Architekti) }
+      - { src: posts/vizualizace/namesti-bohumila-hrabala/namhrabala1.jpg, title: Náměstí Bohumila Hrabala dostane novou tvář (vizualizace studio MISS3) }
+      - { src: posts/vizualizace/namesti-bohumila-hrabala/namhrabala2.jpg, title: Náměstí Bohumila Hrabala dostane novou tvář (vizualizace studio MISS3) }
+      - { src: posts/vizualizace/namesti-bohumila-hrabala/namhrabala3.jpg, title: Náměstí Bohumila Hrabala dostane novou tvář (vizualizace studio MISS3) }
+      - { src: posts/vizualizace/namesti-bohumila-hrabala/namhrabala4.jpg, title: Náměstí Bohumila Hrabala dostane novou tvář (vizualizace studio MISS3) }
 fancybox2:
   - name: Palmovka v příštím desetiletí
     img:
-      - { src: posts/vizualizace/palmovka/palmovka-vizualizace3.jpg, title: Palmovka v příštím desetiletí (vizualizace Unit Architekti) }
-      - { src: posts/vizualizace/palmovka/palmovka-vizualizace4.jpg, title: Palmovka v příštím desetiletí (vizualizace Unit Architekti) }
-      - { src: posts/vizualizace/palmovka/palmovka-vizualizace5.jpg, title: Palmovka v příštím desetiletí (vizualizace Unit Architekti) }
-      - { src: posts/vizualizace/palmovka/palmovka-vizualizace6.jpg, title: Palmovka v příštím desetiletí (vizualizace Unit Architekti) }
+      - { src: posts/vizualizace/palmovka/palmovka-vizualizace3.jpg, title: Palmovka v příštím desetiletí (vizualizace studio MISS3) }
+      - { src: posts/vizualizace/palmovka/palmovka-vizualizace4.jpg, title: Palmovka v příštím desetiletí (vizualizace studio MISS3) }
+      - { src: posts/vizualizace/palmovka/palmovka-vizualizace5.jpg, title: Palmovka v příštím desetiletí (vizualizace studio MISS3) }
+      - { src: posts/vizualizace/palmovka/palmovka-vizualizace6.jpg, title: Palmovka v příštím desetiletí (vizualizace studio MISS3) }
 ---
 
 **Okolí Palmovky je dlouhodobě zanedbané a její stav bohužel neutěšený. Během několika následujících let se začne výrazně měnit a již nyní se usilovně pracuje na jejich přípravách, které umožní zásadní proměnu. Palmovka bude v budoucnu vyhledávanou lokalitou s plně dostupnou a potřebnou občanskou vybaveností.**
@@ -38,7 +38,7 @@ fancybox2:
 <br />
 Přímo na křižovatce, poblíž křížení ulic Zenklova a Libeňský most [vyroste dvojdům určený především pro městské nájemní bydlení](https://praha8.pirati.cz/aktuality/magistrat-na-palmovce-postavi-novy-polyfunkcni-dum-jak-bude-vypadat.html). V přízemí a prvních dvou patrech se počítá s nebytovými (maloobchodními a administrativními) prostory, ve vyšších patrech s byty o různých dispozicích. Aktuálně je vyhlášena soutěž na zpracovatele architektonického návrhu pro celý pozemek a projektové dokumentace pro první z budov. Investorem je Hlavní město Praha. 
 
-Asi nejzásadnější prostor pro budoucí zástavbu Palmovky je tzv. oblast Pentagonu. Je to území ohraničené ulicemi Voctářova, U Rustonky, Sokolovská, Zenklova až k Libeňskému mostu. Hlavní město Praha, která je největším vlastníkem tamních pozemků uzavřela memorandum s ostatními vlastníky, jako je Dopravní podnik, nebo MČ Praha 8, aj. o společném postupu a koordinaci tohoto záměru. Celé to bylo svěřené Pražské developerské společnosti, což je příspěvková organizace zřízena hlavním městem Prahou.
+Asi nejzásadnější prostor pro budoucí zástavbu Palmovky je tzv. oblast Pentagonu. Je to území ohraničené ulicemi Voctářova, U Rustonky, Sokolovská, Zenklova až k Libeňskému mostu. Hlavní město Praha, která je největším vlastníkem tamních pozemků uzavřela memorandum s ostatními vlastníky, jako je Dopravní podnik, nebo MČ Praha 8, aj. o společném postupu a koordinaci tohoto záměru. Celé to bylo svěřené Pražské developerské společnosti, což je příspěvková organizace zřízena hlavním městem Prahou. Autorem územní studie a projektu náměstí Bohumila Hrabala je ateliér Unit architekti, autorem vizualizací pak studio MISS3.
 
 {% for galery in page.fancybox2 %}
 <div class="mt-4">
