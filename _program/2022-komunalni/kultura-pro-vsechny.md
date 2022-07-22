@@ -32,7 +32,7 @@ intro: >
 - Podpoříme vzdělávání seniorů, zvyšování počítačové gramotnosti.
 - Zprostředkujeme kulturu těm, kteří si ji nemohou dovolit.
 - Budeme pořádat sousedská setkávání jako jsou oslavy masopustu či Libeňská pouť, po vzoru Jiřáku vytvoříme farmářské trhy i na dalších místech MČ Praha 8.
-- Podpoříme současné komunitní zahrady i vznik nových. Stejně tak budeme podporovat i zahrádkářské kolonie, které js součástí životů lidí v MČ Praha 8.
+- Podpoříme současné komunitní zahrady i vznik nových. Stejně tak budeme podporovat i zahrádkářské kolonie, které jsou součástí životů lidí v MČ Praha 8.
 - Vytvoříme nová veřejná grilovací místa v parcích.
 
 ## Historie je součástí kultury
