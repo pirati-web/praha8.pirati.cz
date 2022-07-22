@@ -1,5 +1,5 @@
 ---
-title: "Krok k energetické soběstačnosti – městské domy v Libni mají solární elekrárny"
+title: "Krok k energetické soběstačnosti. Městské domy v Libni mají na střechách solární elekrárny"
 authorId: martin.sterba
 image: posts/martin-sterba/solarnipanely.jpg
 tags: [Energetická soběstačnost, Životní prostředí]
