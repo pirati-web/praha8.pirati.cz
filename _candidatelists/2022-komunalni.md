@@ -49,7 +49,7 @@ head:
   - uid: veronika.siftova
     profession: ministerský rada Ministerstva vnitra ČR
     age: 33
-    city: Praha 8 – Libeň
+    city: Praha 8 – Kobylisy
     partyUid: bezpp  
 # 9
   - uid: karolina.gattermayerova
