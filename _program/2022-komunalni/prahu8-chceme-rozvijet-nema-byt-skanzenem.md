@@ -16,8 +16,8 @@ intro: >
 
 ## Přátelská veřejná prostranství
 - Podporujeme revitalizaci Elsnicova náměstí, a to včetně odkrytí Rokytky. Podpoříme revitalizaci celého toku říčky.
-- Palmovka nemá být “zemí nikoho”. Podporujeme její proměnu, vznik Náměstí Bohumila Hrabala a výstavbu v oblasti Pentagonu (v okolí Nové Palmovky). Bývalý židovský hřbitov si zaslouží být znovu odkryt. Navrhneme vznik nového výstupu z metra směrem k dokům.
-- Náměstí na Stráži na Bulovce by mělo být opět náměstím, nikoliv zemí Nikoho.
+- Palmovka nemá být “zemí Nikoho”. Podporujeme její proměnu, vznik Náměstí Bohumila Hrabala a výstavbu v oblasti Pentagonu (v okolí Nové Palmovky). Bývalý židovský hřbitov si zaslouží být znovu odkryt. Navrhneme vznik nového výstupu z metra směrem k dokům.
+- Náměstí na Stráži na Bulovce by mělo být opět náměstím, nikoliv pouze velkým parkovištěm.
 - Budeme bojovat proti různým formám pohybových a světelných reklam.
 - Jsme pro zahájení diskuze o proměně vstupní brány na Prahu 8 a dostavbě bloku nad stanicí metra Florenc.
 - Oblast v trojúhelníku mezi ulicemi U Meteoru / Zenklova / Povltavská proměníme v oblast pro bydlení a administrativu, blízké sportoviště chceme samozřejmě zachovat a opravit. 
