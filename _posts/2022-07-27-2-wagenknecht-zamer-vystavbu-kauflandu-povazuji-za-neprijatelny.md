@@ -11,6 +11,6 @@ Po 5 měsících bylo zveřejněno rozhodnutí EIA. V něm Odbor životního pro
 
 Rozhodnutí s odvolací lhůtou bylo navíc vydáno na začátku prázdnin, kdy většina lidí odjíždí na dovolenou, před víkendem, před státními svátky a souběžně s připomínkováním Metropolitního plánu. Takové načasování je přinejmenším zvláštní.
 
-Záměr výstavby OD Kaufland považuji za nepřijatelný, jelikož zvýší zatížení této lokality automobilovou dopravou a výstavba by zasáhla do významných lokalit. Stávající obchodní síť je zde navíc dostatečná. Výstavbu vnímám jako nadřazení podnikatelského záměru investora nad veřejným zájmem. Tato lokalita by měla především sloužit občanům, ke klidnému bydlení s dostatkem zeleně.🌳
+Záměr výstavby OD Kaufland považuji za nepřijatelný, jelikož zvýší zatížení této lokality automobilovou dopravou a výstavba by zasáhla do významných lokalit. Stávající obchodní síť je zde navíc dostatečná. Výstavbu vnímám jako nadřazení podnikatelského záměru investora nad veřejným zájmem. Tato lokalita by měla především sloužit občanům, ke klidnému bydlení s dostatkem zeleně.
 
 Již v roce 2018 se podařilo dostat projekt do koše. Věřím, že se nám to podaří i tentokrát.
