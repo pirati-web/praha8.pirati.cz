@@ -18,7 +18,7 @@ ancybox:
 
 ---
 
-**Takhle by měl po rekonstrukci vypadat Libeňský most. Změní se nejen okolí mostu, ale i prostory v obloucích. Co na něj říkáte?
+**Takhle by měl po rekonstrukci vypadat Libeňský most. Změní se nejen okolí mostu, ale i prostory v obloucích. Co na něj říkáte?**
 
 Náměstek primátora pro dopravu Adam Scheinherr potvrdil, že stále platí, že budou zachovány obloukové konstrukce, což je to nejcennější na mostě.  Mosty budou navíc doplněny o bezbariérové rampy směrem na Rohanský park, kde postupně rostou nové domy a bude tady i nový osmičkový park Maniny. 
 
@@ -44,5 +44,6 @@ Okolí mostu si klade za cíl přilákat lidi k odpočinku. Prostory pod oblouky
 
 **Už se těšíme.**
 
-**Autoři návrhu:** Petr Tej, Tomáš Cach, Oto Melter (https://www.bridgestructures.com)
-**Vizualizace:** Jan Dousek, Radovan Záborský (https://dousek-zaborsky.com)
+### Autoři
+- **návrh:** Petr Tej, Tomáš Cach, Oto Melter (https://www.bridgestructures.com)
+- **Vizualizace:** Jan Dousek, Radovan Záborský (https://dousek-zaborsky.com)
