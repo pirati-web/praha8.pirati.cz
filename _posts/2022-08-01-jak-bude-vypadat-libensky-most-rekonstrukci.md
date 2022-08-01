@@ -2,13 +2,8 @@
 title: "Jak bude vypadat Libeňák po rekonstrukci? K nepoznání!"
 authorId: martin.sterba
 image: posts/vizualizace/libensky-most/libenak7.jpg
-<<<<<<< Updated upstream
-tags: [Libeňský most, Doprava, Veřejný prostor]
-ancybox:
-=======
 tags: [Libeňský most, Doprava, Veřejný prostor]
 fancybox:
->>>>>>> Stashed changes
   - name: Jak bude vypadat nový Libeňský most? 
     img:
       - { src: posts/vizualizace/libensky-most/libenak1.jpg, title: Jak bude vypadat nový Libeňský most }
