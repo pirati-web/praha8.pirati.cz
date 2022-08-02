@@ -1,19 +1,17 @@
 ---
 title: "Lanovky z Bohnic do Podbaby má finální podobu. Podívejte se."
 authorId: martin.sterba
-image: posts/vizualizace/libensky-most/libenak7.jpg
+image: posts/vizualizace/lanovka-bohnice-podbaba/libenak7.jpg
 tags: [Lanovka Bohnice-Podbaba, Doprava, Magistrát, Bohnice]
 fancybox:
   - name: Jak bude vypadat nový Libeňský most? 
     img:
-      - { src: posts/vizualizace/libensky-most/lanovka-final1.jpeg, title: Lanovky z Bohnic do Podbaby má finální podobu. Podívejte se. }
-      - { src: posts/vizualizace/libensky-most/lanovka-final2.jpeg, title: Lanovky z Bohnic do Podbaby má finální podobu. Podívejte se. }
-      - { src: posts/vizualizace/libensky-most/lanovka-final3.jpeg, title: Lanovky z Bohnic do Podbaby má finální podobu. Podívejte se. }
-      - { src: posts/vizualizace/libensky-most/lanovka-final4.jpeg, title: Lanovky z Bohnic do Podbaby má finální podobu. Podívejte se. }
-      - { src: posts/vizualizace/libensky-most/lanovka-final5.jpeg, title: Lanovky z Bohnic do Podbaby má finální podobu. Podívejte se. }
-      - { src: posts/vizualizace/libensky-most/lanovka-final6.jpeg, title: Lanovky z Bohnic do Podbaby má finální podobu. Podívejte se. }
-
-
+      - { src: posts/vizualizace/lanovka-bohnice-podbaba/lanovka-final1.jpeg, title: Lanovky z Bohnic do Podbaby má finální podobu. Podívejte se. }
+      - { src: posts/vizualizace/lanovka-bohnice-podbaba/lanovka-final2.jpeg, title: Lanovky z Bohnic do Podbaby má finální podobu. Podívejte se. }
+      - { src: posts/vizualizace/lanovka-bohnice-podbaba/lanovka-final3.jpeg, title: Lanovky z Bohnic do Podbaby má finální podobu. Podívejte se. }
+      - { src: posts/vizualizace/lanovka-bohnice-podbaba/lanovka-final4.jpeg, title: Lanovky z Bohnic do Podbaby má finální podobu. Podívejte se. }
+      - { src: posts/vizualizace/lanovka-bohnice-podbaba/lanovka-final5.jpeg, title: Lanovky z Bohnic do Podbaby má finální podobu. Podívejte se. }
+      - { src: posts/vizualizace/lanovka-bohnice-podbaba/lanovka-final6.jpeg, title: Lanovky z Bohnic do Podbaby má finální podobu. Podívejte se. }
 ---
 
 **Dopravní podnik hlavního města Prahy zveřejnil vítěznou podobu na lanovku z Bohnic přes Tróju do Podbaby. Tři stanice lanovky navrhnou architekti londýnského studia William Mattews Associates. Studio stojí také za návrhy londýnské lanovky (London Cable Car) nebo modernizace nádraží London Bridge, páté nejrušnější stanice ve Spojeném království. Do soutěže se přihlásilo 23 zájemců z devíti evropských zemí.**
