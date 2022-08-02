@@ -4,7 +4,7 @@ authorId: martin.sterba
 image: posts/vizualizace/lanovka-bohnice-podbaba/lanovka-final2.jpeg
 tags: [Lanovka Bohnice-Podbaba, Doprava, Magistrát, Bohnice]
 fancybox:
-  - name: Jak bude vypadat nový Libeňský most? 
+  - name: Lanovka Bohnice-Trója-Podbaba 
     img:
       - { src: posts/vizualizace/lanovka-bohnice-podbaba/lanovka-final1.jpeg, title: Lanovky z Bohnic do Podbaby má finální podobu. Podívejte se. }
       - { src: posts/vizualizace/lanovka-bohnice-podbaba/lanovka-final2.jpeg, title: Lanovky z Bohnic do Podbaby má finální podobu. Podívejte se. }
