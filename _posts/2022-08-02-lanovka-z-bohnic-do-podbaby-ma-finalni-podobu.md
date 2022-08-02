@@ -1,7 +1,7 @@
 ---
 title: "Lanovky z Bohnic do Podbaby má finální podobu. Podívejte se."
 authorId: martin.sterba
-image: posts/vizualizace/lanovka-bohnice-podbaba/libenak7.jpg
+image: posts/vizualizace/lanovka-bohnice-podbaba/lanovka-final2.jpeg
 tags: [Lanovka Bohnice-Podbaba, Doprava, Magistrát, Bohnice]
 fancybox:
   - name: Jak bude vypadat nový Libeňský most? 
