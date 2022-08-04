@@ -14,6 +14,7 @@ intro: >
 ## Proti vedru více zeleně a vodních ploch
 - Prosadíme výstavbu nových veřejných pítek a rozprašovačů na vhodných místech a v parcích.
 - Zasadíme se o plnění klimatického plánu hlavního města na území MČ Praha 8.
+- S hlavním městem budeme pracovat na vzniku nového parku Maniny.
 - Vysázíme tisíce nových stromů a budeme o ně pečovat.
 - Podpoříme jednotnou správu zelených ploch na Praze 8 v souladu s moderními a ekologickými zásadami. 
 
