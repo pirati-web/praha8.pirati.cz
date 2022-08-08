@@ -9,7 +9,7 @@ category:
   - clenove
 ordpms: 2
 ordzas: 3
-img: people/jan-kolator-2022.jpg
+img: people/jan-kolator-2022-1.jpg
 heroImg: posts/praha8-zvysky.png
 profession: systémový knihovník
 partyUid: pirati
