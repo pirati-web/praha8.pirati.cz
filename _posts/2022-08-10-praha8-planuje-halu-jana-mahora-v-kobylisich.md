@@ -22,6 +22,8 @@ V obecné rovině stavbu této multifunkční haly pro míčové sporty za Pirá
 
 **Jak se Vám to líbí?**
 
+Celou studii najdete na webu MČ Praha 8. [Stáhnout si jí můžete tady.](https://www.praha8.cz/file/VXQ/Studie-sportovni-haly-Jana-Mahora.pdf)
+
 {% for galery in page.fancybox %}
 <div class="mt-4">
   <h3>{{ galery.name }}</h3>
