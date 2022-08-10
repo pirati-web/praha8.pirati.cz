@@ -1,7 +1,7 @@
 ---
 title: "Praha 8 chystá výstavbu nové sportovní haly Jana Máhora v Kobylicích. Nová sportoviště podporujeme!"
 authorId: martin.sterba
-image: posts/vizualizace/lanovka-bohnice-podbaba/lanovka-final2.jpeg
+image: posts/vizualizace/hala-jana-mahora/hala-jana-mahora4.jpg
 tags: [Kobylisy, Sport, Školství]
 fancybox:
   - name: Hala Jana Máhora v Kobyslicích
