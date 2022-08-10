@@ -20,8 +20,6 @@ V obecné rovině stavbu této multifunkční haly pro míčové sporty za Pirá
 
 >"Jestli jsem právně pochopil pana místostarostu Vítka na prezentaci haly na komisi, tak tato zveřejněná architektonická studie je podkladem k územnímu řízení, kdy stavební úřad soustředí stanoviska a vyjádření dotčených orgánů a osob, podklady k posouzení vlivu stavby na okolní prostředí a způsoby odstranění negativních vlivů dopravních, bezpečnostních atd. Následovat bude nekonečné shánění peněz, detailní projekt a stavební povolení a teprve pak se bude moci stavět. Parkování je - zdá se - navrženo před a za halou a stejně jako nyní i v prostoru mezi Žernoseckou a chodníkem," říká náš garant pro školství a sport [Pavel Franc](http://praha8.pirati.cz/lide/pavel-franc.html).
 
-**Jak se Vám to líbí?**
-
 Celou studii najdete na webu MČ Praha 8. [Stáhnout si jí můžete tady.](https://www.praha8.cz/file/VXQ/Studie-sportovni-haly-Jana-Mahora.pdf)
 
 {% for galery in page.fancybox %}
