@@ -1,15 +1,15 @@
 ---
-title: "Praha 8 chystá výstavbu nové sportovní haly Jana Máhora v Kobylicích. Nová sportoviště podporujeme!"
+title: "Praha 8 chystá výstavbu nové sportovní haly Jána Mahora v Kobylicích. Nová sportoviště podporujeme!"
 authorId: pavel.franc
 image: posts/vizualizace/hala-jana-mahora/hala-jana-mahora4.jpg
 tags: [Kobylisy, Sport, Školství]
 fancybox:
   - name: Hala Jana Máhora v Kobyslicích
     img:
-      - { src: posts/vizualizace/hala-jana-mahora/hala-jana-mahora1.jpg, title: Hala Jana Máhora v Kobylisích }
-      - { src: posts/vizualizace/hala-jana-mahora/hala-jana-mahora2.jpg, title: Hala Jana Máhora v Kobylisích }
-      - { src: posts/vizualizace/hala-jana-mahora/hala-jana-mahora3.jpg, title: Hala Jana Máhora v Kobylisích }
-      - { src: posts/vizualizace/hala-jana-mahora/hala-jana-mahora4.jpg, title: Hala Jana Máhora v Kobylisích }
+      - { src: posts/vizualizace/hala-jana-mahora/hala-jana-mahora1.jpg, title: Hala Jána Mahora v Kobylisích }
+      - { src: posts/vizualizace/hala-jana-mahora/hala-jana-mahora2.jpg, title: Hala Jána Mahora v Kobylisích }
+      - { src: posts/vizualizace/hala-jana-mahora/hala-jana-mahora3.jpg, title: Hala Jána Mahora v Kobylisích }
+      - { src: posts/vizualizace/hala-jana-mahora/hala-jana-mahora4.jpg, title: Hala Jána Mahora v Kobylisích }
 ---
 
 **Městská část Praha 8 chystá výstavbu nové sportovní haly Jána Mahora v Kobylisích, která by měla stát v areálu ZŠ Burešova.**
@@ -20,7 +20,7 @@ V obecné rovině stavbu této multifunkční haly pro míčové sporty za Pirá
 
 >"Jestli jsem právně pochopil pana místostarostu Vítka na prezentaci haly na komisi, tak tato zveřejněná architektonická studie je podkladem k územnímu řízení, kdy stavební úřad soustředí stanoviska a vyjádření dotčených orgánů a osob, podklady k posouzení vlivu stavby na okolní prostředí a způsoby odstranění negativních vlivů dopravních, bezpečnostních atd. Následovat bude nekonečné shánění peněz, detailní projekt a stavební povolení a teprve pak se bude moci stavět. Parkování je - zdá se - navrženo před a za halou a stejně jako nyní i v prostoru mezi Žernoseckou a chodníkem," říká náš garant pro školství a sport [Pavel Franc](http://praha8.pirati.cz/lide/pavel-franc.html).
 
-Celou studii najdete na webu MČ Praha 8. [Stáhnout si jí můžete tady.](https://www.praha8.cz/file/VXQ/Studie-sportovni-haly-Jana-Mahora.pdf)
+Celou studii sportovní haly Jána Mahora najdete na webu MČ Praha 8. [Stáhnout si jí můžete tady.](https://www.praha8.cz/file/VXQ/Studie-sportovni-haly-Jana-Mahora.pdf)
 
 {% for galery in page.fancybox %}
 <div class="mt-4">
