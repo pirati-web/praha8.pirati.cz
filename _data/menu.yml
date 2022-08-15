@@ -23,6 +23,8 @@ main:
         link: /volby/2018-komunalni.html
       - name: Senátní volby 2018
         link: "http://www.lukaswagenknecht.cz"
+  - link: https://a.pirati.cz/praha8/plisty2022-podzim
+    name: Pirátské listy 2022
   - name: Rozcestník
     submenu:
       - name: MČ Praha 8
