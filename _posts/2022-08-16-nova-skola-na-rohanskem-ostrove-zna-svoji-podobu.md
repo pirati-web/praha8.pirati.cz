@@ -1,7 +1,7 @@
 ---
 title: "Nová základní škola na Rohanském ostrově zná svojí podobu"
 authorId: martin.sterba
-image: pposts/vizualizace/zs-rohan/zs-rohan-5.jpeg
+image: posts/vizualizace/zs-rohan/zs-rohan-5.jpeg
 tags: [Karlín, Rohanský ostrov, Školství, Územní rozvoj, Základní škola Rohan]
 fancybox:
   - name: Základní škola Rohanský ostrov (vítězný návrh)
@@ -37,7 +37,7 @@ fancybox2:
   </div>
 </div>
 {% endfor %}
-
+<br /> 
 Vítězem soutěže se stalo studio A X X I, která získala nejlepší hodnocení z celkově šestnácti přihlášených projektů. 
 
 - **tým:** Luděk Šimoník, Jan Stolek, Krystof Foltyn, Ivo Stolek
@@ -61,6 +61,5 @@ Na druhém místě skončilo studio IGLOO ARCHITEKTI.
   </div>
 </div>
 {% endfor %}
-
-
-**[Prosazujeme co nejdostupnější vzdělání, které rozvíjí přirozenou tvořivost. Pomůžeme dětem objevovat jejich potenciál a lépe vyhodnocovat možnosti, které jim doba nabízí.](https://praha8.pirati.cz/volby/2022-komunalni/skolstvi-a-sport-maji-objevovat-skryty-detsky-potencial.html)**
+<br /> 
+**[V našem programu pro komunální volby 2022](https://praha8.pirati.cz/volby/2022-komunalni/skolstvi-a-sport-maji-objevovat-skryty-detsky-potencial.html) prosazujeme co nejdostupnější vzdělání, které rozvíjí přirozenou tvořivost. Chceme pomoci dětem objevovat jejich potenciál a lépe vyhodnocovat možnosti, které jim doba nabízí.**
