@@ -38,7 +38,7 @@ fancybox2:
 </div>
 {% endfor %}
 <br /> 
-Vítězem soutěže se stalo studio A X X I, která získala nejlepší hodnocení z celkově šestnácti přihlášených projektů. 
+Vítězem soutěže se stalo studio A X X I, které získalo nejlepší hodnocení z celkově šestnácti přihlášených projektů. 
 
 - **tým:** Luděk Šimoník, Jan Stolek, Krystof Foltyn, Ivo Stolek
 - **vizualizace:** Janoušek & Havlíček Visualisations, Pixbakers
