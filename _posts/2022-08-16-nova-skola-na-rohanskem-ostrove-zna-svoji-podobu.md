@@ -1,8 +1,8 @@
 ---
 title: "Nová základní škola na Rohanském ostrově zná svojí podobu"
 authorId: martin.sterba
-image: posts/martin-sterba/strangerthings.jpg
-tags: [Volby 2022]
+image: pposts/vizualizace/zs-rohan/zs-rohan-5.jpeg
+tags: [Karlín, Rohanský ostrov, Školství, Územní rozvoj, Základní škola Rohan]
 fancybox:
   - name: Základní škola Rohanský ostrov (vítězný návrh)
     img:
@@ -44,6 +44,8 @@ Vítězem soutěže se stalo studio A X X I, která získala nejlepší hodnocen
 - **vizualizace:** Janoušek & Havlíček Visualisations, Pixbakers
 
 >"Svou orientací škola plně využívá výhledy do obou navazujících parků, jejichž charakter je reflektován architektonickým členěním domu. Zvýšená platforma navazující na "parkové náměstí"  se stane významným orientačním prvkem v území a místem setkávání dětí, rodičů i široké veřejnosti," říká vítězné studio.
+
+![Vizualizace venkovní části bazénu](/assets/img/posts/zs-rohan-osmicka.png)
 
 Na druhém místě skončilo studio IGLOO ARCHITEKTI.
 

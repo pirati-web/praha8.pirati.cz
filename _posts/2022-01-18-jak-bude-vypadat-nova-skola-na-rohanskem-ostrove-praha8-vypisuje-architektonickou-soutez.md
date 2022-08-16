@@ -2,7 +2,7 @@
 title: Jak bude vypadat nová škola na Rohanském ostrově? Praha 8 vypisuje architektonickou soutěž
 authorId: martin.sterba
 image: posts/rohanskyostrov-novaskola.jpg
-tags: [Karlín, Rohanský ostrov, Školství, Územní rozvoj]
+tags: [Karlín, Rohanský ostrov, Školství, Územní rozvoj, Základní škola Rohan]
 ---
 
 **Předmětem soutěže o návrh je návrh architektonického řešení včetně interiéru základní školy Rohan**, Praha 8 o velikosti 3×9 tříd, včetně příslušného zázemí a vybavení, tedy zejména specializovaných učeben, tělocvičen a sportovišť, učitelských bytů, kuchyně a jídelny a další navazující infrastruktury a ploch včetně jejího začlenění do nově vznikající městské struktury v lokalitě Rohanské nábřeží, Praha 8; celkem cca 9.500 m2 hrubé podlahové plochy.
