@@ -1,5 +1,5 @@
 ---
-title: "Zbytečnost. Bývalý radní pro IT Slobodník se stal uvolněným předsedou komise pro IT"
+title: "Další trafika? Bývalý radní pro IT Slobodník se stal uvolněným předsedou komise pro IT"
 authorId: martin.sterba
 image: posts/zastupitelstvo2.jpg
 tags: [ODS, Kauza Dezinfekce, Zastupitelstvo]
@@ -22,4 +22,4 @@ Dlouhodobě se jej naopak zastává starosta Prahy 8 Ondřej Gros (ODS).
 >„V takzvané kauze nebyl obviněn, je v celé věci nevinen. Podporuji, aby byl zvolen předsedou komise pro IT. Byl lynčován médii a ztratil rok života," řekl včera na jednání zastupitelů Gros.
 
 ## Naše hlasování:
-[Piráti nehlasovali pro jmenování Josefa Slobodníka uvolněným předsedou komise RMČ Praha 8 pro IT.](https://www.praha8.cz/Prehled-hlasovani-zastupitelstva-17-03-2021.html)
+[Piráti nehlasovali pro jmenování Josefa Slobodníka uvolněným předsedou komise pro IT (viz jmenné hlasování)](https://www.praha8.cz/Prehled-hlasovani-zastupitelstva-17-03-2021.html)
