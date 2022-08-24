@@ -2,7 +2,7 @@
 title: "Do roku 2033 vyroste mezi Invalidovnou a Palmovkou 2 200 bytů"
 authorId: martin.sterba
 image: posts/palmovka-model1.jpg
-tags: [Bydlení, Palmovka, Nová Palmovka, Územní rozvoj]
+tags: [Agentura EUSPA, Bydlení, Palmovka, Nová Palmovka, Územní rozvoj]
 ---
 
 **Osmihektarový brownfield na Palmovce, největší rozvojové území s širším centru metropole, které majetkově ovládá hlavní město Praha, čeká velká proměna. Pro představu – jedná se o území ohraničené ulicemi Voctářova, U Rustonky, Sokolovská, Zenklova až k Libeňskému mostu.**

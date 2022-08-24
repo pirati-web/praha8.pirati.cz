@@ -2,7 +2,7 @@
 title: Rada hlavního města schválila další krok k revitalizaci Palmovky
 authorId: martin.sterba
 image: posts/2021-12-16-novapalmovka/novapalmovka08.jpeg
-tags: [Nová Palmovka, Palmovka, Magistrát]
+tags: [Agentura EUSPA, Nová Palmovka, Palmovka, Magistrát]
 ---
 
 **Rada hlavního města schválila další krok k revitalizaci Palmovky. Na sociálních sítích o tom [informoval náměstek primátora Petr Hlaváček](https://www.facebook.com/328899600936330/posts/1013033849189565/?d=n).** Tisková zpráva je k dispozici [přímo na portálu Praha.eu](https://www.praha.eu/jnp/cz/o_meste/magistrat/tiskovy_servis/tiskove_zpravy/praha_planuje_zhodnotit_pozemky_na.html).
