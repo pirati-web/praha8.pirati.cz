@@ -3,9 +3,9 @@ uid: ondrej.profant
 name: Ondřej Profant
 category:
  - clenove
-img: people/ondrej-profant-2022-1.jpg
+img: people/ondrej-profant-2022-2.jpg
 heroImg: posts/praha8-zvysky.png
-profession: informatik a náměstka vicepremiéra pro digitalizaci
+profession: informatik a poradce vicepremiéra pro digitalizaci
 partyUid: pirati
 description: garant oblasti IT a moderní radnice
 mail:
@@ -13,7 +13,7 @@ mail:
 mob:			  +420 607 580 015
 profiles:
   facebook:  https://www.facebook.com/ondrej.pirat.profant
-  twitter: 	 https://twitter.com/ondrej_profant
+  twitter:   https://twitter.com/ondrej_profant
   instagram: https://www.instagram.com/ondrej_profant
   github:    https://github.com/kedrigern/
   linkedin:  https://www.linkedin.com/in/ond%C5%99ej-profant-2b171933/
@@ -23,7 +23,7 @@ profiles:
   evidence:  https://evidence.pirati.cz/author/8/
   odmeny:    https://nalodeni.pirati.cz/odmeny/ondrej.profant
 funkce:
-  - náměstek <a href="https://mmr.cz/cs/kontakty/kontakty-na-vedeni-ministerstva">ministra pro místní rozvoj</a>
+  - poradce vicepremiéra pro digitalizaci
   
 ---
 <div class="mb-4">
