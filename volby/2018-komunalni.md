@@ -1,6 +1,6 @@
 ---
 layout: communal-elections
-title: "Komunální volby v roce 2018"
+title: "omunální volby v roce 2018
 campaignCategoryUid: 2018-komunalni
 candidateListUid: 2018-komunalni
 customizeHeader: true
