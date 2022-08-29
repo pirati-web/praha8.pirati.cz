@@ -11,4 +11,4 @@ Chceme proto vytvořit velké farmářské trhy, o kterých se bude mluvit i za 
 
 Co vy na to?
 
-### [Všechny naše plány ve volbách najdete tady.](https://praha8.pirati.cz/volby/2022-komunalni.html?pohled=program)
+### [Všechny naše plány pro Prahu 8 si můžete přečíst tady.](https://praha8.pirati.cz/volby/2022-komunalni.html?pohled=program)
