@@ -5,12 +5,18 @@ image: posts/libensky-zamek.jpg
 tags: [Piráti, Volby 2022]
 ---
 
-Otevřená a moderní radnice, více obecních bytů, proměna Palmovky a dostatek míst ve školách a školkách. To jsou některá z témat, se kterými jdou Piráti do komunálních voleb v městské části Praha 8. Závěrečnou fázi kampaně chtějí Piráti na Praze 8 zaměřit na setkávání se s lidmi v ulicích a oslovení voličů na sociálních sítích. Voliče chtějí oslovit heslem „Máme odvahu řídit Prahu 8 správně.“
+**Otevřená a moderní radnice, více obecních bytů, proměna Palmovky a dostatek míst ve školách a školkách. To jsou některá z témat, se kterými jdou Piráti do komunálních voleb v městské části Praha 8. Závěrečnou fázi kampaně chtějí Piráti na Praze 8 zaměřit na setkávání se s lidmi v ulicích a oslovení voličů na sociálních sítích. Voliče chtějí oslovit heslem „Máme odvahu řídit Prahu 8 správně.“**
 
->„Naše městská část potřebuje směr a vizi. Za dlouhá léta nečinnosti místní radnice trochu ustrnula, s ní i celá čtvrť a je to bohužel vidět. Potřebujeme řešit mnohé problémy, mezi které patří nedostatek míst ve školkách a školách, nevyhovující doprava či nedostatek obecních bytů. Samostatnou kapitolou je pak oblast tzv. pentagonu mezi Palmovkou a Invalidovnou, kde se nyní po spolupráci s hlavním městem snad blýská na lepší časy,“ vysvětluje kandidát na starostu Prahy 8 a jednička na pirátské kandidátce Martin Štěrba. Podle něj je třeba více dbát na úklid v ulicích, vyřešit parkování mimo modré zóny, vybudovat více P+R parkovišť, které odlehčí okrajovým oblastem, kde nyní parkují dojíždějící ze středních Čech.
+>„Naše městská část potřebuje směr a vizi. Za dlouhá léta nečinnosti místní radnice trochu ustrnula, s ní i celá čtvrť a je to bohužel vidět. Potřebujeme řešit mnohé problémy, mezi které patří nedostatek míst ve školkách a školách, nevyhovující doprava či nedostatek obecních bytů. Samostatnou kapitolou je pak oblast tzv. pentagonu mezi Palmovkou a Invalidovnou, kde se nyní po spolupráci s hlavním městem snad blýská na lepší časy,“ vysvětluje kandidát na starostu Prahy 8 a jednička na pirátské kandidátce Martin Štěrba. 
+
+Podle něj je třeba více dbát na úklid v ulicích, vyřešit parkování mimo modré zóny, vybudovat více P+R parkovišť, které odlehčí okrajovým oblastem, kde nyní parkují dojíždějící ze středních Čech.
 
 ### Tramvaj do Bohnic a podpora sdílení
->„Chceme akcentovat všechny druhy dopravy tak, aby ve vzájemné synergii co nejlépe sloužily obyvatelům. Není možné, aby cyklisté překáželi automobilům a tvořily se kvůli nim zácpy. Zároveň cyklisté se musí cítit bezpečně a neohrožovat přitom chodce. Prioritu musí mít ale MHD, ta je klíčová,“ popisuje Martin Štěrba s tím, že jednoznačnou podporu má vybudování tramvajové trati do Bohnic. Piráti hodlají nadále podporovat i sdílenou dopravu. „Jsme ale pro jasně vymezené parkovací zóny, protože není podle nás možné, aby ležící koloběžky blokovaly chodce,“ dodává. 
+>„Chceme akcentovat všechny druhy dopravy tak, aby ve vzájemné synergii co nejlépe sloužily obyvatelům. Není možné, aby cyklisté překáželi automobilům a tvořily se kvůli nim zácpy. Zároveň cyklisté se musí cítit bezpečně a neohrožovat přitom chodce. Prioritu musí mít ale MHD, ta je klíčová,“ popisuje Martin Štěrba s tím, že jednoznačnou podporu má vybudování tramvajové trati do Bohnic. 
+
+Piráti hodlají nadále podporovat i sdílenou dopravu. 
+
+>„Jsme ale pro jasně vymezené parkovací zóny, protože není podle nás možné, aby ležící koloběžky blokovaly chodce,“ dodává Štěrba. 
  
 ### Dostatek míst ve školách a školkách
 Obrovským problémem na Praze 8 je nedostatek míst ve školkách a školách. 
