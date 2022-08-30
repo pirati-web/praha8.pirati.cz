@@ -12,6 +12,6 @@ Rádi bychom tuto formu zápisu zavedli co nejdříve, protože i díky tomu odp
 
 **Co vy na to?**
 
-{% raw %}{% twitter https://twitter.com/sterbamartin/status/1564228420401332226 %}{% endraw %}
+{% twitter https://twitter.com/sterbamartin/status/1564228420401332226 %}
 
 ### [Všechny naše plány pro Prahu 8 si můžete přečíst tady.](https://praha8.pirati.cz/volby/2022-komunalni.html?pohled=program)
