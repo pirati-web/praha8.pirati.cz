@@ -10,8 +10,6 @@ Nerozumím, proč vedení naší městské části k tomuto kroku už dávno nep
 
 Rádi bychom tuto formu zápisu zavedli co nejdříve, protože i díky tomu odpadne stres rodičům, kteří nebudou muset běhat od jedné školy ke druhé a sníží se také administrativní náročnost pracovníkům škol a školek, kteří nebudou muset zpracovávat stohy papírů. Vše přehledně na jednom webu, na pár kliknutí. Už žádné přepisování papírových přihlášek do počítače. 
 
-{% twitter https://twitter.com/sterbamartin/status/1564228420401332226 %}
-
 **Co vy na to?**
 
 ### [Všechny naše plány pro Prahu 8 si můžete přečíst tady.](https://praha8.pirati.cz/volby/2022-komunalni.html?pohled=program)
