@@ -12,3 +12,5 @@
   campaigns:
     - title: Pirátský program pro Prahu 8  # individual campaigns within the group
       categoryUid: 2022-komunalni
+    - title: Povolební strategie 2022
+      categoryUid: 2022-komunalni-strategy
