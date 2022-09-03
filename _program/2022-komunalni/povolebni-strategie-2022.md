@@ -7,11 +7,11 @@ order: 1
 garant: martin.sterba
 img: posts/libensky-zamek.jpg
 intro: >
-  Piráti brzy dokončí první čtyři roky v zastupitelstvu MČ Praha 8 a do voleb jdou s jasnou vizí, jak pokračovat v práci pro Prahu 8. V roce 2018 jsme skončili v Praze 8 druzí, a ocitli jsme se v opozici. Teď jdeme do voleb s odvahou začít řídit Prahu 8 správně. Za čtyři roky Praha dosáhla pod vládou Pirátů nebývalého rozvoje a chceme na tom začít pracovat i v Praze 8.
-
 ---
 
 ## 1. Preambule
+Piráti brzy dokončí první čtyři roky v zastupitelstvu MČ Praha 8 a do voleb jdou s jasnou vizí, jak pokračovat v práci pro Prahu 8. V roce 2018 jsme skončili v Praze 8 druzí, a ocitli jsme se v opozici. Teď jdeme do voleb s odvahou začít řídit Prahu 8 správně. Za čtyři roky Praha dosáhla pod vládou Pirátů nebývalého rozvoje a chceme na tom začít pracovat i v Praze 8.
+
 Nedávné události ukázaly, že v Praze není žádná jiná strana, která by na sobě neměla stín korupční kauzy. Piráti v tom prostě nejedou a korupční chapadla z dopravního podniku ani odjinud na magistrát nedosáhla. Naše protikorupční opatření nastavená na magistrátu se ukázala jako funkční, protože zakázek magistrátu se kauza netýká. 
 
 Sami jdeme vzorem, i proto Piráti před každými volbami připravují tuto tzv. povolební strategii, kde si sami sobě stanoví jasná a transparentní pravidla, jak budou postupovat v rámci potenciálního formování nové koalice a v rámci vyjednávání programu nové koalice i obsazení jednotlivých postů. Jsme jediná strana, která takto otevřeně deklaruje svůj postup, určuje vyjednavače a priority při vyjednávání, nechceme žádné zákulisní kšefty a osobní handly o místa či vliv ve firmách, chceme transparentní a jednoznačné rozdělení gescí, pravomocí a odpovědnosti. Touto strategií dáváme jasný vzkaz našim voličům, kterým otevřeným způsobem říkáme, co od nás mohou očekávat. Zároveň končící funkční období ukázalo, že na těchto pravidlech musíme v nejvyšší možné míře trvat i ve vztahu k případným koaličním partnerům nebo vůči Radě z opozice. 
