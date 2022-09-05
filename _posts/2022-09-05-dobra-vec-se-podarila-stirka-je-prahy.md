@@ -1,7 +1,7 @@
 ---
 title: "Stírka zachráněna, koupaliště bude i nadále sloužit všem"
 author: Piráti Praha 8
-image: posts/koupaliste-nastirce5.jpg
+image: posts/koupaliste-nastirce4.jpg
 tags: [Piráti, Koupaliště Stírka, Kobylisy, Magistrát, Sport]
 ---
 
