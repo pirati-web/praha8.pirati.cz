@@ -1,5 +1,5 @@
 ---
-title: "Stírka zachráněna, koupaliště je v majetku hlavního města Prahy."
+title: "Stírka zachráněna, koupaliště je v majetku hlavního města Prahy"
 author: Piráti Praha 8
 image: posts/koupaliste-nastirce5.jpg
 tags: [Piráti, Koupaliště Stírka, Kobylisy, Magistrát, Sport]
