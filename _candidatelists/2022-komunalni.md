@@ -248,7 +248,7 @@ tail:
   - name: Michal Samec
     profession: obchodní zástupce
     age: 36
-    city: PRAHA 8
+    city: Praha 8 – Kobylisy
     partyUid: bezpp
 # 42
   - uid: jitka.novotna

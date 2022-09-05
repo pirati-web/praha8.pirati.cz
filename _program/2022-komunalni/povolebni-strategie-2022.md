@@ -22,7 +22,7 @@ Na úvod deklarujeme, že každý pirátský zastupitel se bude především ř�
 - [pirátským kodexem zastupitele](https://wiki.pirati.cz/program/kodex_zastupitele)
 - [pirátským demokratickým minimem](https://wiki.pirati.cz/program/minimum)
  
-## 2. Hlavní cíle Pirátů v Praze 8 a podmínky účasti na Radě mč praha 8
+## 2. Hlavní cíle Pirátů v Praze 8 a podmínky účasti na Radě MČ Praha 8
 Naším cílem je vyjednávat samostatně o koalici z takové pozice, abychom mohli začít pracovat pro městskou část Praha 8.
 
 Chceme se podílet na správě městské části Praha 8 s kompetentními lidmi a s demokratickými stranami. Za 4 roky v opozici jsme prokázali, že osmičku známe opravdu dobře – s jejími výhodami i problémy. Díky tomu vidíme, co všechno napáchal monopol tradičních politických stran, které v posledních letech na radnici pracovaly bez jakékoliv vize a pro Městskou část Praha 8 nic neudělaly. My se nebojíme jít za konkrétními cíli. Nabízíme cestu, jak Prahu 8 zlepšit, ne důvody, proč to nejde.
@@ -92,7 +92,7 @@ Klub schvaluje rozdělení funkcí a gescí uvnitř klubu, volí a odvolává sv
 - Místní fórum vždy schvaluje koaliční smlouvu nebo jinou podobnou politickou dohodu a rozhoduje o nominacích zástupců Pirátů na funkce v Radě.
 - Klub bude pravidelně informovat členskou základnu a místní fórum o své činnosti a výsledcích. Neschválí-li místní fórum něco jiného, je klub vázán volebním programem tak, jak byl v platnosti v době voleb, případně přijatou koaliční smlouvou, která program nahrazuje tam, kde jsou v rozporu. Jednání klubu o projednávaných tiscích jsou členům a registrovaným příznivcům zpravidla přístupná.
  
-### 6.2. Vztah klubu k magistrátu, senátu a poslanecké sněmovně
+### 6.2. Vztah klubu k Magistrátu, Senátu a Poslanecké sněmovně
 - Piráti se snaží svou práci v politice maximálně sjednocovat. Klub bude usilovat o těsnou a oboustrannou komunikaci s magistrátním, senátním, poslaneckým a vládním týmem Pirátů a to zejména v případech využití zákonodárné iniciativy magistrátu a nebo připomínkování zákonů týkajících se komunální úrovně.
 
 ## 7. Závěrem
