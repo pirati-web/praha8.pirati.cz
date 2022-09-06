@@ -1,5 +1,5 @@
 ---
-title: "Osmička se přece musí dál rozvíjet, hlavně pro místní"
+title: "Každý má právo bydlet i podnikat, chceme být řádnými hospodáři"
 author: Piráti Praha 8
 image: posts/2021-09-03-tour-jakubmichalek/tour-jakubmichalek1.jpg
 tags: [Bydlení, Volby 2022]
