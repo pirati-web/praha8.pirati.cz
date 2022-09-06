@@ -5,7 +5,7 @@ titles:
   before: Mgr.
 category:
   - clenove
-img: people/jitka-novotna.jpg
+img: people/jitka-novotna-2018.jpg
 heroImg: posts/praha8-zvysky.png
 profession: informatička
 partyUid: pirati
