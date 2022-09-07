@@ -5,7 +5,7 @@ image: posts/martin-sterba/palmovka.jpg
 tags: [Volby 2022]
 ---
 
-**Praha v čele s Piráty ušetřila Praze 8 stovky milionů korun. Rádo se stalo! Slovy Václava Havla, naše městská část nevzkvétá. A to hlavně proto, že žijeme pouze přítomností. Pojďme to společně změnit.** 
+**Slovy Václava Havla, naše městská část nevzkvétá. A to hlavně proto, že žijeme pouze přítomností. Pojďme to společně změnit.** 
 
 **Opakujete, že chcete dát Praze 8 konečně vizi, která jako kdyby současnému vedení zcela chyběla. Jak by tedy podle tebe měla vypadat Praha 8 budoucnosti?**
 
