@@ -8,7 +8,7 @@ category:
   - zastupitele
   - clenove
 ordzas: 4
-img: people/karel-ptacek-2022-2.jpg
+img: people/karel-ptacek-2022-1.jpg
 heroImg: posts/invadlidovna-cechie.jpg
 profession: projektový manažer
 partyUid: pirati
@@ -27,7 +27,6 @@ funkce:
   - místopředseda <a href="https://www.praha8.cz/Komise-pro-bytova-druzstva-a-SVJ-2018-2022.html">Komise pro bytová družstva a SVJ RMČP8</a>
   - člen <a href="https://www.praha8.cz/Komise-pro-uzemni-rozvoj-a-pamatkovou-peci-2018-2022.html">Komise pro územní rozvoj a památkovou péči RMČP8</a>
 ---
-
 
 **Karel Ptáček** se narodil v roce 1982 v Praze 8 a celý život zde i žije.
 
