@@ -8,7 +8,7 @@ category:
   - zastupitele
   - clenove
 ordzas: 4
-img: people/karel-ptacek-2022.jpg
+img: people/karel-ptacek-2022-2.jpg
 heroImg: posts/invadlidovna-cechie.jpg
 profession: projektový manažer
 partyUid: pirati
