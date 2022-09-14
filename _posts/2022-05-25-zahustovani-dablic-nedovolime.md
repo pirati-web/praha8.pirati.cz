@@ -2,7 +2,7 @@
 title: Zahušťování Ďáblic nedovolíme, nejkrásnější české sídliště zaslouží ochranu
 authorId: martin.sterba
 image: posts/dablice-diskuze-kveten2022.jpg
-tags: [Ládví, Ďáblice]
+tags: [Krásné Kobylisy, Ládví, Ďáblice]
 ---
 
 **Kulturní sál Ládví v úterý praskal "ve švech", na veřejnou debatu o budoucnosti sídliště Ďáblice dorazilo několik stovek lidí. Jedná se o krásný ukázkový příklad participace občanů. Spolek Krásné Kobylisy zaslouží dík za organizaci.** 

@@ -2,7 +2,7 @@
 title: Na procházku s architekty Vize sídliště Ďáblice dorazily stovky lidí
 authorId: martin.sterba
 image: posts/2022-05-19-prochazka-dablice/dablice3.jpeg
-tags: [Ládví, Ďáblice]
+tags: [Krásné Kobylisy, Ládví, Ďáblice]
 fancybox:
   - name: Procházka po sídlišti Ďáblice
     img:
