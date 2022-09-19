@@ -2,7 +2,7 @@
 title: "Piráti: Obyvatelé sídlišť potřebují volně dýchat. Podporujeme činnost spolku Krásné Kobylisy"
 author: Piráti Praha 8
 image: posts/2022-05-19-prochazka-dablice/dablice8.jpeg
-tags: [Krásné Kobylisy, Volby 2022]
+tags: [Krásné Kobylisy, Ďáblice, Kobylisy, Volby 2022]
 fancybox:
   - name: Procházka po sídlišti Ďáblice
     img:

@@ -2,7 +2,7 @@
 title: "Jindřiška Nováková, nejmladší oběť heydrichiády, má před ZŠ Bohumila Hrabala svůj pomník"
 authorId: martin.sterba
 image: posts/pomnik-jindrisky-novakove.jpg
-tags: [Anthropoid]
+tags: [Anthropoid, Libeň]
 ---
 
 **Od dnešního dne si můžeme před budovou Základní školy Bohumila Hrabala připomenout hrdinství čtrnáctileté Jindřišky Novákové, která se v roce 1942 stala nejmladší obětí heydrichiády. Do stejné školy totiž před 80 lety Jindřiška chodila.**
