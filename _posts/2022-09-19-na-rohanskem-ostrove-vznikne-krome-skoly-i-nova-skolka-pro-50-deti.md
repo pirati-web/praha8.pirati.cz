@@ -2,7 +2,7 @@
 title: "Na Rohanském ostrově vznikne kromě nové školy také školka pro 50 dětí"
 authorId: karel.ptacek
 image: posts/skolka-deti.jpeg
-tags: [Rohanský ostrov, Základní škola Rohan, Karlín, Školství, Územní rozvoj, Volby 2022]
+tags: [Rohanský ostrov, Základní škola Rohan, Karlín, Školství, Územní rozvoj]
 fancybox:
   - name: Nová mateřská škola na Rohanském ostrově
     img:
