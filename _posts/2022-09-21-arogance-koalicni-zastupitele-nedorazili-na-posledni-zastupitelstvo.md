@@ -13,7 +13,7 @@ tags: [Zastupitelstvo, Volby 2022]
 
 >"Arogance je hodně slabé slovo. Tohle je od ODS a spol. zdvižený prostředníček směrem ke všem ostatním zastupitelům a hlavně občanům Prahy 8," říká pirátská kandidátka do zastupitelstva [Karolína Gattermayerová](http://praha8.pirati.cz/lide/karolina-gattermayerova.html).
 
->"Přemýšlím, kdo ze starostů na konci svého období udělal větší překvapení. Jestli ten současný, který svolal zastupitelstvo, které se nakonec nekoná. Nebo ten minulý, který si nechal schvalovat smlouvy s developery těsně před volbami... Oboje špatně, přitom stačilo napsat – hele nejezděte, stejně vás nebude dostatek. Praha 8 nemá co řešit", říká pirátský zastupitel [Jan Kolátor]((http://praha8.pirati.cz/lide/jan-kolator.html).
+>"Přemýšlím, kdo ze starostů na konci svého období udělal větší překvapení. Jestli ten současný, který svolal zastupitelstvo, které se nakonec nekoná. Nebo ten minulý, který si nechal schvalovat smlouvy s developery těsně před volbami... Oboje je špatně, přitom stačilo napsat – hele nejezděte, stejně vás nebude dostatek. Praha 8 nemá co řešit," říká pirátský zastupitel [Jan Kolátor](http://praha8.pirati.cz/lide/jan-kolator.html).
 
 Děkujeme, že budete volit ty, kteří se za vás perou na zastupitelstvech. Piráti jsou jediná strana bez korupce a jsou jediná strana, která má odvahu řídit Prahu 8 správně.
 
