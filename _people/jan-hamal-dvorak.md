@@ -17,8 +17,6 @@ mail:
 profiles:
   odmeny:    https://nalodeni.pirati.cz/odmeny/jan.hamal.dvorak
 funkce:
-  - <a href="https://www.praha8.cz/Klub-Ceska-piratska-strana.html">zastupitel MČ Praha 8</a>
-  - místopředseda <a href="https://www.praha8.cz/Komise-pro-informatiku-2018-2022.html">Komise pro informatiku RMČP8</a>
   - vedoucí <a href="https://wiki.pirati.cz/to/start">technického odboru Pirátů</a>
 ---
 

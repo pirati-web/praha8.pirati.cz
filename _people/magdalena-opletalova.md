@@ -16,7 +16,6 @@ profiles:
   facebook: https://www.facebook.com/mahu.opletalova
   odmeny:   https://nalodeni.pirati.cz/odmeny/magdalena.opletalova
 funkce:
-  - členka <a href="https://www.praha8.cz/Komise-pro-obecni-byty-2018-2022.html">Komise pro obecní byty RMČP8</a>
   - členka <a href="https://www.psp.cz/sqw/snem.sqw?l=cz&id=1570">Stálé komise pro rodinu a rovné příležitosti PSP ČR</a>
 ---
 Jmenuji se Magdalena Opletalová, říká se mi Mahu. Původní profesí jsem molekulární genetička, později matka sedmi skvělých dětí, sociální pracovnice, manažerka, krizová interventka a učitelka. 

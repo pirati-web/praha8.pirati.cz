@@ -26,9 +26,7 @@ profiles:
   odmeny:   https://nalodeni.pirati.cz/odmeny/jan.kolator
   linkedin: https://www.linkedin.com/in/jan-kol%C3%A1tor-a05499a1/
 funkce:
-  - <a href="https://www.praha8.cz/Klub-Ceska-piratska-strana.html">zastupitel MČ Praha 8</a>
   - 1. místopředseda MS Praha 8
-  - člen <a href="https://www.praha8.cz/Komise-pro-bezpecnost-a-prevenci-socialnepatologickych-jevu-2018-2022.html">Komise pro bezpečnost a prevenci sociálně patologických jevů RMČP8</a>
 ---
 
 Jan Kolátor je místopředsedou PMS na Praze 8. Narodil se se v Praze, žije v Praze a doufá, že zde i zemře. Vystudoval gymnázium a vysokou školu na univerzitě také v Praze. Od ledna 2022 je zastupitelem MČ Praha 8.

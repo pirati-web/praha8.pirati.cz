@@ -23,9 +23,6 @@ profiles:
   evidence:  https://evidence.pirati.cz/author/608/
   odmeny:   https://nalodeni.pirati.cz/odmeny/karel.ptacek
 funkce:
-  - <a href="https://www.praha8.cz/Klub-Ceska-piratska-strana.html">zastupitel MČ Praha 8</a>
-  - místopředseda <a href="https://www.praha8.cz/Komise-pro-bytova-druzstva-a-SVJ-2018-2022.html">Komise pro bytová družstva a SVJ RMČP8</a>
-  - člen <a href="https://www.praha8.cz/Komise-pro-uzemni-rozvoj-a-pamatkovou-peci-2018-2022.html">Komise pro územní rozvoj a památkovou péči RMČP8</a>
 ---
 
 **Karel Ptáček** se narodil v roce 1982 v Praze 8 a celý život zde i žije.

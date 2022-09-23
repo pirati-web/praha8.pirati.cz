@@ -23,9 +23,6 @@ profiles:
   evidence:  https://evidence.pirati.cz/author/458/
   odmeny:    https://nalodeni.pirati.cz/odmeny/martin.stanek
 funkce:
-  - <a href="https://www.praha8.cz/Klub-Ceska-piratska-strana.html">zastupitel MČ Praha 8</a>
-  - místopředseda MS Praha 8
-  - člen <a href="https://www.praha8.cz/Komise-pro-kulturu-a-volny-cas-2018-2022.html">Komise pro kulturu a volný čas RMČP8</a>
 ---
 
 Martin Staněk (* 1983) je [zastupitelem MČ Praha 8](https://www.praha8.cz/appo/card/74/Stanek-Martin.html) a členem [Komise pro kulturu a volný čas](https://www.praha8.cz/Komise-pro-kulturu-a-volny-cas-2018-2022.html).

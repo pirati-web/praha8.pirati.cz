@@ -30,7 +30,6 @@ profiles:
   odmeny:    https://nalodeni.pirati.cz/odmeny/martin.sterba
 funkce:
   - předseda MS Praha 8
-  - místopředseda <a href="https://www.praha8.cz/Komise-Redakcni-rada-casopisu-Osmicka-2018-2022.html">Redakční rady časopisu Osmička</a>
   - vedoucí mediálního týmu Piráti Praha
 ---
 
