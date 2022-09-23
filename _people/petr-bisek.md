@@ -7,7 +7,7 @@ category:
 img: people/petr-bisek-2022.jpg
 heroImg: posts/praha8-zvysky.png
 profession: publicista, vydavatel Amerických listů (1990–2010)
-partyUid: bezpp
+partyUid: pirati
 description: člen MS Praha 8
 teamDescription: 
   clenove: člen MS Praha 8

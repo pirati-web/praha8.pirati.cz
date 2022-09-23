@@ -8,7 +8,7 @@ category:
 img: people/jakub-jiran-2022.jpg
 heroImg: posts/praha8-zvysky.png
 profession: právník, člen dozorčí rady
-partyUid: bezpp
+partyUid: pirati
 description: člen MS Praha 8
 teamDescription:
   clenove: člen MS Praha 8 
