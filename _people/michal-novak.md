@@ -5,7 +5,6 @@ titles:
   after: MBA
 category:
   - pms
-  - zastupitele
   - clenove
 ordzas: 1
 ordpms: 4

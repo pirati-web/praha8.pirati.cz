@@ -5,7 +5,6 @@ titles:
   before: Mgr.
   after: Ph.D.
 category:
-  - zastupitele
 ordzas: 3
 img: people/martin-stanek.jpg
 heroImg: posts/praha8-zvysky.png

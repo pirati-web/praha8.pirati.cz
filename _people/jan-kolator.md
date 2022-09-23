@@ -5,7 +5,6 @@ titles:
   before: Mgr.
 category:
   - pms
-  - zastupitele
   - clenove
 ordpms: 2
 ordzas: 3

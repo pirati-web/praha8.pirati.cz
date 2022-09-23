@@ -4,7 +4,6 @@ name: Pavel Franc
 titles:
   before: Mgr.
 category:
-    - zastupitele
     - clenove
 ordzas: 3
 img: people/pavel-franc-2022.jpg

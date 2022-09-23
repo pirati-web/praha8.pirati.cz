@@ -5,7 +5,6 @@ titles:
   before:
   after: Dis.
 category:
-  - zastupitele
   - clenove
 ordzas: 4
 img: people/karel-ptacek-2022-1.jpg
