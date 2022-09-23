@@ -4,7 +4,7 @@ name: Jakub Jiran
 titles:
   before: Mgr.
 category:
-  - regp
+  - clenove
 img: people/jakub-jiran-2022.jpg
 heroImg: posts/praha8-zvysky.png
 profession: právník, člen dozorčí rady

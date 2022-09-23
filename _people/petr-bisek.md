@@ -3,7 +3,7 @@ uid: petr.bisek
 name: Petr Bísek
 titles:
 category:
-  - regp
+  - clenove
 img: people/petr-bisek-2022.jpg
 heroImg: posts/praha8-zvysky.png
 profession: publicista, vydavatel Amerických listů (1990–2010)
