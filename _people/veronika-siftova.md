@@ -4,17 +4,17 @@ name: Veronika Šiftová
 titles:
   before: Ing.
 category:
-  - regp
+  - clenove
 img: people/veronika-siftova-2022.jpg
 heroImg: posts/praha8-zvysky.png
 profession: ministerský rada Ministerstva vnitra
 partyUid: bezpp
 description: registrovaná příznivkyně
 teamDescription:
-  regp: registrovaná příznivkyně
+  clenove: členka MS Praha 8
 mob: 
 mail:
-  - veronika.siftova@seznam.cz
+  - veronika.siftova@pirati.cz
 profiles:
   facebook:  https://www.facebook.com/werca.siftova
 funkce:

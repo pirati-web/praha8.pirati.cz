@@ -6,7 +6,7 @@ titles:
 category:
   - clenove
 ordzas: 3
-img: people/anna-filinova.jpg
+img: people/anna-filinova-2018.jpg
 heroImg: posts/praha8-zvysky.png
 profession: projektová manažerka
 partyUid: pirati

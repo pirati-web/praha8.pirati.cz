@@ -9,7 +9,9 @@ img: people/jakub-jiran-2022.jpg
 heroImg: posts/praha8-zvysky.png
 profession: právník, člen dozorčí rady
 partyUid: bezpp
-description: registrovaný příznivec
+description: člen MS Praha 8
+teamDescription:
+  clenove: člen MS Praha 8 
 mail: jakub.jiran@pirati.cz
 profiles:
   facebook: https://www.facebook.com/jakub.jiran.33
