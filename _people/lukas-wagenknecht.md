@@ -12,7 +12,7 @@ profession: ekonom, interní auditor
 partyUid: pirati
 description: senátor
 teamDescription: 
-  ustavni-cinitele: senator
+  ustavni-cinitele: senátor
   clenove: člen MS Praha 8
 mob: +420 608 303 542
 mail:
