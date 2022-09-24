@@ -16,11 +16,12 @@ mail: jakub.jiran@pirati.cz
 profiles:
   facebook: https://www.facebook.com/jakub.jiran.33
   linkedin: https://www.linkedin.com/in/jakub-jiran-83341095/
+  instagram: https://www.isntagram.com/jakub.jiran.33
 funkce:
   - člen dozorční rady <a href="https://www.dpp.cz/spolecnost/o-spolecnosti/organizacni-struktura">Dopravního podniku hl. města Prahy</a>
 ---
 
-**Jakub Jiran** je registrovaným příznivcem Pirátů na Praze 8 a je členem dozorčí rady Dopravního podniku hl. m. Prahy, akciové společnosti, tedy společnosti, kterou prostřednictvím hlavního města Prahy spoluvlastní všichni občané hlavního města.
+**Jakub Jiran** je od září 2022 členem Pirátů na Praze 8 a je členem dozorčí rady Dopravního podniku hl. m. Prahy, akciové společnosti, tedy společnosti, kterou prostřednictvím hlavního města Prahy spoluvlastní všichni občané hlavního města.
 
 Jakub vystudoval Právnickou fakultu Univerzity Karlovy a jako právník dlouhodobě působil ve státní správě, zejména v oblasti veřejných zakázek a správy majetku. Po dobu několika let byl interním auditorem v Dopravním podniku hl. m. Prahy a v současné době se věnuje bezpečnosti a krizovému řízení.
 

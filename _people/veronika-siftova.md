@@ -17,6 +17,7 @@ mail:
   - veronika.siftova@pirati.cz
 profiles:
   facebook:  https://www.facebook.com/werca.siftova
+  instagram: https://www.isntagram.com/veronikasiftova
 funkce:
 ---
 
@@ -24,8 +25,8 @@ funkce:
 
 Nyní pracuji jako ministerský rada na Ministerstvu vnitra, zabývám se primárně ekonomikou a vnitřním rozpočtem OSS. Z tohoto důvodu bych se ráda věnovala zejména hospodářské politice a správě, financím a rozpočtu v rámci územní municipality. Domnívám se, že efektivní, transparentní a průhledná veřejná správa je jedním ze základních milníků a priorit, na kterých je zapotřebí neustále systematicky pracovat. 
 
-Momentálně jsem registrovaný příznivec Pirátů, ale do budoucna bych měla zájem se angažovat aktivně, podílet se na chodu MS části Prahy 8, kde nyní také bydlím. 
+Členem Pirátské strany jsem od září 2022. Žiju v Kobylisích v Praze 8.
 
-To, co uděláme dnes, ovlivní našeho života na dalších pár let,je tedy pouze na nás, jakým způsobem bude naše budoucnost vypadat.
+>To, co uděláme dnes, ovlivní našeho života na dalších pár let, je tedy pouze na nás, jakým způsobem bude naše budoucnost vypadat.
 
-Žije v Libni v Praze 8.
+
