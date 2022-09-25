@@ -6,6 +6,7 @@ titles:
 category:
   - pms 
   - clenove
+  - zastupitele
 ordzas: 5
 ordpms: 4
 img: people/ivo-slavka-2022.jpg
