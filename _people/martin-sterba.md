@@ -34,6 +34,7 @@ profiles:
 funkce:
   - zastupitel MČ Praha 8
   - předseda MS Praha 8
+  - předseda zastupitelského klubu
   - vedoucí mediálního týmu Piráti Praha
 ---
 
