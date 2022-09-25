@@ -31,4 +31,6 @@ Jakub vystudoval Právnickou fakultu Univerzity Karlovy a jako právník dlouhod
 
 V dozorčí radě zastupuje Piráty a jejich program, prosazuje zásady transparentního řízení a správy majetku v souladu s právními předpisy a péčí řádného hospodáře a je otevřený ke komunikaci s každým, který má o dění v podniku zájem – napište mu s využitím kontaktů níže uvedených. 
 
+Od komunálních voleb 2022 je zastupitelem MČ Praha 8.
+
 Žije v Kobylisích. 
