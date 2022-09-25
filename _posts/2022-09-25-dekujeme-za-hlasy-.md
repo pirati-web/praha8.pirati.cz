@@ -13,4 +13,6 @@ V novém zastupitelstvu budeme mít šest zastupitelů – jsou to [Martin Ště
 
 Gratulujeme ODS Praha 8 k vítězství ve volbách. Náš lídr Martin Štěrba ještě v noci pogratuloval i všem ostatním k úspěchu ve volbách. 
 
+{% twitter https://twitter.com/sterbamartin/status/1573800996337291265 %}
+
 Budeme se snažit vyjednat takovou koalici, abychom mohli plnit náš program ve prospěch občanů naší městské části. Držte nám palce.
