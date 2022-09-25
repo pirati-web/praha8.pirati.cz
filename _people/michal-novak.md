@@ -6,7 +6,8 @@ titles:
 category:
   - pms
   - clenove
-ordzas: 1
+  - zastupitele
+ordzas: 2
 ordpms: 4
 img: people/michal-novak-2022.jpg
 heroImg: posts/praha8-zvysky.png
@@ -14,7 +15,7 @@ profession: nezávislý konzultant
 partyUid: pirati
 description: předseda zastupitelského klubu
 teamDescription:
-  zastupitele: předseda zastupitelského klubu
+  zastupitele: místopředseda zastupitelského klubu
   pms: místopředseda MS Praha 8
   clenove: garant oblasti majetku
 mail:
@@ -24,7 +25,9 @@ profiles:
   twitter:   https://twitter.com/xelagem
   linkedin:  https://www.linkedin.com/in/michalnovakmba/
 funkce:
+  - zastupitel MČ Praha 8
   - místopředseda MS Praha 8
+  - místopředseda zastupitelského klubu
 ---
 
 Jsem členem Pirátů od října 2017. Na Praze 8, konkrétně v Kobylisích, žiji od svého jednoho roku (v roce 2021 tedy již 48 let).

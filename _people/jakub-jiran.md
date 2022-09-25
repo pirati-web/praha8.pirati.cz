@@ -5,6 +5,8 @@ titles:
   before: Mgr.
 category:
   - clenove
+  - zastupitele
+ordzas: 6
 img: people/jakub-jiran-2022.jpg
 heroImg: posts/praha8-zvysky.png
 profession: právník, člen dozorčí rady
@@ -12,12 +14,14 @@ partyUid: pirati
 description: člen MS Praha 8
 teamDescription:
   clenove: člen MS Praha 8 
+  zastupitele: zastupitel
 mail: jakub.jiran@pirati.cz
 profiles:
   facebook: https://www.facebook.com/jakub.jiran.33
   linkedin: https://www.linkedin.com/in/jakub-jiran-83341095/
   instagram: https://www.isntagram.com/jakub.jiran.33
 funkce:
+  - zastupitel MČ Praha 8
   - člen dozorční rady <a href="https://www.dpp.cz/spolecnost/o-spolecnosti/organizacni-struktura">Dopravního podniku hl. města Prahy</a>
 ---
 

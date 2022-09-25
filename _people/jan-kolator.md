@@ -6,6 +6,7 @@ titles:
 category:
   - pms
   - clenove
+  - zastupitele
 ordpms: 2
 ordzas: 3
 img: people/jan-kolator-2022-2.jpg
@@ -25,6 +26,7 @@ profiles:
   odmeny:   https://nalodeni.pirati.cz/odmeny/jan.kolator
   linkedin: https://www.linkedin.com/in/jan-kol%C3%A1tor-a05499a1/
 funkce:
+  - zastupitel MČ Praha 8
   - 1. místopředseda MS Praha 8
 ---
 

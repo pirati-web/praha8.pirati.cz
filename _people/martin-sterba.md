@@ -6,6 +6,8 @@ titles:
 category:
   - pms
   - clenove
+  - zastupitele
+ordzas: 1
 ordpms: 1
 img: people/martin-sterba-2022-2.jpg
 heroImg: posts/praha8-zvysky.png
@@ -16,6 +18,7 @@ teamDescription:
   pms: předseda MS Praha 8
   clenove: garant oblasti dopravy
   contact: kontakt pro média
+  zastupitele: předseda zastupitelského klubu
 mob: +420 732 408 769
 mail:
   - martin.sterba@pirati.cz
@@ -29,6 +32,7 @@ profiles:
   evidence:  https://evidence.pirati.cz/author/357/
   odmeny:    https://nalodeni.pirati.cz/odmeny/martin.sterba
 funkce:
+  - zastupitel MČ Praha 8
   - předseda MS Praha 8
   - vedoucí mediálního týmu Piráti Praha
 ---
