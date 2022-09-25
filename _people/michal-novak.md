@@ -15,7 +15,7 @@ profession: nezávislý konzultant
 partyUid: pirati
 description: místopředseda zastupitelského klubu
 teamDescription:
-  zastupitele: místopředseda zastupitelského klubu
+  zastupitele: místopředseda zast. klubu
   pms: místopředseda MS Praha 8
   clenove: garant oblasti majetku
 mail:
