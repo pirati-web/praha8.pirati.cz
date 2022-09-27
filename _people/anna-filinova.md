@@ -5,7 +5,6 @@ titles:
   before: Bc.
 category:
   - clenove
-ordzas: 3
 img: people/anna-filinova-2018.jpg
 heroImg: posts/praha8-zvysky.png
 profession: projektová manažerka

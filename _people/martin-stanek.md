@@ -5,14 +5,12 @@ titles:
   before: Mgr.
   after: Ph.D.
 category:
-ordzas: 3
 img: people/martin-stanek.jpg
 heroImg: posts/praha8-zvysky.png
 profession: geolog
-partyUid: pirati
-description: zastupitel MČ Praha 8
+partyUid: bezpp
+description: člen MS Praha 8
 teamDescription:
-  zastupitele: zastupitel
   clenove: člen MS Praha 8
 mob: 775 058 555
 mail:
@@ -24,7 +22,7 @@ profiles:
 funkce:
 ---
 
-Martin Staněk (* 1983) je [zastupitelem MČ Praha 8](https://www.praha8.cz/appo/card/74/Stanek-Martin.html) a členem [Komise pro kulturu a volný čas](https://www.praha8.cz/Komise-pro-kulturu-a-volny-cas-2018-2022.html).
+Martin Staněk (* 1983) byl ve volebním období 2018–2022 [zastupitelem MČ Praha 8](https://www.praha8.cz/appo/card/74/Stanek-Martin.html) a členem [Komise pro kulturu a volný čas](https://www.praha8.cz/Komise-pro-kulturu-a-volny-cas-2018-2022.html).
 
 Jeho hlavním cílem je otevřená, důvěryhodná a moderní veřejná správa. Má za to, že zlepšit životní úroveň společnosti lze především zapojením veřejnosti do rozhodování o věcech veřejných. Proto s Piráty aktivně zveřejňuje a šíří informace z veřejné správy a snaží se jí změnit tak, aby se veřejnost mohla bez zbytečných překážek zapojit do rozhodování a byla dobře informována.
 

@@ -1,6 +1,6 @@
 ---
 title: Jak řešit bezdomovectví na brownfieldech na Praze 8? Nedopustit, aby lidé přicházeli o své domovy
-authorId: magdalena.opletalova
+author: Magdalena Opletalová
 image: posts/rohanskyostrov.jpg
 tags: [Časopis Osmička, Bezpečnost, Sociální služby]
 ---

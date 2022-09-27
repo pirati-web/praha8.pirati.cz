@@ -6,16 +6,15 @@ img: people/jan-horn.jpg
 heroImg: posts/praha8-zvysky.png
 profession: umělecký kovář a učitel
 partyUid: bezpp
-description: podporovatel
+description: bývalý člen
 teamDescription:
 mail:
-  - jan.horn@pirati.cz
 profiles:
   facebook: https://www.facebook.com/jan.m.horn
 funkce:
 ---
 
-**Jan Horn** má dlouhodobý zájem o lokální komunální politiku Prahy 8. Vyhovuje mu přímý kontakt s občany a zaměřuje se především na problémy "obyčejného člověka" a sociálně slabších skupin.
+**Jan Horn** působil od března 2018 do února 2022 v pirátském dresu. Má dlouhodobý zájem o lokální komunální politiku Prahy 8. Vyhovuje mu přímý kontakt s občany a zaměřuje se především na problémy "obyčejného člověka" a sociálně slabších skupin.
 
 Narozen v dubnu roku 1979 v Praze. Vystudoval nejprve SŠ s ekonomickým zaměřením, následně uměleckořemeslnou školu se specializací umělecký kovář a zámečník. Vlastní firmu na zákazkovou kovovýrobu, které se aktivně věnuje dodnes. Ve volném čase působí jako přednášející, vedoucí workshopů a copywriter. Má bohaté zkušenosti ze světa obchodu, marketingu a vývoje. V lednu roku 2020 mu vyšla [první kniha u nakladatelství Straky na vrbě](https://www.databazeknih.cz/knihy/valard-valard-aamp-vejce-na-draka-416969).
 
@@ -25,9 +24,9 @@ Narozen v dubnu roku 1979 v Praze. Vystudoval nejprve SŠ s ekonomickým zaměř
 
 >Představuji si Prahu 8 jako funkční celek, tvořený unikátním charakterem jednotlivých částí. Např.: progresivní a moderní Karlín, tradiční a historická Libeň, sousedské a přátelské Bohnice... Ulice čisté, parky bezpečné, služby funkční. Přál bych si městskou část, kde občan cítí, že zastupitelé jsou jeho hlas v samosprávě, a kde se lidé rádi podílí na chodu a rozvoji svého sousedství.
 
-Politicky se angažuje v MS na Praze 8, kde se dlouhodobě zapojuje do veřejně prospěšných projektů a akcí. V roce 2021 byl zvolen místopředsedou PMS na Praze 8.
+Politicky se angažoval hlavně v MS na Praze 8, kde se dlouhodobě zapojuje do veřejně prospěšných projektů a akcí. Od ledna 2021 do února 2022 byl místopředsedou místního sdružení na Praze 8.
 
-**Příklady občanské aktivity pod pirátskou vlajkou**
+**Občanské aktivity pod pirátskou vlajkou**
 
 - **Klokánek Chabařovická” (2020)** - kvůli administrativním obstrukcím v průběhu COVID situace zůstaly děti v péči Klokánku bez peněz a podpory. Připojil se se k občanské iniciativě a pomohl s penězi, nákupem potravin i dopravou.
 
@@ -44,3 +43,5 @@ Politicky se angažuje v MS na Praze 8, kde se dlouhodobě zapojuje do veřejně
 - **Radniční autovrak (2018)** - Podhradí Libeňského Zámečku několik let hyzdil autovrak, který už hrozil průsakem chemikálií do Rokytky, a úřední postup nedokázal situaci efektivně řešit. Honza dokázal, že i při dodržení všech legislativních nároků to lze. 
 
 - **Vrak u Magistrátu na Mariánském náměstí (2019)** - Youtuber MikeJePán se snažil zesměšnit nové vedení magistrátu za Zdeňka Hřiba tím, že vystavil svůj takzvaný “neodstranitelný” reklamní autovrak před budovu Nové Radnice. Honza napomohl účinnému a legislativně čistému řešení, akci překazil a přispěl tak k okamžitému odstranění vraku.
+
+V únoru 2022 se rozhodl pirátské vody opustit.

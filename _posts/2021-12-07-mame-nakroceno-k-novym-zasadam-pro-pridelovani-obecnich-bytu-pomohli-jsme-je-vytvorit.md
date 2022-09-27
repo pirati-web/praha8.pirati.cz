@@ -1,6 +1,6 @@
 ---
 title: Máme nakročeno k novým zásadám pro přidělování obecních bytů, pomohli jsme je vytvořit
-authorId: magdalena.opletalova
+author: Magdalena Opletalová
 date: 2021-12-07
 image: posts/obecnybyty-mahuopletalova.png
 tags: [Bydlení, Sociální služby]

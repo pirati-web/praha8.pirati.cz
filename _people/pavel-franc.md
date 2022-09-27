@@ -26,7 +26,7 @@ funkce:
   - zastupitel MČ Praha 8
 ---
 
-Pavel je člen Pirátské strany a místního sdružení Praha 8. Pavel pochází z Liberce a od roku 2006 žije trvale (přechodně už od 1996) v Praze 8 - Kobylisích.
+Pavel je členeme Pirátské strany a místního sdružení Praha 8. Pavel pochází z Liberce a od roku 2006 žije trvale (přechodně už od 1996) v Praze 8 - Kobylisích. Od roku 2018 je zastupitelem městské části Praha 8.
 
 Vystudoval magisterský obor Matematické struktury na MFF UK. Rovněž studoval matematiku dva roky na KSU v USA, kde získal titul M.S.
 
