@@ -30,9 +30,9 @@ Pokud dostaneme důvěru občanů, budeme se účastnit vyjednávání o sestave
 
 Budeme jednat se všemi ostatními politickými stranami. Naše podpora libovolné Rady je podmíněna tím, že do ní nebudou nominováni lidé nekompetentní nebo s korupční historií, včetně za korupci trestně stíhaných či již odsouzených osob. Nepodpoříme Radu s účastí subjektů ohrožujících základy liberální demokracie nebo s historickým dědictvím likvidace demokracie v této zemi, tj. zejména s účastí KSČM, SPD či jim podobných subjektů. Totéž se týká lidí, kteří se na činech nedemokratického režimu osobně podíleli, spolupracovali s jeho složkami nebo se k postojům rozporujícím základy demokracie a právního státu veřejně hlásí.
 
-Výběr radních a jakákoliv smlouva o povolební spolupráci (uzavření koaliční smlouvy, tolerance menšinové rady, …) podléhají souhlasu místního fóra Praha 8,, které má poslední slovo.
+Výběr radních a jakákoliv smlouva o povolební spolupráci (uzavření koaliční smlouvy, tolerance menšinové rady, …) podléhají souhlasu místního fóra Praha 8, které má poslední slovo.
 
-### 3. Jak se chováme, co děláme před volbami, po nich a po schválení strategie
+## 3. Jak se chováme, co děláme před volbami, po nich a po schválení strategie
 Po schválení této strategie ustanovíme oficiálně vyjednávací tým ve složení lídra kandidátky, dvojky kandidátky a nominanta PMS (předsednictvo místního sdružení). Tento tým může po konzultaci s Klubem a PMS do svých řad jmenovat dočasně i další vyjednavače dle uvážení. Vyjednávací tým se při svém jednání řídí tradičními pirátskými zásadami týmové spolupráce.
  
 Tento vyjednávací tým, v úzké spolupráci s PMS a s čelem kandidátky (čelo je definováno jako místa 1-10 kandidujících), a po volbách již se zvoleným zastupitelským klubem určí strategii vyjednávání, resp. analyzuje programové priority kandidujících stran ve snaze najít společné předběžné programové shody, může se také sejít s ostatními politickými subjekty před volbami, za účelem předběžného zjištění jejich programových priorit a koaličních preferencí. 
