@@ -1,5 +1,5 @@
 ---
-title: "Skončilo první kolo vyjednávání o koalici, kdo povládne Praze 8 zatím jisté není
+title: "Skončilo první kolo vyjednávání o koalici, kdo povládne Praze 8 zatím jisté není"
 author: Piráti Praha 8
 image: posts/martin-sterba/volebnistab-lod-telefonovani.jpg
 tags: [Volby 2022]
