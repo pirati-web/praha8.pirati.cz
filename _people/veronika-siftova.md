@@ -25,8 +25,9 @@ funkce:
 
 Nyní pracuji jako ministerský rada na Ministerstvu vnitra, zabývám se primárně ekonomikou a vnitřním rozpočtem OSS. Z tohoto důvodu bych se ráda věnovala zejména hospodářské politice a správě, financím a rozpočtu v rámci územní municipality. Domnívám se, že efektivní, transparentní a průhledná veřejná správa je jedním ze základních milníků a priorit, na kterých je zapotřebí neustále systematicky pracovat. 
 
+>"Apeluji na zavádění Citivizoru jako kontrolního mechanismu, rozklikávacího rozpočtu a možnosti občanů se na správě reálně podílet. Je potřeba srozumitelně debyrokratizovat veřejnou správu a tím ji přiblížit lidem."
+
 Členem Pirátské strany jsem od září 2022. Žiju v Kobylisích v Praze 8.
 
 >To, co uděláme dnes, ovlivní našeho života na dalších pár let, je tedy pouze na nás, jakým způsobem bude naše budoucnost vypadat.
-
 

@@ -30,12 +30,10 @@ funkce:
   - místopředseda zastupitelského klubu
 ---
 
-Jsem členem Pirátů od října 2017. Na Praze 8, konkrétně v Kobylisích, žiji od svého jednoho roku (v roce 2021 tedy již 48 let).
+**Michal Novák je členem Pirátů od října 2017. Na Praze 8, konkrétně v Kobylisích, žije prakticky od narození. Už jeho první vzpomínky patří Kobylisům, kde od svého prvního roku až do dnešních dnů žije. V Čimickém háji stavěl jako kluk s kamarády bunkry. Školku v Klíčanské a základku v Hovorčovické zná, jak se říká, zevnitř. Na gymnázium chodil na Libeňský zámeček a za kulturou nejdřív do divadélka Jiskra (dnešní Hackerovo divadlo) a později do kina na Ládví. Do bohnického "kulturáku" chodil na angličtinu a to knihovny.
 
-Živím se jako konzultant na volné noze, radím velkým i malým firmám v oblastech obchodu, strategie, marketingu, projektového řízení a dalších, a to jak v ČR tak v zahraničí. Většina mých klientů je z oboru IT, Internetu nebo telekomunikací.
+Živí se jako konzultant na volné noze, radí velkým i malým firmám v oblastech obchodu, strategie, marketingu, projektového řízení a dalších, a to jak v ČR tak v zahraničí. Většina jeho klientů je z oboru IT, Internetu nebo telekomunikací.** U Pirátů ho zaujaly hodnoty, které sám vyznává: otevřenost, rovný přístup ke všem a touha (snad dokonce potřeba) něco změnit. Má rád historii, esoteriku, hudbu, filmy a Shakespearovské divadlo v originále.
 
-U Pirátů mě zaujaly hodnoty, které sám vyznávám: otevřenost, rovný přístup ke všem a touha (snad dokonce potřeba) něco změnit.
+>"Už příliš dlouho nám zde vládnou politici, kteří patří spíš do 90. let nebo do ještě vzdálenější historie. Praha 8 bývala jednou z nejbohatších částí Prahy. Pak minulé rady zprivatizovaly většinu bytového fondu. Začaly a zase přestaly stavět Novou Palmovu, kterou jsme s kolegy od Pirátů loni zachránili alespoň pro 'velkou' Prahu."
 
-Mám rád historii, esoteriku, hudbu, filmy a Shakespearovské divadlo v originále.
-
-**Od podzimu 2018 jsem zastupitelem Prahy 8 za Piráty a jsem předsedou našeho zastupitelského klubu.** Od ledna 2018 do ledna 2019 jsem působil jako předseda místního sdružení, od ledna 2019 do ledna 2021 pak jako jeho místopředseda.
+**Od podzimu 2018 je zastupitelem Prahy 8 za Piráty, v prvním volebním období působil jako předseda zastupitelského klubu, v tom současném je jeho místopředsedou.** Od ledna 2018 do ledna 2019 působil jako předseda místního sdružení, od ledna 2019 do ledna 2021 a pak od června 2022 jako místopředseda.

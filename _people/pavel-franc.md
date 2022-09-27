@@ -32,5 +32,7 @@ Vystudoval magisterský obor Matematické struktury na MFF UK. Rovněž studoval
 
 Během své profesní kariéry prošel několika IT firmami (Seznam, Jyxo, GoodData), kde se převážně věnoval projektovému a produktovému managementu. Aktuálně pracuje v jedné nadnárodní společnosti jako vedoucí vývoje platformy pro velká data. Jako dobrovolník působil několik let v organizaci Mozilla, kde koordinoval a pomáhal s překladem software do češtiny.
 
+>"Přál bych si Prahu 8, kde rodiče s dětmi budou rádi trávit volný čas venku, protože úklid bude vidět nejen na fakturách, ale i v realitě. Přál bych si, aby se rodiče nemuseli bát, že se jejich dítě nedostane do mateřské školky, protože Praha 8 bude podporovat vznik dětských skupin. Aby všechny naše základky byly na vysoké úrovni, protože MČ pomůže ředitelům s administrativou a sdílením dobré praxe. Aby se ve školních jídelnách vařilo zdravě. Aby děti mohly jezdit do školy na kole. Aby Praha 8 podporovala nejen známé kluby, ale veškeré pohybové aktivity dětí včetně vybudování sportovišť typu skejtpark, hřiště na pétanque nebo ping-pong."
+
 Pavel je otcem dvou kluků, a zejména proto se zajímá o možnosti vzdělávání a volnočasových aktivit na Praze 8. Mimo tuto oblast řeší i téma dopravy a otevřené radnice.
 
