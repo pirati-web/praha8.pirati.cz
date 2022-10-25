@@ -1,4 +1,4 @@
- ---
+---
 title: "Na Rohanském ostrově vznikne kromě nové školy také školka pro 50 dětí"
 authorId: karel.ptacek
 image: posts/skolka-deti.jpeg
@@ -30,5 +30,3 @@ Praha 8, konkrétně odbor územního rozvoje dlouhodobě připravuje umístěn�
   </div>
 </div>
 {% endfor %}
-
-
