@@ -1,6 +1,6 @@
 ---
 title: Roušky všem! Děkujeme těm, kteří šíjí!
-authorId: martin.sterba
+author: Piráti Praha 8
 image: posts/rousky_anicka.jpg
 tags: [Pandemie Covid-19]
 ---

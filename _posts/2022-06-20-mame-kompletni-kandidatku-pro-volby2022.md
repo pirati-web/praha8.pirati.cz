@@ -1,6 +1,6 @@
 ---
 title: Máme odvahu řídit Prahu 8 správně, toto je naše kompletní kandidátka
-authorId: martin.sterba
+author: Piráti Praha 8
 image: posts/pirati-random1.png
 tags: [Volby 2022]
 ---

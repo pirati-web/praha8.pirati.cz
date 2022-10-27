@@ -1,6 +1,6 @@
 ---
 title: Annu Filínovou střídá v zastupitelstvu Jan Kolátor
-authorId: martin.sterba 
+author: Piráti Praha 8
 date: 2022-02-02
 image: posts/jankolator-novyzastpupitel.jpg
 tags: [Piráti, Zastupitelstvo]

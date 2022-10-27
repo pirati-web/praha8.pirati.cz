@@ -1,6 +1,6 @@
 ---
 title: Začínáme připravovat program pro komunální volby 2022 v Praze 8, zapojte se!
-authorId: martin.sterba
+author: Piráti Praha 8
 image: posts/praha8-zvysky.png
 tags: [Piráti, Volby 2022]
 ---

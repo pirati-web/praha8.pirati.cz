@@ -1,6 +1,6 @@
 ---
 title: Do nového roku s novým předsednictvem, předsedou byl zvolen Martin Štěrba
-authorId: martin.sterba
+author: Piráti Praha 8
 image: posts/predsednictvo2021.png
 tags: [Piráti]
 ---

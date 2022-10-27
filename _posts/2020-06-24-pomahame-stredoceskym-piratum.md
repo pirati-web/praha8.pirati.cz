@@ -1,6 +1,6 @@
 ---
 title: Zahájili jsme kampaň do krajských voleb. Pomáháme středočeským pirátům
-authorId: martin.sterba
+author: Piráti Praha 8
 image: posts/krajskevolby2020.jpg
 tags: [Piráti]
 ---

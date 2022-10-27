@@ -1,6 +1,6 @@
 ---
 title: Vraťme zemi budoucnost. Zahajujeme kampaň do sněmovních voleb
-authorId: martin.sterba
+author: Piráti Praha 8
 image: posts/volby21-vratmezemibudoucnost.png
 tags: [Piráti, STAN, Sněmovna, Volby 2021]
 ---

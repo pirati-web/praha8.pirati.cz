@@ -1,6 +1,6 @@
 ---
 title: Co nás čeká na dnešním jednání zastupitelstva?
-authorId: martin.sterba
+author: Piráti Praha 8
 image: posts/bilydum.png
 tags: [Zastupitelstvo]
 ---

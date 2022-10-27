@@ -1,6 +1,6 @@
 ---
 title: My máme odvoleno. A co vy?
-authorId: martin.sterba
+author: Piráti Praha 8
 image: posts/volby21-odvoleno.png
 tags: [Volby 2021]
 ---

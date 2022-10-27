@@ -1,6 +1,6 @@
 ---
 title: Oslavy 80 let Operace Anthropoid začínají zítra
-authorId: martin.sterba
+author: Piráti Praha 8
 image: posts/anthropoid-80let.jpg
 tags: [Anthropoid, Libeň]
 ---

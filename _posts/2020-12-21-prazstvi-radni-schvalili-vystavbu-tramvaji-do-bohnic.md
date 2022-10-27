@@ -1,6 +1,6 @@
 ---
 title: Pražští radní schválili výstavbu tramvajové tratě do Bohnic
-authorId: martin.sterba
+author: MHMP
 image: posts/tramvaje-bohnice.png
 tags: [Bohnice, Doprava, Magistrát, Tramvaj do Bohnic]
 ---

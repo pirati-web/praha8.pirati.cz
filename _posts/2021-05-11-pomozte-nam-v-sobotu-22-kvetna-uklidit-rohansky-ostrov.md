@@ -1,6 +1,6 @@
 ---
 title: Pomozte nám v sobotu 22. května uklidit Rohanský ostrov
-authorId: martin.sterba
+author: Piráti Praha 8
 image: posts/rohanskyostrov-uklid.jpg
 tags: [Libeň, Karlín, Rohanský ostrov, Veřejný prostor, Životní prostředí]
 ---

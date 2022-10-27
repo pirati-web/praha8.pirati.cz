@@ -1,6 +1,6 @@
 ---
 title: Pirátské řady posiluje Lukáš Wagenknecht
-authorId: martin.sterba
+author: Piráti Praha 8
 image: posts/lukas-wagenknecht-clen.jpg
 tags: [Piráti, Senát]
 ---

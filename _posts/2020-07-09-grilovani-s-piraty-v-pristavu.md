@@ -1,6 +1,6 @@
 ---
 title: Přijďte v pondělí na Grilování s Piráty v Přístavu
-authorId: martin.sterba
+author: Piráti Praha 8
 image: posts/pozvanka_grilovanispiraty2020.jpg
 tags: [Karlín, Piráti]
 ---

@@ -1,6 +1,6 @@
 ---
 title: Podali jsme trestní oznámení na radního Slobodníka
-authorId: martin.sterba
+author: Piráti Praha 8
 image: posts/slobodnk-to.jpg
 tags: [Kauza Dezinfekce, ODS, Pandemie Covid-19]
 ---

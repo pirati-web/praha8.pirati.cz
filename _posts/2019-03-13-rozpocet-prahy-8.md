@@ -1,6 +1,6 @@
 ---
 title: "Schválení rozpočtu Prahy 8: Co si městská část pořídí?"
-authorId: martin.sterba
+author: Piráti Praha 8
 image: posts/zastupitelstvo2.jpg
 tags: [Finance, Zastupitelstvo]
 ---

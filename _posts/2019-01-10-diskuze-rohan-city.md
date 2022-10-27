@@ -1,6 +1,6 @@
 ---
 title: Jak má vypadat Rohan City? Piráti diskutují!
-authorId: martin.sterba
+author: Piráti Praha 8
 image: posts/rohancity.jpg
 tags: [Rohanský ostrov, Karlín, Územní rozvoj]
 ---

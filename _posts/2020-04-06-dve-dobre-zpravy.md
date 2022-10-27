@@ -1,6 +1,6 @@
 ---
 title: Starosta Gros svolává mimořádné jednání zastupitelstva, Slobodník rezignuje
-authorId: martin.sterba
+author: Piráti Praha 8
 image: posts/rezignace-slobodnik2.png
 tags: [Kauza Dezinfekce, Zastupitelstvo]
 ---

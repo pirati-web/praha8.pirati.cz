@@ -1,6 +1,6 @@
 ---
 title: Dnešní jednání zastupitelstva MČ Praha 8 je odloženo
-authorId: martin.sterba
+author: Piráti Praha 8
 image: posts/odlozene-zastupitelstvo.png
 tags: [Zastupitelstvo, Pandemie Covid-19]
 ---

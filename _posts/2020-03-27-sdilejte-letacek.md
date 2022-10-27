@@ -1,6 +1,6 @@
 ---
 title: Praha drží spolu! Sdílejte letáky pro seniory.
-authorId: martin.sterba
+author: Piráti Praha 8
 image: posts/prahadrzispolu.jpg
 tags: [Magistrát, Pandemie Covid-19]
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Vyrazili jsme uklízet Česko, z Okrouhlíku jsme odnesli dvacet pytlů odpadu"
-authorId: martin.sterba
+author: Piráti Praha 8
 image: posts/2018-04-07-uklidmecesko/uklidmecesko4.jpeg
 tags: [Piráti, Ukliďme Česko, Životní prostředí]
 fancybox:

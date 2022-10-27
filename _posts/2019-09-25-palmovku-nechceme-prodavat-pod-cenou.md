@@ -1,6 +1,6 @@
 ---
 title: Máme recept, jak rozvíjet Palmovku. Torzo radnice nechceme prodávat pod cenou!
-authorId: martin.sterba
+author: Piráti Praha 8
 image: posts/novapalmovka-michal-ivo.jpg
 tags: [Nová Palmovka, Libeň, Finance]
 ---

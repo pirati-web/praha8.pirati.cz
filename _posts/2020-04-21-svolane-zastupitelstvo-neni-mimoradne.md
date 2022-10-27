@@ -1,6 +1,6 @@
 ---
 title: Svolané zastupitelstvo Prahy 8 není mimořádné, na žádost opozice a místostarosty nebral starosta Gros zřetel
-authorId: martin.sterba
+author: Piráti Praha 8
 image: posts/zastupitelstvo2.jpg
 tags: [Kauza Dezinfekce, Zastupitelstvo]
 ---
