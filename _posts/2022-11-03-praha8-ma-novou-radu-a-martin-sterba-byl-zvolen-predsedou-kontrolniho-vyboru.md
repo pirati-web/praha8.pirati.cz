@@ -9,9 +9,9 @@ tags: [Zastupitelstvo, Kontrolní výbor]
 
 **Zastupitelstvo zvolilo novou radu ve složení:** 
 - **starosta:** Ondřej Gros (ODS) - životní prostředí, hospodářská politika
-- **místostarosta - neuvolněný:** Radomír Nepil (ANO) - územní rozvoj, majetek, výstavba ZŠ na Rohanu
-- **místostarosta - neuvolněný:** Matěj Fichtner (ANO) - školství, dotace
-- **místostarosta - neuvolněný:** Martin Cibulka (ODS) - finance, běžný chod úřadu
+- **místostarosta (neuv.):** Radomír Nepil (ANO) - územní rozvoj, majetek, výstavba ZŠ na Rohanu
+- **místostarosta (neuv.):** Matěj Fichtner (ANO) - školství, dotace
+- **místostarosta (neuv.):** Martin Cibulka (ODS) - finance, běžný chod úřadu
 - **místostarostka:** Vladimíra Ludková (ODS) - sociální oblast a zdravotnictví
 - **místostarosta:** Tomáš Hřebík (STAN) - strategický rozvoj, architekt MČ, městské firmy 
 - **místostarosta:** Jiří Vítek (Patrioti) - krizové řízení, bezpečnost
