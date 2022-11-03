@@ -1,6 +1,6 @@
 ---
 title: "Praha 8 má novou radu a Martin Štěrba byl jednomyslně zvolen předsedou kontrolního výboru"
-authorId: martin.sterba
+author: Piráti Praha 8
 image: posts/hlasovani-sterba-kv.jpg
 tags: [Zastupitelstvo, Kontrolní výbor]
 ---
