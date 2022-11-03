@@ -8,15 +8,15 @@ tags: [Zastupitelstvo, Kontrolní výbor]
 **Ustanovující zastupitelstvo naší městské části bylo kromě složení slibů zastupitelů hlavně o zvolení starosty, ustanovení rady a výborů. Prahu 8 povede následujícího roky koalice ve složení ODS, ANO, TOP 09, STAN a Patrioti.**
 
 **Zastupitelstvo zvolilo novou radu ve složení:** 
-- starosta Ondřej Gros (ODS) - životní prostředí, hospodářská politika
-- místostarosta - neuvolněný: Radomír Nepil (ANO) - územní rozvoj, majetek, výstavba ZŠ na Rohanu
-- místostarosta - neuvolněný: Matěj Fichtner (ANO) - školství, dotace
-- místostarosta - neuvolněný: Martin Cibulka (ODS) - finance, běžný chod úřadu
-- místostarostka: Vladimíra Ludková (ODS) - sociální oblast a zdravotnictví
-- místostarosta: Tomáš Hřebík (STAN) - strategický rozvoj, architekt MČ, městské firmy 
-- místostarosta: Jiří Vítek (Patrioti) - krizové řízení, bezpečnost
-- radní: Tomáš Slabihoudek (TOP 09) – doprava
-- radní: Jana Solomonová (ANO) – kultura, sport, volný čas, památková péče 
+- **starosta:** Ondřej Gros (ODS) - životní prostředí, hospodářská politika
+- **místostarosta - neuvolněný:** Radomír Nepil (ANO) - územní rozvoj, majetek, výstavba ZŠ na Rohanu
+- **místostarosta - neuvolněný:** Matěj Fichtner (ANO) - školství, dotace
+- **místostarosta - neuvolněný:** Martin Cibulka (ODS) - finance, běžný chod úřadu
+- **místostarostka:** Vladimíra Ludková (ODS) - sociální oblast a zdravotnictví
+- **místostarosta:** Tomáš Hřebík (STAN) - strategický rozvoj, architekt MČ, městské firmy 
+- **místostarosta:** Jiří Vítek (Patrioti) - krizové řízení, bezpečnost
+- **radní:** Tomáš Slabihoudek (TOP 09) – doprava
+- **radní:** Jana Solomonová (ANO) – kultura, sport, volný čas, památková péče 
 
 Dost jsme se divili tomu, že nová rada bude mít šest místostarostů, i když bylo dříve běžné mít pouze tři nebo čtyři podle počtu koaličních stran. Odpovědí bylo, že to je domluvou koalice, ale možná za tím bude i to, že neuvolněný místostarosta zkrátka bere více než neuvolněný radní. 
 
