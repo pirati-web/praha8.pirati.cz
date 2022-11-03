@@ -2,12 +2,12 @@
 title: "Praha 8 má novou radu a Martin Štěrba byl jednomyslně zvolen předsedou kontrolního výboru"
 authorId: martin.sterba
 image: posts/hlasovani-sterba-kv.jpg
-tags: [Invalidovna]
+tags: [Zastupitelstvo, Kontrolní výbor]
 ---
 
-**Ustanovující zastupitelstvo naší městské části bylo kromě složení slibů zastupitelů hlavně o zvolení starosty, ustanovení rady a výborů. A jak to celé dopadlo?**
+**Ustanovující zastupitelstvo naší městské části bylo kromě složení slibů zastupitelů hlavně o zvolení starosty, ustanovení rady a výborů. Prahu 8 povede následujícího roky koalice ve složení ODS, ANO, TOP 09, STAN a Patrioti.**
 
-**Zastupitelstvo zvolilo novou radu ve složení** 
+**Zastupitelstvo zvolilo novou radu ve složení:** 
 - starosta Ondřej Gros (ODS) - životní prostředí, hospodářská politika
 - místostarosta - neuvolněný: Radomír Nepil (ANO) - územní rozvoj, majetek, výstavba ZŠ na Rohanu
 - místostarosta - neuvolněný: Matěj Fichtner (ANO) - školství, dotace
