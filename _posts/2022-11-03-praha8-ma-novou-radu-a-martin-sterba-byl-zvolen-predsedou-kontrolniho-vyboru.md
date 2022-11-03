@@ -22,7 +22,7 @@ Dost jsme se divili tomu, že nová rada bude mít šest místostarostů, i kdy�
 
 Nové rady jsme se ptali na nejrůznější otázky, třeba na to, jakým způsobem budou spolupracovat s opozicí, magisrátem, jaký považují největší úkol tohoto volebního období, jak to vidí s dokončením Cityvizoru, budoucností Palmovky, osmičkovým školstvím, jak se opraví a upraví Zenklova ulice až po to, jestli Praha 8 například připraví veřejná griloviště či co bude s neustále přecpaným odpadkovým košem na Florenci. Na řadu otázek jsme dostali uspokojivé odpovědi, na některé méně. 
 
-Kromě rady jsme také zvolili také členy finančního a kontrolního výboru. Jakub Jiran byl zvolen členem finančního výboru a Martin Štěrba byl zastupitelstvem jednomyslně zvolen předsedou kontrolního výboru.
+Kromě rady jsme také zvolili také členy finančního a kontrolního výboru. Jakub Jiran byl zvolen členem finančního výboru a Martin Štěrba byl zastupitelstvem téměř jednomyslně zvolen předsedou kontrolního výboru.
 
 {% twitter https://twitter.com/sterbamartin/status/1587929174542413824 %}
 
