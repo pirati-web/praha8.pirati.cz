@@ -1,5 +1,5 @@
 ---
-title: "Martin Štěrba pro TV Nova: Šest místostarostů je zkrátka hodně"
+title: "Martin Štěrba pro TV Nova: Šest místostarostů Prahy 8 je zkrátka hodně"
 author: Piráti Praha 8
 image: posts/martin-sterba/tvnova-listopad2022.png
 tags: [Zastupitelstvo, Kontrolní výbor]
