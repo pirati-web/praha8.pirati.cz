@@ -2,7 +2,7 @@
 title: "Máme odvahu řídit Prahu 8 správně, podívejte se na tři naše videa"
 author: Piráti Praha 8
 image: posts/nahled-video-martin-michal-kaja.png
-tags: [Volby 2022]
+tags: [Zastupitelstvo]
 ---
 
 **Praha 8 je místo, kde žijeme, kde chodí do školy naše děti, kde trávíme svůj volný čas. Osmičku známe opravdu dobře – s jejími výhodami i problémy. Díky tomu vidíme, co všechno napáchal monopol tradičních politických stran, které v posledních letech na radnici pracovaly bez jakékoliv vize a pro Městskou část Praha 8 nic neudělaly. My se nebojíme jít za konkrétními cíli. Nabízíme cestu, jak Prahu 8 zlepšit, ne důvody, proč to nejde. Máme odvahu řídit Prahu 8 správně!**
