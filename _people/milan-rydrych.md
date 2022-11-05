@@ -10,7 +10,6 @@ profession: student farmaceutické fakulty UK
 partyUid: bezpp
 description: podporovatel
 mail:
-  - milan.rydrych@pirati.cz
 profiles:
 ---
 

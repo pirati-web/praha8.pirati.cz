@@ -5,6 +5,7 @@ titles:
   before:
   after: BBus (Hons)
 category:
+  - regp
 img: people/kveta-marikova-2022.jpg
 heroImg: posts/praha8-zvysky.png
 profession: knihovnice
