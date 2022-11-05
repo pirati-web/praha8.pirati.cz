@@ -1,8 +1,8 @@
 ---
-title: "Martin Štěrba pro TV Nova: Šest místostarostů je zkrátka hodně"
+title: "Martin Štěrba pro TV Nova: Šest místostarostů Prahy 8 je zkrátka hodně"
 authorId: martin.sterba
 image: posts/martin-sterba/tvnova-listopad2022.png
-tags: [Zastupitelstvo, Kontrolní výbor]
+tags: [Zastupitelstvo]
 ---
 
 **Říkal jsem to na středečním zastupitelstvu, a včera jsem to zopakoval i pro Televizní noviny na Nově. Šest zvolených místostarostů naší městské části je zkrátka hodně. Co si o novém počtu místostarostů myslíte vy?**
