@@ -52,5 +52,5 @@ Ve volném čase má rád knihy, filmy, hudbu, sociální sítě, cestování do
 
 **Ve skautu se naučil, že od rozdělané práce se neodchází, proto se nikdy nespokojí s polovičním výsledkem.** A toho se chce držet i v činnosti pro Pirátskou stranu. K Pirátům ho přivedl fakt, že to – co se děje v našem státě – je už prostě přes čáru.
 
-<iframe src="https://outlook.office365.com/owa/calendar/6344ef480955484988e621ec1e641e9b@praha8.cz/512551528c9b4dfc9e8a048dbbb8f76a10339014100241533638/calendar.html" style="border: 0" width="600" height="800" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://outlook.office365.com/owa/calendar/6344ef480955484988e621ec1e641e9b@praha8.cz/512551528c9b4dfc9e8a048dbbb8f76a10339014100241533638/calendar.html" style="border: 0" width="700" height="750" frameborder="0" scrolling="no"></iframe>
 
