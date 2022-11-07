@@ -51,3 +51,6 @@ V komunálních volbách 2022 kandidoval jako [lídr do zastupitelstva MČ Praha
 Ve volném čase má rád knihy, filmy, hudbu, sociální sítě, cestování do neznáma, sezení na Náplavce, jízdu vlakem a festivaly. Od svých dvanácti let je skautem, v současné době je ředitelem skautského projektu [Svojsíkův sen](http://www.svojsikuvsen.cz), který se s heslem „Budoucnost začíná nyní“ dívá do let příštích. Dlouhá léta také z pozice šéfa komunikace a fundraisingu organizoval a budoval festival [Obrok](https://cs.wikipedia.org/wiki/Obrok).
 
 **Ve skautu se naučil, že od rozdělané práce se neodchází, proto se nikdy nespokojí s polovičním výsledkem.** A toho se chce držet i v činnosti pro Pirátskou stranu. K Pirátům ho přivedl fakt, že to – co se děje v našem státě – je už prostě přes čáru.
+
+<iframe src="https://outlook.office365.com/owa/calendar/6344ef480955484988e621ec1e641e9b@praha8.cz/512551528c9b4dfc9e8a048dbbb8f76a10339014100241533638/calendar.html" style="border: 0" width="800" height="800" frameborder="0" scrolling="no"></iframe>
+
