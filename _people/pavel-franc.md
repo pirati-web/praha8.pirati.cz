@@ -24,6 +24,8 @@ profiles:
   odmeny:    https://nalodeni.pirati.cz/odmeny/pavel.franc
 funkce:
   - zastupitel MČ Praha 8
+  - člen komise RMČP8 pro školství
+  - člen komise RMČP8 pro výstavbu ZŠ Rohan
 ---
 
 Pavel je členeme Pirátské strany a místního sdružení Praha 8. Pavel pochází z Liberce a od roku 2006 žije trvale (přechodně už od 1996) v Praze 8 - Kobylisích. Od roku 2018 je zastupitelem městské části Praha 8.

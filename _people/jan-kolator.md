@@ -28,6 +28,7 @@ profiles:
 funkce:
   - zastupitel MČ Praha 8
   - 1. místopředseda MS Praha 8
+  - člen komise RMČP8 pro bezpečnost
 ---
 
 Jan Kolátor je místopředsedou PMS na Praze 8. Narodil se se v Praze, žije v Praze a doufá, že zde i zemře. Vystudoval gymnázium a vysokou školu na univerzitě také v Praze. Od ledna 2022 je zastupitelem MČ Praha 8.

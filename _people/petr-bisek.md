@@ -14,6 +14,7 @@ teamDescription:
 mail: petr.bisek@pirati.cz
 profiles:
 funkce:
+  - člen komise RMČP8 pro sport a grantovou politiku
 ---
 
 V roce 1965 ilegálně emigroval s manželkou Věrou do USA, kde v roce 1986 zřídil typografické studio. Od dubna 1990 do června 2010 vydávali manželé Bískovi prestižní česko-slovenský čtrnáctideník Americké listy, nejčtenější periodikum ve Spojených státech.

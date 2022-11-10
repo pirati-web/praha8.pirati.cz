@@ -13,7 +13,10 @@ partyUid: pirati
 description: členka Pirátské strany
 mail:
   - kveta.marikova@pirati.cz
+funkce:
+  - členka komise RMČP8 pro sociální věci a zdravotnictví
 profiles:
+  facebook: https://www.facebook.com/kveta.kvitek
 ---
 
 **Květa Maříková** se narodila v roce 1976 v malém středočeském městečku Sedlčany, od roku 2005 žila na různých místech v Praze, od roku 2013 trvale žije v Libni.

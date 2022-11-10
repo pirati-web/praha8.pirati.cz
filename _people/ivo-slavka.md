@@ -23,6 +23,8 @@ mail:
 funkce:
   - zastupitel MČ Praha 8
   - místopředseda MS Praha 8
+  - člen komise RMČP8 pro obecní byty
+  - člen komise RMČP8 pro bytová družstva a SVJ
 profiles:
   odmeny:   https://nalodeni.pirati.cz/odmeny/ivo.slavka
   facebook: https://www.facebook.com/ivo.praha.10

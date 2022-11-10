@@ -20,6 +20,7 @@ profiles:
   evidence:  https://evidence.pirati.cz/author/608/
   odmeny:   https://nalodeni.pirati.cz/odmeny/karel.ptacek
 funkce:
+  - člen komise RMČP8 pro územní rozvoj
 ---
 
 **Karel Ptáček** se narodil v roce 1982 v Praze 8 a celý život zde i žije.

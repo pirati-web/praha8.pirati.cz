@@ -18,6 +18,7 @@ profiles:
   facebook:  https://www.facebook.com/kaja.litschova
   linkedin:  https://cz.linkedin.com/in/karol%C3%ADna-gattermayerov%C3%A1-a4b454131
 funkce:
+  - členka komise RMČP8 pro kulturu
 ---
 
 **Karolína Gattermayerová vystudovala obor Scenáristika a dramaturgie na pražské FAMU. Nyní se věnuje marketingu i televizní a filmové tvorbě (seriál Spolu & Hladoví, projekt Film Naživo). Díky svému zaměření má nejblíže k oblasti kultury a neziskovým projektům, velmi důležitá témata jsou pro ni ale také transparentnost a bezpečnost. Bydlí v Libni.**

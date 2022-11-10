@@ -28,6 +28,8 @@ funkce:
   - zastupitel MČ Praha 8
   - místopředseda MS Praha 8
   - místopředseda zastupitelského klubu
+  - člen komise RMČP8 pro obecní majetek
+  - člen komise RMČP8 pro výstavbu ZŠ Rohan
 ---
 
 **Michal Novák je členem Pirátů od října 2017. Na Praze 8, konkrétně v Kobylisích, žije prakticky od narození. Už jeho první vzpomínky patří Kobylisům, kde od svého prvního roku až do dnešních dnů žije. V Čimickém háji stavěl jako kluk s kamarády bunkry. Školku v Klíčanské a základku v Hovorčovické zná, jak se říká, zevnitř. Na gymnázium chodil na Libeňský zámeček a za kulturou nejdřív do divadélka Jiskra (dnešní Hackerovo divadlo) a později do kina na Ládví. Do bohnického "kulturáku" chodil na angličtinu a to knihovny.
