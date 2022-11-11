@@ -1,7 +1,7 @@
 ---
 title: "Piráti jsou součástí všech komisí rady městské části Praha 8"
 author: Piráti Praha 8
-image: posts/libensky-zamek.jpg
+image: posts/libensky-zamek2.jpg
 tags: [Zastupitelstvo, Volby 2022]
 ---
 
