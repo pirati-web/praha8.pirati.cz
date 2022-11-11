@@ -1,5 +1,5 @@
 ---
-title: "Piráti míří do opozice. Praze 8 povládne “staronová” koalice pod vedením ODS"
+title: "Piráti míří do opozice, Praze 8 povládne “staronová” koalice pod vedením ODS"
 author: Piráti Praha 8
 image: posts/libensky-zamek2.jpg
 tags: [Piráti, Volby 2022]
