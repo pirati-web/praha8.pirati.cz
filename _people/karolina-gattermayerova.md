@@ -4,16 +4,16 @@ name: Karolína Gattermayerová
 titles:
   before: MgA.
 category:
-  - regp
+  - clenove
 img: people/karolina-gattermayerova-2022-2.jpg
 heroImg: posts/praha8-zvysky.png
-profession: copywriterka, scesnáristka
-partyUid: bezpp
-description: registrovaná příznivkyně
+profession: copywriterka, scenáristka
+partyUid: pirati
+description: členka MS Praha 8
 teamDescription:
-  regp: garantka oblasti kultury
+  clenove: garantka oblasti kultury
 mob: 
-mail: k.gattermayerova@gmail.com
+mail: karolina.gattermayerova@pirati.cz
 profiles:
   facebook:  https://www.facebook.com/kaja.litschova
   linkedin:  https://cz.linkedin.com/in/karol%C3%ADna-gattermayerov%C3%A1-a4b454131
