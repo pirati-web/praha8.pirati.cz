@@ -17,7 +17,7 @@ tags: [Rada MČ Praha 8]
 
 - Od 1. ledna bude Praha 8 v rozpočtovém provizoriu. Rada to schválila, ještě to projedná zastupitelstvo začátkem prosince. Nejedná se o nic nestandardního, rozpočet Prahy 8 na rok 2023 se bude schvalovat na únorovém zastupitelstvu.
 
-- Rada schválila čerpání z fondu investic ve výši 442 462 korun Základní škole Bohumila Hrabala. Peníze budou využity na doplatek nákupu konvektomatu do školní jídelny Zenklova
+- Rada schválila čerpání z fondu investic ve výši 442 462 korun Základní škole Bohumila Hrabala. Peníze budou využity na doplatek nákupu konvektomatu do školní jídelny Zenklova.
 
 - Odbor správy majetku bude žádat hlavní město o svěření pozemku parc. č. 3585 v ulici Pod plynojemem z důvodu plánované revitalizace parku na pozemku. Financováno bude z kontribucí investorů. Rada se svěřením souhlasí.
 
