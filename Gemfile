@@ -21,7 +21,6 @@ group :jekyll_plugins do
   gem "jekyll-assets"
   gem "jekyll-environment-variables"
   gem "jekyll-tagging-related_posts"
-  gem 'jekyll-twitter-plugin'
 end
 
 # For jekyll-assets plugins
