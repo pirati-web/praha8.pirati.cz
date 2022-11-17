@@ -1,7 +1,7 @@
-let Mastodon = function (params_) {
-	this.INSTANCE = params_.instance;
-	this.UID = params_.userId;
-	this.LIMIT = params_.tootsLimit || 20;
+let Mastodon = function (params) {
+	this.INSTANCE = params.instance;
+	this.UID = params.userId;
+	this.LIMIT = params.limit || 20;
 	this.CONTAINER = document.getElementById('mastodon-toots');
 	this.getToots();
 }
@@ -13,7 +13,7 @@ Mastodon.prototype.getToots = function () {
 	.then(jsonData => {
 		this.CONTAINER.innerHTML = '';
 		jsonData.forEach(status => {
-			if (status.visibility == 'public') {
+			if ((status.visibility == 'public') || (status.visibility == 'unlisted')) {
 				let data = {};
 				if (status.reblog) {
 					data = {
