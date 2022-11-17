@@ -11,8 +11,7 @@ profession: ex-novinářka
 partyUid: bezpp
 description: registrovaná příznivkyně
 teamDescription:
-  regp: registrovaná příznivkyně
-mob: 
+mob:
 mail:
   - nach@volny.cz
 profiles:

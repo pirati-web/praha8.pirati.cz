@@ -10,6 +10,7 @@ heroImg: posts/praha8-zvysky.png
 profession: informatička
 partyUid: pirati
 description: členka MS Praha 8
+teamDescription:
 mail:
   - jitka.novotna@pirati.cz
 profiles:

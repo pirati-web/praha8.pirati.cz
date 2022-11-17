@@ -9,8 +9,8 @@ heroImg: posts/praha8-zvysky.png
 profession: publicista, vydavatel Amerických listů (1990–2010)
 partyUid: pirati
 description: člen MS Praha 8
-teamDescription: 
-  clenove: člen MS Praha 8
+teamDescription:
+  clenove: garant oblasti sportu
 mail: petr.bisek@pirati.cz
 profiles:
 funkce:

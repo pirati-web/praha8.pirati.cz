@@ -13,11 +13,11 @@ img: people/jan-kolator-2022-2.jpg
 heroImg: posts/praha8-zvysky.png
 profession: systémový knihovník
 partyUid: pirati
-description: 1. místopředseda MS Praha 8
+description: člen MS Praha 8
 teamDescription:
   pms: 1. místopředseda MS Praha 8
   zastupitele: zastupitel
-  clenove: garant oblasti bezpečnosti
+  clenove: garant oblasti IT a bezpečnosti
   contact: kontakt pro nováčky
 mail:
   - jan.kolator@pirati.cz

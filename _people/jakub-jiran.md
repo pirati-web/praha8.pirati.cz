@@ -13,7 +13,7 @@ profession: právník, člen dozorčí rady
 partyUid: pirati
 description: člen MS Praha 8
 teamDescription:
-  clenove: člen MS Praha 8 
+  clenove: garant oblasti financí
   zastupitele: zastupitel
 mail: jakub.jiran@pirati.cz
 profiles:
@@ -30,8 +30,8 @@ funkce:
 
 Jakub vystudoval Právnickou fakultu Univerzity Karlovy a jako právník dlouhodobě působil ve státní správě, zejména v oblasti veřejných zakázek a správy majetku. Po dobu několika let byl interním auditorem v Dopravním podniku hl. m. Prahy a v současné době se věnuje bezpečnosti a krizovému řízení.
 
-V dozorčí radě zastupuje Piráty a jejich program, prosazuje zásady transparentního řízení a správy majetku v souladu s právními předpisy a péčí řádného hospodáře a je otevřený ke komunikaci s každým, který má o dění v podniku zájem – napište mu s využitím kontaktů níže uvedených. 
+V dozorčí radě zastupuje Piráty a jejich program, prosazuje zásady transparentního řízení a správy majetku v souladu s právními předpisy a péčí řádného hospodáře a je otevřený ke komunikaci s každým, který má o dění v podniku zájem – napište mu s využitím kontaktů níže uvedených.
 
 Od komunálních voleb 2022 je zastupitelem MČ Praha 8.
 
-Žije v Kobylisích. 
+Žije v Kobylisích.

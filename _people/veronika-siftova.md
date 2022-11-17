@@ -9,10 +9,9 @@ img: people/veronika-siftova-2022.jpg
 heroImg: posts/praha8-zvysky.png
 profession: ministerský rada Ministerstva vnitra
 partyUid: pirati
-description: registrovaná příznivkyně
+description: členka MS Praha 8
 teamDescription:
-  clenove: členka MS Praha 8
-mob: 
+mob:
 mail:
   - veronika.siftova@pirati.cz
 profiles:
@@ -21,9 +20,9 @@ profiles:
 funkce:
 ---
 
-**Jmenuji se Veronika Šiftová a jsem původem z malého horského města jménem Trutnov.** V Praze jsem vystudovala Vysokou školu finanční a správní se zaměřením na "Hospodářskou politiku a správu", obor Politický management bakalářské studium a Veřejnou správu v magisterském stupni. Mými koníčky jsou cestování, žila jsem půl roku v zahraničí, kde jsem procestovala Evropu a dostala se do Maroka, Latinské Ameriky. Kromě cestování miluju četbu knih, vzdělávání a hudbu. Sama jsem hrála 9 let na klavír, 10 let na zobcovou flétnu a 14 let na gramofony zejména elektronickou muziku. Po škole jsem nastoupila k soudnímu exekutorovi. 
+**Jmenuji se Veronika Šiftová a jsem původem z malého horského města jménem Trutnov.** V Praze jsem vystudovala Vysokou školu finanční a správní se zaměřením na "Hospodářskou politiku a správu", obor Politický management bakalářské studium a Veřejnou správu v magisterském stupni. Mými koníčky jsou cestování, žila jsem půl roku v zahraničí, kde jsem procestovala Evropu a dostala se do Maroka, Latinské Ameriky. Kromě cestování miluju četbu knih, vzdělávání a hudbu. Sama jsem hrála 9 let na klavír, 10 let na zobcovou flétnu a 14 let na gramofony zejména elektronickou muziku. Po škole jsem nastoupila k soudnímu exekutorovi.
 
-Nyní pracuji jako ministerský rada na Ministerstvu vnitra, zabývám se primárně ekonomikou a vnitřním rozpočtem OSS. Z tohoto důvodu bych se ráda věnovala zejména hospodářské politice a správě, financím a rozpočtu v rámci územní municipality. Domnívám se, že efektivní, transparentní a průhledná veřejná správa je jedním ze základních milníků a priorit, na kterých je zapotřebí neustále systematicky pracovat. 
+Nyní pracuji jako ministerský rada na Ministerstvu vnitra, zabývám se primárně ekonomikou a vnitřním rozpočtem OSS. Z tohoto důvodu bych se ráda věnovala zejména hospodářské politice a správě, financím a rozpočtu v rámci územní municipality. Domnívám se, že efektivní, transparentní a průhledná veřejná správa je jedním ze základních milníků a priorit, na kterých je zapotřebí neustále systematicky pracovat.
 
 >"Apeluji na zavádění Citivizoru jako kontrolního mechanismu, rozklikávacího rozpočtu a možnosti občanů se na správě reálně podílet. Je potřeba srozumitelně debyrokratizovat veřejnou správu a tím ji přiblížit lidem."
 

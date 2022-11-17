@@ -9,6 +9,7 @@ heroImg: posts/praha8-zvysky.png
 profession: markeťák
 partyUid: bezpp
 description: registrovaný příznivec
+teamDescription:
 mail: mira@jahoda.eu
 profiles:
   facebook: https://www.facebook.com/jahodamira

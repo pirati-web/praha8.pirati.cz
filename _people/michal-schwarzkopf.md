@@ -11,6 +11,7 @@ heroImg: posts/praha8-zvysky.png
 profession: finanční konzultant
 partyUid: pirati
 description: člen MS Praha 8
+teamDescription:
 mail:
   - michal.schwarzkopf@pirati.cz
 profiles:

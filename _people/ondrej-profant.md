@@ -7,7 +7,8 @@ img: people/ondrej-profant-2022-2.jpg
 heroImg: posts/praha8-zvysky.png
 profession: informatik a poradce vicepremiéra pro digitalizaci
 partyUid: pirati
-description: garant oblasti IT a moderní radnice
+description: člen MS Praha 8
+teamDescription:
 mail:
 - ondrej.profant@pirati.cz
 mob:			  +420 607 580 015

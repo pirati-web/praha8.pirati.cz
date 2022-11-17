@@ -11,8 +11,9 @@ img: people/pavel-franc-2022.jpg
 heroImg: posts/praha8-zvysky.png
 profession: IT manažer
 partyUid: pirati
-description: garant oblasti školství a sportu
+description: člen MS Praha 8
 teamDescription:
+  clenove: garant oblasti školství
   zastupitele: zastupitel
 mail:
  - pavel.franc@pirati.cz

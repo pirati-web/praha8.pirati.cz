@@ -9,7 +9,9 @@ img: people/tomas-marik-2022.jpg
 heroImg: posts/praha8-zvysky.png
 profession: překladatel, knihkupec
 partyUid: pirati
-description: garant oblasti životního prostředí
+description: člen MS Praha 8
+teamDescription:
+  clenove: garant oblasti životního prostředí
 mail:
   - tomas.marik@pirati.cz
 funkce:
@@ -19,8 +21,8 @@ profiles:
   instagram: https://www.instagram.com/ma.ruei
 ---
 
-Tomáš Mařík se narodil 1974 v Mladé Boleslavi, vyrůstal ve Vídni, od roku 1992 žije v Praze. 
+Tomáš Mařík se narodil 1974 v Mladé Boleslavi, vyrůstal ve Vídni, od roku 1992 žije v Praze.
 
-Na filosofické fakultě UK vystudoval obory Klínopis a Klasická archeologie, tamtéž působil do roku 2009. V současné době pracuje jako překladatel, učí němčinu a angličtinu a zabývá se administrativou v antikvariátu. 
+Na filosofické fakultě UK vystudoval obory Klínopis a Klasická archeologie, tamtéž působil do roku 2009. V současné době pracuje jako překladatel, učí němčinu a angličtinu a zabývá se administrativou v antikvariátu.
 
 Angažoval se v iniciativě "Libeňský most Nebourat, Nerozšiřovat".

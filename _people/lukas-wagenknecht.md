@@ -10,8 +10,8 @@ img: people/lukas-wagenknecht.jpg
 heroImg: posts/praha8-zvysky.png
 profession: ekonom, interní auditor
 partyUid: pirati
-description: senátor
-teamDescription: 
+description: člen MS Praha 8
+teamDescription:
   ustavni-cinitele: senátor
   clenove: člen MS Praha 8
 mob: +420 608 303 542
@@ -24,8 +24,8 @@ profiles:
   linkedin:   https://www.linkedin.com/in/lukas-wagenknecht-b4229813/
   blog:       http://blog.aktualne.cz/blogy/lukas-wagenknecht.php
   web:        https://lukaswagenknecht.cz/
-  wikipedia:  https://cs.wikipedia.org/wiki/Luk%C3%A1%C5%A1_Wagenknecht 
-  flickr:     https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=luk%C3%A1%C5%A1%20wagenknecht 
+  wikipedia:  https://cs.wikipedia.org/wiki/Luk%C3%A1%C5%A1_Wagenknecht
+  flickr:     https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=luk%C3%A1%C5%A1%20wagenknecht
 funkce:
   - senátor
   - člen <a href="https://ppas.cz/o-nas">dozorčí rady Pražské plynárenské, a.s.</a>
