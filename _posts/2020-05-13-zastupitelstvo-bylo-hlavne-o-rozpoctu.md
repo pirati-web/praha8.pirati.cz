@@ -33,7 +33,7 @@ Zastupitelka [Anna Filinová]({% link _people/anna-filinova.md %}) interpelovala
 > **Co se stane s nerealizovanými projekty z let minulých, které se nerealizovaly z důvodu klimatických podmínek?** Na to odpověděl starosta Ondřej Gros, že je to v současné době složité. Projekty nebyly realizovány z důvodu klimatických podmínek. U jednoho starosta říkal, že žádají o změnu na výsadbu stromu, u druhého projektu ohledně sadu na Bílé skále starosta uvedl, že je problém s dodavatelem.
 
 #### Interpelace - časopis Osmička
-Zastupitel [Martin Staněk]({% link _people/martin-stanek.md %}) se ptal Rady na rozpočet magazínu Osmička.
+Zastupitel Martin Staněk se ptal Rady na rozpočet magazínu Osmička.
 
 > **Neuvažuje se o tom, že by se šetřilo u vydávání měsíčníku Osmička, a to například u gramáže papíru či barevnosti? Výdaje na Osmičku totiž tvoří velkou část rozpočtu odboru kultury.** Místostarosta Jiří Vítek odpověděl, že stotisícová městská část by měla mít reprezentační měsíčník. Byl snížen počet stran, a během léta vyjde také pouze jedno dvojčíslo.
 
