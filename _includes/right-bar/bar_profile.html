@@ -20,7 +20,7 @@
   {% if page.funkce %}
   <div class="mt-4">
     {% for funkce in page.funkce %}
-      {% include contact-line.html icon="ico--pig" caption=funkce %}
+      {% include contact-line.html icon="ico--xxx bi bi-rocket-takeoff" caption=funkce %}
     {% endfor %}
   </div>
   {% endif %}
@@ -47,9 +47,9 @@
       {% if page.profiles.odmeny or page.profiles.evidence or page.profiles.report %}
         <div>
           <h4>Pirátské přehledy</h4>
-          {% if page.profiles.odmeny %}{% include contact-line.html icon="ico--folder" href=page.profiles.odmeny caption="Příjmy z veřejných zdrojů" %}{% endif %}
-          {% if page.profiles.evidence %}{% include contact-line.html icon="ico--folder" href=page.profiles.evidence caption="Evidence kontaktů a schůzek" %}{% endif %}
-          {% if page.profiles.report %}{% include contact-line.html icon="ico--folder" href=page.profiles.report caption="Report poslance" %}{% endif %}
+          {% if page.profiles.kalendar %}{% include contact-line.html icon="ico--calendar" href=page.profiles.kalendar caption="Otevřený kalendář" %}{% endif %}
+          {% if page.profiles.odmeny %}{% include contact-line.html icon="ico--xxx bi bi-credit-card-fill" href=page.profiles.odmeny caption="Příjmy z veřejných zdrojů" %}{% endif %}
+          {% if page.profiles.evidence %}{% include contact-line.html icon="ico--xxx bi bi-people-fill" href=page.profiles.evidence caption="Evidence kontaktů a schůzek" %}{% endif %}
         </div>
       {% endif %}
     </div>

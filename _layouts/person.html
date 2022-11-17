@@ -38,6 +38,18 @@ layout: default
         <div class="content-block w-full">
           {{ content }}
         </div>
+        {% if page.mastodon %}
+        <div class="content-block w-full">
+          <h2 class="head-alt-md mt-8 pb-4 lg:pb-8">Můj mastodon</h2>
+          <div id="mastodon-toots"></div>
+        </div>
+        <nav class="text-center"><a href="{{ page.mastodon.profile }}" class="btn btn--icon btn--blue-300 btn--hoveractive">
+          <div class="btn__body-wrap">
+            <div class="btn__body">Více na Mastodonu</div>
+              <div class="btn__icon "><i class="bi bi-mastodon"></i></div>
+          </div>
+          </a></nav>
+        {% endif %}
       </section>
       <section class="lg:w-2/5 xl:w-1/3 pt-8 lg:pt-0 order-first lg:order-last candidate-detail__sidebar">
         {% include right-bar/rbar.html %}

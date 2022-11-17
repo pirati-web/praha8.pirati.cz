@@ -18,7 +18,7 @@ mail:
  - pavel.franc@pirati.cz
 profiles:
   facebook:  https://www.facebook.com/pfranc
-  twitter:   https://twitter.com/PavelFranc
+  mastodon:  https://mastodon.pirati.cz/@pfranc
   linkedin:  https://www.linkedin.com/in/franc/
   instagram: https://www.instagram.com/pfranc/
   odmeny:    https://nalodeni.pirati.cz/odmeny/pavel.franc
@@ -26,6 +26,11 @@ funkce:
   - zastupitel MČ Praha 8
   - člen komise RMČP8 pro školství
   - člen komise RMČP8 pro výstavbu ZŠ Rohan
+mastodon:
+  instance: 'https://mastodon.pirati.cz'
+  profile: https://mastodon.pirati.cz/@pfranc
+  userId: '109331454016420420'
+  limit: 5
 ---
 
 Pavel je členeme Pirátské strany a místního sdružení Praha 8. Pavel pochází z Liberce a od roku 2006 žije trvale (přechodně už od 1996) v Praze 8 - Kobylisích. Od roku 2018 je zastupitelem městské části Praha 8.

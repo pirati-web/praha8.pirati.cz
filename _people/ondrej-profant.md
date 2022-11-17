@@ -13,6 +13,7 @@ mail:
 mob:			  +420 607 580 015
 profiles:
   facebook:  https://www.facebook.com/ondrej.pirat.profant
+  mastodon:  https://mastodon.pirati.cz/@keddie
   twitter:   https://twitter.com/ondrej_profant
   instagram: https://www.instagram.com/ondrej_profant
   github:    https://github.com/kedrigern/
@@ -24,7 +25,11 @@ profiles:
   odmeny:    https://nalodeni.pirati.cz/odmeny/ondrej.profant
 funkce:
   - poradce vicepremiéra pro digitalizaci
-  
+mastodon:
+  instance: 'https://mastodon.pirati.cz'
+  profile: https://mastodon.pirati.cz/@keddie
+  userId: '000000006'
+  limit: 5
 ---
 <div class="mb-4">
 {% include buttons/icon.html href="https://www.profant.eu" cta="Přejít na profant.eu" icon="ico--globe" class="content-block--nostyle btn--hoveractive btn--to-orange-300" %}
