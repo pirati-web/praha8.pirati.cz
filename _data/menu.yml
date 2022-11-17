@@ -14,8 +14,8 @@ main:
   - link: /aktuality/
     name: Aktuality
   - link: /lide/
-    name: Lidé
-  - name: Komunální volby
+    name: Vaši lidé
+  - name: Volby
     submenu:
       - name: Komunální volby 2022
         link: /volby/2022-komunalni.html
@@ -23,8 +23,6 @@ main:
         link: /volby/2018-komunalni.html
       - name: Senátní volby 2018
         link: "http://www.lukaswagenknecht.cz"
-  - link: https://a.pirati.cz/praha8/plisty2022-podzim
-    name: Pirátské listy 2022
   - name: Rozcestník
     submenu:
       - name: MČ Praha 8
@@ -38,7 +36,7 @@ main:
       - name: Praha volnočasová
         link: "https://prahavolnocasova.cz"
       - name: Praha sportovní
-        link: "https://prahasportovni.eu"  
+        link: "https://prahasportovni.eu"
       - name: Bezpečnost.Praha.eu
         link: "https://bezpecnost.praha.eu"
       - name: Praha v číslech - Pragozor
@@ -47,7 +45,7 @@ main:
         link: "https://praha.camp/praha-zitra/"
       - name: Realitní portál Prahy
         link: "https://realitniportalpraha.cz"
-      - name: Institut plánování a rozvoje Praha 
+      - name: Institut plánování a rozvoje Praha
         link: "https:://iprpraha.cz"
   - link: /kontakt/
     name: Kontakt
