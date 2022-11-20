@@ -21,7 +21,7 @@ Mastodon.prototype.getToots = function () {
 						attachments: status.reblog.media_attachments,
 						url: status.reblog.url,
 						ac_avatar: status.reblog.account.avatar,
-						ac_display_name: status.reblog.account.display_name,
+						ac_display_name: status.reblog.account.display_name.replace(/:.*:/, ''),
 						ac_url: status.reblog.account.url,
 						ac_username: status.reblog.account.username,
 					};
@@ -31,7 +31,7 @@ Mastodon.prototype.getToots = function () {
 						attachments: status.media_attachments,
 						url: status.url,
 						ac_avatar: status.account.avatar,
-						ac_display_name: status.account.display_name,
+						ac_display_name: status.account.display_name.replace(/:.*:/, ''),
 						ac_url: status.account.url,
 						ac_username: status.account.username,
 					};
