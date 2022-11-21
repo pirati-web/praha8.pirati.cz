@@ -1,6 +1,6 @@
 ---
 title: Parky Prahy 8 chceme vidět rozkvétat a ne prodávat k zastavění!
-authorId: martin.stanek
+author: Martin Staněk
 image: posts/park-podkorabem.jpg
 tags: [Park Pod Korábem, Libeň, Magistrát, Životní prostředí]
 ---

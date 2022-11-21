@@ -1,6 +1,6 @@
 ---
 title: Magistrát pronajme byty bohnické Boně, budou sloužit klientům chráněného bydlení
-authorId: martin.stanek
+author: Martin Staněk
 image: posts/chranenebydleni.jpg
 tags: [Bohnice, Magistrát, Sociální služby]
 ---

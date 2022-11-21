@@ -1,6 +1,6 @@
 ---
 title: Blíží se soumrak vraků na Praze 8?
-authorId: jan.horn
+author: Jan Horn
 image: posts/autovraky.png
 tags: [Veřejný prostor, Životní prostředí, Magistrát]
 ---

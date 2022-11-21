@@ -1,6 +1,6 @@
 ---
 title: Praha 8 slíbila, že louže se splašky odstraní. Neodstranila, tak jsme se do toho pustili sami.
-authorId: jan.horn
+author: Jan Horn
 image: posts/tym-louze.jpg
 tags: [Kotlaska, Libeň, Životní prostředí]
 fancybox:

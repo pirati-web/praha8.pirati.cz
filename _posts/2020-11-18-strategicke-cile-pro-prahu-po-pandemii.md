@@ -1,6 +1,6 @@
 ---
 title: Strategické cíle pro Prahu 8 po pandemii? Obchody za rohem a úřad na internetu
-authorId: martin.stanek
+author: Martin Staněk
 image: posts/libensky-zamek.jpg
 tags: [Digitalizace, Pandemie Covid-19, Časopis Osmička]
 ---

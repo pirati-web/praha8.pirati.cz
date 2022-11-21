@@ -1,6 +1,6 @@
 ---
 title: Koalice náš návrh otevřít výbory zastupitelstva veřejnosti zamítla. Bojí se?
-authorId: martin.stanek
+author: Martin Staněk
 image: posts/zastupitelstvo_brezen2021.jpg
 tags: [Transparentnost, Zastupitelstvo]
 ---

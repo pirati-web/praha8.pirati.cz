@@ -1,6 +1,6 @@
 ---
 title: Chceme otevřít výbory zastupitelstva veřejnosti, navrhujeme jejich nový jednací řád
-authorId: martin.stanek
+author: Martin Staněk
 image: posts/martinstanek-jednaciradvyboru.jpg
 tags: [Transparentnost, Zastupitelstvo]
 ---

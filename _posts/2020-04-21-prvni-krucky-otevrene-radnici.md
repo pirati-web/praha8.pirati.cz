@@ -1,6 +1,6 @@
 ---
 title: První krůčky k otevřené radnici na Praze 8
-authorId: martin.stanek
+author: Martin Staněk
 image: posts/open-source.jpg
 tags: [IT, Digitalizace, Transparentnost, Zastupitelstvo]
 ---

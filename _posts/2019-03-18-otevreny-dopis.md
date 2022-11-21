@@ -1,6 +1,6 @@
 ---
 title: Otevřený dopis radnímu pro kulturu Švarcovi
-authorId: martin.stanek
+author: Martin Staněk
 image: posts/dopis2.jpg
 tags: [Patrioti, Transparentnost]
 ---

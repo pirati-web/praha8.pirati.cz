@@ -1,6 +1,6 @@
 ---
 title: Jaká bude daň z nemovitosti podle městské části Praha 8? My to víme!
-authorId: martin.stanek
+author: Martin Staněk
 image: posts/dan-z-nemovitosti.png
 tags: [Magistrát, Finance]
 ---

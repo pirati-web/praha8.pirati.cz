@@ -1,6 +1,6 @@
 ---
 title: Komise pro kulturu oceňuje námi navržený dotační systém
-authorId: martin.stanek
+author: Martin Staněk
 date: 2022-03-14
 image: posts/dotacnisystem-praha8.png
 tags: [IT, Digitalizace]

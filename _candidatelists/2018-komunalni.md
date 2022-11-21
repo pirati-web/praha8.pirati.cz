@@ -44,7 +44,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     age: 31
     city: Kobylisy
     partyUid: pirati
-  - uid: martin.stanek
+  - name: Mgr. Martin Staněk, Ph.D.
     profession: geolog
     age: 35
     city: Libeň
@@ -69,7 +69,7 @@ tail: # zbytek kandidatky
     profession:     manažer on-line komunikace
     partyUid: bezpp
     age: 31
-  - uid: jan.horn
+  - name: Jan Horn
     profession:     kovář
     partyUid: bezpp
     age: 39

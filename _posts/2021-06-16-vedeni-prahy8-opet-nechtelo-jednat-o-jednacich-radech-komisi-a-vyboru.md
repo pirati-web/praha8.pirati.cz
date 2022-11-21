@@ -1,6 +1,6 @@
 ---
 title: Vedení Prahy 8 opět nechtělo jednat o jednacích řádech komisí a výborů
-authorId: martin.stanek
+author: Martin Staněk
 image: posts/hlasovani-jednacirady-062020.jpg
 tags: [Transparentnost, Zastupitelstvo]
 ---
