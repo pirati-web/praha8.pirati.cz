@@ -1,11 +1,11 @@
 ---
-title: "Ředitelé osmičkových škol dostanou odměny. Tohle jsou zápisky ze 4. jednání rady"
+title: "Ředitelé osmičkových škol dostanou odměny. Tohle jsou zápisky ze čtvrtého jednání rady"
 authorId: martin.sterba
 image: posts/martin-sterba/karlinskaskola-rada-listopad2022.jpg
 tags: [Rada MČ Praha 8, Školství, Finance]
 ---
 
-**Dnešní jednání rady trvalo zhruba 20 minut, ale stihla se během něj probrat řada zajímavých tisků. Mezi ty hlavní věci v patřilo schválení odměn ředitelům mateřských a základních škol, plán práce rady a zastupitelstva a několik rozpočtových opatření.**
+**Dnešní jednání rady trvalo zhruba 20 minut, ale během té doby se stihla probrat řada věcí. Řešilo se třeba schválení odměn ředitelům mateřských a základních škol, a také plán práce rady a zastupitelstva a několik rozpočtových opatření.**
 
 Pojďme si to ale projet detailněji a popořadě.
 
