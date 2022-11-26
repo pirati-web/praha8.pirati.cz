@@ -27,6 +27,7 @@ funkce:
   - zastupitel MČ Praha 8
   - člen komise RMČP8 pro školství
   - člen komise RMČP8 pro výstavbu ZŠ Rohan
+  - člen školní rady ZŠ U Školské zahrady
 mastodon:
   instance: 'https://mastodon.pirati.cz'
   profile: https://mastodon.pirati.cz/@pfranc
