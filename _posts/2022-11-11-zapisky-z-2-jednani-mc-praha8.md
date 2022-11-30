@@ -1,5 +1,5 @@
 ---
-title: "Zápisky z 2. jednání rady MČ Praha 8"
+title: "Všichni zastupitelé mohou oddávat aneb zápisky z 2. jednání rady MČ Praha 8"
 authorId: martin.sterba
 image: posts/libensky-zamek.jpg
 tags: [Rada MČ Praha 8]
