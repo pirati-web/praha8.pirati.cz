@@ -11,4 +11,4 @@ Mezi naše hlavní priority, které budeme otevírat, patří otevřenost radnic
 
 Na ustavujícím zastupitelstvu počátkem listopadu jsem byl zvolen předsedou kontrolního výboru. Budu kontrolovat kroky i plnění usnesení rady. Piráti mají zastoupení ve všech výborech zastupitelstva i v komisích - tedy poradních orgánech - rady.
  
-Pirátský zastupitelský klub v Praze 8 bude ve volebním období 2022–2026 pracovat v šesti lidech – členy klubu jsou Martin Štěrba, Michal Novák, Jan Kolátor, Pavel Franc, Ivo Slávka a Jakub Jiran. Můžete nám kdykoliv napsat na e-maily jmeno.prijmeni@praha8.cz.
+Pirátský zastupitelský klub v Praze 8 bude ve volebním období 2022–2026 pracovat v šesti lidech – členy klubu jsou [Martin Štěrba](https://praha8.pirati.cz/lide/martin-sterba.html), [Michal Novák](https://praha8.pirati.cz/lide/michal-novak.html), [Jan Kolátor](https://praha8.pirati.cz/lide/jan-kolator.html), [Pavel Franc](https://praha8.pirati.cz/lide/pavel-franc.html), [Ivo Slávka](https://praha8.pirati.cz/lide/ivo-slavka.html) a [Jakub Jiran](https://praha8.pirati.cz/lide/jakub-jiran.html). Můžete nám kdykoliv napsat na e-maily jmeno.prijmeni@praha8.cz.
