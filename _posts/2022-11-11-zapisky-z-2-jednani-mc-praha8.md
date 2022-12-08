@@ -1,11 +1,11 @@
 ---
-title: "Všichni zastupitelé mohou oddávat aneb zápisky z 2. jednání rady MČ Praha 8"
+title: "2. rada: Všichni zastupitelé mohou oddávat, bistro v Bílém domě končí"
 authorId: martin.sterba
 image: posts/libensky-zamek.jpg
 tags: [Rada MČ Praha 8]
 ---
 
-**Ve středu 9. 11. 2022 jsem se ze své pozice předsedy kontrolního výboru zastupitelstva naší městské části poprvé zúčastnil jednání rady. 🙂 Nemám však hlasovací právo, to má pouze devět členů rady městské části – tedy starosta, šest místostarostů a dva radní.**
+**Ve středu 9. 11. 2022 jsem se ze své pozice předsedy kontrolního výboru zastupitelstva naší městské části poprvé zúčastnil jednání rady. Nemám však hlasovací právo, to má pouze devět členů rady městské části – tedy starosta, šest místostarostů a dva radní.**
 
 Tady je pár věcí, co rada projednala a schválila:
 

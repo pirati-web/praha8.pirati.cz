@@ -1,5 +1,5 @@
 ---
-title: "Ředitelé osmičkových škol dostanou odměny. Tohle jsou zápisky ze čtvrtého jednání rady"
+title: "4. rada: Ředitelé osmičkových škol dostanou odměny, v průměru jde o částky vyšší než 125 tisíc"
 authorId: martin.sterba
 image: posts/martin-sterba/karlinskaskola-rada-listopad2022.jpg
 tags: [Rada MČ Praha 8, Školství, Finance]

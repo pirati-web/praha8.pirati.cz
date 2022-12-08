@@ -1,5 +1,5 @@
 ---
-title: "Rada podpořila mimořádnou dotaci pro baletní školu aneb tohle jsou páté zápisky z rady"
+title: "5. rada: Rada podpořila mimořádnou dotaci pro baletní školu"
 authorId: martin.sterba
 image: posts/libensky-zamek-vanoce.JPG
 tags: [Rada MČ Praha 8]
