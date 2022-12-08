@@ -7,7 +7,7 @@ tags: [Zastupitelstvo, Majetek, Finance, Bydlení]
 
 **Úterní odpoledne patřilo jednání zastupitelstva naší městské části. Bylo to poprvé za poslední roky, kdy jednání nevedl starosta Ondřej Gros. Omluvil se kvůli nemoci, věříme, že se brzy uzdraví. Jednání místo něj vedl místostarosta Radomír Nepil.**
 
-Městská část bude od ledna hospodařit v rozpočtovém provozoriu. A to hlavně z důvodu, že v současné době stále není schválen rozpočet hlavního města, z něj totiž rozpočet městské části vychází. Martin Štěrba - zastupitel Prahy 8 prosil, aby se prosincové zastupitelstvo mohlo v příštím roce konat až po jednání zastupitelstva hlavního města, abychom mohli prakticky ihned po něj schválit rozpočet městské části, abychom nemuseli spadnout do rozpočtového provizoria. Rozpočet městské části bychom měli schválit na únorovém zastupitelstvu. 
+Městská část bude od ledna hospodařit v rozpočtovém provozoriu. A to hlavně z důvodu, že v současné době stále není schválen rozpočet hlavního města, z něj totiž rozpočet městské části vychází. Martin Štěrba prosil, aby se prosincové zastupitelstvo mohlo v příštím roce konat až po jednání zastupitelstva hlavního města, abychom mohli prakticky ihned po něj schválit rozpočet městské části, abychom nemuseli spadnout do rozpočtového provizoria. Rozpočet městské části bychom měli schválit na únorovém zastupitelstvu. 
 
 Městskou část Praha 8 budou na valné hromadě společnosti IPODEC, kde má Praha 8 43% podíl, zastupovat starosta Ondřej Gros (ODS) a místostarostové Radomír Nepil (ANO) a Jiří Vítek (Patrioti). 
 
