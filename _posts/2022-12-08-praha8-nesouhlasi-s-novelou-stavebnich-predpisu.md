@@ -21,4 +21,4 @@ tags: [Rada MČ Praha 8, Územní rozvoj, Školství]
 
 - Došlo k narovnání dohody mezi městskou částí a společností Technologie hlavního města Prahy, a.s.. Jedná se hlavně o smlouvu o nájmu prostor sloužící k podnikání v objektu Sokolovská 121 a vyúčtování nájemného. 
 
-Poslední rada tohoto roku by se uskuteční příští středu 14. prosince.
+Poslední rada tohoto roku se uskuteční příští středu 14. prosince.
