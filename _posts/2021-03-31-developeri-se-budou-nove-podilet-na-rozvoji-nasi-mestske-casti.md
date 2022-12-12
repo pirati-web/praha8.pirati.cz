@@ -2,7 +2,7 @@
 title: Developeři se budou nově podílet na rozvoji naší městské části
 authorId: karel.ptacek
 image: posts/rohancity.jpg
-tags: [Karlín, Územní rozvoj]
+tags: [Karlín, Komise pro územní rozvoj, Územní rozvoj]
 ---
 
 **Na prosincovém jednání zastupitelstva bylo i našimi hlasy schváleno usnesení, které zavádí v platnost dobrovolný příspěvek na zlepšení občanské vybavenosti při realizaci stavebních projektů v rámci Prahy 8.** Toto usnesení začne platit od 1. dubna 2021.

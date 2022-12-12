@@ -3,7 +3,7 @@ title: Komise pro kulturu oceňuje námi navržený dotační systém
 author: Martin Staněk
 date: 2022-03-14
 image: posts/dotacnisystem-praha8.png
-tags: [IT, Digitalizace]
+tags: [IT, Digitalizace, Komise pro kulturu]
 ---
 
 **Pokračujeme v úsilí o digitalizaci a zefektivnění úřadu! Dotační software zavedený na Praze 8 v roce 2020 [díky práci Martina Staňka](https://praha8.pirati.cz/aktuality/prvni-krucky-otevrene-radnici.html) se osvědčil a setkává se s kladnými reakcemi od všech dotčených.**

@@ -2,7 +2,7 @@
 title: Zpráva z komise městské části pro obecní byty
 authorId: ivo.slavka
 image: posts/seniorum-mame-pomahat.png
-tags: [Bydlení]
+tags: [Bydlení, Komise pro obecní byty]
 ---
 
 **Ve středu 29. května 2019 se uskutečnilo páté zasedání komise Rady MČ Praha 8 pro obecní byty. Na něm se mimo jiné projednávaly návrhy výpovědí z nájmu bytu bez výpovědní doby, a to v případě několika osob.** 

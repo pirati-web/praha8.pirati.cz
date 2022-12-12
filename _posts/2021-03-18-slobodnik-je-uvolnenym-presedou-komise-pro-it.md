@@ -2,7 +2,7 @@
 title: "Další trafika? Bývalý radní pro IT Slobodník se stal uvolněným předsedou komise pro IT"
 authorId: martin.sterba
 image: posts/zastupitelstvo2.jpg
-tags: [ODS, Kauza Dezinfekce, Zastupitelstvo]
+tags: [ODS, Komise pro IT, Kauza Dezinfekce, Zastupitelstvo]
 ---
 
 **Novým placeným předsedou komise pro IT radnice Prahy 8 se stal zastupitel a bývalý radní Josef Slobodník (bezp., dříve ODS). Rozhodli o tom včera zastupitelé městské části. Důvodem zvolení je podle předkladatele návrhu, místostarosty Jiřího Vítka (Patrioti) narůstající množství práce v IT. Slobodník loni figuroval v kauze zveřejněné serverem Seznamzpravy.cz o nákupu dezinfekce pro Prahu 8. Vinu odmítl a dosud nebyl obviněn ani nestanul před soudem.**

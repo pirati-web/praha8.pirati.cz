@@ -3,7 +3,7 @@ title: Co skrývá rozpočet Prahy 8 na rok 2022? To je zatím velká neznámá!
 authorId: michal.novak 
 date: 2022-02-03
 image: posts/zastupitelstvo_leden2022.jpg
-tags: [Finance, Zastupitelstvo]
+tags: [Finance, Finanční výbor, Zastupitelstvo]
 ---
 
 **Na středečním jednání zastupitelstva městské části Praha Prahy 8 představila vládnoucí koalice v čele s ODS návrh rozpočtu pro rok 2022. Je schodkový a nekoncepční.**

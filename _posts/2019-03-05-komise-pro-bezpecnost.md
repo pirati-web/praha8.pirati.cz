@@ -2,7 +2,7 @@
 title: "Situace okolo centra metadonové substituce: Represe rozhodně nepomohou"
 authorId: jan.kolator
 image: posts/metadon.jpg
-tags: [Bezpečnost]
+tags: [Bezpečnost, Komise pro bezpečnost]
 ---
 
 **Na posledním zasedání Komise pro bezpečnost a prevenci sociálněpatologických jevů se řešila problematická situace kolem Centra metadonové substituce. Toto centrum provozuje nezisková organizace Drop In a od roku 2013 je umístěno v areálu Nemocnice Na Bulovce.** Tématu se za nás věnují Jan Kolátor a Markéta Čermáková.
