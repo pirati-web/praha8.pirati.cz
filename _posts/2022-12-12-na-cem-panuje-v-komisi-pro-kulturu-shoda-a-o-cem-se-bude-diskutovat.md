@@ -1,5 +1,5 @@
 ---
-title: "Komise pro kulturu se shodla, že bude podporovat dlouhodobé projekty, které ocení i nízkou částku dotace"
+title: "Na čem panuje v komisi pro kulturu shoda a o čem se bude diskutovat?"
 authorId: karolina.gattermayerova
 image: posts/libenskyzamek-kultura.jpg
 tags: [Komise pro kulturu, Kultura]
