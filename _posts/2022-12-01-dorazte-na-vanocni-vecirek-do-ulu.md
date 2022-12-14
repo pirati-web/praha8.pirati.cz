@@ -2,7 +2,7 @@
 title: "Zveme vás na (ne)pirátský vánoční večírek na Osmičce"
 author: Piráti Praha 8
 image: posts/pozvanka_vanocni-vecirek2022.jpg
-tags: [Piráti
+tags: [Piráti]
 ---
 
 **Na tuhle párty nemusíš být pirát či pirátka. Stačí, že si s námi rád/a dáš pivo nebo čaj. Zveme všechny členy, členky, příznivce, příznivkyně, kolegy, kolegyně, blízké přátele i vzdálené známé, aby s námi zasedli za zvuku (nejen) vánočních melodií ke společnému stolu! Ať si to tu u nás na té Osmičce uděláme před Vánoci pěkný.**
