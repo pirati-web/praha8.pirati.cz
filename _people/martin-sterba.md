@@ -37,8 +37,8 @@ funkce:
   - předseda MS Praha 8
   - předseda zastupitelského klubu
   - předseda kontrolního výboru ZMČP8
+  - místopředseda Redakční rady časopisu Osmička
   - člen komise RMČP8 pro dopravu
-  - člen Redakční rady časopisu Osmička
 mastodon:
   instance: 'https://mastodon.pirati.cz'
   profile: https://mastodon.pirati.cz/@sterbamartin
