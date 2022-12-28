@@ -15,7 +15,6 @@ profiles:
   facebook: https://www.facebook.com/alice.hamalova
   linkedin: https://www.linkedin.com/in/alice-hamalov%C3%A1-679a84ab/
   odmeny:   https://nalodeni.pirati.cz/odmeny/alice.hamalova
-  evidence: https://evidence.pirati.cz/
 funkce:
   - členka <a href="https://www.zelivska.cz/zepro-o-nas.html">dozorčí rady Želivské provozní a.s</a>
 ---
