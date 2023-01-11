@@ -11,7 +11,7 @@ Rada schválila návrh rozpočtových opatření - jedná se hlavně o investič
 
 Příspěvková organizace Sociální a ošetřovatelské služby Praha 8 - SOS Praha 8 získala od úřadu bezúplatně několik notebooků a počítačů s příslušenstvím. Ty jsou určeny především pro potřeby Denního stacionáře v Křižíkově ulici a komunitního centra k zajišťování volnočasových a vzdělávací aktivit pro rodiny.
 
-Místostarosta pro oblast Matěj Fichtner (ANO) může zastupovat městskou část v rámci dotačních projektů z operačních programů Evropské unie, rada mu udělila plnou moc ke všem potřebným úkonům.
+Místostarosta pro školství Matěj Fichtner (ANO) může zastupovat městskou část v rámci dotačních projektů z operačních programů Evropské unie, rada mu udělila plnou moc ke všem potřebným úkonům.
 
 Rada souhlasila s odepsáním nedobytné pohledávky Základní a mateřské školy Petra Strozziho ve výši 134 209,70 Kč z roku 2002. Firma je v likvidaci, vymazána z rejstříku a možnost, že by byla pohledávka někdy v budoucnu uhrazena je naprosto mizivá.
 
