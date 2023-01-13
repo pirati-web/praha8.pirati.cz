@@ -29,6 +29,7 @@ funkce:
   - zastupitel MČ Praha 8
   - 1. místopředseda MS Praha 8
   - člen komise RMČP8 pro bezpečnost
+  - člen komise RMČP8 pro informatiku
   - člen školské rady ZŠ LOPES Čimice
 ---
 
