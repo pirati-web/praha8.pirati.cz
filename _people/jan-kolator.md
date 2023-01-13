@@ -29,12 +29,11 @@ funkce:
   - zastupitel MČ Praha 8
   - 1. místopředseda MS Praha 8
   - člen komise RMČP8 pro bezpečnost
+  - člen školské rady ZŠ LOPES Čimice
 ---
 
-Jan Kolátor je místopředsedou PMS na Praze 8. Narodil se se v Praze, žije v Praze a doufá, že zde i zemře. Vystudoval gymnázium a vysokou školu na univerzitě také v Praze. Od ledna 2022 je zastupitelem MČ Praha 8.
+Jan Kolátor je místopředsedou PMS na Praze 8. Narodil se se v Praze, žije v Praze a doufá, že zde i zemře. Vystudoval gymnázium a vysokou školu na univerzitě také v Praze. Od ledna 2022 je zastupitelem MČ Praha 8, od ledna 2023 pak zastupitele hlavní města Praha ve školské radě Základní školy ZŠ Lopes v Čimicích.
 
 Pracuje v Národní technické knihovně a pro další knihovny (i mimo Prahu), věnuje se nasazování OS do praxe. V současnosti se věnuje na Praze 8 pirátským nováčkům. Zastupuje Piráty také v Komisi pro bezpečnost a prevenci sociálně patologických jevů na Praze 8.
 
 Angažuje se v aktivitách pirátů týkajících se autorského a knihovního zákona, bezpečnosti a prevenci kriminality. Pracuje v pirátském týmu pro kulturu.
-
-
