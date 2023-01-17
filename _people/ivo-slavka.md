@@ -8,7 +8,6 @@ category:
   - clenove
   - zastupitele
 ordzas: 5
-ordpms: 4
 img: people/ivo-slavka-2022.jpg
 heroImg: posts/praha8-zvysky.png
 profession: právník na Ministerstvu průmyslu a obchodu
@@ -16,13 +15,11 @@ partyUid: pirati
 description: člen MS Praha 8
 teamDescription:
   zastupitele: zastupitel
-  pms: místopředseda MS Praha 8
   clenove: garant bytové politiky
 mail:
   - ivo.slavka@pirati.cz
 funkce:
   - zastupitel MČ Praha 8
-  - místopředseda MS Praha 8
   - člen komise RMČP8 pro obecní byty
   - člen komise RMČP8 pro bytová družstva a SVJ
 profiles:

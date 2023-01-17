@@ -4,13 +4,15 @@ name: Veronika Šiftová
 titles:
   before: Ing.
 category:
-  - clenove
+    - pms
+    - clenove
 img: people/veronika-siftova-2022.jpg
 heroImg: posts/praha8-zvysky.png
 profession: ministerský rada Ministerstva vnitra
 partyUid: pirati
 description: členka MS Praha 8
 teamDescription:
+  pms: místopředsedkyně MS Praha 8
 mob:
 mail:
   - veronika.siftova@pirati.cz
@@ -18,6 +20,8 @@ profiles:
   facebook:  https://www.facebook.com/werca.siftova
   instagram: https://www.isntagram.com/veronikasiftova
 funkce:
+  - místopředsedkyně MS Praha 8
+ordpms: 3
 ---
 
 **Jmenuji se Veronika Šiftová a jsem původem z malého horského města jménem Trutnov.** V Praze jsem vystudovala Vysokou školu finanční a správní se zaměřením na "Hospodářskou politiku a správu", obor Politický management bakalářské studium a Veřejnou správu v magisterském stupni. Mými koníčky jsou cestování, žila jsem půl roku v zahraničí, kde jsem procestovala Evropu a dostala se do Maroka, Latinské Ameriky. Kromě cestování miluju četbu knih, vzdělávání a hudbu. Sama jsem hrála 9 let na klavír, 10 let na zobcovou flétnu a 14 let na gramofony zejména elektronickou muziku. Po škole jsem nastoupila k soudnímu exekutorovi.

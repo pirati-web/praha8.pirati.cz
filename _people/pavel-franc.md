@@ -4,9 +4,11 @@ name: Pavel Franc
 titles:
   before: Mgr.
 category:
+    - pms
     - clenove
     - zastupitele
 ordzas: 4
+ordpms: 5
 img: people/pavel-franc-2022.jpg
 heroImg: posts/praha8-zvysky.png
 profession: IT manažer
@@ -15,6 +17,7 @@ description: člen MS Praha 8
 teamDescription:
   clenove: garant oblasti školství
   zastupitele: zastupitel
+  pms: místopředseda MS Praha 8
 mail:
  - pavel.franc@pirati.cz
 profiles:
@@ -25,6 +28,7 @@ profiles:
   odmeny:    https://nalodeni.pirati.cz/odmeny/pavel.franc
 funkce:
   - zastupitel MČ Praha 8
+  - místopředseda MS Praha 8
   - člen komise RMČP8 pro školství
   - člen komise RMČP8 pro výstavbu ZŠ Rohan
   - člen školní rady ZŠ U Školské zahrady
