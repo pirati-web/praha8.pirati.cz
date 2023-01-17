@@ -2,7 +2,7 @@
 title: "I nadále nesouhlasíme se záměrem výstavby Kauflandu v Bohnicích"
 authorId: karel.ptacek
 image: posts/bohnice-kaufland.jpg
-tags: [Bohnice]
+tags: [Bohnice, Kaufland]
 ---
 
 **I nadále nesouhlasíme se záměrem výstavby Kauflandu v Bohnicích. A to i přes to, že magistrátní odbor ochrany prostředí vydal rozhodnutí, ve kterém píše, že záměr výstavby nového obchodního domu, investora JTH Group “nemůže mít významný vliv na životní prostředí, a proto nepodléhá posouzení vlivů podle zákona”.**

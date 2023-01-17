@@ -2,7 +2,7 @@
 title: "Wagenknecht: Záměr výstavby OD Kaufland považuji za nepřijatelný"
 authorId: lukas.wagenknecht
 image: posts/bohnice-kaufland.jpg
-tags: [Bohnice]
+tags: [Bohnice, Kaufland]
 ---
 
 **V pondělí byl poslední den pro zaslání odvolání proti výstavbě OD Kaufland v pražských Bohnicích. Stejně jako na začátku roku jsem i nyní zaslal své nesouhlasné stanovisko s výstavbou hypermarketu v sousedství přírodního parku Draháň-Troja a Botanické zahrady. Poděkování patří především iniciativě Proti plotu, která celý případ pečlivě sleduje, připravila podklady pro odvolání a hlavně uhlídala termín.**
