@@ -4,7 +4,6 @@ name: Ivo Slávka
 titles:
   before: Mgr.
 category:
-  - pms
   - clenove
   - zastupitele
 ordzas: 5
