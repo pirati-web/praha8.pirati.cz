@@ -1,5 +1,5 @@
 ---
-title: "Piráti v Praze 8 si volili nové předsednictvo"
+title: "Piráti v Praze 8 si zvolili nové předsednictvo"
 author: Piráti Praha 8
 image: posts/predsednictvo2023.jpg
 tags: [Piráti]
