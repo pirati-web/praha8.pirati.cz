@@ -20,7 +20,7 @@ tags: [Zastupitelstvo, Kontrolní výbor]
 
 Dost jsme se divili tomu, že nová rada bude mít šest místostarostů, i když bylo dříve běžné mít pouze tři nebo čtyři podle počtu koaličních stran. Odpovědí bylo, že to je domluvou koalice, ale možná za tím bude i to, že neuvolněný místostarosta zkrátka bere více než neuvolněný radní.
 
-Nové rady jsme se ptali na nejrůznější otázky, třeba na to, jakým způsobem budou spolupracovat s opozicí, magisrátem, jaký považují největší úkol tohoto volebního období, jak to vidí s dokončením Cityvizoru, budoucností Palmovky, osmičkovým školstvím, jak se opraví a upraví Zenklova ulice až po to, jestli Praha 8 například připraví veřejná griloviště či co bude s neustále přecpaným odpadkovým košem na Florenci. Na řadu otázek jsme dostali uspokojivé odpovědi, na některé méně.
+Nové rady jsme se ptali na nejrůznější otázky, třeba na to, jakým způsobem budou spolupracovat s opozicí, magistrátem, jaký považují největší úkol tohoto volebního období, jak to vidí s dokončením Cityvizoru, budoucností Palmovky, osmičkovým školstvím, jak se opraví a upraví Zenklova ulice až po to, jestli Praha 8 například připraví veřejná griloviště či co bude s neustále přecpaným odpadkovým košem na Florenci. Na řadu otázek jsme dostali uspokojivé odpovědi, na některé méně.
 
 Kromě rady jsme také zvolili také členy finančního a kontrolního výboru. Jakub Jiran byl zvolen členem finančního výboru a Martin Štěrba byl zastupitelstvem téměř jednomyslně zvolen předsedou kontrolního výboru.
 
