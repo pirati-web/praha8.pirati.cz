@@ -13,7 +13,7 @@ img: people/michal-novak-2022.jpg
 heroImg: posts/praha8-zvysky.png
 profession: nezávislý konzultant
 partyUid: pirati
-description: člen MS Praha
+description: místopředseda MS Praha 8
 teamDescription:
   zastupitele: místopředseda zast. klubu
   pms: místopředseda MS Praha 8

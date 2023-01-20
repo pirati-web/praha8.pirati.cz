@@ -10,7 +10,7 @@ img: people/veronika-siftova-2022.jpg
 heroImg: posts/praha8-zvysky.png
 profession: ministerský rada Ministerstva vnitra
 partyUid: pirati
-description: členka MS Praha 8
+description: místopředsedkyně MS Praha 8
 teamDescription:
   pms: místopředsedkyně MS Praha 8
 mob:

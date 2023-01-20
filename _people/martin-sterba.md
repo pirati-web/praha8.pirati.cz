@@ -13,7 +13,7 @@ img: people/martin-sterba-2022-2.jpg
 heroImg: posts/praha8-zvysky.png
 profession: manažer a stratég on-line komunikace
 partyUid: pirati
-description: člen MS Praha 8
+description: předseda MS Praha 8
 teamDescription:
   pms: předseda MS Praha 8
   clenove: garant oblasti dopravy
