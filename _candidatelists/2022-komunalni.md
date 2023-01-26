@@ -20,7 +20,7 @@ head:
     profession: systémový knihovník
     age: 43
     city: Praha 8 – Bohnice
-    partyUid: pirati    
+    partyUid: pirati
 # 4
   - uid: pavel.franc
     profession: IT manažer
@@ -32,7 +32,7 @@ head:
     profession: právník, vedoucí oddělení ekonomického odboru hospodářské správy MPO ČR
     age: 55
     city: Praha 8 – Kobylisy
-    partyUid: pirati 
+    partyUid: pirati
 # 6
   - uid: jakub.jiran
     profession: právník, člen dozorčí rady Dopravního podniku hl. města Prahy
@@ -50,13 +50,13 @@ head:
     profession: ministerský rada Ministerstva vnitra ČR
     age: 33
     city: Praha 8 – Kobylisy
-    partyUid: bezpp  
+    partyUid: bezpp
 # 9
   - uid: karolina.gattermayerova
     profession: scenáristka a copywriterka
     age: 29
     city: Praha 8 – Libeň
-    partyUid: bezpp     
+    partyUid: bezpp
 # 10
   - uid: ondrej.profant
     profession: náměstek vicepremiéra a ministra pro místní rozvoj ČR
@@ -69,13 +69,13 @@ head:
     age: 81
     city: Praha 8 – Kobylisy
     partyUid: bezpp
-tail:
 # 12
   - uid: vojtech.blahos
     profession: student mezinárodních vztahů
     age: 20
     city: Praha 8 – Bohnice
-    partyUid: bezpp 
+    partyUid: bezpp
+tail:
 # 13
   - uid: kveta.marikova
     profession: knihovnice
@@ -111,13 +111,13 @@ tail:
     profession: finanční konzultant
     age: 40
     city: Praha 8 – Karlín
-    partyUid: pirati 
+    partyUid: pirati
 # 19
   - name: Petr Fürbach
     profession: osvětlovač
     age: 39
     city: Praha 8 – Čimice
-    partyUid: bezpp   
+    partyUid: bezpp
 # 20
   - name: Viktor Balogh
     profession: software developer
@@ -129,7 +129,7 @@ tail:
     profession: provozní manažer
     age: 37
     city: Praha 8 – Karlín
-    partyUid: bezpp 
+    partyUid: bezpp
 # 22
   - name: Jakub Tadeáš Simon
     profession: personalista
@@ -195,7 +195,7 @@ tail:
     profession: finanční poradce
     age: 32
     city: Praha 8 – Libeň 
-    partyUid: bezpp  
+    partyUid: bezpp
 # 33
   - name: Bc. Daniela Dolejšová
     profession: projektový a programový pracovník
@@ -273,5 +273,5 @@ tail:
     profession: programátor mobilních aplikací
     age: 41
     city: Praha 8 – Bohnice
-    partyUid: bezpp   
+    partyUid: bezpp
 ---

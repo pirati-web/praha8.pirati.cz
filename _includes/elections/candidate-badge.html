@@ -1,0 +1,83 @@
+{% assign candidate=include.candidate %}
+{% if candidate.uid %}
+  {% assign person=site.people | where: "uid", candidate.uid | first %}
+  {% assign candidateImg=person.img %}
+  {% capture candidateName %}{% include people/fullname.html person=person plain=true %}{% endcapture %}
+{% else %}
+  {% assign person=false %}
+  {% assign candidateImg=candidate.img %}
+  {% assign candidateName=candidate.name %}
+{% endif %}
+
+{% if candidateImg %}
+  {% if site.mediaStorage %}
+    {% capture candidateImage %}https://a.pirati.cz/resize/225x225/{{ site.mediaStorage }}/img/{{ candidateImg.img }}{% endcapture %}
+  {% else %}
+    {% capture candidateImage %}{% asset '{{ candidateImg }}' magick:resize='225x225^' magick:gravity='center' magick:crop='225x225+0+0' @path %}{% endcapture %}
+  {% endif %}
+{% else %}
+  {% capture candidateImage %}https://a.pirati.cz/common/img/people/unknown-pirate.svg{% endcapture %}
+{% endif %}
+
+{% if include.simple %}
+
+<{% if person %}a href="{{ person.url }}"{% else %}div{% endif %} class="candidate-table-row">
+<div class="candidate-table-row__position head-allcaps-heavy-2xs text-right">{{ include.rank }}</div>
+{% include avatar.html class="avatar--sm candidate-table-row__avatar" src=candidateImage alt=candidateName %}
+<div class="candidate-table-row__name head-heavy-2xs font-bold">{{ candidateName }}</div>
+<div class="candidate-table-row__bio font-condensed">{% if candidate.age %}{{ candidate.age }} let{% endif %}{% if candidate.profession %}{% if candidate.age %}, {% endif %}{{ candidate.profession }}{% endif %}{% if candidate.city %}{% if candidate.profession or candidate.age %}, {% endif %}{{ candidate.city }}{% endif %}</div>
+{% if candidate.partyUid %}
+  <div class="candidate-table-row__affiliation">
+    {% include party.html uid=candidate.partyUid %}
+  </div>
+{% endif %}
+</{% if person %}a{% else %}div{% endif %}>
+
+{% else %}
+
+<div class="candidate-card container-padding--zero sm:container-padding--auto {{ include.class }}">
+  <div class="candidate-card__wrapper {{ include.wrapperClass }}">
+    <div class="card candidate-card__body elevation-0 hover:elevation-10 transition duration-200">
+      <div class="candidate-card__avatar">
+        <div class="candidate-card__position">{{ include.rank }}</div>
+        {% include avatar.html url=person.url class="avatar--sm sm:avatar--lg" src=candidateImage alt=candidateName %}
+      </div>
+      <div class="candidate-card__bio">
+        <h1 class="head-heavy-xs">
+          {% if person %}<a href="{{ person.url|relative_url }}">{{ candidateName }}</a>{% else %}{{ candidateName }}{% endif %}
+        </h1>
+        {% if person.mail %}
+          <a href="mailto:{{ person.mail }}" class="block candidate-card__bio-item mb-4">{{ person.mail }}</a>
+        {% endif %}
+        <h2 class=" candidate-card__bio-item">{{ candidate.profession }}</h2>
+        {% if candidate.city %}
+          <h2 class="head-allcaps-4xs mt-4">
+            {{ candidate.city }}
+          </h2>
+        {% endif %}
+      </div>
+      <div class="candidate-card__affiliation">
+        {% if candidate.age %}
+          <div>{{ candidate.age }} let</div>
+        {% endif %}
+
+        {% if candidate.partyUid %}
+          {% include party.html uid=candidate.partyUid %}
+        {% endif %}
+      </div>
+      <div class="card__body candidate-card__social">
+        {% if candidate.description %}
+          <p class="font-light text-sm leading-snug italic mb-4 hidden md:block">{{ candidate.description }}</p>
+        {% endif %}
+        {% unless include.hideSocialProfiles %}
+          {% if person %}
+          <div class="social-icon-group space-x-2">
+            {% include social-icons.html profiles=person.profiles %}
+          </div>
+          {% endif %}
+        {% endunless %}
+      </div>
+    </div>
+  </div>
+</div>
+{% endif %}

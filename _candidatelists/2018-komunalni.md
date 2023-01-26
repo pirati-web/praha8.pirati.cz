@@ -45,6 +45,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     city: Kobylisy
     partyUid: pirati
   - name: Mgr. Martin Staněk, Ph.D.
+    img: people/martin-stanek.jpg
     profession: geolog
     age: 35
     city: Libeň
@@ -54,26 +55,27 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     age: 39
     city: Bohnice
     partyUid: pirati
-tail: # zbytek kandidatky
-      # jedinná povinná položka je name zbytek můžete vynechat
-      # věk se uvádí k poslednímu dni voleb
-  - name: Alix Guillard
+  - uid: alix.guillard
     profession:     webmaster
     partyUid: bezpp
     age: 46
+    city: Libeň
   - uid: michal.schwarzkopf
     profession:     bankovní poradce
     partyUid: pirati
     age: 36
+    city: Karlín
+tail:
   - uid: martin.sterba
     profession:     manažer on-line komunikace
     partyUid: bezpp
     age: 31
   - name: Jan Horn
+    img: people/jan-horn.jpg
     profession:     kovář
     partyUid: bezpp
     age: 39
-  - name: Mgr. Lukáš Kost
+  - uid: lukas.kost
     profession:     ZŠ a SŠ učitel
     partyUid: bezpp
     age: 44
