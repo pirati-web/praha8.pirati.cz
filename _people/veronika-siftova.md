@@ -21,6 +21,7 @@ profiles:
   instagram: https://www.isntagram.com/veronikasiftova
 funkce:
   - místopředsedkyně MS Praha 8
+  - předsedkyně komise RMČP11 pro kulturu
 ordpms: 3
 ---
 
