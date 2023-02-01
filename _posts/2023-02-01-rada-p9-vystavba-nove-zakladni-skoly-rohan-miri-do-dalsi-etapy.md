@@ -31,4 +31,4 @@ V rámci jednání rady se také uskutečnila Valná hromada společnosti Centru
 
 Rada také schválila s úpravou platu pro ředitelku příspěvkové organizace Osmička pro rodinu a schválila nájemní smlouvy. 
 
-Příští rada bude za týden, jednat se bude hlavně o rozpočtu, který vedení naší městské části předloží zastupitelstvu. Jsem zvědav. 🙂
+Příští rada bude za týden, jednat se bude hlavně o rozpočtu, který vedení naší městské části předloží zastupitelstvu. Jsem zvědav.
