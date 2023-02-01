@@ -1,5 +1,5 @@
 ---
-title: "9. Rada: "Výstavba nové základní školy Rohan míří do další etapy"
+title: "9. Rada: Výstavba nové základní školy Rohan míří do další etapy"
 authorId: martin.sterba
 image: posts/vizualizace/zs-rohan/zs-rohan-5.jpeg
 tags: [Rada MČ Praha 8, Základní škola Rohan, Školství, Územní rozvoj, Karlín]
