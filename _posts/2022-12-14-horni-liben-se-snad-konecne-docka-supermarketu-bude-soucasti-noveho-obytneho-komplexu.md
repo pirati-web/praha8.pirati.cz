@@ -1,5 +1,5 @@
 ---
-title: "7. Rada: Horní Libeň se snad konečně dočká supermarketu, bude součástí nového obytného komplexu"
+title: "Horní Libeň se snad konečně dočká supermarketu, bude součástí nového obytného komplexu"
 authorId: martin.sterba
 image: posts/vosmikovych-googlemaps.png
 tags: [Rada MČ Praha 8, Libeň, Občanská vybavenost]

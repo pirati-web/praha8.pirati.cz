@@ -1,5 +1,5 @@
 ---
-title: "8. Rada: Organizace Women for Women podpoří osmičkovou školu, zaplatí dětem obědy v jídelnách"
+title: "Organizace Women for Women podpoří osmičkovou školu, zaplatí dětem obědy v jídelnách"
 authorId: martin.sterba
 image: posts/skolni-obedy.jpg
 tags: [Rada MČ Praha 8, Školství]
