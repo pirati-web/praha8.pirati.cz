@@ -15,7 +15,7 @@ Koalice chce prověřit výstavbu kampusu občanské vybavenosti v oblasti, kde 
 
 Nejvíce pak v rozpočtu trpí oblast kultury. Kromě podpory kulturních domů Ládví a Krakov se počítá pouze s nákupem nového klavíru do obřadní síně na Libeňském záměčku. Radní Solomonová počítá s nákupem klavíru za milion korun. Kolik takových na trhu je, však není úplně jasné.
 
-"V oblasti správy majetku jsme se dozvěděli jen, že rada bude jednat 'standardně'. Bez jakýchkoliv detailů ke zvolenému přístupu nebo konkrétním plánům. Bude tedy třeba hlídat prodeje a převody průběžně celé volební období," říká náš zastupitel Michal Novák.
+>"V oblasti správy majetku jsme se dozvěděli jen, že rada bude jednat 'standardně'. Bez jakýchkoliv detailů ke zvolenému přístupu nebo konkrétním plánům. Bude tedy třeba hlídat prodeje a převody průběžně celé volební období," říká zastupitel a člen komise pro majetek [Michal Novák](http://praha8.pirati.cz/lide/michal-novak.html).
 
 V rozpočtu jsou kapitoly, bez kterých bychom se jistě obešli. Téměř milion korun je v kapitole Public Relations, z té jsou placeny například reportáže v TV Praha. Co se skrývá v kapitole "Pořízení, zachování a obnova hodnot místního kulturního, národního a historického povědoví za 400 tisíc pak nebylo koalicí vůbec vysvětleno. 
 
