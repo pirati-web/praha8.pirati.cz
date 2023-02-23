@@ -13,7 +13,7 @@ Koalice chce prověřit výstavbu kampusu občanské vybavenosti v oblasti, kde 
 
 >"Na jednu stranu je dobře, že jsou v rozpočtu konečně i finance na kapitálové výdaje jako třeba třeba příprava sportovní haly Jana Mahora v Kobylisích, kavárna a úprava a předláždění povrchů na Palmovce či revitalizace Rokytky, na straně druhé jsme nedostali odpovědi na řadu našich otázek. Nevíme třeba, co se bude financovat z osmdesátimilionové dotace z Magistrátu či co se skrývá pod některými rozpočtovanými položkami," doplňuje zastupitel a předseda zastupitelského klubu [Martin Štěrba](http://www.praha8.pirati.cz/lide/martin-sterba.html).
 
-Nejvíce pak v rozpočtu trpí oblast kultury. Kromě podpory kulturních domů Ládví a Krakov se počítá pouze s nákupem nového klavíru do obřadní síně na Libeňském záměčku. Radní Solomonová počítá s nákupem klavíru za milion korun. Kolik takových na trhu je, však není úplně jasné.
+Nejvíce pak v rozpočtu trpí oblast kultury. Kromě podpory kulturních domů Ládví a Krakov se počítá pouze s nákupem nového klavíru do obřadní síně na Libeňském zámečku. Radní Solomonová počítá s nákupem klavíru za milion korun. Kolik takových na trhu je, však není úplně jasné.
 
 >"V oblasti správy majetku jsme se dozvěděli jen, že rada bude jednat 'standardně'. Bez jakýchkoliv detailů ke zvolenému přístupu nebo konkrétním plánům. Bude tedy třeba hlídat prodeje a převody průběžně celé volební období," říká zastupitel a člen komise pro majetek [Michal Novák](http://praha8.pirati.cz/lide/michal-novak.html).
 
@@ -21,6 +21,6 @@ V rozpočtu jsou kapitoly, bez kterých bychom se jistě obešli. Téměř milio
 
 Zastupitelstvo kromě jiného schválilo vyhlášení dotačního řízení na poskytnutí dotací na oblast kultury, na dlouhodobě organizovanou sportovní výchovu mládeže a v oblasti volnočasových nesportovních aktivit dětí a mládeže na rok 2023.
 
->“Pro vyhlášení dotačního řízení jsme samozřejmě stejně jako v minulých letech ruku zvedli. Je důležité, abychom podporovali mládež v oblasti sportu a volného času. Škoda jen, že se nám nepodařilo přesvědčit komisy, že i v kultuře by si zasloužili větší podporu kulturní programy pro děti a teenagery," vysvětluje zastupitel a člen komise pro školství [Pavel Franc](http://praha8.pirati.cz/lide/pavel-franc.html). 
+>“Pro vyhlášení dotačního řízení jsme samozřejmě stejně jako v minulých letech ruku zvedli. Je důležité, abychom podporovali mládež v oblasti sportu a volného času. Škoda jen, že se nám nepodařilo přesvědčit komisi, že i v kultuře by si zasloužili větší podporu kulturní programy pro děti a teenagery," vysvětluje zastupitel a člen komise pro školství [Pavel Franc](http://praha8.pirati.cz/lide/pavel-franc.html). 
 
-Během jednání zastupitelstva samozřejmě došlo také na interpelace. Martin Štěrba se ptal starosty Grose na priority Prahy 8 vůči Magistrátu, Jakub Jiran na výměnu přístřešků na zastkávkách, Michal Novák na stav rekonstrukce Löwitova mlýnu a Pavel Franc na situaci ohledně Orchestru PKF — Prague Philharmonia v KD Ládví.
+Během jednání zastupitelstva samozřejmě došlo také na interpelace. Martin Štěrba se ptal starosty Grose na priority Prahy 8 vůči Magistrátu, Jakub Jiran na výměnu přístřešků na zastávkách, Michal Novák na stav rekonstrukce Löwitova mlýnu a Pavel Franc na situaci ohledně Orchestru PKF — Prague Philharmonia v KD Ládví.
