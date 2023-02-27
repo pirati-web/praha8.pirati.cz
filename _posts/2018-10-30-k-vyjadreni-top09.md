@@ -1,6 +1,6 @@
 ---
 title: TOP 09 a STAN s námi už nechtějí jednat o koalici
-authorId: alice.hamalova
+author: Piráti Praha 8
 image: posts/pirati-random1.png
 tags: [STAN, TOP09, Volby 2018]
 ---

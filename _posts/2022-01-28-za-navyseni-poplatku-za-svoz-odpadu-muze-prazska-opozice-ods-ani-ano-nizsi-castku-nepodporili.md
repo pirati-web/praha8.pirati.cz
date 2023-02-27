@@ -1,6 +1,6 @@
 ---
 title: Za navýšení poplatků za svoz může pražská opozice, ODS ani ANO nižší částku nepodpořili
-authorId: alice.hamalova
+author: Alice Hamalová
 date: 2022-01-28
 image: posts/odpady.jpg
 tags: [Časopis Osmička, Hnutí ANO, ODS, Magistrát, Životní prostředí]

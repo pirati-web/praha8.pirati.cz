@@ -1,6 +1,6 @@
 ---
 title: Vyjednáváme. Společně s 8Žije jsme předložili možným partnerům několik návrhů uspořádání
-authorId: alice.hamalova
+author: Piráti Praha 8
 date: 2018-10-18
 image: posts/pirati-random1.png
 tags: [Osmička žije, Volby 2018]

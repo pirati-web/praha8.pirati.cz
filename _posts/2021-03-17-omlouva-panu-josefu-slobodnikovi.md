@@ -1,6 +1,6 @@
 ---
 title: Umíme přiznat chybu, omlouváme se panu Slobodníkovi z ODS
-author: Piráti
+author: Piráti Praha 8
 image: posts/Slobodnik-omluva.jpg
 tags: [Kauza Dezinfekce, Pandemie Covid-19, ODS]
 ---

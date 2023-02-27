@@ -1,6 +1,6 @@
 ---
 title: Odpad - kam s ním?
-authorId: alice.hamalova
+author: Alice Hamalová
 image: posts/odpady.jpg
 tags: [Životní prostředí]
 ---

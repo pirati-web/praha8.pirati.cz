@@ -1,6 +1,6 @@
 ---
 title: Rozšíření Letiště Václava Havla? Magistrát musí zastupovat zájmy městských částí
-authorId: alice.hamalova
+author: Alice Hamalová
 image: posts/letistepraha.jpg
 tags: [Časopis Osmička, Magistrát, Životní prostředí]
 ---
