@@ -9,7 +9,6 @@ fancybox:
       - { src: posts/vizualizace/lanovka-bohnice-podbaba/lanovka-final1.jpeg, title: Lanovky z Bohnic do Podbaby má finální podobu. Podívejte se. }
       - { src: posts/vizualizace/lanovka-bohnice-podbaba/lanovka-final2.jpeg, title: Lanovky z Bohnic do Podbaby má finální podobu. Podívejte se. }
       - { src: posts/vizualizace/lanovka-bohnice-podbaba/lanovka-final3.jpeg, title: Lanovky z Bohnic do Podbaby má finální podobu. Podívejte se. }
-      - { src: posts/vizualizace/lanovka-bohnice-podbaba/lanovka-final4.jpeg, title: Lanovky z Bohnic do Podbaby má finální podobu. Podívejte se. }
       - { src: posts/vizualizace/lanovka-bohnice-podbaba/lanovka-final5.jpeg, title: Lanovky z Bohnic do Podbaby má finální podobu. Podívejte se. }
       - { src: posts/vizualizace/lanovka-bohnice-podbaba/lanovka-final6.jpeg, title: Lanovky z Bohnic do Podbaby má finální podobu. Podívejte se. }
 ---
