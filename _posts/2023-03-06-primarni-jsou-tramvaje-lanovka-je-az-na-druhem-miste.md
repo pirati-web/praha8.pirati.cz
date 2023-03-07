@@ -17,7 +17,7 @@ Rádi budeme diskutovat a komunikovat s místními spolky i místními obyvateli
   <div class="inline-flex flex-col space-y-2">
     <span class="alert alert--black">
       <i class="alert__icon ico--pirati"></i>
-      <span><b>UPDATE (7/3 ve 12:50):</b>Projednávání lanovky na pražském výboru pro územní rozvoj bylo přerušeno. Bude následovat pracovní jednání členů výboru, náměstků primátora a dalších dotčených orgánů a také společný postoj koalice.</span>
+      <span><b>UPDATE (7/3 ve 12:50):</b> Projednávání lanovky na pražském výboru pro územní rozvoj bylo přerušeno. Bude následovat pracovní jednání členů výboru, náměstků primátora Zdeňka Hřiba a Petra Hlaváčka a dalších dotčených orgánů a také společný postoj koalice.</span>
     </span>
   </div>
 </div>
