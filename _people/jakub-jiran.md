@@ -23,7 +23,7 @@ profiles:
 funkce:
   - zastupitel MČ Praha 8
   - člen finančního výboru ZMČP8
-  - člen dozorční rady <a href="https://www.dpp.cz/spolecnost/o-spolecnosti/organizacni-struktura">Dopravního podniku hl. města Prahy</a>
+  - člen dozorčí rady <a href="https://www.dpp.cz/spolecnost/o-spolecnosti/organizacni-struktura">Dopravního podniku hl. města Prahy</a>
 ---
 
 **Jakub Jiran** je od září 2022 členem Pirátů na Praze 8 a je členem dozorčí rady Dopravního podniku hl. m. Prahy, akciové společnosti, tedy společnosti, kterou prostřednictvím hlavního města Prahy spoluvlastní všichni občané hlavního města.
