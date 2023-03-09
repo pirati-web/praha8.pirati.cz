@@ -4,7 +4,7 @@ authorId: martin.sterba
 image: posts/vizualizace/hala-jana-mahora/hala-jana-mahora3.jpg
 tags: [Rada MČ Praha 8, Kobylisy, Libeň, Územní rozvoj, Sport]
 fancybox:
-  - name: Hala Jana Máhora v Kobylisích
+  - name: Hala Jána Mahora v Kobylisích
     img:
       - { src: posts/vizualizace/hala-jana-mahora/hala-jana-mahora1.jpg, title: Hala Jána Mahora v Kobylisích }
       - { src: posts/vizualizace/hala-jana-mahora/hala-jana-mahora2.jpg, title: Hala Jána Mahora v Kobylisích }

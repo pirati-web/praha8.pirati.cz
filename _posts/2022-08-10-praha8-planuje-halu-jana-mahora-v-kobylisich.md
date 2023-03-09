@@ -4,7 +4,7 @@ authorId: pavel.franc
 image: posts/vizualizace/hala-jana-mahora/hala-jana-mahora4.jpg
 tags: [Kobylisy, Sport, Školství]
 fancybox:
-  - name: Hala Jana Máhora v Kobylisích
+  - name: Hala Jána Mahora v Kobylisích
     img:
       - { src: posts/vizualizace/hala-jana-mahora/hala-jana-mahora1.jpg, title: Hala Jána Mahora v Kobylisích }
       - { src: posts/vizualizace/hala-jana-mahora/hala-jana-mahora2.jpg, title: Hala Jána Mahora v Kobylisích }
