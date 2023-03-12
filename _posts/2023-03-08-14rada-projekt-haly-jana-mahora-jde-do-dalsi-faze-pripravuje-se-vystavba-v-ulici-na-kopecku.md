@@ -31,7 +31,7 @@ Rada souhlasila s dokumentací pro územní rozhodnutí projektu sportovní haly
 <br />
 Souhlasné stanovisko k projektové dokumentaci dala rada také pro územní řízení pro výstavbu bytového domu [mezi ulicemi Na Kopečku a Pod Plynojemem](https://goo.gl/maps/Sm8DiSgZAyhMGAYm9). Dům vznikne v proluce a osobně si myslím, že výstavba do této oblasti patří. Investor se bude podílet na kontribucích - participace činí celkem 13 629 880 korun.
 
-Rada schválila návrh rozpočtových opatření. U tohoto bodu se radní na čtvrt hodiny zastavily a to hlavně z důvodu, že nevycházely čísla v materiálech, a to zhruba o tři miliony korun. Upozornil na to místostarosta Fichtner. U takových ekonomických materiálů bych čekal, že si to starosta pohlídá, aby čísla seděla.
+Rada schválila návrh rozpočtových opatření. U tohoto bodu se radní na čtvrt hodiny zastavili a to hlavně z důvodu, že nevycházela čísla v materiálech, a to zhruba o tři miliony korun. Upozornil na to místostarosta Fichtner. U takových ekonomických materiálů bych čekal, že si to starosta pohlídá, aby čísla seděla.
 
 Časopis Osmička bude vycházet i nadále. Rada souhlasila se zahájením zadávacího řízení ve zjednodušeném podlimitním řízení ohledně tisku a distribuce časopisu. Ročně nás časopis Osmička bude stát necelé tři miliony korun. 
 
