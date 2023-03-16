@@ -5,7 +5,7 @@ image: posts/portrety-2022/petr-bisek.jpg
 tags: [Volby prezidenta]
 ---
 
-**Mně jen tak něco neuteče, jsem vnímavý vůči okolí. Snad proto jsem měl během 57 let řízení auta jen pár malých bouraček. Když totiž někam jedu, moje pozornost je soustředěna především na to, co se kolem mne a mého auta děje. Mnohokrát mi to pomohlo předejít kolizi nebo ji alespoň zmírnit. Má to ale i negativní následek - nepamatuji si trasu, kterou jedu poprvé, tak aby byla moje příští podobná vyjížďka snazší. 
+**Mně jen tak něco neuteče, jsem vnímavý vůči okolí. Snad proto jsem měl během 57 let řízení auta jen pár malých bouraček. Když totiž někam jedu, moje pozornost je soustředěna především na to, co se kolem mne a mého auta děje. Mnohokrát mi to pomohlo předejít kolizi nebo ji alespoň zmírnit. Má to ale i negativní následek - nepamatuji si trasu, kterou jedu poprvé, tak aby byla moje příští podobná vyjížďka snazší.**
 
 Například? S kolegou trenérem jsme každý rok jezdili na veslařskou regatu z Long Islandu do sousedního státu New Jersey. Tříhodinová trasa po dálnicích byla snadná k zapamatování si, ale ne pro mě. A tak se stalo, že když jsem ji jednou jel bez kolegy-navigátora, s autobusem plným nádrže jsem zabloudil. Trapas jak řemen. Na závody jsme dojeli na poslední chvíli. 
 
