@@ -2,7 +2,7 @@
 title: "Primární jsou tramvaje, lanovka je až na druhém místě"
 authorId: martin.sterba
 image: posts/vizualizace/lanovka-bohnice-podbaba/lanovka-final2.jpeg
-tags: [Lanovka Bohnice–Podbaba, Doprava, Magistrát, Bohnice]
+tags: [Lanovka Bohnice–Podbaba, Tramvaj do Bohnic, Doprava, Magistrát, Bohnice]
 ---
 
 **V úterý bude zasedat magistrát výbor pro územní rozvoj a bude probírat lanovku z Bohnic přes ZOO do Podbaby.**
