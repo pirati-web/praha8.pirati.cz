@@ -1,8 +1,8 @@
 ---
 title: "Hřib: Když potřebujete jet z Prahy 8 na Prahu 6, musíte přes centrum, to nedává logiku"
-authorId: martin.sterba
+author: Piráti Praha 8
 image: posts/tramvaje-bohnice.png
-tags: [Doprava, Bohnice, Tramvaj do Bohnic]
+tags: [Doprava, Bohnice, Magistrát, Tramvaj do Bohnic]
 ---
 
 **Náměstek primátora pro dopravu Zdeněk Hřib to řekl pro web [Aktuálně.cz](https://zpravy.aktualne.cz/domaci/postavime-tramvajovy-okruh/r~f62b8f3ebce611edb1f50cc47ab5f122/?fbclid=IwAR3Sbx3dp7H3KgSJVEtHF_SZKS7HV-qt6xHQCleQc6ifaQqLQUSqWjYF31Y) jasně. Kromě nového vlakového spojení mezi Prahou a Brandýsem nad Labem - Starou Boleslaví, bude pro nové vedení hlavního města Prahy prioritou i tramvajová trať z Kobylis do Bohnic k obchodnímu Centrum Krakov.**
@@ -19,5 +19,3 @@ Tramvajová trať do Bohnic by měla být v budoucnu součástí tramvajového o
     </span>
   </div>
 </div>
-
-
