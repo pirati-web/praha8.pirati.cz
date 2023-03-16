@@ -13,7 +13,7 @@ Minulý týden se mi tato vlastnost při inauguraci prezidenta Petra Pavla naopa
 
 S občasnou slzou v oku jsem tedy sledoval televizní přenos inaugurace, těšil se z radostné atmosféry. A právě jedna drobnost, která mi při tom neunikla, se stala podkladem této mé "zpovědi". 
 
-Když prezidentský pár přicházel Vladislavským sálem, všiml jsem si, že v jednom momentě Petr Pavel otočil hlavu na stranu a prstem si ťuknul na kravatu. Co to bylo za záhadný signál? A také jsem v tom samém momentu spatřil, jak z řady stojících hostů na vteřinku vykoukla hlava mého dlouholetého přítele ještě USA? Martina Jana Stránského. To, že Martin, významný Čechoameričan a skálopevný český patriot, byl při skládání prezidentského slibu jako host, mě ovšem nepřekvapilo. Ale že by to Pavlovo ťuknutí na kravatu a rychlý pohled stranou nějak souvisely s Martinem? 
+Když prezidentský pár přicházel Vladislavským sálem, všiml jsem si, že v jednom momentě Petr Pavel otočil hlavu na stranu a prstem si ťuknul na kravatu. Co to bylo za záhadný signál? A také jsem v tom samém momentu spatřil, jak z řady stojících hostů na vteřinku vykoukla hlava mého dlouholetého přítele ještě USA Martina Jana Stránského. To, že Martin, významný Čechoameričan a skálopevný český patriot, byl při skládání prezidentského slibu jako host, mě ovšem nepřekvapilo. Ale že by to Pavlovo ťuknutí na kravatu a rychlý pohled stranou nějak souvisely s Martinem? 
 
 ### Dárek pro ministra
 
