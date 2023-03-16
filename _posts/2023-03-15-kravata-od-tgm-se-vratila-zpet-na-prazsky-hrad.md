@@ -1,5 +1,5 @@
 ---
-title: "Kravata od TGM se vrátila zpět na Pražský hrad"
+title: "Zpověď Petra Bíska: Kravata od TGM se vrátila zpět na Pražský hrad"
 authorId: petr.bisek
 image: posts/portrety-2022/petr-bisek.jpg
 tags: [Volby prezidenta]
