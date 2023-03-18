@@ -5,27 +5,26 @@ module Jekyll
   class AuthorPageGenerator < Jekyll::Generator
 
     def generate(site)
-      site.data['authors'].each do |author, posts|
-        site.pages << AuthorPage.new(site, author, posts)
+      site.data['authors'].each do |author, data|
+        site.pages << AuthorPage.new(site, author, data)
       end
     end
   end
 
   class AuthorPage < Jekyll::Page
-    def initialize(site, author, posts)
-      author_slug = Utils.slugify(author, :mode => "latin")
+    def initialize(site, author, data)
       @site = site
       @base = site.source
       @dir = '/authors/'
-      @basename = author_slug
+      @basename = Utils.slugify(author, :mode => "latin")
       @ext = '.html'
       @name = @basename + @ext
       @path = site.in_source_dir(@base, @dir, @name)
       @data = {
         'author' => author,
-        'posts' => posts,
+        'posts' => data['posts'],
         'layout' => 'authors',
-        'permalink' => '/aktuality/autori/' + author_slug + '/',
+        'permalink' => data['link'],
         'pagination' => {
           'enabled' => true,
           'permalink' => '/:num/',
@@ -36,22 +35,29 @@ module Jekyll
 end
 
 Jekyll::Hooks.register :site, :post_read do |site|
-  # Create hash { author => posts }
-  authors = Hash.new { |h, key| h[key] = [] }
-  site.posts.docs.each do |post|
-    if uid = post.data['authorId']
-      post.data['category'] = uid
-      authors[uid] << post
-    end
-    authors.each_value { |posts| posts.sort!.reverse! }
-  end
-  # Enrich people collection data with posts - used in generator and personal pages
-  site.collections['people'].docs.each { |p| p.data['posts'] = authors[p.data['uid']] }
+  # Create a hash for people collection { uid => name  }
+  userId2Name = site.collections['people'].docs.collect { |p| [p.data['uid'], p.data['name']] }.compact.to_h
 
-  # Create hash for authors with posts { name => uid }
-  people = site.collections['people'].docs.collect { |p| [p.data['name'], p.data['uid']] if authors[p.data['uid']].count > 0 }.compact.to_h
+  # Create a hash for people collection { name => person }
+  author2Person = site.collections['people'].docs.collect { |p| [p.data['name'], p.url] }.compact.to_h
+
+  # Create hash { authorName => posts }
+  postsByAuthor = Hash.new { |h, key| h[key] = [] }
+  site.posts.docs.each do |post|
+    if authorId = post.data['authorId']
+      post.data['author'] = userId2Name[authorId]
+    end
+    if authorName = post.data['author']
+      postsByAuthor[authorName] << post
+    end
+  end
 
   # Sort the authors by name and store them in site.data if have posts
   collator = TwitterCldr::Collation::Collator.new(:cs)
-  site.data['authors'] = collator.sort(people.keys).collect { |author| [author, authors[people[author]]] }.to_h
+  site.data['authors'] = collator.sort(postsByAuthor.keys).collect { |authorName| [authorName, {
+    'name' => authorName, # for feed plugin :(
+    'link' => '/aktuality/autori/' + Jekyll::Utils.slugify(authorName, :mode => "latin") + '/',
+    'plink' => author2Person[authorName],
+    'posts' => postsByAuthor[authorName].sort.reverse
+  } ] }.to_h
 end

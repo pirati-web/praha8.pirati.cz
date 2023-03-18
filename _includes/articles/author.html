@@ -1,0 +1,6 @@
+{% assign author = site.data.authors[include.author] %}
+{% if author.plink.size > 0 %}
+<a href="{{ author.plink }}">{{ include.author }}</a>
+{% else %}
+{{ include.author }}
+{% endif %}

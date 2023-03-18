@@ -35,15 +35,7 @@
           <meta itemprop="datePublished" content="{{ include.article.date | date_to_xmlschema }}" />
         </span>
         <span class="article-card-meta__item" itemprop="author" itemtype="http://schema.org/Person" itemscope="">
-          {% capture author_name %}
-            {% if include.article.authorId -%}
-              {% assign author = site.people | where_exp:"item","item.uid contains include.article.authorId" | first %}
-              {{ author.name }}
-            {%- else -%}
-              {{ include.article.author }}
-            {%- endif %}
-          {% endcapture %}
-          <span itemprop="name">{{ author_name }}</span>
+          <span itemprop="name">{{ include.article.author }}</span>
         </span>
       </div>
 

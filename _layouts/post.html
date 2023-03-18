@@ -15,7 +15,7 @@ layout: default
           <span class="pr-2">{{ page.date | date: "%d. %m. %Y" }}</span>
           <span class="pl-2" itemprop="author" itemtype="http://schema.org/Person" itemscope="">
             <span itemprop="name">
-              {% include articles/author.html article=page %}
+              {% include articles/author.html author=page.author %}
             </span>
           </span>
         </div>

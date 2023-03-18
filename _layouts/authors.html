@@ -4,7 +4,7 @@ layout: default
 
 <div class="container container--default pt-8 lg:py-24">
   <section>
-    <h1 class="head-alt-md md:head-alt-lg max-w-5xl mb-4">Aktuality od autora {{ page.author }}:</h1>
+    <h1 class="head-alt-md md:head-alt-lg max-w-5xl mb-4">Aktuality od autora {% include articles/author.html author=page.author %}</h1>
     <main class="mt-4">
       {% include articles/list-responsive.html posts=paginator.posts %}
     </main>
@@ -14,8 +14,8 @@ layout: default
     <h2 class="mt-8 head-alt-base">Další autoři:</h2>
     <div class="inline-block-nogap mt-4">
       {% for item in site.data.authors %}
-        {% capture tagUrl %}/aktuality/autori/{{ item[0] | slugify: "latin" }}/{% endcapture %}
-        {% capture cta %}{{ item[0] }} ({{item[1].size}}){% endcapture %}
+        {% assign tagUrl = item[1].link %}
+        {% capture cta %}{{ item[0] }} ({{item[1].posts.size}}) {% endcapture %}
         {% capture btnClass %}article-card__category-button btn--condensed text-sm font-light btn--{% if item[0]==page.author %}btn--grey-500{% else %}grey-125{% endif %} btn--hoveractive{% endcapture %}
         {% include buttons/basic.html class=btnClass cta=cta href=tagUrl %}
       {% endfor %}
