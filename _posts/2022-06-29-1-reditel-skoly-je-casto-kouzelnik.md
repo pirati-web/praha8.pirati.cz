@@ -1,6 +1,6 @@
 ---
 title: "Pavel Franc: Ředitel školy je často kouzelník!"
-authorId: pavel.franc
+author: Pavel Franc
 image: posts/portrety-2022/pavel-franc.jpg
 tags: [Časopis Osmička, Školství]
 ---

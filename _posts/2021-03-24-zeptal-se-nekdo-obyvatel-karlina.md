@@ -1,6 +1,6 @@
 ---
 title: Pětkrát prohraný soud o cykloobousměrky v Karlíně! Zeptal se někdo místních obyvatel?
-authorId: pavel.franc
+author: Pavel Franc
 image: posts/karlin-krizikova.jpg
 tags: [Karlín, Cyklodoprava, Časopis Osmička]
 ---

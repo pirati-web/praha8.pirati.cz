@@ -1,6 +1,6 @@
 ---
 title: "Venku je okolo nuly a na osmičce se nebruslí. Proč?"
-authorId: pavel.franc
+author: Pavel Franc
 image: posts/kluziste-libeznice.jpg
 tags: [Kluziště, Sport]
 ---

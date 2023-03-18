@@ -1,6 +1,6 @@
 ---
 title: Je Praha připravena na krizi? Ano, na všechny běžné katastrofy jsme připraveni!
-authorId: pavel.franc
+author: Pavel Franc
 image: posts/staromak-covid19.png
 tags: [Bezpečnost, Časopis Osmička, Pandemie Covid-19]
 ---

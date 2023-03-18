@@ -1,6 +1,6 @@
 ---
 title: Kam se půjdeme letos klouzat? Možná, že nikam.
-authorId: pavel.franc
+author: Pavel Franc
 image: posts/kluziste_ladvi.png
 tags: [Kluziště, Sport]
 ---

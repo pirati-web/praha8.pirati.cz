@@ -1,6 +1,6 @@
 ---
 title: "Praha 8 chystá výstavbu nové sportovní haly Jána Mahora v Kobylicích. Nová sportoviště podporujeme!"
-authorId: pavel.franc
+author: Pavel Franc
 image: posts/vizualizace/hala-jana-mahora/hala-jana-mahora4.jpg
 tags: [Kobylisy, Sport, Školství]
 fancybox:

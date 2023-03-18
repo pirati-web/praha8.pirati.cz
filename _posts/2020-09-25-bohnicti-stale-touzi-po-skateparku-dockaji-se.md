@@ -1,6 +1,6 @@
 ---
 title: Bohničtí stále touží po skateparku. Dočkají se?
-authorId: pavel.franc
+author: Pavel Franc
 image: posts/skatepark-bohnice.jpg
 tags: [Skatepark Bohnice, Bohnice, Sport]
 ---

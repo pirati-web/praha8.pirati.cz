@@ -1,6 +1,6 @@
 ---
 title: "Ministerstvo životního prostředí zrušilo rozhodnutí k výstavbě Kauflandu"
-authorId: pavel.franc
+author: Pavel Franc
 image: posts/bohnice-kaufland.jpg
 tags: [Bohnice, Kaufland]
 ---

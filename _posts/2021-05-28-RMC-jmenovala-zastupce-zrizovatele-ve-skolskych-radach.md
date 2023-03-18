@@ -1,6 +1,6 @@
 ---
 title: Praha 8 jmenovala nové zástupce ve školských radách, do jedné z nich míří i náš Pavel Franc
-authorId: pavel.franc
+author: Pavel Franc
 image: posts/2021-04-15-nakoledoskoly/skolske-zahrady-2.jpg
 tags: [Školství]
 ---

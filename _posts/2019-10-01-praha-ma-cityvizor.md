@@ -1,6 +1,6 @@
 ---
 title: Praha má rozklikávací rozpočet na webu, Praha 8 stále nikoliv
-authorId: pavel.franc
+author: Pavel Franc
 image: posts/cityvizor-praha.png
 tags: [CityVizor, Transparentnost, Magistrát]
 ---

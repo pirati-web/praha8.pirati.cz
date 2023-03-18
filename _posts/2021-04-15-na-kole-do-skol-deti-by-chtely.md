@@ -1,6 +1,6 @@
 ---
 title: Na kole do školy? Děti by chtěly, problém je ale s parkováním
-authorId: pavel.franc
+author: Pavel Franc
 image: posts/2021-04-15-nakoledoskoly/buresova-1.jpg
 tags: [Cyklodoprava, Školství]
 fancybox:
