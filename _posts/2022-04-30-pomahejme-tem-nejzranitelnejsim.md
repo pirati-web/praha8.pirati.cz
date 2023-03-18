@@ -1,6 +1,6 @@
 ---
 title: Pomáhejme těm nejzranitelnějším - tedy rodinám s dětmi a seniorům 
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/libensky-zamek2.jpg
 tags: [Časopis Osmička]
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Na čem panuje v komisi pro kulturu shoda a o čem se bude diskutovat?"
-authorId: karolina.gattermayerova
+author: Karolína Gattermayerová
 image: posts/libenskyzamek-kultura.jpg
 tags: [Komise pro kulturu, Kultura]
 ---

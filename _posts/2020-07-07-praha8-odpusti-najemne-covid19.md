@@ -1,6 +1,6 @@
 ---
 title: Praha 8 odpustí nájemné podnikatelům a živnostníkům postiženým opatřeními COVID-19
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/restu_dvakohouti.jpg
 tags: [Pandemie Covid-19, Zastupitelstvo]
 ---

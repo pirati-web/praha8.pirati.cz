@@ -1,6 +1,6 @@
 ---
 title: Jakou funkci by mělo nabídnout nové náměstí Bohumila Hrabala? Hlavně důstojnou, lidskou, moderní
-authorId: michal.novak
+author: Michal Novák
 image: posts/namestibohumilahrabala.jpg
 tags: [Palmovka, Libeň, Časopis Osmička]
 ---

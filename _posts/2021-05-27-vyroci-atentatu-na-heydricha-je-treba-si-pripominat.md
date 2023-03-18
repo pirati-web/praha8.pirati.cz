@@ -1,6 +1,6 @@
 ---
 title: Výročí atentátu na Heydricha je třeba si připomínat
-authorId: martin.sterba
+author: Martin Štěrba
 date: 2021-05-27
 image: posts/2021-05-27-anthropoid/anthropoid2021_12.jpg
 tags: [Anthropoid, Libeň]

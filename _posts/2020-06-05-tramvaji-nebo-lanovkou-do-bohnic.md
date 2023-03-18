@@ -1,6 +1,6 @@
 ---
 title: Tramvají nebo lanovkou? Jaké bude propojení šestky a osmičky?
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/lanovkabohnice2.png
 tags: [Lanovka Bohnice–Podbaba, Bohnice, Doprava, Magistrát]
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Praha získá ve směnách se státem Kasárna Karlín, dojde k oživení celého objektu"
-authorId: martin.sterba
+author: Martin Štěrba
 image:  posts/kasarna-karlin.jpg
 tags:   [Karlín, Kasárna Karlín, Magistrát]
 ---

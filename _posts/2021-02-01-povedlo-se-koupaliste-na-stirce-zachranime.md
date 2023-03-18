@@ -1,6 +1,6 @@
 ---
 title: Povedlo se. Koupaliště Na Stírce zachráníme!
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/koupaliste-nastirce.png
 tags: [Koupaliště Stírka, Kobylisy, Sport, Magistrát]
 ---

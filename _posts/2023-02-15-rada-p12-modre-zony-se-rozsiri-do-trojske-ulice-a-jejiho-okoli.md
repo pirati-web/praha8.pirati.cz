@@ -1,6 +1,6 @@
 ---
 title: "Modré zóny se rozšíří do Trojské ulice a jejího okolí" 
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/trojska-googlemaps.png
 tags: [Rada MČ Praha 8, Doprava, Modré zóny]
 ---

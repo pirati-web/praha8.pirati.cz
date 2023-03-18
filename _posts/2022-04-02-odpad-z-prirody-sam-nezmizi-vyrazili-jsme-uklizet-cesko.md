@@ -1,6 +1,6 @@
 ---
 title: Odpad z přírody sám nezmizí. Vyrazili jsme uklízet Česko
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/2022-04-02-uklidmecesko/uklidmecesko-spolecna.jpg
 tags: [Piráti, Holešovičky, Ukliďme Česko, Životní prostředí]
 fancybox:

@@ -1,6 +1,6 @@
 ---
 title: Jakub Michálek zahájil svojí tour po městských částech na Praze 8
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/novapalmovka-s-jakubem-michalkem.jpg
 tags: [Volby 2021]
 fancybox:

@@ -1,6 +1,6 @@
 ---
 title: V zimě začne stavba stopadesátimetrové lávky mezi Karlínem a Holešovicemi
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/lavka-holesovice-holka3.png
 tags: [Doprava, Karlín, Štvanická lávka (HolKa)]
 ---

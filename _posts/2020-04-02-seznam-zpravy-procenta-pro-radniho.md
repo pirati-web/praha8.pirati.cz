@@ -1,6 +1,6 @@
 ---
 title: Korupce v době krize? Radní Slobodník plánoval malou domů za nákup dezinfekce
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/slobodnik-dezinfekce.jpg
 tags: [Kauza Dezinfekce, ODS, Pandemie Covid-19]
 ---

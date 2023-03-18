@@ -1,6 +1,6 @@
 ---
 title: Prodejna Albert na Invalidovně půjde k zemi, chystá se nová zástavba
-authorId: karel.ptacek
+author: Karel Ptáček
 image: posts/invalidovna-metro.png
 tags: [Invalidovna, Karlín, Občanská vybavenost]
 ---

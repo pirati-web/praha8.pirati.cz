@@ -1,6 +1,6 @@
 ---
 title: "Stanice metra Palmovka dostane během léta nový moderní navigační a orientační systém"
-authorId: karel.ptacek
+author: Karel Ptáček
 image: posts/karelptacek-design-metro.jpg
 tags: [Doprava, Palmovka]
 ---

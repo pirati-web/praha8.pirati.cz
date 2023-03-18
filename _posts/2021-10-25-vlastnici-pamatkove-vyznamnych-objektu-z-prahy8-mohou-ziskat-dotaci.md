@@ -1,6 +1,6 @@
 ---
 title: Vlastníci památkově významných objektů z Prahy 8 mohou získat dotaci
-authorId: karel.ptacek
+author: Karel Ptáček
 image: posts/karlin-domy.jpeg
 tags: [Granty a dotace, Magistrát]
 ---

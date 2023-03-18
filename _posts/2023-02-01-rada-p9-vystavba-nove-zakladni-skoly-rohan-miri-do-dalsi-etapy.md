@@ -1,6 +1,6 @@
 ---
 title: "Výstavba nové základní školy Rohan míří do další etapy"
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/vizualizace/zs-rohan/zs-rohan-5.jpeg
 tags: [Rada MČ Praha 8, Základní škola Rohan, Školství, Územní rozvoj, Karlín]
 ---

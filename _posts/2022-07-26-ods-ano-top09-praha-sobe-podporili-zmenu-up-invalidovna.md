@@ -1,6 +1,6 @@
 ---
 title: "ODS, ANO, TOP 09 a Praha sobě bez jakýchkoliv záruk podpořil změnu územního plánu sídliště Invalidovna. Piráti byli proti!"
-authorId: karel.ptacek
+author: Karel Ptáček
 image: posts/vizualizace/invalidovna/invalidovna-metro-2022.jpg
 tags: [Invalidovna, Územní rozvoj]
 ---

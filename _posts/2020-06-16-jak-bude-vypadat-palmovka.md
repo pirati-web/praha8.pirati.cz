@@ -1,6 +1,6 @@
 ---
 title: Jak bude vypadat Palmovka budoucnosti?
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/palmovkated-kontejner.jpg
 tags: [Palmovka, Libeň, Územní rozvoj]
 ---

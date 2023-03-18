@@ -1,6 +1,6 @@
 ---
 title: Developeři se budou nově podílet na rozvoji naší městské části
-authorId: karel.ptacek
+author: Karel Ptáček
 image: posts/rohancity.jpg
 tags: [Karlín, Komise pro územní rozvoj, Územní rozvoj]
 ---

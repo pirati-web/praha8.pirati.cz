@@ -1,6 +1,6 @@
 ---
 title: "Stírka zachráněna, koupaliště bude i nadále sloužit všem"
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/koupaliste-nastirce4.jpg
 tags: [Piráti, Koupaliště Stírka, Kobylisy, Magistrát, Sport]
 ---

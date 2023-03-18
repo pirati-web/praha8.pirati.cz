@@ -1,6 +1,6 @@
 ---
 title: Jak bude vypadat nová škola na Rohanském ostrově? Praha 8 vypisuje architektonickou soutěž
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/rohanskyostrov-novaskola.jpg
 tags: [Karlín, Rohanský ostrov, Školství, Územní rozvoj, Základní škola Rohan]
 ---

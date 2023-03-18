@@ -1,6 +1,6 @@
 ---
 title: Známka pro vládnoucí koalici v půlce volebního období? Za čtyři!
-authorId: michal.novak
+author: Michal Novák
 image: posts/zastupitelstvo3.jpg
 tags: [Časopis Osmička]
 ---

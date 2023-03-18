@@ -1,6 +1,6 @@
 ---
 title: "Ulice je třeba ochlazovat, pomáhají stromy. Vysázíme je!"
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/srovnani-ulice-stromy.jpg
 tags: [Životní prostředí]
 ---

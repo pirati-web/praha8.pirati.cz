@@ -1,6 +1,6 @@
 ---
 title: Co přineslo červnové řádné jednání zastupitelstva MC Praha 8?
-authorId: michal.novak
+author: Michal Novák
 image: posts/zas13-6.jpg
 tags: [Zastupitelstvo, Nová Palmovka, Finance, Územní rozvoj]
 ---

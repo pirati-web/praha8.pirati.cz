@@ -1,6 +1,6 @@
 ---
 title: "Martin Štěrba pro TV Nova: Šest místostarostů Prahy 8 je zkrátka hodně"
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/martin-sterba/tvnova-listopad2022.png
 tags: [Zastupitelstvo]
 ---

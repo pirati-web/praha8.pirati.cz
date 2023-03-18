@@ -1,6 +1,6 @@
 ---
 title: Palmovkou je nutné se zabývat hned, není čas to odkládat
-authorId: karel.ptacek
+author: Karel Ptáček
 image: posts/Palmovkastramvaji.jpg
 tags: [Palmovka, Libeň, Zastupitelstvo]
 ---

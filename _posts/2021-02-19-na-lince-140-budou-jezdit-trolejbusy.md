@@ -1,6 +1,6 @@
 ---
 title: Na lince 140 z Palmovky do Miškovic budou jezdit trolejbusy
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/trolejbusy-praha8.jpg
 tags: [Libeň, Doprava, Magistrát, Trolejbusy v Praze 8]
 ---

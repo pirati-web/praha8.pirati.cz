@@ -1,6 +1,6 @@
 ---
 title: Zateplit domy ano nebo ne?
-authorId: karel.ptacek
+author: Karel Ptáček
 image: posts/zatepleni.jpg
 tags: [Životní prostředí, Bydlení]
 ---

@@ -1,6 +1,6 @@
 ---
 title: Je to tady! Zastupitelstvo projedná budoucnost Nové Palmovky
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/zastupitelstvo_zari2021_novapalmovka.png
 tags: [Nová Palmovka, Magistrát, Zastupitelstvo, Územní rozvoj]
 ---

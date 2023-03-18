@@ -1,6 +1,6 @@
 ---
 title: Löwitův Mlýn ožije. Rada ho pronajala měsíc starému spolku bez výběrového řízení
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/lowituvmlyn_akce.jpg
 tags: [Libeň, Majetek, Löwitův mlýn]
 ---

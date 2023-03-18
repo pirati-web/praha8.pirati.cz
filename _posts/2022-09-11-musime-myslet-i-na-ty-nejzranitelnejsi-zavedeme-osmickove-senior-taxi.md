@@ -1,6 +1,6 @@
 ---
 title: "Musíme myslet i na ty nejzranitelnější, zavedeme osmičkové senior taxi"
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/seniortaxi.jpg
 tags: [Sociální služby, Volby 2022]
 ---

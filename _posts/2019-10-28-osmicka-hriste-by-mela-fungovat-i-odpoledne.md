@@ -1,6 +1,6 @@
 ---
 title: Hřiště u škol by měla fungovat i odpoledne
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/osmicka_skolstvi_hriste.jpg
 tags: [Časopis Osmička, Sport, Školství]
 ---

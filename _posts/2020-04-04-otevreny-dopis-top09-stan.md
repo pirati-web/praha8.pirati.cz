@@ -1,6 +1,6 @@
 ---
 title: Otevřený dopis zastupitelům TOP 09 a STAN na MČ Praze 8
-authorId: michal.novak
+author: Michal Novák
 image: posts/zastupitelstvo3.jpg
 tags: [Kauza Dezinfekce, STAN, TOP09]
 ---

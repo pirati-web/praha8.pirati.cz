@@ -1,6 +1,6 @@
 ---
 title: Další trafika pro hnutí ANO, už pátá v řadě! Fichtner míří do Správy tepelného hospodářství.
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/fichtnerANO.jpg
 tags: [Zastupitelstvo, Hnutí ANO, Transparentnost]
 ---

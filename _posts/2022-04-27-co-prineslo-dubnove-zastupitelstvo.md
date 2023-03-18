@@ -1,6 +1,6 @@
 ---
 title: Zastupitelstvo schválilo studii pro Invalidovnu a plán rozvoje Prahy 8
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/martin-sterba/zastupitelstvo-duben2022.jpg
 tags: [Zastupitelstvo, Územní rozvoj]
 ---

@@ -1,6 +1,6 @@
 ---
 title: Na Komunálním fóru v Brně se mluvilo o tom, jak na radnici po kmotrech
-authorId: veronika.siftova
+author: Veronika Šiftová
 image: posts/komunalniforum2022-michal-veronika.jpg
 tags: [Piráti]
 ---

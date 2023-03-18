@@ -1,6 +1,6 @@
 ---
 title: Starosta Gros a ODS vyhlásili bizarní soutěž o bodné nože a pistole
-authorId: martin.sterba
+author: Martin Štěrba
 date: 2022-03-11
 image: posts/gros-mojeceskavlajka.png
 tags: [ODS]

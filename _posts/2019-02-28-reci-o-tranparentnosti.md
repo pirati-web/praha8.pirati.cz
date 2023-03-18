@@ -1,6 +1,6 @@
 ---
 title: Řeči o transparentnosti radních Prahy 8 moc dlouho nevydržely
-authorId: michal.novak
+author: Michal Novák
 image: posts/novak.jpg
 tags: [Transparentnost, Kontrolní výbor]
 ---

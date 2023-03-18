@@ -1,6 +1,6 @@
 ---
 title: Prohlášení zástupců opozice v redakční radě časopisu Osmička
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/osmicka_prohlaseni.png
 tags: [Redakční rada]
 ---

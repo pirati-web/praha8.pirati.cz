@@ -1,6 +1,6 @@
 ---
 title: S autovraky je to jako s odpadky. Musíme to řešit!
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/osmicka_autovraky.jpg
 tags: [Časopis Osmička, Životní prostředí]
 ---

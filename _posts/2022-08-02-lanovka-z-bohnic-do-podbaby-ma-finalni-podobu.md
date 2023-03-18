@@ -1,6 +1,6 @@
 ---
 title: "Lanovka z Bohnic do Podbaby má finální podobu. Podívejte se!"
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/vizualizace/lanovka-bohnice-podbaba/lanovka-final2.jpeg
 tags: [Lanovka Bohnice–Podbaba, Doprava, Magistrát, Bohnice]
 fancybox:

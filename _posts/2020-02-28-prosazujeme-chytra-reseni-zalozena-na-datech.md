@@ -1,6 +1,6 @@
 ---
 title: Prosazujeme chytrá řešení založená na datech
-authorId: michal.novak
+author: Michal Novák
 image: posts/osmicka_zavorabohnice.jpg
 tags: [Bohnice, Časopis Osmička, Doprava]
 ---

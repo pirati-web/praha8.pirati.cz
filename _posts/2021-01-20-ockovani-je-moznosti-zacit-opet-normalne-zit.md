@@ -1,6 +1,6 @@
 ---
 title: Očkování je možností začít opět normálně žít
-authorId: anna.filinova
+author: Anna Filínová
 image: posts/ockovani-covid19.jpg
 tags: [Časopis Osmička, Pandemie Covid-19]
 ---

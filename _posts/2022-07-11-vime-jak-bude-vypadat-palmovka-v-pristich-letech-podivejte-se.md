@@ -1,6 +1,6 @@
 ---
 title: "Víme, jak bude vypadat Palmovka v příštích letech! Podívejte se!"
-authorId: karel.ptacek
+author: Karel Ptáček
 image: posts/vizualizace/palmovka/palmovka-vizualizace6.jpg
 tags: [Palmovka, Nová Palmovka, Územní rozvoj]
 fancybox:

@@ -1,6 +1,6 @@
 ---
 title: Zavedení Cityvizoru se o rok posouvá, koalice chtěla všechno nebo nic
-authorId: jan.hamal.dvorak
+author: Jan Hamal Dvořák
 image: posts/cityvizor-kalkulacka.png
 tags: [CityVizor, Transparentnost, Zastupitelstvo]
 ---

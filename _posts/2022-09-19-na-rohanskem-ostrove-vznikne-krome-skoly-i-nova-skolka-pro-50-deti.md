@@ -1,6 +1,6 @@
 ---
 title: "Na Rohanském ostrově vznikne kromě nové školy také školka pro 50 dětí"
-authorId: karel.ptacek
+author: Karel Ptáček
 image: posts/skolka-deti.jpeg
 tags: [Rohanský ostrov, Základní škola Rohan, Karlín, Školství, Územní rozvoj]
 fancybox:

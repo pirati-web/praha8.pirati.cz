@@ -1,6 +1,6 @@
 ---
 title: Jak se rozprodávají činžovní domy na Praze 8
-authorId: karel.ptacek
+author: Karel Ptáček
 image: posts/dum.jpg
 tags: [Karlín, Bydlení]
 ---

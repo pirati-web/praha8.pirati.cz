@@ -1,6 +1,6 @@
 ---
 title: "Chceme vytvořit nové velké osmičkové farmářské tržiště. Co vy na to?"
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/ladvi-trhy.jpg
 tags: [Farmářské trhy, Občanská vybavenost, Volby 2022]
 ---

@@ -1,6 +1,6 @@
 ---
 title: Doprava v Praze a okolí dostane novou sjednotící podobu
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/mhd-novebarvy.jpg
 tags: [Doprava]
 ---

@@ -1,6 +1,6 @@
 ---
 title: Podporujeme nulovou toleranci výherních automatů
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/osmicka_kasinaaherny.jpg
 tags: [Časopis Osmička, Florenc, Bezpečnost]
 ---

@@ -1,6 +1,6 @@
 ---
 title: Na pomezí Karlína a Libně začala výstavba Rohan City
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/vizualizace/rohancity/rohancity11.png
 tags: [Libeň, Karlín, Rohanský ostrov, Veřejný prostor, Územní rozvoj]
 fancybox:

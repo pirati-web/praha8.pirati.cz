@@ -1,6 +1,6 @@
 ---
 title: Zastupitelstvo hlavního města potvrdilo stavbu lanovky mezi Podbabou, Trojou a Bohnicemi
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/lanovkabohnice.jpg
 tags: [Lanovka Bohnice–Podbaba, Bohnice, Doprava, Magistrát]
 ---

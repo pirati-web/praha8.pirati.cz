@@ -1,6 +1,6 @@
 ---
 title: Bohnický hřbitov by mohl být pod správou městské části Praha 8
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/bohnice-hrbitov.jpg
 tags: [Bohnický ústavní hřbitov, Bohnice, Magistrát, Veřejný prostor]
 ---

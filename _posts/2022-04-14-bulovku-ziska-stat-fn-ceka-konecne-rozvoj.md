@@ -1,6 +1,6 @@
 ---
 title: "Bulovku získá stát, fakultní nemocnici čeká konečně rozvoj"
-authorId: martin.sterba
+author: Martin Štěrba
 image:  posts/bulovka.jpg
 tags:   [Bulovka, Magistrát]
 ---

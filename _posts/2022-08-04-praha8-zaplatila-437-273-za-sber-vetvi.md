@@ -1,6 +1,6 @@
 ---
 title: "Praha 8 pod vedením ODS zaplatila 437 273 Kč za sběr větví, úklid jezírka a pokácení dvou stromů"
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/stromy-dablice.jpeg
 tags: [ODS, Životní prostředí]
 ---

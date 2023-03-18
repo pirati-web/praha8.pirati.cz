@@ -1,6 +1,6 @@
 ---
 title: Byla nebyla jednou jedna dotace na Novou Palmovku. Teď ji musí Praha 8 vrátit!
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/novapalmovka-stavba2.jpg
 tags: [Finance, Nová Palmovka, Magistrát]
 ---

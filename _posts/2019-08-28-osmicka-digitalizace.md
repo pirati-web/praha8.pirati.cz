@@ -1,6 +1,6 @@
 ---
 title: Záznamy by se měly vést především elektronicky
-authorId: jan.hamal.dvorak
+author: Jan Hamal Dvořák
 image: posts/osmicka_digitalizace.jpg
 tags: [Digitalizace, Časopis Osmička, CityVizor]
 ---

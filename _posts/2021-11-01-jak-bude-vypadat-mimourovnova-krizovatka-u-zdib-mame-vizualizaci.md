@@ -1,6 +1,6 @@
 ---
 title: Jak bude vypadat mimoúrovňová křižovatka s tramvajemi u Zdib? Máme vizualizaci!
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/zdiby-vizualizace-muk.png
 tags: [Doprava, Tramvaj do Zdib]
 ---

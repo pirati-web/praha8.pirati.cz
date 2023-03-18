@@ -1,6 +1,6 @@
 ---
 title: O bývalou vozovnu a první pražskou továrnu na led na pomezí Karlína a Libně se utkají developeři
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/strasburk-googlemaps.png
 tags: [Libeň, Karlín, Územní rozvoj]
 ---

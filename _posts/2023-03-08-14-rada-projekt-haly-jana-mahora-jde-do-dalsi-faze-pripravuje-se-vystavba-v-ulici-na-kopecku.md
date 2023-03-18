@@ -1,6 +1,6 @@
 ---
 title: "Projekt sportovní haly Jána Mahora v Kobylisích jde do další fáze a připravuje se výstavba v ulici Na Kopečku v Libni"
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/vizualizace/hala-jana-mahora/hala-jana-mahora3.jpg
 tags: [Rada MČ Praha 8, Kobylisy, Libeň, Územní rozvoj, Sport]
 fancybox:

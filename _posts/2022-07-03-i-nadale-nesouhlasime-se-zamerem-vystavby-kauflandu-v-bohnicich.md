@@ -1,6 +1,6 @@
 ---
 title: "I nadále nesouhlasíme se záměrem výstavby Kauflandu v Bohnicích"
-authorId: karel.ptacek
+author: Karel Ptáček
 image: posts/bohnice-kaufland.jpg
 tags: [Bohnice, Kaufland]
 ---

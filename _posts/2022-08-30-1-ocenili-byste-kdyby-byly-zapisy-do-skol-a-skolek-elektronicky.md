@@ -1,6 +1,6 @@
 ---
 title: "Ocenili byste, kdyby byly zápisy do škol a školek elektronicky?"
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/skolstvi-zapisy.jpeg
 tags: [Digitalizace, Školství, Volby 2022]
 ---

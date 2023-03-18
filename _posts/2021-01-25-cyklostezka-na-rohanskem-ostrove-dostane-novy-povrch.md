@@ -1,6 +1,6 @@
 ---
 title: Cyklostezka na Rohanském ostrově dostane nový povrch
-authorId: karel.ptacek
+author: Karel Ptáček
 image: posts/cyklostezka-rohan-karelptacek.png
 tags: [Rohanský ostrov, Karlín, Cyklodoprava, Sport]
 ---

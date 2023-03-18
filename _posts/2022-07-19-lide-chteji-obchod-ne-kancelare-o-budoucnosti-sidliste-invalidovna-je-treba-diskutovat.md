@@ -1,6 +1,6 @@
 ---
 title: "Lidé z Invalidovny chtějí obchod, ne kanceláře! O budoucnosti sídliště je třeba diskutovat"
-authorId: karel.ptacek
+author: Karel Ptáček
 image: posts/vizualizace/rustonka-west/rustonka-west2.jpeg
 tags: [Invalidovna, Územní rozvoj]
 fancybox:

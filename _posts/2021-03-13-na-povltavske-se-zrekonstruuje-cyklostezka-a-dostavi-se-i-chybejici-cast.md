@@ -1,6 +1,6 @@
 ---
 title: Na Povlstavské se zrekonstruuje cyklostezka a dostaví se i chybějí část
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/cyklostezka-povltavska.jpg
 tags: [Povltavská promenáda, Libeň, Cyklodoprava, Sport]
 ---

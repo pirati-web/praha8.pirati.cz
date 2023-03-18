@@ -1,6 +1,6 @@
 ---
 title: Dlouhodobě podporujeme zahloubení ulice V Holešovičkách. Co pro to děláme?
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/holesovicky-bulovka.png
 tags: [Ulice V Holešovičkách, Libeň, Doprava, Veřejný prostor]
 ---

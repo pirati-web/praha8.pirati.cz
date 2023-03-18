@@ -1,6 +1,6 @@
 ---
 title: Uklizené ulice by měly být jednou z našich vizitek
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/popelnice-plne.jpg
 tags: [Životní prostředí]
 ---

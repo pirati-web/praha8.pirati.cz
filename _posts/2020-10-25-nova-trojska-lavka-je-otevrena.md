@@ -1,6 +1,6 @@
 ---
 title: Nová Trojská lávka je otevřená
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/trojska-lavka-nova.png
 tags: [Cyklodoprava, Magistrát, Veřejný prostor]
 ---

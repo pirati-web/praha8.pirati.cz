@@ -1,6 +1,6 @@
 ---
 title: Musíme myslet i na ty bez přístupu k internetu
-authorId: anna.filinova
+author: Anna Filínová
 image: posts/osmicka_internet.jpg
 tags: [Pandemie Covid-19, Časopis Osmička, Sociální služby]
 ---

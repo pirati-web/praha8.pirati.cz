@@ -1,6 +1,6 @@
 ---
 title: Praha 8 díky Pirátům ušetřila stovky milionů korun
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/martinsterba-palmovka244milionu.jpg
 tags: [Finance, Nová Palmovka, Magistrát]
 ---

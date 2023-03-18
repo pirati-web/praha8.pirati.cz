@@ -1,6 +1,6 @@
 ---
 title: Politikům musí být vidět pod ruce
-authorId: jan.hamal.dvorak
+author: Jan Hamal Dvořák
 image: posts/cityvizor-praha.png
 tags: [CityVizor, Časopis Osmička]
 ---

@@ -1,6 +1,6 @@
 ---
 title: Jsme ale nekompromisní a nesmlouvaví. Koušeme jen občas.
-authorId: michal.novak
+author: Michal Novák
 image: posts/michal-kouse.jpg
 tags: [Transparentnost, Piráti]
 ---

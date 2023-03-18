@@ -1,6 +1,6 @@
 ---
 title: Poklonili jsme se těm, kteří zemřeli, abychom my mohli žít
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/2022-05-27-anthropoid80/anthropoid09.jpg
 tags: [Anthropoid, Libeň]
 fancybox:

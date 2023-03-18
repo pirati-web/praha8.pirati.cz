@@ -1,6 +1,6 @@
 ---
 title: "Kultura má moc vzdělávat – je zásadní zpřístupnit ji dětem a teenagerům"
-authorId: karolina.gattermayerova
+author: Karolína Gattermayerová
 image: posts/libenskyzamek-kultura.jpg
 tags: [Časopis Osmička, Kultura]
 ---

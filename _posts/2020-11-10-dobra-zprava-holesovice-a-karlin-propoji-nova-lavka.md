@@ -1,6 +1,6 @@
 ---
 title: Dobrá zpráva! Holešovice a Karlín propojí nová lávka
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/lavka-holesovice-holka.jpg
 tags: [Doprava, Karlín, Štvanická lávka (HolKa)]
 ---

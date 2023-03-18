@@ -1,6 +1,6 @@
 ---
 title: Zpráva z komise městské části pro obecní byty
-authorId: ivo.slavka
+author: Ivo Slávka
 image: posts/seniorum-mame-pomahat.png
 tags: [Bydlení, Komise pro obecní byty]
 ---

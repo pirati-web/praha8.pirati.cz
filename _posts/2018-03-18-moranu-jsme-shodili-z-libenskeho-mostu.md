@@ -1,6 +1,6 @@
 ---
 title: Moranu jsme shodili z Libeňského mostu
-authorId: tomas.marik 
+author: Tomáš Mařík 
 date: 2018-03-18
 image: posts/2018-03-28-vynasenimorany/morana5.jpeg
 tags: [Libeňský most, Piráti]

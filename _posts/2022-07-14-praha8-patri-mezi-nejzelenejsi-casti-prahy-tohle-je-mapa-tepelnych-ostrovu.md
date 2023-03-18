@@ -1,6 +1,6 @@
 ---
 title: "Praha 8 patří mezi nejzelenější části Prahy. Tohle je mapa tepelných ostrovů"
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/teplotni-mapa-2022.png
 tags: [Životní prostředí]
 ---

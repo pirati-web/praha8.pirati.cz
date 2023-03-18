@@ -1,6 +1,6 @@
 ---
 title: Jaký je K-Index naší městské části?
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/hlidacstatu.png
 tags: [Transparentnost]
 ---

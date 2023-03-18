@@ -1,6 +1,6 @@
 ---
 title: Prosadili jsme zavedení aplikace CityVizor, Praha 8 bude mít rozklikávací rozpočet
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/cityvizor-grafika.png
 tags: [CityVizor, Transparentnost, Zastupitelstvo]
 ---

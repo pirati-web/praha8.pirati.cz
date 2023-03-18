@@ -1,6 +1,6 @@
 ---
 title: Na hrůzy války nezapomínáme, poklonili jsme se obětem protinacistického odboje
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/kobyliska-strelnice-pietniakt2022.jpg
 tags: [Kobyliská střelnice]
 ---

@@ -1,6 +1,6 @@
 ---
 title: Magistrát na Palmovce postaví nový polyfunkční dům. Jak bude vypadat?
-authorId: karel.ptacek
+author: Karel Ptáček
 image: posts/palmovka-bytovydum5.jpg
 tags: [Bydlení, Palmovka, Magistrát, Územní rozvoj]
 ---

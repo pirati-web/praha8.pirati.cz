@@ -1,6 +1,6 @@
 ---
 title: "Primátor Hřib starostovi Prahy 8: Procenta pro radního za dezinfekci škol? Nepřijatelné!"
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/hrib-zdenek.jpg
 tags: [Kauza Dezinfekce, ODS, Pandemie Covid-19]
 ---

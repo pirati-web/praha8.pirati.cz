@@ -1,6 +1,6 @@
 ---
 title: Botanická plánuje nový pompézní severní vstup. Co vy na to?
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/botanicka2022-1.jpg
 tags: [Bohnice, Botanická zahrada]
 ---

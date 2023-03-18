@@ -1,6 +1,6 @@
 ---
 title: Tohle je nový Metropolitní plán! Můžete ho připomínkovat
-authorId: karel.ptacek
+author: Karel Ptáček
 image: posts/metropolitniplan-karelptacek-zdenekhrib.jpg
 tags: [Metropolitní plán, Územní rozvoj]
 ---

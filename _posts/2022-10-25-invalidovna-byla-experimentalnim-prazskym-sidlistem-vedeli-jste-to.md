@@ -1,6 +1,6 @@
 ---
 title: "Sídliště Invalidovna vznikalo jako experimentální, je tady i první pražský supermarket. Věděli jste to?"
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/invalidovna-prochazka.jpg
 tags: [Invalidovna]
 ---

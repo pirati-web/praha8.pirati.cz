@@ -1,6 +1,6 @@
 ---
 title: Když to neudělala městská část, vyčistili jsme Rohanský ostrov od nepořádku sami
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/2021-05-22-rohanskyostrov-uklid/uklid-rohanskyostrov4.jpg
 tags: [Libeň, Karlín, Rohanský ostrov, Veřejný prostor, Životní prostředí]
 fancybox:

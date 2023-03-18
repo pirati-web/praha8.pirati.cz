@@ -1,6 +1,6 @@
 ---
 title: "Martin Štěrba: Máme odvahu řídit Prahu 8 správně!"
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/volby2022-kandidatka.jpg
 tags: [Časopis Osmička, Volby 2022]
 ---

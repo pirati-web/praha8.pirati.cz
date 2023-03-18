@@ -1,6 +1,6 @@
 ---
 title: 13. komnata zastupitele Iva Slávky. Jak to bylo dopravdy?
-authorId: ivo.slavka
+author: Ivo Slávka
 date: 2021-12-07
 image: posts/ivoslavka-13komnata.png
 tags: [Piráti]

@@ -1,6 +1,6 @@
 ---
 title: Transparentnost podle koalice – aplikace CityVizor se nedočkáme
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/cityvizor-praha.png
 tags: [Zastupitelstvo, Transparentnost, CityVizor]
 ---

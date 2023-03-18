@@ -1,6 +1,6 @@
 ---
 title: Místo Billy bude v Lodžské ulici Lidl, otevřít by se měl na přelomu roku
-authorId: karel.ptacek
+author: Karel Ptáček
 image: posts/bohnice-lidl.jpg
 tags: [Bohnice, Veřejný prostor]
 ---

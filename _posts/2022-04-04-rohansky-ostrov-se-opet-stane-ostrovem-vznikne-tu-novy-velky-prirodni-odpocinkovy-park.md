@@ -1,6 +1,6 @@
 ---
 title: Rohanský ostrov se opět stane ostrovem! Vznikne tu nový velký přírodní odpočinkový park
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/martinsterba-parkmaniny.png
 tags: [Magistrát, Park Maniny, Rohanský ostrov, Životní prostředí]
 ---

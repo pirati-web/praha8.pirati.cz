@@ -1,6 +1,6 @@
 ---
 title: "Náměstí Na Stráži na Bulovce potřebuje proměnu. Souhlasíte?"
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/namesti-na-strazi.jpg
 tags: [Bulovka, Územní rozvoj, Volby 2022]
 ---

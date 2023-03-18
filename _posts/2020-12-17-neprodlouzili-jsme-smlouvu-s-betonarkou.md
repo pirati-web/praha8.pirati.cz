@@ -1,6 +1,6 @@
 ---
 title: Betonárna by měla z Karlína zmizet, souhlasili jsme s neprodloužením smlouvy
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/karlin-betonarna.png
 tags: [Rohanský ostrov, Karlín, Životní prostředí]
 ---

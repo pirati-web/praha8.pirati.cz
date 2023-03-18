@@ -1,6 +1,6 @@
 ---
 title: "Primární jsou tramvaje, lanovka je až na druhém místě"
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/vizualizace/lanovka-bohnice-podbaba/lanovka-final2.jpeg
 tags: [Lanovka Bohnice–Podbaba, Tramvaj do Bohnic, Doprava, Magistrát, Bohnice]
 ---

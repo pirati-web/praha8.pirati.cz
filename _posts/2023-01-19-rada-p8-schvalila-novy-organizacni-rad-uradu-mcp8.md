@@ -1,6 +1,6 @@
 ---
 title: "Praha 8 má nový organizační řád Úřadu městské části"
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/bily-dum-napis.jpg
 tags: [Rada MČ Praha 8]
 ---

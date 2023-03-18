@@ -1,6 +1,6 @@
 ---
 title: "Aquacentrum Šutka bude v roce 2023 rozšířeno o venkovní část"
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/aquacentrum-sutka.jpg
 tags: [Šutka]
 ---

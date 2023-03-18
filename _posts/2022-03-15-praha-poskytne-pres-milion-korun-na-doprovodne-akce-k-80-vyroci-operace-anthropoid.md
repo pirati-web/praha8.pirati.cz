@@ -1,6 +1,6 @@
 ---
 title: Praha poskytne přes milion korun na doprovodné vzdělávací akce k 80. výročí Operace Anthropoid
-authorId: martin.sterba
+author: Martin Štěrba
 date: 2022-03-15
 image: posts/2021-05-27-anthropoid/anthropoid2021_2.jpg
 tags: [Anthropoid, Libeň]

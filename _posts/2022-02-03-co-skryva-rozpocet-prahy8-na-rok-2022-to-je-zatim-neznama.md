@@ -1,6 +1,6 @@
 ---
 title: Co skrývá rozpočet Prahy 8 na rok 2022? To je zatím velká neznámá!
-authorId: michal.novak 
+author: Michal Novák 
 date: 2022-02-03
 image: posts/zastupitelstvo_leden2022.jpg
 tags: [Finance, Finanční výbor, Zastupitelstvo]

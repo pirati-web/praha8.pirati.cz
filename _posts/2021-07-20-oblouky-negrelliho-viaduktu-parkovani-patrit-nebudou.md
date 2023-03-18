@@ -1,6 +1,6 @@
 ---
 title: Oblouky Negrelliho viaduktu parkování patřit nebudou
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/negrelliho-viadukt.png
 tags: [Doprava, Karlín, ODS]
 ---

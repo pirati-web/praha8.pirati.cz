@@ -1,6 +1,6 @@
 ---
 title: Běloruskou vlajku jsme vyvěsili alespoň symbolicky ve Photoshopu
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/freebelarus.png
 tags: [Piráti]
 ---

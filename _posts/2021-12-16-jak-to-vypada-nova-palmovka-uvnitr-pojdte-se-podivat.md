@@ -1,6 +1,6 @@
 ---
 title: Jak vypadá Nová Palmovka uvnitř? Pojďte se podívat!
-authorId: martin.sterba
+author: Martin Štěrba
 date: 2021-12-16
 image: posts/2021-12-16-novapalmovka/novapalmovka04.jpeg
 tags: [Nová Palmovka, Magistrát, Územní rozvoj, Zastupitelstvo]

@@ -1,6 +1,6 @@
 ---
 title: "Palmovka nepatří k výkladním skříním Prahy 8, to by se do roku 2025 mělo změnit" 
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/novapalmovka-nadraziliben.png
 tags: [Palmovka, Nová Palmovka, Agentura EUSPA, Územní rozvoj, Libeň]
 fancybox:

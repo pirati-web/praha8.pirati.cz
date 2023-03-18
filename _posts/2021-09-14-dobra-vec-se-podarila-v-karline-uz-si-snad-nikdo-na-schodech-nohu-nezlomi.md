@@ -1,6 +1,6 @@
 ---
 title: Dobrá věc se podařila! V Karlíně už si snad nikdo na schodech nohu nezlomí
-authorId: karel.ptacek
+author: Karel Ptáček
 image: posts/2021-09-14-schodykarlin/schody1.jpeg
 tags: [Karlín, Veřejný prostor]
 fancybox:

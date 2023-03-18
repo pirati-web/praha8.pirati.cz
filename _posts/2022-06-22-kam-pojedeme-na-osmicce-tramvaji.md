@@ -1,6 +1,6 @@
 ---
 title: Podporujeme rozvoj tramvajových tratí! Kam pojedeme na osmičce tramvají?
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/tramvaj-bohnice2.png
 tags: [Doprava, Tramvaj do Bohnic, Tramvaj do Zdib]
 ---

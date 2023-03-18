@@ -1,6 +1,6 @@
 ---
 title: Zastupitelstvo schválilo vznik Výboru pro Novou Palmovku, členem bude zastupitel Ivo Slávka
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/novapalmovka-stavba3.jpg
 tags: [Nová Palmovka, Zastupitelstvo, Územní rozvoj]
 ---

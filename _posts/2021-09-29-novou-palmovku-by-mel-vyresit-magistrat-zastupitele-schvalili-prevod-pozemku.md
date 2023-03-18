@@ -1,6 +1,6 @@
 ---
 title: Novou Palmovku by měl vyřešit Magistrát, zastupitelé schválili převod pozemků
-authorId: martin.sterba
+author: Martin Štěrba
 date: 2021-09-29 10:12:00
 image: posts/novapalmovka_ivoslavka-martinsterba.jpg
 tags: [Nová Palmovka, Magistrát, Územní rozvoj, Zastupitelstvo]

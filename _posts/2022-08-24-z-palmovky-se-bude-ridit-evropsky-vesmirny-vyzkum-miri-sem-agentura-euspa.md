@@ -1,6 +1,6 @@
 ---
 title: "Z Palmovky se bude řídit evropský vesmírný výzkum, míří se agentura EUSPA"
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/novapalmovka-dvorana.jpg
 tags: [Agentura EUSPA, Nová Palmovka, Palmovka, Územní rozvoj]
 ---

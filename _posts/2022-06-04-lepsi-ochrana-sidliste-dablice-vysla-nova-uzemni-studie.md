@@ -1,6 +1,6 @@
 ---
 title: Ďáblice zaslouží chránit. IPR vydal k připomínkování novou územní studii
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/2022-05-19-prochazka-dablice/dablice8.jpeg
 tags: [Ďáblice, Územní rozvoj]
 ---

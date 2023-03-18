@@ -1,6 +1,6 @@
 ---
 title: "Wagenknecht: Záměr výstavby OD Kaufland považuji za nepřijatelný"
-authorId: lukas.wagenknecht
+author: Lukáš Wagenknecht
 image: posts/bohnice-kaufland.jpg
 tags: [Bohnice, Kaufland]
 ---

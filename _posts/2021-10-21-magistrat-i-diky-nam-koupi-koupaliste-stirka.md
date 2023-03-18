@@ -1,6 +1,6 @@
 ---
 title: Magistrát i díky nám koupí koupaliště Stírka
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/koupaliste-nastirce3.png
 tags: [Koupaliště Stírka, Kobylisy, Magistrát, Sport]
 ---

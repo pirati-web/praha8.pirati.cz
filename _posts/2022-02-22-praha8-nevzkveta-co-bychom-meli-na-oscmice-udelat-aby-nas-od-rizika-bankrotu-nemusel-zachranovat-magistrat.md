@@ -1,6 +1,6 @@
 ---
 title: Praha 8 nevzkvétá. Co bychom měli na osmičce udělat, aby nás od rizika bankrotu nemusel zachraňovat magistrát?
-authorId: martin.sterba
+author: Martin Štěrba
 date: 2022-02-22
 image: posts/libenskyzamek-novaradnice.png
 tags: [Časopis Osmička, Finance]

@@ -1,6 +1,6 @@
 ---
 title: Praha koupí koupaliště Stírka, odsouhlasil to magistrátní výbor pro majetek
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/koupaliste-nastirce.png
 tags: [Koupaliště Stírka, Kobylisy, Magistrát, Sport]
 ---

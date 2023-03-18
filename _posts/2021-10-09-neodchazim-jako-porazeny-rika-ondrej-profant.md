@@ -1,6 +1,6 @@
 ---
 title: Neodcházím jako poražený, říká Ondřej Profant
-authorId: ondrej.profant
+author: Ondřej Profant
 image: posts/ondrejprofant-sayhello.png
 tags: [Volby 2021]
 ---

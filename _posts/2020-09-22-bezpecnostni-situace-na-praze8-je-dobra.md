@@ -1,6 +1,6 @@
 ---
 title: Bezpečnostní situace na Praze 8 je dobrá, chceme zlepšit prevenci a prostředí rizikových míst
-authorId: jan.kolator
+author: Jan Kolátor
 image: posts/Palmovkastramvaji.jpg
 tags: [Bezpečnost, Časopis Osmička]
 ---

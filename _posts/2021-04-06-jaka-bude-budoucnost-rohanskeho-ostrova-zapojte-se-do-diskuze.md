@@ -1,6 +1,6 @@
 ---
 title: Jaká bude budoucnost Rohanského ostrova? Zapojte se do diskuze
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/rohanskyostrov-vize.jpg
 tags: [Rohanský ostrov, Veřejný prostor, Územní rozvoj]
 ---

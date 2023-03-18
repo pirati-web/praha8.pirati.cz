@@ -1,6 +1,6 @@
 ---
 title: "Stranger Things ve verzi podivných věcí na sítích nejen Prahy 8"
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/martin-sterba/strangerthings.jpg
 tags: [Volby 2022]
 ---

@@ -1,6 +1,6 @@
 ---
 title: Zahrádky na Šutce se promění. Vzniknou tam i dva veřejné parky
-authorId: karel.ptacek
+author: Karel Ptáček
 image: posts/sutka-zahradky1.jpg
 tags: [Kobylisy, Metropolitní plán, Šutka, Územní rozvoj]
 ---

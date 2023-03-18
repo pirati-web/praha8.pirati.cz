@@ -1,6 +1,6 @@
 ---
 title: "Praha 8 rozsvítí 5 vánočních stromů, ty v Karlíně a Libni už svítí"
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/libenskyzamek-strom2022.jpg
 tags: [Kultura, Veřejný prostor]
 ---

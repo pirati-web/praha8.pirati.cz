@@ -1,6 +1,6 @@
 ---
 title: "Naším cílem je maximální důraz na zapojování veřejnosti do správy věcí veřejných"
-authorId: jakub.jiran
+author: Jakub Jiran
 image: posts/volby2022-stanek.jpg
 tags: [Časopis Osmička, Transparentnost]
 ---

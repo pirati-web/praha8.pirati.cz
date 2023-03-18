@@ -1,6 +1,6 @@
 ---
 title: Středeční zastupitelstvo schválilo rozpočet pro rok 2021. Opět není koncepční a postrádá hlubší myšlenku
-authorId: michal.novak
+author: Michal Novák
 image: posts/finance1.jpg
 tags: [Finance, Zastupitelstvo]
 ---

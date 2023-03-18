@@ -1,6 +1,6 @@
 ---
 title: Je to finální! Koupaliště Stírka bude vyjmuto z privatizace
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/koupaliste-nastirce2.png
 tags: [Koupaliště Stírka, Kobylisy, Sport, Magistrát]
 ---

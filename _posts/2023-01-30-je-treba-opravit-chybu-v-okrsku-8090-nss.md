@@ -1,6 +1,6 @@
 ---
 title: "Je třeba, aby byla prokazatelná chyba v okrsku 8090 opravena. Vyhrál Petr Pavel, nikoliv Andrej Babiš"
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/petrpavel.jpg
 tags: [Bohnice, Volby prezidenta]
 ---

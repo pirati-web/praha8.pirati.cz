@@ -1,6 +1,6 @@
 ---
 title: "Zažádejte si o dotace na podporu zlepšení stavu životního prostředí"
-authorId: jakub.jiran
+author: Jakub Jiran
 image: posts/zivotniprostredi-stromy.jpg
 tags: [Životní prostředí, Magistrát, Finance, Granty a dotace]
 ---

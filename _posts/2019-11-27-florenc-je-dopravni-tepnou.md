@@ -1,6 +1,6 @@
 ---
 title: Florenc je dopravní tepnou, prostor je nutné oživit
-authorId: karel.ptacek
+author: Karel Ptáček
 image: posts/osmicka-florenc.jpg
 tags: [Florenc, Karlín, Časopis Osmička, Veřejný prostor, Doprava]
 ---

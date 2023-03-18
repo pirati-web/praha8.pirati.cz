@@ -1,6 +1,6 @@
 ---
 title: V CAMPu byl představen bohnický park K Pazderkám a nové obchodní centrum. Potřebujeme ho?
-authorId: karel.ptacek
+author: Karel Ptáček
 image: posts/ocbohnice.jpg
 tags: [Bohnice, Veřejný prostor]
 ---

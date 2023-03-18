@@ -1,6 +1,6 @@
 ---
 title: "Jindřiška Nováková, nejmladší oběť heydrichiády, má před ZŠ Bohumila Hrabala svůj pomník"
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/pomnik-jindrisky-novakove.jpg
 tags: [Anthropoid, Libeň]
 ---

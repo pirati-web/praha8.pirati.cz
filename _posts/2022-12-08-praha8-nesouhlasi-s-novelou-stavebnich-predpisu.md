@@ -1,6 +1,6 @@
 ---
 title: "Praha 8 nesouhlasí s novelou Pražských stavebních předpisů"
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/parkovani.jpg
 tags: [Rada MČ Praha 8, Územní rozvoj, Školství]
 ---

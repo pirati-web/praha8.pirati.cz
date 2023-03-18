@@ -1,6 +1,6 @@
 ---
 title: Podpořte nás, podpořte lepší Prahu 8!
-authorId: karolina.gattermayerova
+author: Karolína Gattermayerová
 image: posts/volby2022-qrkod.jpg
 tags: [Piráti, Volby 2022]
 ---

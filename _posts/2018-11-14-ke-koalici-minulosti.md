@@ -1,6 +1,6 @@
 ---
 title: Držíme kurz! I když se nepovedlo vyjednat koalici změny.
-authorId: michal.novak
+author: Michal Novák
 image: posts/slib.jpeg
 tags: [Volby 2018, Piráti, Zastupitelstvo]
 ---

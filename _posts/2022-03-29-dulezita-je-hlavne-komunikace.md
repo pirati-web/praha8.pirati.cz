@@ -1,6 +1,6 @@
 ---
 title: Rozvoji nelze bránit, důležitá je ale hlavně komunikace s občany
-authorId: karel.ptacek
+author: Karel Ptáček
 date: 2022-03-29
 image: posts/vystavba-karlin.png
 tags: [Časopis Osmička, Karlín, Územní rozvoj]

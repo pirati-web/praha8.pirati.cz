@@ -1,6 +1,6 @@
 ---
 title: MČ Praha 8 utrácí statisíce za zbytečné reportáže v TV Praha
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/tvpraha-expresPrahy8.png
 tags: [TV Praha]
 ---

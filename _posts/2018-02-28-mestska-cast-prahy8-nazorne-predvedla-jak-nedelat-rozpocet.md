@@ -1,6 +1,6 @@
 ---
 title: Městská část Prahy 8 názorně předvedla, jak nedělat rozpočet
-authorId: tomas.marik
+author: Tomáš Mařík
 image: posts/finance3.png
 tags: [Finance, Zastupitelstvo]
 ---

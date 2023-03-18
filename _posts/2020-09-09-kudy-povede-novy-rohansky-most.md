@@ -1,6 +1,6 @@
 ---
 title: Kudy povede nový Rohanský most spojující Karlín a Holešovice? Zatím nevíme.
-authorId: karel.ptacek
+author: Karel Ptáček
 image: posts/rohanskyostrov-setkani.jpg
 tags: [Rohanský most, Karlín, Doprava]
 ---

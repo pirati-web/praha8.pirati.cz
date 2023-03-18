@@ -1,6 +1,6 @@
 ---
 title: "Situace okolo centra metadonové substituce: Represe rozhodně nepomohou"
-authorId: jan.kolator
+author: Jan Kolátor
 image: posts/metadon.jpg
 tags: [Bezpečnost, Komise pro bezpečnost]
 ---

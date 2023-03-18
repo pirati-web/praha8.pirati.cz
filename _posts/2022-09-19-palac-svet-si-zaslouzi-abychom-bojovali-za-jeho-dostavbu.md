@@ -1,6 +1,6 @@
 ---
 title: "Palác Svět si zaslouží, abychom bojovali za jeho dostavbu"
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/martin-sterba/palacsvet.jpg
 tags: [Palác Svět, Libeň, Volby 2022]
 ---

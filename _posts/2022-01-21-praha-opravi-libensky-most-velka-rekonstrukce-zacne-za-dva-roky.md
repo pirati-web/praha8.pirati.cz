@@ -1,6 +1,6 @@
 ---
 title: Praha opraví Libeňský most, velká rekonstrukce začne za dva roky
-authorId: martin.sterba
+author: Martin Štěrba
 date: 2022-01-21
 image: posts/libenskymost3.png
 tags: [Doprava, Libeňský most, Veřejný prostor]

@@ -1,6 +1,6 @@
 ---
 title: "Budeme opozicí tvrdou, ale konstruktivní"
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/zastupitelstvo3.jpg
 tags: [Časopis Osmička]
 ---

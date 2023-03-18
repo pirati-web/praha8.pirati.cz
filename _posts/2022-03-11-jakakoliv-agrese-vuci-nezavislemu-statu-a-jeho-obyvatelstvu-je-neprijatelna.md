@@ -1,6 +1,6 @@
 ---
 title: Jakákoliv agrese vůči nezávislému státu a jeho obyvatelstvu je nepřípustná
-authorId: lukas.wagenknecht
+author: Lukáš Wagenknecht
 date: 2022-03-11
 image: posts/wagenknecht-tibet2022.jpg
 tags: [Vlajka pro Tibet, Demokracie]

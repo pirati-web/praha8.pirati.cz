@@ -1,6 +1,6 @@
 ---
 title: "Jak to je s kácením stromů na Palmovce? Zjišťovali jsme to!"
-authorId: tomas.marik
+author: Tomáš Mařík
 image: posts/palmovka-kaceni.jpg
 tags: [Palmovka, Libeňský most, Životní prostředí]
 ---

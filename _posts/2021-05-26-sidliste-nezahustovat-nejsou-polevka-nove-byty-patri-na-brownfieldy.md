@@ -1,6 +1,6 @@
 ---
 title: Sídliště nezahušťovat, nejsou polévka. Nové byty patří na brownfieldy
-authorId: michal.novak
+author: Michal Novák
 image: posts/dablice-sidliste.jpg
 tags: [Bydlení, Ďáblice, Kobylisy, Územní rozvoj]
 ---

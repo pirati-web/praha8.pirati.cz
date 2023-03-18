@@ -1,7 +1,7 @@
 ---
 title: Koalice bez programu a prodej pozemku školy bez vědomí její ředitelky. Co dělá koalice na Praze 8?
 author: Michal Novák
-authorId: michal.novak
+author: Michal Novák
 image: posts/tym8.jpg
 tags: [Zastupitelstvo]
 ---

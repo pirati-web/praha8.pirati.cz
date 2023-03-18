@@ -1,6 +1,6 @@
 ---
 title: Dohoda s Magistrátem o budoucnosti Nové Palmovky je nejlepší možná pro Prahu 8
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/osmicka_novapalmovka.png
 tags: [Časopis Osmička, Magistrát, Nová Palmovka]
 ---

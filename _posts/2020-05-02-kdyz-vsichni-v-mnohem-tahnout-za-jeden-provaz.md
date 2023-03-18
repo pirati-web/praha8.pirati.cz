@@ -1,6 +1,6 @@
 ---
 title: Když všichni v mnohém táhnou za jeden provaz
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/osmicka_koronavirus2.png
 tags: [Časopis Osmička, Pandemie Covid-19]
 ---

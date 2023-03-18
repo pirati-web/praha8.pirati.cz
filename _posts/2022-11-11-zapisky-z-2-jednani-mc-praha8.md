@@ -1,6 +1,6 @@
 ---
 title: "Všichni zastupitelé mohou oddávat, bistro v Bílém domě končí"
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/libensky-zamek.jpg
 tags: [Rada MČ Praha 8]
 ---

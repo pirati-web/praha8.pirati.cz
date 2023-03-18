@@ -1,6 +1,6 @@
 ---
 title: "Do roku 2033 vyroste mezi Invalidovnou a Palmovkou 2 200 bytů"
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/palmovka-model1.jpg
 tags: [Agentura EUSPA, Bydlení, Palmovka, Nová Palmovka, Územní rozvoj]
 ---

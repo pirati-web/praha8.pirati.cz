@@ -1,6 +1,6 @@
 ---
 title: "Jak bude vypadat Libeňák po rekonstrukci? K nepoznání!"
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/vizualizace/libensky-most/libenak7.jpg
 tags: [Libeňský most, Doprava, Veřejný prostor]
 fancybox:

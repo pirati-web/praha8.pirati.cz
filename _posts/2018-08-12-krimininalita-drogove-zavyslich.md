@@ -1,6 +1,6 @@
 ---
 title: Kriminalita drogově závislých
-authorId: michal.novak
+author: Michal Novák
 image: posts/prohibited.jpg
 tags: [Bezpečnost]
 ---

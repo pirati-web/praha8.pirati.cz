@@ -1,6 +1,6 @@
 ---
 title: Politický cirkus Prahy 8 aneb do voleb zbývají tři měsíce
-authorId: michal.novak
+author: Michal Novák
 image: posts/zastupitelstvo.jpg
 tags: [Metropolitní plán, Volby 2018]
 ---

@@ -1,6 +1,6 @@
 ---
 title: Gymnázium U Libeňského zámku slaví!
-authorId: michal.novak
+author: Michal Novák
 image: posts/gymnazium-ulibenskehozamku.jpg
 tags: [Školství, Libeň]
 ---

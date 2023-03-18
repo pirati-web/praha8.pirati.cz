@@ -1,6 +1,6 @@
 ---
 title: Začíná projekt elektrifikace linky 201, v Holešovičkách budou elektrobusy
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/doprava-linka201.png
 tags: [Doprava, Libeň, Magistrát, Ulice V Holešovičkách]
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Praha 8 upraví ordinace pro dětské lékařky, hotovo by mělo být do tří měsíce od zahájení stavby"
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/martin-sterba/zamecek-rada-listopad2022.jpg
 tags: [Rada MČ Praha 8]
 ---

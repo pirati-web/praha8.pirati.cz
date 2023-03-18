@@ -1,6 +1,6 @@
 ---
 title: Tramvajová zastávka Vychovatelna bude konečně bezbariérová
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/tramvaje-vychovatelna2.jpg
 tags: [Doprava, Libeň, Magistrát]
 ---

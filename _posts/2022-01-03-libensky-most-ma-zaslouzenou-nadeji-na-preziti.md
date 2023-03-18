@@ -1,6 +1,6 @@
 ---
 title: Libeňský most má zaslouženou naději na přežití
-authorId: tomas.marik 
+author: Tomáš Mařík 
 date: 2022-01-03
 image: posts/libenskymost2.jpg
 tags: [Časopis Osmička, Doprava, Libeňský most, Veřejný prostor]

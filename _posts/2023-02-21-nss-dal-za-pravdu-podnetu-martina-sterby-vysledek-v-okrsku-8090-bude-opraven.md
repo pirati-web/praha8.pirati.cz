@@ -1,6 +1,6 @@
 ---
 title: "Nejvyšší správní soud dal za pravdu podnětu Martina Štěrby, výsledek okrsku 8090 v Bohnicích bude opraven"
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/petrpavel2.jpg
 tags: [Bohnice, Volby prezidenta]
 ---

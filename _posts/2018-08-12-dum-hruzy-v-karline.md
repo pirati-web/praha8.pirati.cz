@@ -1,6 +1,6 @@
 ---
 title: Dům hrůzy v Karlíně. S Airbnb je nutné bojovat.
-authorId: karel.ptacek
+author: Karel Ptáček
 image: posts/airbnb.jpg
 tags: [Karlín, Bydlení]
 ---

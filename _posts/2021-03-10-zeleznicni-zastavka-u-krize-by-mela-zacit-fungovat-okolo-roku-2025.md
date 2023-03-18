@@ -1,6 +1,6 @@
 ---
 title: Železniční zastávka U Kříže by měla začít fungovat okolo roku 2025
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/liben-zastavkavlaku.jpg
 tags: [Zastávka U Kříže, Libeň, Doprava]
 ---

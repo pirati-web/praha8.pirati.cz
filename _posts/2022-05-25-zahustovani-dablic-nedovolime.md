@@ -1,6 +1,6 @@
 ---
 title: Zahušťování Ďáblic nedovolíme, nejkrásnější české sídliště zaslouží ochranu
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/dablice-diskuze-kveten2022.jpg
 tags: [Krásné Kobylisy, Ládví, Ďáblice]
 ---

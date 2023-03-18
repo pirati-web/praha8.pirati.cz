@@ -1,6 +1,6 @@
 ---
 title: "V karlínských ulicích bude bezpečněji, vzniknou tady nové přechody"
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/martin-sterba/karlin-bezpecnejsiulice.jpg
 tags: [Bezpečnost, Komise pro dopravu, Doprava, Školství]
 ---

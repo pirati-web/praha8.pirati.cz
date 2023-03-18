@@ -1,6 +1,6 @@
 ---
 title: Holešovičky se mají stát městskou třídou, pod zem půjdou po dokončení městského okruhu
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/holesovicky-zmena2022.png
 tags: [Doprava, Libeň, Magistrát, Ulice V Holešovičkách, Územní rozvoj]
 ---

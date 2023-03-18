@@ -1,6 +1,6 @@
 ---
 title: Nové náměstí Bohumila Hrabala na Palmovce bude zelené, moderní a hrabalovsky lidské
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/vizualizace/namesti-bohumila-hrabala/namestibohumilahrabala.png
 tags: [Magistrát, Nová Palmovka, Palmovka, Veřejný prostor, Životní prostředí]
 fancybox:

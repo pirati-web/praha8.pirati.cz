@@ -1,6 +1,6 @@
 ---
 title: Kdo získá Löwitův mlýn? Podle úřední desky spolek založený začátkem října
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/lowituvmlyn.png
 tags: [Libeň, Majetek, Löwitův mlýn]
 ---

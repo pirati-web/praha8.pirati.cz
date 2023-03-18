@@ -1,6 +1,6 @@
 ---
 title: Praha 8 má stavební povolení na dokončení cyklostezky A2
-authorId: martin.sterba
+author: Martin Štěrba
 date: 2022-01-06
 image: posts/cyklostezka-rohan.jpg
 tags: [Cyklodoprava, Karlín, Sport]

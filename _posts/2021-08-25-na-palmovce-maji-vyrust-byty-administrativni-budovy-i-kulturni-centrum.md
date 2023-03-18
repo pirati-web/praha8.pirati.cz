@@ -1,6 +1,6 @@
 ---
 title: Na Palmovce mají vyrůst byty, administrativní budovy i kulturní centrum
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/novapalmovka-nadraziliben.png
 tags: [Libeň, Palmovka, Nová Palmovka, Územní rozvoj, Veřejný prostor]
 ---

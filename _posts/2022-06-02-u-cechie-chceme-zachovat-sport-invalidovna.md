@@ -1,6 +1,6 @@
 ---
 title: U Čechie chceme zachovat sport. Je dobře, že se o sídlišti Invalidovna diskutuje 
-authorId: karel.ptacek
+author: Karel Ptáček
 image: posts/invalidovna-diskuze.jpg
 tags: [Invalidovna, Karlín, Územní rozvoj]
 ---

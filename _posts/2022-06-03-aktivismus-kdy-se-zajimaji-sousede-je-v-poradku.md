@@ -1,6 +1,6 @@
 ---
 title: Aktivismus, kdy se sousedé zajímají, je v pořádku
-authorId: karel.ptacek
+author: Karel Ptáček
 image: posts/2022-05-19-prochazka-dablice/dablice4.jpeg
 tags: [Územní rozvoj, Časopis Osmička]
 ---

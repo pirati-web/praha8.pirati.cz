@@ -1,6 +1,6 @@
 ---
 title: "Zbrojím - zbrojíš - Praha 8 zbrojí, alespoň podle lidí z ODS"
-authorId: tomas.marik
+author: Tomáš Mařík
 image: posts/paratus-zbrane.jpg
 tags: [ODS]
 ---

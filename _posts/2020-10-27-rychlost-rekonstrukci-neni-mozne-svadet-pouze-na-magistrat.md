@@ -1,6 +1,6 @@
 ---
 title: Rychlost rekonstrukcí není možné svádět pouze na magistrát
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/zenklova-oprava.png
 tags: [Časopis Osmička, Doprava, Magistrát]
 ---

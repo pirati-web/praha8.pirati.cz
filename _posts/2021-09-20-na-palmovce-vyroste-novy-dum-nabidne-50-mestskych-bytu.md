@@ -1,6 +1,6 @@
 ---
 title: Na Palmovce vyroste nový bytový dům, nabídne 50 městských bytů
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/palmovka-bytovydum1.jpg
 tags: [Bydlení, Palmovka, Magistrát, Územní rozvoj]
 ---

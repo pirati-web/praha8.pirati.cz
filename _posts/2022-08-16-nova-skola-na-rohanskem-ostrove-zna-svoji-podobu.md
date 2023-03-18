@@ -1,6 +1,6 @@
 ---
 title: "Nová základní škola na Rohanském ostrově zná svojí podobu"
-authorId: martin.sterba
+author: Martin Štěrba
 image: posts/vizualizace/zs-rohan/zs-rohan-5.jpeg
 tags: [Karlín, Rohanský ostrov, Školství, Územní rozvoj, Základní škola Rohan]
 fancybox:
