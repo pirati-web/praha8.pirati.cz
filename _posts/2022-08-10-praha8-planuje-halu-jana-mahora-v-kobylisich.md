@@ -14,9 +14,9 @@ fancybox:
 
 **Městská část Praha 8 chystá výstavbu nové sportovní haly Jána Mahora v Kobylisích, která by měla stát v areálu ZŠ Burešova.**
 
-Halu budou v rámci výuky využívat žáci základní školy, sportovní kluby i široká veřejnost. Větší část haly tvoří podle návrhu víceúčelová hala pro míčové sporty s tribunami. Návrh haly splňuje požadavky na házenou, volejbal, florbal, basketbal a futsal. Menší část haly je navržena pro tři badmintonové kurty využitelné pro profesionální tréninky i veřejnost. Součástí haly je menší víceúčelový sál/klubovna, šatny s hygienickým zázemím a prostory pro skladování vybavení apod. 
+Halu budou v rámci výuky využívat žáci základní školy, sportovní kluby i široká veřejnost. Větší část haly tvoří podle návrhu víceúčelová hala pro míčové sporty s tribunami. Návrh haly splňuje požadavky na házenou, volejbal, florbal, basketbal a futsal. Menší část haly je navržena pro tři badmintonové kurty využitelné pro profesionální tréninky i veřejnost. Součástí haly je menší víceúčelový sál/klubovna, šatny s hygienickým zázemím a prostory pro skladování vybavení apod.
 
-V obecné rovině stavbu této multifunkční haly pro míčové sporty za Piráty podporujeme. 
+V obecné rovině stavbu této multifunkční haly pro míčové sporty za Piráty podporujeme.
 
 >"Jestli jsem právně pochopil pana místostarostu Vítka na prezentaci haly na komisi, tak tato zveřejněná architektonická studie je podkladem k územnímu řízení, kdy stavební úřad soustředí stanoviska a vyjádření dotčených orgánů a osob, podklady k posouzení vlivu stavby na okolní prostředí a způsoby odstranění negativních vlivů dopravních, bezpečnostních atd. Následovat bude nekonečné shánění peněz, detailní projekt a stavební povolení a teprve pak se bude moci stavět. Parkování je - zdá se - navrženo před a za halou a stejně jako nyní i v prostoru mezi Žernoseckou a chodníkem," říká náš garant pro školství a sport [Pavel Franc](http://praha8.pirati.cz/lide/pavel-franc.html).
 

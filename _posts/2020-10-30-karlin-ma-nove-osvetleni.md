@@ -1,6 +1,6 @@
 ---
 title: Karlín má nové veřejné osvětlení. Přibyla i enviromentální stanice
-authorId:
+author: MHMP
 image: posts/karlin-lampy.png
 tags: [Karlín, Veřejný prostor, Magistrát]
 ---

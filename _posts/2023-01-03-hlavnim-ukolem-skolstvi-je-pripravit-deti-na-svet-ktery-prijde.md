@@ -1,6 +1,6 @@
 ---
 title: Hlavním úkolem školství je připravit naše děti na svět, který teprve přijde
-author: ChatGPT z projektu OpenAI
+author: Pavel Franc
 image: posts/osmicka_skolstvi-chatgpt.jpg
 tags: [Časopis Osmička, Školství]
 ---

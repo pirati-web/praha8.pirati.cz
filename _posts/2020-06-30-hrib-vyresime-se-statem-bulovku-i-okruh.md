@@ -1,6 +1,6 @@
 ---
 title: "Hřib: Se státem vyřešíme Bulovku i vnitřní okruh. V září bude podepsáno memorandum"
-authorId:
+author: MHMP
 image: posts/bulovka.jpg
 tags: [Bulovka, Doprava, Magistrát]
 ---

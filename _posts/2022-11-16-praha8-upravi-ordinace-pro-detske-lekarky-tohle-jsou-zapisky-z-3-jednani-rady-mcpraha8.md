@@ -25,6 +25,6 @@ tags: [Rada MČ Praha 8]
 
 - Dále byly schváleny změny ve složení Dílčích inventarizačních komisí Prahy 8, schválena smlouvy o nájmu pozemků s Povodním Vltavy a rada pověřila místostarostu Nepila z ANO zastupováním Prahy 8 v rámci územního rozvoje a výstavby.
 
-Všechny materiály najdete také na webu [www.praha8.cz](http://www.praha8.cz). Další rada se uskuteční opět za týden ve středu. 
+Všechny materiály najdete také na webu [www.praha8.cz](http://www.praha8.cz). Další rada se uskuteční opět za týden ve středu.
 
 *Martin Štěrba, předseda kontrolního výboru ZMČ Praha 8*
