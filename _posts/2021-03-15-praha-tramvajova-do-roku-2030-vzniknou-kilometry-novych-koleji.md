@@ -7,7 +7,7 @@ tags: [Doprava, Kobylisy, Bohnice, Tramvaj do Bohnic, Tramvaj do Zdib]
 
 **Hlavní město Praha prostřednictvím svého územního plánování dlouhodobě vyjadřuje podporu rozvoji ekologické tramvajové dopravy. A že se nejedná jen o teoretické vize dokazuje Praha zejména faktickým zadáváním projektů a následné samotné realizace nových tramvajových tratí.**
 
-O rozvoji tramvajové dopravy na území hlavní města bylo publikováno mnoho článků a pojednání, avšak hlavně z obecného hlediska s cílem předat čtenářům informace odkud a kam nové tratě povedou a popřípadě jaké jsou předpokládané náklady nebo termín realizace jejich výstavby. 
+O rozvoji tramvajové dopravy na území hlavní města bylo publikováno mnoho článků a pojednání, avšak hlavně z obecného hlediska s cílem předat čtenářům informace odkud a kam nové tratě povedou a popřípadě jaké jsou předpokládané náklady nebo termín realizace jejich výstavby.
 
 ### Nové tramvajové tratě na Praze 8
 Pojďme se ale zaměřit na naší městskou část, a to s ohledem na vozový park tramvají Dopravního podniku hl. m. Prahy (DPP), který bude muset v krátké budoucnosti nutně řešit pokrytí nově vybudovaných tratí pořízením dalších tramvajových vozů.
@@ -21,7 +21,7 @@ Pro Prahu 8 je stěžejní vypravování vozů z vozovny Kobylisy, která dispon
 ### Skladba vozového parku
 Vize skladby vozového parku pražských tramvají jako celku s ohledem na plán rozvoje tramvajových tratí na celém území Prahy je určitě zajímavá nejen pro obyvatele Prahy 8.
 
-Technicko-provozní útvar DPP si nechal představenstvem schválit dokument [„Dlouhodobá strategie řízení vozového parku tramvají“](https://pid.cz/o-systemu/rozvoj-linek-pid-v-praze-2029/), kde jsou striktně definovány vize s ohledem na očekávaný nárůst vypravení tramvají, tedy navýšení počtu provozních vozů vlivem rozvoje nových tratí. Tato strategie byla zpracována ve výhledu do roku 2026 s dílčím mezníkem v roce 2023, a to zejména v souladu:
+Technicko-provozní útvar DPP si nechal představenstvem schválit dokument [„Dlouhodobá strategie řízení vozového parku tramvají“](https://www.praha.eu/file/3410341/Strategie_rozvoje_tramvajovych_trati_do_2023.pdf), kde jsou striktně definovány vize s ohledem na očekávaný nárůst vypravení tramvají, tedy navýšení počtu provozních vozů vlivem rozvoje nových tratí. Tato strategie byla zpracována ve výhledu do roku 2026 s dílčím mezníkem v roce 2023, a to zejména v souladu:
 -	*se strategií rozvoje tramvajových tratí do roku 2030, která byla schválena Radou hl. m. Prahy a vzata na vědomí Zastupitelstvem hl. m. Prahy (v letošním roce by byla měla být aktualizována),*
 -	*s plánem udržitelné mobility Prahy a okolí – jedná se o základní koncepční dokument rozvoje mobility města a jeho okolí,*
 -	*s rozvojem linek PID v Praze – tedy dokumentem zpracovaným organizací ROPID včetně návrhů linkového vedení, předpokládaných objemů výkonů a navýšení vypravení tramvají dle jednotlivých záměrů.*
@@ -32,7 +32,7 @@ Jak bylo uvedeno výše, záměry jsou rozděleny dílčím mezníkem v roce 202
 
 ![tramvaje1](/assets/img/posts/tramvaje1.png)
 
-Na základě výstavby nových tratí a z toho vyplývající nutnost vyššího vypravení vozů než je současný disponibilní počet tramvají, bude pro dopravní podnik patrně nezbytné pořizovat alespoň část nových vozidel v obousměrném provedení. 
+Na základě výstavby nových tratí a z toho vyplývající nutnost vyššího vypravení vozů než je současný disponibilní počet tramvají, bude pro dopravní podnik patrně nezbytné pořizovat alespoň část nových vozidel v obousměrném provedení.
 -	*Je tedy předpoklad, aby dopravní podnik zahájil přípravu veřejné soutěže a následné zajištění rámcové smlouvy na nákup nových vozů už v období let 2023 a 2024.*
 -	*Rok 2024 bude posledním rokem, kdy DPP doplatí poslední úhrady za pořízení moderních vozů 15 ForCity.*
 -	*Proto období od roku 2025 bude s největší pravděpodobností ideální, aby DPP pořídil až 20 ks tramvají délky 32 metrů, resp. obousměrných vozů délky 32 metrů (dle aktuální výstavby tratí se smyčkou nebo jen s úvratí).*

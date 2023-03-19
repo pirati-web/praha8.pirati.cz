@@ -33,8 +33,6 @@ main:
         link: "http://www.pidlitacka.cz"
       - name: Praha školská
         link: "https://www.prahaskolska.eu"
-      - name: Praha volnočasová
-        link: "https://prahavolnocasova.cz"
       - name: Praha sportovní
         link: "https://prahasportovni.eu"
       - name: Bezpečnost.Praha.eu
