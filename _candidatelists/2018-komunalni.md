@@ -3,7 +3,8 @@ title: Kandidáti do zastupitelstva MČ Praha 8
 uid: 2018-komunalni
 number: 9 # číslo kandidátky
 leader:
-  uid: alice.hamalova
+  name: Alice Hamalová
+  img: people/alice-hamalova.jpg
   age: 28
   city: Kobylisy
   profession: chemik, technolog laboratoří
@@ -29,7 +30,8 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     age: 46
     city: Kobylisy
     partyUid: pirati
-  - uid: anna.filinova
+  - name: Anna Filínová
+    img: people/anna-filinova.jpg
     profession: projektová manažerka
     age: 36
     city: Libeň
