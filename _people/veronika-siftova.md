@@ -18,7 +18,7 @@ mail:
   - veronika.siftova@pirati.cz
 profiles:
   facebook:  https://www.facebook.com/werca.siftova
-  instagram: https://www.isntagram.com/veronikasiftova
+  instagram: https://www.instagram.com/veronikasiftova
 funkce:
   - místopředsedkyně MS Praha 8
   - předsedkyně komise RMČP11 pro kulturu
