@@ -33,12 +33,12 @@
               {% include contact-line.html href=href icon="ico--envelope" caption="Dejte nám vědět" %}
             </div>
             {% endif %}
-            {% if site.github %}
+            {% if site.github %}{% unless page.path contains "__virtual/" %}
             <div class="mb-2">
               {% capture href %}{{ site.github.url }}edit/{{ site.github.branch }}/{{ page.path }}{% endcapture %}
               {% include contact-line.html href=href icon="ico--pencil" caption="Navrhni úpravu" %}
             </div>
-            {% endif %}
+            {% endunless %}{% endif %}
           </div>
           <div class="flex flex-col md:flex-row lg:flex-col lg:items-end space-y-2 md:space-y-0 md:space-x-2 lg:space-x-0 lg:space-y-2">
             <a href="{{ site.organization.donateLink | default: 'https://dary.pirati.cz' }}" rel="noopener noreferrer" target="_blank" class="btn btn--icon btn--cyan-200 btn--hoveractive text-lg btn--fullwidth sm:btn--autowidth">

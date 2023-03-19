@@ -15,7 +15,7 @@ module Jekyll
     def initialize(site, author, data)
       @site = site
       @base = site.source
-      @dir = '/authors/'
+      @dir = '/__virtual/authors/'
       @basename = Utils.slugify(author, :mode => "latin")
       @ext = '.html'
       @name = @basename + @ext

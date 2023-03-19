@@ -16,7 +16,7 @@ module Jekyll
       tag_slug = Utils.slugify(tag, :mode => "latin")
       @site = site
       @base = site.source
-      @dir = '/tags/'
+      @dir = '/__virtual/tags/'
       @basename = tag_slug
       @ext = '.html'
       @name = @basename + @ext

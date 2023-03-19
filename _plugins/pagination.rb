@@ -59,7 +59,7 @@ module Jekyll
       def initialize(template, pager)
         @site = template.site
         @base = template.site.source
-        @dir = '/pages/'
+        @dir = '/__virtual/pages/'
         @basename = 'index'
         @ext = '.html'
         @name = @basename + @ext
