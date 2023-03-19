@@ -6,7 +6,7 @@ top:
     url:  "https://piratskyobchod.cz"
     icon: "ico--cart"
   - link: "Pirátské listy"
-    url:  "http://www.piratskelisty.cz"
+    url:  "https://www.piratskelisty.cz/"
     icon: "ico--newspaper"
 
 
@@ -22,29 +22,29 @@ main:
       - name: Komunální volby 2018
         link: /volby/2018-komunalni.html
       - name: Senátní volby 2018
-        link: "http://www.lukaswagenknecht.cz"
+        link: "https://lukaswagenknecht.cz/"
   - name: Rozcestník
     submenu:
       - name: MČ Praha 8
-        link: "http://www.praha8.cz"
+        link: "https://www.praha8.cz/"
       - name: Portál Pražana
-        link: "http://www.portalprazana.cz"
+        link: "https://www.portalprazana.cz/"
       - name: PID Lítačka
-        link: "http://www.pidlitacka.cz"
+        link: "https://app.pidlitacka.cz/"
       - name: Praha školská
-        link: "https://www.prahaskolska.eu"
+        link: "https://www.prahaskolska.eu/"
       - name: Praha sportovní
-        link: "https://prahasportovni.eu"
+        link: "https://prahasportovni.eu/"
       - name: Bezpečnost.Praha.eu
-        link: "https://bezpecnost.praha.eu"
+        link: "https://bezpecnost.praha.eu/"
       - name: Praha v číslech - Pragozor
-        link: "https://www.pragozor.cz"
+        link: "https://www.pragozor.cz/"
       - name: Praha zítra (Nové stavební projekty)
         link: "https://praha.camp/praha-zitra/"
       - name: Realitní portál Prahy
-        link: "https://realitniportalpraha.cz"
+        link: "https://realitniportalpraha.cz/"
       - name: Institut plánování a rozvoje Praha
-        link: "https:://iprpraha.cz"
+        link: "https://iprpraha.cz/"
   - link: /kontakt/
     name: Kontakt
 
@@ -54,7 +54,7 @@ bottom:
     links:
       - link: /kontakt/
         name: Dej nám vědět
-      - link: "https://nalodeni.pirati.cz"
+      - link: "https://nalodeni.pirati.cz/"
         name:  Nalodění
   - class: small-12 medium-4
     title: Makáme
@@ -66,9 +66,9 @@ bottom:
   - class: small-12 medium-4
     title: Otevřenost
     links:
-      - link: https://ucet.pirati.cz
+      - link: https://ucet.pirati.cz/
         name: Transparentní účet
-      - link: https://smlouvy.pirati.cz
+      - link: https://smlouvy.pirati.cz/
         name: Registr smluv
       - link: https://wiki.pirati.cz/fo/otevrene_ucetnictvi
         name: Otevřené účetnictví
