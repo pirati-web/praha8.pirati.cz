@@ -21,12 +21,12 @@ Zastupitel [Ivo Slávka]({% link _people/ivo-slavka.md %}) interpeloval radu se 
 > **Chtěli bychom rozklíčovat činnost odboru, například konzultační, poradenské a právní služby ve výši 1,537 milionu korun (v roce 2019 se jednalo o 2,470 milionu korun). bychom také Chtěli bychom rozklíčovat konzultační, poradenské a organizační činnosti ve výši 4,340 mil. Kč (v roce 2019 - 1,2 milionu korun).** Od rady městské části očekáváme odpovědi písemně. Jsme na to zvědaví.
 
 #### Interpelace - Rozpočet na kluziště
-Zastupitelka [Anna Filinová]({% link _people/anna-filinova.md %}) se ptala:
+Zastupitelka Anna Filinová se ptala:
 
 > **Proč se plánují nové povrchy na kluzištích, na které je v rozpočtu určeno 5,6 milionu korun?** Místostarosta Jiří Vítek tvrdí, že se bude jednat o úsporu u dvou kluzišť v řádu statisíců, a také to uspoří počet dnů a času na stavbu i demontáž. Vše prý doplní písemně.
 
 #### Interpelace - Školky a projekty
-Zastupitelka [Anna Filinová]({% link _people/anna-filinova.md %}) interpelovala radu MČ Praha 8 se dvěma dotazy:
+Zastupitelka Anna Filinová interpelovala radu MČ Praha 8 se dvěma dotazy:
 
 > **Jak to bude v létě s provozem školek?** Místostarosta Tomáš Tatranský poznamenal, že pokud se nic nezmění, tak provoz v letních měsících bude bez omezení.
 
