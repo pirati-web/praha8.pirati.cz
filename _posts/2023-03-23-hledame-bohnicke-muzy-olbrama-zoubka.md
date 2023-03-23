@@ -5,9 +5,9 @@ image: posts/bohnice-olbram-zoubek.jpg
 tags: [Bohnice]
 ---
 
-**Reliéfy slavného českého sochaře byly součástí interiéru bohnické pošty po celá desetiletí. Potom, co se pošta přesunula do obchodního centra se reliéfy do pošty nevrátily. Jako by se po nich slehla zem.**
+**Reliéfy slavného českého sochaře Olbrama Zoubka byly součástí interiéru bohnické pošty po celá desetiletí. Potom, co se pošta přesunula do obchodního centra se reliéfy do pošty nevrátily. Jako by se po nich slehla zem.**
 
-Jedná se o majetek České pošty, který je ovšem silně spojen s Bohnicemi a pro obyvatele naší městské části má velkou duševní hodnotu. Proto budeme rádi pokud s námi budete sdílet jakékoliv informace o osudu těchto děl.
+Jedná se o majetek České pošty, který je ovšem silně spojen s Bohnicemi a pro obyvatele naší městské části má velkou duševní hodnotu. Proto budeme rádi, pokud s námi budete sdílet jakékoliv informace o osudu těchto děl.
 
 Nyní se snažíme oslovit všechny subjekty, kterých se případ týká. Pokud ale ani tak nebude v dohledné době vyřešen, podáme trestní oznámení na neznámého pachatele.
 
