@@ -13,6 +13,7 @@ partyUid: pirati
 description: místopředsedkyně MS Praha 8
 teamDescription:
   pms: místopředsedkyně MS Praha 8
+  clenove: členka MS Praha 8
 mob:
 mail:
   - veronika.siftova@pirati.cz
