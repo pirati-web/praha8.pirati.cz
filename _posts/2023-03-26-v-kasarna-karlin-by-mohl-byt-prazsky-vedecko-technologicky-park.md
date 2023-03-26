@@ -1,7 +1,7 @@
 ---
-title: "Pátráme po bohnických múzách Olbrama Zoubka"
-author: Karolína Gattermayerová
-image: posts/bohnice-olbram-zoubek.jpg
+title: "V Kasárna Karlín by mohl být pražský vědecko-technologický park"
+author: Martin Štěrba
+image: posts/2023-03-22-kasarna-karlin/kasarnakarlin4.jpg
 tags: [Karlín, Kasárna Karlín, Magistrát, Vědecko-technologický park]
 fancybox:
   - name: Prohlídka Kasárna Karlín
