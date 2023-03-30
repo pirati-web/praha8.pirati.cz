@@ -1,6 +1,6 @@
 ---
 title: Podpořte nás, podpořte lepší Prahu 8!
-author: Karolína Gattermayerová
+author: Piráti Praha 8
 image: posts/volby2022-qrkod.jpg
 tags: [Piráti, Volby 2022]
 ---
