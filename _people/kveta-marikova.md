@@ -10,9 +10,9 @@ img: people/kveta-marikova-2022.jpg
 heroImg: posts/praha8-zvysky.png
 profession: knihovnice
 partyUid: pirati
-description: členka KS Praha
+description: členka MS Praha 8
 teamDescription:
-  regp: garantka oblasti sociální politiky
+  clenove: garantka oblasti sociální politiky
 mail:
   - kveta.marikova@pirati.cz
 funkce:
