@@ -9,7 +9,7 @@ tags: [Kluziště, Sport]
 
 Bohužel nemáme žádné dobré zprávy. :-(
 
-U nás na Praze 8, stejně jak na vládě, se totiž věci řeší až na poslední chvíli, a tak ani letos není plán, jak a s kým kluziště provozovat, kdo a kdy je postaví, a kdo a co bude platit. Je zřejmé, že vládnoucí koalice, měla zájem zopakovat si letos loňský model - zafinancovat stavbu a provoz dvou sídlištních kluzišť z obecního rozpočtu a nechat zde své preferované provozovatele konat jejich business. Ale COVID-19 do toho hodil vidle a kluziště se tak řešila na [komisi pro sport](https://www.praha8.cz/komise-pro-sport-mladez-a-grantovou-politiku-2018-2022.html), která nakonec přijala následující doporučení:
+U nás na Praze 8, stejně jak na vládě, se totiž věci řeší až na poslední chvíli, a tak ani letos není plán, jak a s kým kluziště provozovat, kdo a kdy je postaví, a kdo a co bude platit. Je zřejmé, že vládnoucí koalice, měla zájem zopakovat si letos loňský model - zafinancovat stavbu a provoz dvou sídlištních kluzišť z obecního rozpočtu a nechat zde své preferované provozovatele konat jejich business. Ale COVID-19 do toho hodil vidle a kluziště se tak řešila na komisi pro sport, která nakonec přijala následující doporučení:
 
 > *“Pokud do 25.10.2020 vládní nařízení umožní volnočasové aktivity pod otevřeným nebem díky výraznému zlepšení epidemiologické situace, komise doporučuje kluziště postavit. Pokud se situace nezlepší a MČ Praha 8 kluziště instalovat nebude, pak MČ P8 vyhlásí výběrové řízení na pronájem a provoz kluzišť v sezóně 2020-21.”*
 
