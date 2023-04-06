@@ -96,7 +96,9 @@ collections:
   program:
     output: true
     permalink: /volby/:path:output_ext
-
+  mets:
+    output: true
+    permalink: /lide/mistni-expertni-tymy/:path:output_ext
   # Sole purpose is to create candidate lists in separate files.
   candidatelists:
     output: false

@@ -1,0 +1,24 @@
+---
+layout: default
+title: Místní Experní Týmy
+---
+
+<div class="container container--default py-8 lg:py-24">
+    <header>
+        <h1 itemprop="headline" class="head-alt-md md:head-alt-lg max-w-5xl mb-8">{{ page.title }}</h1>
+    </header>
+  {% for met in site.mets %}
+  <section>
+        <h2 class="head-heavy-base mb-4">{{ met.name }}</h2>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 row-gap-8 col-gap-8">
+            {% assign leader = site.people | where_exp: "item", "met.leader == item.uid" | first %}
+            {% include people/profile-badge.html item=leader description="Vedoucí týmu" headlineClass="head-heavy-xs" avatarClass="avatar--md" %}
+            {% assign team = site.people | where_exp: "item", "met.members contains item.uid" %}
+            {% for item in team %}
+                {% include people/profile-badge.html item=item description="Člen týmu" headlineClass="head-heavy-xs" avatarClass="avatar--md" %}
+            {% endfor %}
+          </div>
+  </section>
+  {% unless forloop.last %}<hr class="hr--big" />{% endunless %}
+  {% endfor %}
+</div>
