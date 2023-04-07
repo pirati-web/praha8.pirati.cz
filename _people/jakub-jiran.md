@@ -3,18 +3,10 @@ uid: jakub.jiran
 name: Jakub Jiran
 titles:
   before: Mgr.
-category:
-  - clenove
-  - zastupitele
-ordzas: 6
 img: people/jakub-jiran-2022.jpg
 heroImg: posts/praha8-zvysky.png
 profession: právník, člen dozorčí rady
 partyUid: pirati
-description: člen MS Praha 8
-teamDescription:
-  clenove: garant oblasti financí
-  zastupitele: zastupitel
 mail: jakub.jiran@pirati.cz
 profiles:
   facebook: https://www.facebook.com/jakub.jiran.33

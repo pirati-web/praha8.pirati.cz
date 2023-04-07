@@ -3,22 +3,10 @@ uid: martin.sterba
 name: Martin Štěrba
 titles:
   before: Mgr.
-category:
-  - pms
-  - clenove
-  - zastupitele
-ordzas: 1
-ordpms: 1
 img: people/martin-sterba-2022-2.jpg
 heroImg: posts/praha8-zvysky.png
 profession: manažer a stratég on-line komunikace
 partyUid: pirati
-description: předseda MS Praha 8
-teamDescription:
-  pms: předseda MS Praha 8
-  clenove: garant oblasti dopravy
-  contact: kontakt pro média
-  zastupitele: předseda zastupitelského klubu
 mob: +420 732 408 769
 mail:
   - martin.sterba@pirati.cz

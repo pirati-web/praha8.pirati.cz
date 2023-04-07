@@ -3,14 +3,10 @@ uid: jitka.novotna
 name: Jitka Novotná
 titles:
   before: Mgr.
-category:
-  - clenove
 img: people/jitka-novotna-2018.jpg
 heroImg: posts/praha8-zvysky.png
 profession: informatička
 partyUid: pirati
-description: členka MS Praha 8
-teamDescription:
 mail:
   - jitka.novotna@pirati.cz
 profiles:

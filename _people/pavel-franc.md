@@ -3,21 +3,10 @@ uid: pavel.franc
 name: Pavel Franc
 titles:
   before: Mgr.
-category:
-    - pms
-    - clenove
-    - zastupitele
-ordzas: 4
-ordpms: 5
 img: people/pavel-franc-2022.jpg
 heroImg: posts/praha8-zvysky.png
 profession: IT manažer
 partyUid: pirati
-description: místopředseda MS Praha 8
-teamDescription:
-  clenove: garant oblasti školství
-  zastupitele: zastupitel
-  pms: místopředseda MS Praha 8
 mail:
  - pavel.franc@pirati.cz
 profiles:

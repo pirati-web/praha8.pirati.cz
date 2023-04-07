@@ -3,14 +3,10 @@ uid: lukas.kost
 name: Lukáš Kost
 titles:
   before: Mgr.
-category:
-  - regp
 img: people/lukas-kost.png
 heroImg: posts/praha8-zvysky.png
 profession: ZŠ a SŠ učitel
 partyUid: bezpp
-description: registrovaný příznivec
-teamDescription:
 mail:
 profiles:
   - facebook: https://www.facebook.com/lukas.kost.94

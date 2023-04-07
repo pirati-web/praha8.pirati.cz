@@ -4,15 +4,10 @@ name: Karel Ptáček
 titles:
   before:
   after: Dis.
-category:
-  - clenove
 img: people/karel-ptacek-2022-1.jpg
 heroImg: posts/invadlidovna-cechie.jpg
 profession: projektový manažer
 partyUid: pirati
-description: člen MS Praha 8
-teamDescription:
-  clenove: garant oblasti územního rozvoje
 mail:
   - karel.ptacek@pirati.cz
 profiles:

@@ -1,12 +1,6 @@
 ---
 layout: contacts
 title: Kontaktní informace
-description: Pirátská strana v Praze 8 je otevřená a ráda přivítá nové členy, dobrovolníky a odpoví na vaše dotazy
-keywords: kontakt, adresa, telefon, mail, facebook, kde najdu, kde jsou
-noresidence: yes
-contactPersons:
-  - martin.sterba
-  - jan.kolator
 ---
 # Přidejte se k nám
 **Zajímá vás co děláme na osmičce, a chtěli byste se zapojit?** Neváhejte a přijďte za námi na otevřenou (on-line či off-line) schůzi. Potkáváme se pravidelně, přesná data najdete v našem <a href="{{site.calendar.page}}">kalendáři</a>. Těšíme se na viděnou.

@@ -3,17 +3,10 @@ uid: lukas.wagenknecht
 name: Lukáš Wagenknecht
 titles:
   before: Ing.
-category:
-  - ustavni-cinitele
-  - clenove
 img: people/lukas-wagenknecht.jpg
 heroImg: posts/praha8-zvysky.png
 profession: ekonom, interní auditor
 partyUid: pirati
-description: člen MS Praha 8
-teamDescription:
-  ustavni-cinitele: senátor
-  clenove: člen MS Praha 8
 mob: +420 608 303 542
 mail:
  - wagenknechtl@senat.cz

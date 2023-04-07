@@ -2,14 +2,10 @@
 uid: miroslav.jahoda
 name: Miroslav Jahoda
 titles:
-category:
-  - regp
 img: people/miroslav-jahoda-2022.jpg
 heroImg: posts/praha8-zvysky.png
 profession: markeťák
 partyUid: bezpp
-description: registrovaný příznivec
-teamDescription:
 mail: mira@jahoda.eu
 profiles:
   facebook: https://www.facebook.com/jahodamira

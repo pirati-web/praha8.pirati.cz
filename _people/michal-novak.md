@@ -3,21 +3,10 @@ uid: michal.novak
 name: Michal Novák
 titles:
   after: MBA
-category:
-  - pms
-  - clenove
-  - zastupitele
-ordzas: 2
-ordpms: 4
 img: people/michal-novak-2022.jpg
 heroImg: posts/praha8-zvysky.png
 profession: nezávislý konzultant
 partyUid: pirati
-description: místopředseda MS Praha 8
-teamDescription:
-  zastupitele: místopředseda zast. klubu
-  pms: místopředseda MS Praha 8
-  clenove: garant oblasti majetku a městských firem
 mail:
   - michal.novak@pirati.cz
 profiles:

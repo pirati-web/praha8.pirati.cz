@@ -3,14 +3,10 @@ uid: iva.nachtmannova
 name: Iva Nachtmannová
 titles:
   before: Bc.
-category:
-  - regp
 img: people/iva-nachtmannova.jpg
 heroImg: posts/praha8-zvysky.png
 profession: ex-novinářka
 partyUid: bezpp
-description: registrovaná příznivkyně
-teamDescription:
 mob:
 mail:
   - nach@volny.cz

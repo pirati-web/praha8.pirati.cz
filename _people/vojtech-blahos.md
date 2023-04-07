@@ -3,14 +3,10 @@ uid: vojtech.blahos
 name: Vojtěch Blahoš
 titles:
   before:
-category:
-  - regp
 img: people/vojtech-blahos-2022.jpg
 heroImg: posts/praha8-zvysky.png
 profession: student mezinárodních vztahů
 partyUid: bezpp
-description: registrovaný příznivec
-teamDescription:
 mob:
 mail:
 profiles:

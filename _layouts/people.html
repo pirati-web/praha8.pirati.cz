@@ -1,0 +1,34 @@
+---
+layout: default
+---
+<div class="container container--default py-8 lg:py-24">
+    <header>
+        <h1 itemprop="headline" class="head-alt-md md:head-alt-lg max-w-5xl mb-8">{{ page.title }}</h1>
+    </header>
+    {% if content %}
+    <div class="mb-8 lg:mb-16 content-block" itemprop="description">
+    {{ content }}
+    </div>
+    {% endif %}
+    {% for tid in page.teams %}
+    {% assign team = site.data.teams[tid] %}
+    {% if team.members.size > 0 %}
+    <section>
+        <h2 class="head-heavy-base mb-4">{{ team.name }}</h2>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 row-gap-8 col-gap-8">
+        {% for member in team.members %}
+          {% unless member.first %}
+            {% assign person=site.people | where: "uid", member | first %}
+          {% elsif member.uid %}
+            {% assign person=site.people | where: "uid", member.uid | first %}
+          {% else %}
+            {% assign person=member %}
+          {% endunless %}
+          {% include people/profile-badge.html item=person description=member.description headlineClass="head-heavy-xs" avatarClass="avatar--md" %}
+        {% endfor %}
+        </div>
+    </section>
+    {% unless forloop.last %}<hr class="hr--big" />{% endunless %}
+    {% endif %}
+    {% endfor %}
+  </div>

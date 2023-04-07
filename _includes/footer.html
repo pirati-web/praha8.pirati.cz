@@ -83,32 +83,25 @@
         </section>
       {% endif %}
 
+      {% assign team = site.data.teams.contact %}
+      {% if team.members.size > 0 %}
       <section class="bg-black py-4 lg:py-12">
         <div class="container container--default">
           <div class="grid gap-4 grid-cols-1 md:grid-cols-2 xl:grid-cols-3">
-            {% if site.data.menu.contact %}
-              {% for contact in site.data.menu.contact %}
-                {% if contact.id %}
-                  {% assign person = site.people | where_exp:"item","item.uid contains contact.id" | first %}
-                  {% assign description = contact.position %}
-                {% else %}
-                  {% assign person = site.people | where_exp:"item","item.uid contains contact" | first %}
-                  {% assign description = person.teamDescription['contact'] %}
-                {% endif %}
-                {% include people/profile-badge.html item=person description=description %}
-              {% endfor %}
+          {% for member in team.members %}
+            {% unless member.first %}
+              {% assign person=site.people | where: "uid", member | first %}
+            {% elsif member.uid %}
+              {% assign person=site.people | where: "uid", member.uid | first %}
             {% else %}
-              {% assign contactPerson = site.people | where_exp: "item","item.uid contains site.organization.contactUid" | first %}
-              {% assign contactPersons = site.people | where_exp: "item","item.category contains 'kontaktni_osoba'" | sort:"ordpak" %}
-              {% unless contactPersons == empty or contactPersons == blank or contactPersons == nil %}
-                {% for person in contactPersons %}
-                  {% include people/profile-badge.html item=person %}
-                {% endfor %}
-              {% endunless %}
-            {% endif %}
+              {% assign person=member %}
+            {% endunless %}
+            {% include people/profile-badge.html item=person description=member.description %}
+          {% endfor %}
           </div>
         </div>
       </section>
+      {% endif %}
     </div>
   </ui-app>
 </footer>

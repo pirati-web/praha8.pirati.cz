@@ -1,53 +1,38 @@
 ---
 layout: default
-title: Kontaktní informace
 ---
 
 <div class="container container--default pt-8 lg:py-24">
   <article class="space-y-8 lg:space-y-16">
     <div class="lg:flex lg:mt-8 space-y-16 lg:space-y-0 lg:space-x-8 xl:space-x-16">
       <section class="lg:w-3/5 xl:w-2/3">
-        <h1 class="head-alt-md md:head-alt-lg max-w-5xl mb-8">Kontaktní informace</h1>
-
+        <h1 class="head-alt-md md:head-alt-lg max-w-5xl mb-8">{{ page.title }}</h1>
+        {% assign team = site.data.teams.contact %}
+        {% if team.members.size > 0 %}
         <div class="space-y-8">
-          {% if page.contactPersons %}
-            {% for contact in page.contactPersons %}
-              {% if contact.id %}
-                {% assign person = site.people | where_exp:"item","item.uid contains contact.id" | first %}
-                {% assign description = contact.position %}
-              {% else %}
-                {% assign person = site.people | where_exp:"item","item.uid contains contact" | first %}
-                {% assign description = person.teamDescription['contact'] %}
-              {% endif %}
-              <div>
-                <h2 class="head-heavy-sm mb-2 lg:mb-4">{{ description }}</h2>
-                <div class="card elevation-3">
-                  <div class="card__body">
-                    {% include people/profile-badge.html item=person %}
-                  </div>
-                </div>
-              </div>
-            {% endfor %}
-          {% else %}
-            {% assign contactPersons = site.people | where_exp: "item","item.category contains 'kontaktni_osoba'" | sort:"ordpak" %}
+          {% for member in team.members %}
+            {% unless member.first %}
+              {% assign person=site.people | where: "uid", member | first %}
+            {% elsif member.uid %}
+              {% assign person=site.people | where: "uid", member.uid | first %}
+            {% else %}
+              {% assign person=member %}
+            {% endunless %}
             <div>
-              <h2 class="head-heavy-sm mb-2 lg:mb-4">Kontaktní {% if contactPersons.size > 1 %}osoby{% else %}osoba{% endif %}</h2>
-
-              {% for person in contactPersons %}
+              <h2 class="head-heavy-sm mb-2 lg:mb-4">{{ member.description }}</h2>
               <div class="card elevation-3">
                 <div class="card__body">
                   {% include people/profile-badge.html item=person %}
                 </div>
               </div>
-              {% endfor %}
             </div>
-          {% endif %}
+          {% endfor %}
         </div>
+        {% endif %}
 
         <div class="content-block w-full lg:mt-8">
           {{ content }}
         </div>
-
       </section>
       <section class="lg:w-2/5 xl:w-1/3 lg:pt-0">
         <div class="lg:card lg:elevation-10">
@@ -57,18 +42,6 @@ title: Kontaktní informace
               {% include contacts/summary-table.html %}
     		      <p>Každý člen strany má email ve tvaru: <tt>jmeno.prijmeni@pirati.cz</tt></p>
             </div>
-            {% unless page.noresidence %}
-              <hr class="hr">
-              <h2>Sídlo a kontaktní centrum</h2>
-
-              {% if page.residences %}
-                {% for residence in page.residences %}
-                  {% include contacts/residence.html residence=residence %}
-                {% endfor %}
-              {% else %}
-                {% include contacts/residence.html %}
-              {% endif %}
-            {% endunless %}
           </div>
         </div>
       </section>

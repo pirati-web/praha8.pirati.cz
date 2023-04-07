@@ -4,14 +4,10 @@ name: Michal Schwarzkopf
 titles:
   before: Ing.
   after: Ph.D.
-category:
-  - clenove
 img: people/michal-schwarzkopf-2022.jpg
 heroImg: posts/praha8-zvysky.png
 profession: finanční konzultant
 partyUid: pirati
-description: člen MS Praha 8
-teamDescription:
 mail:
   - michal.schwarzkopf@pirati.cz
 profiles:

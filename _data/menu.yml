@@ -15,6 +15,13 @@ main:
     name: Aktuality
   - link: /lide/
     name: Vaši lidé
+    submenu:
+      - name: Místní sdružení Praha 8
+        link: /lide/mistni-sdruzeni-praha-8/
+      - name: Zastupitelstvo MČ Praha 8
+        link: /lide/mestska-cast-praha-8/
+      - name: Místní expertní týmy
+        link: /lide/mistni-expertni-tymy/
   - name: Volby
     submenu:
       - name: Komunální volby 2022
@@ -76,7 +83,3 @@ bottom:
 
 # Display transparency section in the footer?
 transparencySection: false
-
-contact:
-  - martin.sterba
-  - jan.kolator

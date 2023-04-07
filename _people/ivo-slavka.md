@@ -3,18 +3,10 @@ uid: ivo.slavka
 name: Ivo Slávka
 titles:
   before: Mgr.
-category:
-  - clenove
-  - zastupitele
-ordzas: 5
 img: people/ivo-slavka-2022.jpg
 heroImg: posts/praha8-zvysky.png
 profession: právník na Ministerstvu průmyslu a obchodu
 partyUid: pirati
-description: člen MS Praha 8
-teamDescription:
-  zastupitele: zastupitel
-  clenove: garant bytové politiky
 mail:
   - ivo.slavka@pirati.cz
 funkce:

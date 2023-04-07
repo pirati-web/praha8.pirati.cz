@@ -1,0 +1,108 @@
+# team_id:
+#   name: Název týmu
+#   members:
+#     - { uid: id.osoby, description: popis pro medailonek }
+#     - uid
+#     - { name: Jméno Příjmení, img: /assets/people/franta.jpg, description: popis pro medailonek }
+contact:
+  name: Kontaktní informace
+  members:
+   - { uid: martin.sterba, description: kontakt pro média }
+   - { uid: jan.kolator, description: kontakt pro nováčky }
+pms:
+  name: Předsednictvo MS Praha 8
+  members:
+    - { uid: martin.sterba, description: předseda MS Praha 8 }
+    - { uid: jan.kolator, description: 1. místopředseda MS Praha 8 }
+    - { uid: veronika.siftova, description: místopředsedkyně MS Praha 8 }
+    - { uid: michal.novak, description: místopředseda MS Praha 8 }
+    - { uid: pavel.franc, description:  místopředseda MS Praha 8 }
+clenove:
+  name: Členové MS Praha 8
+  members:
+    - ivo.slavka
+    - jakub.jiran
+    - jan.hamal.dvorak
+    - jitka.novotna
+    - karel.ptacek
+    - karolina.gattermayerova
+    - kveta.marikova
+    - lukas.wagenknecht
+    - michal.schwarzkopf
+    - ondrej.profant
+    - petr.bisek
+    - tomas.marik
+regp:
+  name: Registrovaní příznivci a podporovatelé MS Praha 8
+  members:
+    - alix.guillard
+    - { name: Andrea Vildová }
+    - { name: Denisa Nováková }
+    - iva.nachtmannova
+    - { name: Jan Brandejs }
+    - lukas.kost
+    - martin.vavra
+    - miroslav.jahoda
+    - ondrej.kliment
+    - tomas.lempera
+    - vojtech.blahos
+zastupitele:
+  name: Zastupitelský klub Pirátů
+  members:
+    - { uid: martin.sterba, description: "předseda klubu, gesce doprava a územní rozvoj" }
+    - { uid: michal.novak, description: "místopředseda klubu, gesce majetek a městské firmy" }
+    - { uid: jan.kolator, description: "gesce bezpečnost, IT a životní prostředí" }
+    - { uid: pavel.franc, description: "gesce školství, sport, volný čas a kultura" }
+    - { uid: ivo.slavka, description: gesce byty a sociální oblast }
+    - { uid: jakub.jiran, description: gesce finance a transparentnost }
+komise:
+  name: Komise Rady MČ Praha 8
+  members:
+    - { uid: ivo.slavka, description: "člen komise RMČP8 pro obecní byty, člen komise RMČP8 pro bytová družstva a SVJ" }
+    - { uid: jan.kolator, description: "člen komise RMČP8 pro bezpečnost, člen komise RMČP8 pro informatiku" }
+    - { uid: karel.ptacek, description: "člen komise RMČP8 pro územní rozvoj" }
+    - { uid: karolina.gattermayerova, description: členka komise RMČP8 pro kulturu }
+    - { uid: martin.sterba, description: "člen komise RMČP8 pro dopravu, místopředseda Redakční rady časopisu Osmička" }
+    - { uid: michal.novak, description: "člen komise RMČP8 pro obecní majetek, člen komise RMČP8 pro výstavbu ZŠ Rohan" }
+    - { uid: pavel.franc, description: "člen komise RMČP8 pro školství, člen komise RMČP8 pro výstavbu ZŠ Rohan" }
+    - { uid: petr.bisek, description: člen komise RMČP8 pro sport a grantovou politiku }
+    - { uid: kveta.marikova, description: členka komise RMČP8 pro sociální věci a zdravotnictví }
+    - { uid: tomas.marik, description: člen komise RMČP8 pro životní prostředí }
+vybory:
+  name: Výbory Zastupitelstva MČ Praha 8
+  members:
+    - { uid: martin.sterba, description: předseda kontrolního výboru ZMČP8 }
+    - { uid: jakub.jiran, description: člen finančního výboru ZMČP8 }
+met.doprava:
+  name: Doprava
+  members:
+    - { uid: martin.sterba, description: "vedoucí, garant oblasti doprava" }
+    - jakub.jiran
+    - michal.novak
+    - pavel.franc
+    - tomas.marik
+met.majetek:
+  name: Majetek a územní rozvoj
+  members:
+    - { uid: michal.novak, description: "vedoucí, garant oblasti majetek" }
+    - { uid: karel.ptacek, description: "garant oblasti územní rozvoj" }
+    - martin.sterba
+    - ivo.slavka
+    - tomas.marik
+met.skolstvi:
+  name: Školství, sport, volný čas a kultura
+  members:
+    - { uid: pavel.franc, description: "vedoucí, garant oblasti školství" }
+    - { uid: karolina.gattermayerova, description: garantka oblasti kultury }
+    - { uid: petr.bisek, description: garant oblasti sportu }
+    - { name: Andrea Vildová }
+    - { name: Theodoros Draksl }
+    - tomas.marik
+    - veronika.siftova
+met.none:
+  name: Oblasti bez expertního týmu
+  members:
+    - { uid: ivo.slavka, description: garant oblasti bytové politiky }
+    - { uid: jan.kolator, description: garant oblasti bezpečnosti a IT }
+    - { uid: kveta.marikova, description: garantka oblasti sociální politiky }
+    - { uid: tomas.marik, description: garant oblasti životní prostředí }

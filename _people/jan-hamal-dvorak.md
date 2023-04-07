@@ -1,14 +1,10 @@
 ---
 uid: jan.hamal.dvorak
 name: Jan Hamal Dvořák
-category:
-  - clenove
 img: people/jan-hamal-dvorak.jpg
 heroImg: posts/praha8-zvysky.png
 profession: informatik
 partyUid: pirati
-description: člen MS Praha 8
-teamDescription:
 mail:
   - jan.hamal.dvorak@pirati.cz
 profiles:

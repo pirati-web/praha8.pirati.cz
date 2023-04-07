@@ -1,12 +1,9 @@
-# Welcome to Jekyll!
 administrator:
-  email: pavel.franc@pirati.cz # mail kam pujdou maily o webu
-  email: martin.sterba@pirati.cz
+  email: pavel.franc@pirati.cz, martin.sterba@pirati.cz
 github:
   url: https://github.com/pirati-web/praha8.pirati.cz/
   branch: master
 url: "https://praha8.pirati.cz"
-
 title: "Piráti Praha 8"
 description: "Česká pirátská strana - místní sdružení Praha 8"
 keywords: "piráti, česká pirátská strana, svoboda, demokracie, piráti na osmičce"
@@ -14,24 +11,18 @@ keywords: "piráti, česká pirátská strana, svoboda, demokracie, piráti na o
 organization:
   name: "Piráti Praha 8"
   email: praha8@pirati.cz
-  address: |
-      Na Moráni 3
-      120 00 Praha 2
-  mapLink: https://mapy.cz/s/norubuzado
-  redmineLink: https://redmine.pirati.cz/projects/praha-8
-  residenceImg:
-  dataBoxId: b2i4r6j
-  transparentAccount: 2100048174/2010
   donateLink: https://dary.pirati.cz/podpor-kraj/praha/adresne-dary-pro-ks-praha/?p=190108
   onboardingLink: https://nalodeni.pirati.cz/
 
 contactSummaryItems:
-  - type: organizationEmail
-  - type: organizationRedmineLink
-  - type: organizationTransparentAccount
-    includeMoreLink: true
-  - type: organizationDataBox
-  - type: piratiRootWebsite
+  - type: custom
+    body: Emailová adresa předsednictva
+    label: praha8@pirati.cz
+    iconClass: ico--envelope
+  - type: custom
+    body: Emailová adresa zastupitelů
+    label: pirati@praha8.cz
+    iconClass: ico--envelope
 
 calendar:
   id: npabehj0rpaqtgo960ju2vjq2s@group.calendar.google.com
@@ -96,9 +87,6 @@ collections:
   program:
     output: true
     permalink: /volby/:path:output_ext
-  mets:
-    output: true
-    permalink: /lide/mistni-expertni-tymy/:path:output_ext
   # Sole purpose is to create candidate lists in separate files.
   candidatelists:
     output: false

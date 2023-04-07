@@ -4,14 +4,10 @@ name: Ondřej Kliment
 titles:
   before:
   after:
-category:
-  - regp
 img: people/ondrej-kliment.jpg
 heroImg: posts/praha8-zvysky.png
 profession: projektový manažer v IT
 partyUid: pirati
-description: člen MS Praha 10
-teamDescription:
 mail:
   - ondrej.kliment@pirati.cz
 profiles:
