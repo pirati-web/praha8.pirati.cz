@@ -9,7 +9,7 @@ tags: [MČ Praha 8, Školství, Majetek, Sociální služby]
 
 Rada schválila rozpočtová opatření a to hlavně kvůli dotacím. Peníze poputují na rekonstrukci pobytových ploch a chodníků v MŠ Lešenská, snížení energetické náročnosti pomocí obnovitelných zdrojů na Poliklinice Mazurská, nákup dvou automobilů pro plánované Senior taxi, rekonstrukci kaple Bohnického hřbitova a tak dále. Vznik osmičkového senior-taxi jsme měli v programu, a jsem rád, že vznikne. Nesmíme totiž zapomínat na ty nejohroženější - senioři a handicapovaní tak budou mít snadnější cestu k lékaři, do lékárny či na úřad.
 
-4. zasedání zasedání Zastupitelstva MČ Praha 8 se uskuteční ve středu 17. května od 10 hodin v Bílém domě. 
+Další, v pořadí čtvrté, zasedání zasedání Zastupitelstva MČ Praha 8 se uskuteční ve středu 17. května od 10 hodin v Bílém domě. 
 
 Městská část získá dotaci pro Gerontologické centrum a Sociální a ošetřovatelské služby Praha 8 - SOS Praha 8 a to ve výši 11,3 milionu z rozpočtu hlavního města a 23 milionů ze “státního rozpočtu”. Praha 8 také dá 200 tisíc korun na financování terénních programů, které realizují Salesiáni Kobylisy. 150 tisíc pak městská část dá festivalu romské hudby Miri Giľi, který se uskuteční v Karlíně.
 
