@@ -7,7 +7,7 @@ tags: [Karlín, Kasárna Karlín, Magistrát]
 
 **Tohle je parádní zpráva! Oblíbený cíl, nejen lidí od nás z osmičky, čeká nová budoucnost. Kasárna Karlín po několika letech vyjednávání míří do majetku hlavního města Prahy, a bude moci dojít k oživení zbylých částí areálu, které jsou v současné době prázdné.**
 
->"Těším se, jaké nové možnosti jejich rekonstrukce přinese. Za posledních pět let se dvůr kasáren změnil k nepoznání a teď je čas řešit zbytek areálu," říká radní pro majetek hl. města Prahy Adam Zábranský (Piráti). 
+>"Těším se, jaké nové možnosti jejich rekonstrukce přinese. Za posledních pět let se dvůr kasáren změnil k nepoznání a teď je čas řešit zbytek areálu," říká pirátský radní pro majetek hl. města Prahy Adam Zábranský. 
 
 >"V budoucnu tak dojde k oživení zbylých částí areálu, které jsou v současné době prázdné. V minulosti tam byla kasárna, ale třeba také vazební věznice či policie. V budoucnu tam může být třeba i pražské vědecko-technologické centrum," doplňuje předseda osmičkových Pirátů a zastupitel MČ Praha 8 [Martin Štěrba](https://praha8.pirati.cz/lide/martin-sterba.html).
 
