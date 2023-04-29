@@ -20,6 +20,7 @@ pms:
 clenove:
   name: Členové MS Praha 8
   members:
+    - andrea.vildova
     - ivo.slavka
     - jakub.jiran
     - jan.hamal.dvorak
@@ -36,14 +37,21 @@ regp:
   name: Registrovaní příznivci a podporovatelé MS Praha 8
   members:
     - alix.guillard
-    - { name: Andrea Vildová }
+    - { name: Benjamin Wolf }
+    - { name: David Šimek }
     - { name: Denisa Nováková }
     - iva.nachtmannova
+    - { name: Jakub Vojtíšek }
     - { name: Jan Brandejs }
+    - { name: Jindřiška Netrestová }
+    - { name: Ladislav Povýšil }
+    - { name: Jakub Vojtíšek }
     - lukas.kost
     - martin.vavra
     - miroslav.jahoda
     - ondrej.kliment
+    - { name: Radim Anton }
+    - { name: Theodor Draksl }
     - tomas.lempera
     - vojtech.blahos
 zastupitele:
@@ -95,7 +103,7 @@ met.skolstvi:
     - { uid: pavel.franc, description: "vedoucí, garant oblasti školství" }
     - { uid: karolina.gattermayerova, description: garantka oblasti kultury }
     - { uid: petr.bisek, description: garant oblasti sportu }
-    - { name: Andrea Vildová }
+    - andrea.vildova
     - { name: Theodoros Draksl }
     - tomas.marik
     - veronika.siftova
