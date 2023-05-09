@@ -2,7 +2,7 @@
 title: "Zastupitelstvo Prahy 8 bude jednat o situaci v karlínské ZŠ Lyčkovo náměstí i o plošné třicítce"
 author: Martin Štěrba
 image:  posts/karlin-zs-lyckovo-namesti-1.jpg
-tags: [Rada MČ Praha 8, Karlín, Školství, Doprava, Zastupitelstvo]
+tags: [Rada MČ Praha 8, Karlín, Školství, Finance, Doprava, Zastupitelstvo]
 ---
 
 **Dnes se konala mimořádná rada naší městské části. Pojďme si projet to, co rada schválila.**
