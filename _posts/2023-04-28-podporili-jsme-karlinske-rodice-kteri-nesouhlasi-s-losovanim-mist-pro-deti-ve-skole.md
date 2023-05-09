@@ -1,7 +1,7 @@
 ---
 title: "Podpořili jsme karlínské rodiče, kteří nesouhlasí s losování míst pro děti ve škole"
 author: Martin Štěrba
-image:  posts/doprava-30.jpg
+image:  posts/karlin-zs-lyckovo-namesti-2.jpg
 tags: [Školství, Karlín]
 ---
 
