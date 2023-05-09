@@ -15,5 +15,3 @@ tags: [Doprava]
 ### Zóny 30 v Praze 8 rozhodně nejsou neznámou. Podívejte se, kde všude jsou.
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1SZhstNN2x1Hc1jsY0xrGrhdyAi9Ptsk&hl=cs&ehbc=2E312F" width="640" height="480"></iframe>
-
-Martin Štěrba, člen komise pro dopravu MČ Praha 8
