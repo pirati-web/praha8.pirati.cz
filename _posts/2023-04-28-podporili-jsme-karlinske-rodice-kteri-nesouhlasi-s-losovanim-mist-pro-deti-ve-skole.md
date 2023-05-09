@@ -1,5 +1,5 @@
 ---
-title: "Podpořili jsme karlínské rodiče, kteří nesouhlasí s losování míst pro děti ve škole
+title: "Podpořili jsme karlínské rodiče, kteří nesouhlasí s losování míst pro děti ve škole"
 author: Martin Štěrba
 image:  posts/doprava-30.jpg
 tags: [Školství, Karlín]
