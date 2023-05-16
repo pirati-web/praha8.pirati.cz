@@ -2,7 +2,7 @@
 title: "Komise pro dopravu je proti plošné třicítce na území Prahy 8"
 author: Martin Štěrba
 image:  posts/doprava-30.jpg
-tags: [Doprava]
+tags: [Doprava, Komise pro dopravu]
 ---
 
 **Nesouhlasím s formou protestu, který vede Poslední generace na pražských silnicích. Podporuju zklidňování dopravy, plošně bych třicítku po celém městě nezaváděl. Nemyslím si, že je potřeba. Podle mě třicítka patří do rezidenčních ulic, na sídliště či do okolí škol a školek. Komise pro dopravu MČ Praha 8 dneska vcelku jednomyslně schválila toto usnesení:**

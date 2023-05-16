@@ -2,7 +2,7 @@
 title: "Uvítali byste prodloužení linky 101 ze Žižkova do Karlína?"
 author: Pavel Franc
 image: posts/mhd-linka101.jpg
-tags: [Karlín, Doprava]
+tags: [Karlín, Doprava, Komise pro dopravu]
 ---
 
 **Na jednání osmičkové komise pro dopravu jsme řešili možné prodloužení autobusové linky 101 ze Žižkova až na Karlínské náměstí. Mohlo by se jednat o zajímavou linku, která by propojila Karlín například s Náměstím Jiřího z Poděbrad, kde se konají oblíbené Trhy na Jiřáku.**
