@@ -1,5 +1,5 @@
 ---
-title: "Novým zmocněncem Prahy 8 pro Cityvizor je Pavel Franc"
+title: "S plošným zavedením nesouhlasíme, třicítka má být hlavně u škol, školek a na sídlištích"
 author: Martin Štěrba
 image: posts/martin-sterba/auto-doprava.jpg
 tags: [Doprava, Časopis Osmička, Zastupitelstvo]
