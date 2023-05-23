@@ -1,7 +1,7 @@
 ---
 title: "Na čem panuje v komisi pro kulturu shoda a o čem se bude diskutovat?"
 author: Karolína Gattermayerová
-image: posts/libenskyzamek-kultura.jpg
+image: posts/karlin-kultura2.jpg
 tags: [Komise pro kulturu, Kultura, Studio ALTA]
 ---
 
