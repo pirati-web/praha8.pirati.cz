@@ -2,7 +2,7 @@
 title: "Praha 8 apeluje na rodiče, aby dětem kvůli zápisům do škol účelově neměnili trvalé bydliště"
 author: Pavel Franc
 image: posts/zs-lyckovo-namesti.jpg
-tags: [Karlín, Školství]
+tags: [Karlín, Komise pro školství, Školství]
 ---
 
 **Březnové jednání komise pro školství se točila okolo tří zásadních témat – zápisů do mateřských a základních škol, navýšení kapacity školy ZŠ při PN Bohnice a ceny Eduarda Štorcha.**

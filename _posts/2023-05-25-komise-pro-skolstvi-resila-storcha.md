@@ -2,7 +2,7 @@
 title: "Komise pro školství řešila cenu Eduarda Štorcha"
 author: Pavel Franc
 image: posts/zs-lyckovo-namesti.jpg
-tags: [Školství]
+tags: [Komise pro školství, Školství]
 ---
 
 **Na dubnovém jednání komise pro školství se opět řešily zápisy do mateřských a základních škol a cena Eduarda Štorcha.**
