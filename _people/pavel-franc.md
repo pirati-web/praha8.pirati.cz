@@ -18,6 +18,8 @@ profiles:
 funkce:
   - zastupitel MČ Praha 8
   - místopředseda MS Praha 8
+  - zmocněnec MČ Praha 8 pro CityVizor
+  - zástupce MČ Praha 8 v projektu “Budujeme Evropu se zástupci místních samospráv”
   - člen komise RMČP8 pro školství
   - člen komise RMČP8 pro výstavbu ZŠ Rohan
   - člen školní rady ZŠ U Školské zahrady
