@@ -11,7 +11,7 @@ Ale pojďme si říci, o čem se ve středu jednalo.
 
 Rada vzala na vědomí závěrečný účet naší městské části. Praha 8 hospodařila v roce 2022 s přebytkem ve výši 16,625 milionu korun. Celkové příjmy byly ve výši 1,278 miliardy korun, náklady poté ve výši 1,2682 miliardy korun. Mezi objemově největší zakázky patřily třeba Úprava cyklostezky A2 a A26, rekonstrukce základních škol. Zároveň upravila finanční plán zdaňované-hospodářské činnost pro letošní rok a schválila rozpočtová opatření. 
 
-Novým zástupcem městské části Praha 8 v projektu “Budujeme Evropu se zástupci místních samospráv” bude pirátský zastupitel [Pavel Franc](http://praha8.pirati.cz/lide/pavel-franc.html). Je to skvělá zpráva pro Piráty z Prahy 8 a to zvláště před blížícími se evropskými volbami, které budou příští rok.
+Novým zástupcem městské části Praha 8 v projektu [“Budujeme Evropu se zástupci místních samospráv”](Budujeme Evropu se zástupci místních samospráv) bude pirátský zastupitel [Pavel Franc](http://praha8.pirati.cz/lide/pavel-franc.html). Je to skvělá zpráva pro Piráty z Prahy 8 a to zvláště před blížícími se evropskými volbami, které budou příští rok.
 
 Byly schváleny dotace v sociální oblasti na rok 2023 a to pro registrované sociální služby a to v celkové hodnotě tří milionů korun. 
 
@@ -19,7 +19,7 @@ Na základě doporučení komise pro kulturu rada souhlasila s udělením Čestn
 
 Praha 8 podá žádost o dotaci ve výši téměř 11 milionů korun na zkapacitnění Gerontologického centra z Ministerstva práce a sociálních věcí. Městská část také vrátí nevyčerpanou dotaci za revitalizaci veřejných prostor Palmovka a to vzhledem k tomu, že objekt Nové Palmovky byl předán Magistrátu. Praha 8 požádá také Magistrát o možnost přidělení prostředků na dvě investiční akce - rekonstrukce cyklostezky Šaldova-Negrelliho viadukt a vybodování parkovacích stání v ulicích Eledrova, Hanouškova a Řešovská.
 
-Rada schválila odměny občanům Prahy 8, kteří nejsou členy Zastupitelstva za jejich práci v komisích a výborech. Odměny schválila také ředitelce Gerontologického centra Iva Holmerové a ředitelce SOS Praha 8 Janě Zwiefelhofer.
+Rada schválila odměny občanům Prahy 8, kteří nejsou členy Zastupitelstva za jejich práci v komisích a výborech. Odměny schválila také ředitelce Gerontologického centra Ivě Holmerové a ředitelce SOS Praha 8 Janě Zwiefelhofer.
 
 Rada schválili smlouvu o centralizovaném zadávání veřejných zakázek pro dodávky zemního plynu a elektrické energie pro MČ Praha 8 a její příspěvkové organizace. Stejně tak rada schválila návrh centralizované nákupu dodávek zemního plynu a elektrické energie na komoditní burze pro rok 2024. 
 
