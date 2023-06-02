@@ -1,7 +1,7 @@
 ---
 title: "Nová územní studie jasně definuje možnosti budoucí podoby Ďáblic"
 author: Karel Ptáček
-image: posts/libensky-zamek.jpg
+image: posts/dablice-sidliste.jpg
 tags: [Ďáblice, Územní rozvoj]
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: "Úřad tiskne stohy papírů a zástupcem MČ Praha 8 v evropském projektu bude pirát"
+title: "Úřad tiskne zbytečné stohy papírů a zástupcem Prahy 8 v evropském projektu bude pirát"
 author: Martin Štěrba
-image: posts/libensky-zamek.jpg
+image: posts/bily-dum-napis
 tags: [Rada MČ Praha 8, Evropská unie, Finance]
 ---
 
