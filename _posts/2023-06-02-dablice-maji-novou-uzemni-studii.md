@@ -16,7 +16,7 @@ V našem případě Územní studie Ďáblic, kterou zadalo hlavní město Praha
 Celkově lze tedy říci, že Územní studie Ďáblic poskytuje směrnici a plán pro budoucí rozvoj, zohledňuje potřeby města a přispívá k udržitelnému a harmonickému využití území.
 
 ### Další informace
-- [Finální studie pro sídliště Ďáblice ke stažení](https://drive.google.com/drive/folders/1IsVvntfXZKSouMMF9MqOI1KvYjZeqRAU)
+- [finální studie pro sídliště Ďáblice ke stažení](https://drive.google.com/drive/folders/1IsVvntfXZKSouMMF9MqOI1KvYjZeqRAU)
 - [článek na webu Institutu plánování a rozvoje hl. města Prahy](https://iprpraha.cz/stranka/4281/praha-mestska-cast-a-obyvatele-ve-shode-mesto-predstavilo-finalni-studii-pro-sidliste-dablice)
 
 
