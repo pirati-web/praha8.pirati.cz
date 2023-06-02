@@ -3,7 +3,7 @@ title: Piráty na Praze 8 povede do voleb Martin Štěrba
 author: Piráti Praha 8 
 date: 2022-02-01
 image: posts/martin-sterba/libenskyzamek-leden2022.jpg
-tags: [Piráti, Tisková zpráva, Volby 2022]
+tags: [Piráti, Volby 2022]
 ---
 
 **Místní sdružení Pirátů na Praze 8 si v minulých dnech zvolilo lídra do podzimních komunálních voleb. Stal se jím současný předseda místního sdružení a marketér a stratég [Martin Štěrba](https://praha8.pirati.cz/lide/martin-sterba.html).**
