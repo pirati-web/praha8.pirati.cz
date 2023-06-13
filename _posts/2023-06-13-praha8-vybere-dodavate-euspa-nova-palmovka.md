@@ -2,7 +2,7 @@
 title: "Praha vybere dodavatele pro transformaci Nové Palmovky, hotovo má být do roku 2025"
 author: MHMP
 image:  posts/novapalmovka-dvorana.jpg
-tags:   [EUSPA, Nová Palmovka, Magistrát]
+tags:   [Agentura EUSPA, Nová Palmovka, Magistrát]
 ---
 
 **Radní hl. m. Prahy na dnešním jednání schválili záměr vypsat výběrové řízení na dodavatele, kterému bude svěřena transformace nedostavěného torza Centra Nová Palmovka v Praze 8. Centrum se stane novým střediskem evropského kosmického výzkumu. Hlavní město tento projekt připravuje pro ministerstva dopravy a financí a s těmito ministerstvy intenzivně spolupracuje.**
