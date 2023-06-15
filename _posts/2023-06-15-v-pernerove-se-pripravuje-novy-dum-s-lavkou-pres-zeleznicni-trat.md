@@ -4,7 +4,7 @@ author: Karel Ptáček
 image:  posts/vizualizace/bd-pernerova/Foto1.jpg
 tags:   [Karlín, Bydlení, Územní rozvoj]
 fancybox:
-  - name: Možná podoba Těšnova
+  - name: Bytový dům v Karlíně
     img:
       - { src: posts/vizualizace/bd-pernerova/Foto1.jpg, title: V Karlíně se připravuje stavba nového domu s lávkou přes železniční trať }
       - { src: posts/vizualizace/bd-pernerova/Foto2.jpg, title: V Karlíně se připravuje stavba nového domu s lávkou přes železniční trať }
