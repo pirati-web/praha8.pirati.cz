@@ -1,6 +1,6 @@
 ---
 title: "Opravy škol a školek a Manuál vize Ostrova Štvanice, to jsou témata středečního jednání rady"
-author: MHMP
+author: Martin Štěrba
 image:  posts/libensky-zamek3.jpg
 tags:   [Rada MČ Praha 8, Školství]
 ---

@@ -17,6 +17,7 @@ funkce:
   - zastupitel MČ Praha 8
   - místopředseda MS Praha 8
   - místopředseda zastupitelského klubu
+  - poradce radního hl. města Prahy pro VVI a vědecko-technologický park 
   - člen komise RMČP8 pro obecní majetek
   - člen komise RMČP8 pro výstavbu ZŠ Rohan
 ---
