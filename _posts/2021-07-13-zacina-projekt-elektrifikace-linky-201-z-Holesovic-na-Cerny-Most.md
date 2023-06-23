@@ -2,7 +2,7 @@
 title: Začíná projekt elektrifikace linky 201, v Holešovičkách budou elektrobusy
 author: Martin Štěrba
 image: posts/doprava-linka201.png
-tags: [Doprava, Libeň, Magistrát, Ulice V Holešovičkách]
+tags: [Doprava, Libeň, Magistrát, Holešovičky]
 ---
 
 **S ohledem na pražský klimatický plán schválila Rada hlavního města Prahy zahájení projektové přípravy elektrifikace linky č. 201 na trase Nádraží Holešovice – Černý Most a to včetně rozšíření nabíjení pro bateriové trolejbusy v garáži Klíčov, odkud je linka č. 201 převážně vypravována.**
