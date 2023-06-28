@@ -1,5 +1,5 @@
 ---
-title: "Je třeba ale najít řešení pro častou hudební produkci na Karlínském náměstí"
+title: "Je třeba najít řešení pro častou hudební produkci na Karlínském náměstí"
 author: Karolína Gattermayerová
 image:  posts/karlin-kultura-karlinske-namesti.jpg
 tags:   [Kultura, Karlín]
