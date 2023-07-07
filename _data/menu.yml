@@ -37,7 +37,13 @@ main:
       - name: Portál Pražana
         link: "https://www.portalprazana.cz/"
       - name: PID Lítačka
-        link: "https://app.pidlitacka.cz/"
+        link: "https://pidlitacka.cz"
+      - name: Nový Metropolitní plán
+        link: "https://metropolitniplan.praha.eu"
+      - name: Institut plánování a rozvoje Praha
+        link: "https://iprpraha.cz/"
+      - name: Realitní portál Prahy
+        link: "https://realitniportalpraha.cz/"
       - name: Praha školská
         link: "https://www.prahaskolska.eu/"
       - name: Praha sportovní
@@ -48,10 +54,6 @@ main:
         link: "https://www.pragozor.cz/"
       - name: Praha zítra (Nové stavební projekty)
         link: "https://praha.camp/praha-zitra/"
-      - name: Realitní portál Prahy
-        link: "https://realitniportalpraha.cz/"
-      - name: Institut plánování a rozvoje Praha
-        link: "https://iprpraha.cz/"
   - link: /kontakt/
     name: Kontakt
 
