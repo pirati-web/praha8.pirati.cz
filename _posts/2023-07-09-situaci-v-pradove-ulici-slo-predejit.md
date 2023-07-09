@@ -1,5 +1,5 @@
 ---
-title: "Situaci v Přádově ulici šlo předejít, celá ulice mohla být v rovině jako pěší zóna"
+title: "Situaci v Přádově ulici šlo předejít, celá ulice mohla být v rovině jako obytná zóna"
 author: Martin Štěrba
 image:  posts/martin-sterba/cnn-prima-news.jpg
 tags:   [Doprava, Modré zóny]
@@ -13,7 +13,7 @@ Komise pro dopravu MČ Praha 8 jednala o situaci v Přádově ulici celkem dvakr
 
 Současný stav, tedy namalování čar, nicméně reflektuje situaci, která tady je dlouhodobě. Na chodníku se parkuje od výstavby sídliště. Teď - po nakreslení čar na asfalt - došlo ke zlegalizování dřívějšího stavu. I nadále stojí na chodníku auta a po silnici chodí chodci. Na silnici také přibyla tady také značka, protože ne každý řidič s chodci počítal. Kromě toho se tady na silnici objevily i i cykloobousměrky. 
 
-**V Přádově ulici by ale současné situaci šlo předejít** – stačilo by stačilo jít při rekonstrukci ještě o dva kroky dopředu. Celá ulice by totiž klidně mohla být v rovině jako pěší zóna, a stání by mohlo být dovoleno až u kraje. Odpadlo by tak rozdělování toho, co je chodník a co silnice, a jestli se někam vejde kočárek či chodec. Jinde to funguje, klidně by to mohlo fungovat i tady. 
+**V Přádově ulici by ale současné situaci šlo předejít** – stačilo by stačilo jít při rekonstrukci ještě o dva kroky dopředu. Celá ulice by totiž klidně mohla být v rovině jako obytná zóna, a stání by mohlo být dovoleno až u kraje. Odpadlo by tak rozdělování toho, co je chodník a co silnice, a jestli se někam vejde kočárek či chodec. Jinde to funguje, klidně by to mohlo fungovat i tady. 
 
 ### Více se dočtete:
 - [článek na webu ZDopravy](https://zdopravy.cz/valka-chodcum-vyhlasena-lide-si-utahuji-z-bizarniho-parkovani-v-kobylisich-167289/)
