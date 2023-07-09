@@ -2,7 +2,7 @@
 title: "Rada jednala o senior taxi, navýšení kapacity školy v Bohnicích i fotovoltaikách na školách"
 author: Martin Štěrba
 image: posts/seniortaxi.jpg
-tags: [MČ Praha 8, Školství, Majetek, Sociální služby]
+tags: [Rada MČ Praha 8, Školství, Majetek, Sociální služby]
 ---
 
 **První středu po Velikonocích se uskutečnilo 16. jednání Rady městské části Praha 8. Tentokrát to bylo celkem nabušené, rada projednala zhruba třicítku tisků, celá řada z nich se týkala nájmů či prodejů pozemků. Pojďme se podívat na to, co se dnes dělo.**
