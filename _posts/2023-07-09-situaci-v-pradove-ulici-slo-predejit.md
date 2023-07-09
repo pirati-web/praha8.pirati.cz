@@ -15,7 +15,7 @@ Současný stav, tedy namalování čar, nicméně reflektuje situaci, která ta
 
 **V Přádově ulici by ale současné situaci šlo předejít** – stačilo by stačilo jít při rekonstrukci ještě o dva kroky dopředu. Celá ulice by totiž klidně mohla být v rovině jako pěší zóna, a stání by mohlo být dovoleno až u kraje. Odpadlo by tak rozdělování toho, co je chodník a co silnice, a jestli se někam vejde kočárek či chodec. Jinde to funguje, klidně by to mohlo fungovat i tady. 
 
-Další informace
+### Více se dočtete:
 - [článek na webu ZDopravy](https://zdopravy.cz/valka-chodcum-vyhlasena-lide-si-utahuji-z-bizarniho-parkovani-v-kobylisich-167289/)
 - [reportáž v Hlavních zprávách na CNN Prima News](https://cnn.iprima.cz/videa/cnndomaci/v-libni-udelali-kuriozni-parkovaci-mista)
 
