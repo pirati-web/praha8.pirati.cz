@@ -1,6 +1,6 @@
 ---
 title: "Hranice Prahy 8 a Prahy 1 se promění, magistrála by mohla jít na zem"
-author: Martin Štěrba
+author: Piráti Praha 8
 image: posts/2023-05-24-nova-podoba-tesnova/magistrala1.jpg
 tags: [Doprava, Magistrát]
 fancybox:

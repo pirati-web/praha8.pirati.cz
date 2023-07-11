@@ -1,6 +1,6 @@
 ---
 title: Zahušťování Ďáblic nedovolíme, nejkrásnější české sídliště zaslouží ochranu
-author: Martin Štěrba
+author: Piráti Praha 8
 image: posts/dablice-diskuze-kveten2022.jpg
 tags: [Krásné Kobylisy, Ládví, Ďáblice]
 ---

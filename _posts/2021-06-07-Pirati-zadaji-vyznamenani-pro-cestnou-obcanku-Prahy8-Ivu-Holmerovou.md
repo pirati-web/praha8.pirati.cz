@@ -1,6 +1,6 @@
 ---
 title: Piráti žádají vyznamenání pro čestnou občanku Prahy 8 Ivu Holmerovou
-author: Martin Štěrba
+author: Piráti Praha 8
 image: posts/statnivyznamenani-holmerova.png
 tags: [Piráti, Sněmovna]
 ---

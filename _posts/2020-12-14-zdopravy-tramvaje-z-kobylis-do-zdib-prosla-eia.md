@@ -1,6 +1,6 @@
 ---
 title: Tramvaj z Kobylis do Zdib prošla úspěšně posouzením vlivu na okolní prostředí
-author: Martin Štěrba
+author: Piráti Praha 8
 image: posts/vozovna-kobylisy.png
 tags: [Tramvaj do Zdib, Kobylisy, Doprava]
 ---

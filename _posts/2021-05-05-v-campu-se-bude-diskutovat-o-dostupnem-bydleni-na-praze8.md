@@ -1,6 +1,6 @@
 ---
 title: V CAMPu se bude diskutovat o dostupném bydlení na Praze 8
-author: Martin Štěrba
+author: Piráti Praha 8
 image: posts/vystavba-palmovka.jpg
 tags: [Bydlení]
 ---

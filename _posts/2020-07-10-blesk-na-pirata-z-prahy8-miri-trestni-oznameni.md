@@ -1,6 +1,6 @@
 ---
 title: "Blesk.cz: Na Piráta z Prahy 8 míří trestní oznámení za pomluvu. Kvůli jedinému slovu."
-author: Martin Štěrba
+author: Piráti Praha 8
 image: posts/fichtner-sterba.png
 tags: [Hnutí ANO, Piráti]
 ---

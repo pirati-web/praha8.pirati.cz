@@ -1,6 +1,6 @@
 ---
 title: "Další trafika? Bývalý radní pro IT Slobodník se stal uvolněným předsedou komise pro IT"
-author: Martin Štěrba
+author: Piráti Praha 8
 image: posts/zastupitelstvo2.jpg
 tags: [ODS, Komise pro IT, Kauza Dezinfekce, Zastupitelstvo]
 ---

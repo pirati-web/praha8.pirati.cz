@@ -1,6 +1,6 @@
 ---
 title: Prohlášení zástupců opozice v redakční radě časopisu Osmička
-author: Martin Štěrba
+author: Piráti Praha 8
 image: posts/osmicka_prohlaseni.png
 tags: [Redakční rada]
 ---

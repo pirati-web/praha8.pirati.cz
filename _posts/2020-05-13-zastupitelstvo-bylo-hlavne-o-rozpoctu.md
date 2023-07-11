@@ -1,6 +1,6 @@
 ---
 title: Pozdě ale přece, jednání zastupitelstva bylo hlavně o letošním rozpočtu
-author: Martin Štěrba
+author: Piráti Praha 8
 image: posts/zastupitelstvo_kveten2020.jpg
 tags: [Pandemie Covid-19, Zastupitelstvo, Finance]
 ---

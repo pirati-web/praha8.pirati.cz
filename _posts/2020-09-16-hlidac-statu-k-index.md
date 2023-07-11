@@ -1,6 +1,6 @@
 ---
 title: Jaký je K-Index naší městské části?
-author: Martin Štěrba
+author: Piráti Praha 8
 image: posts/hlidacstatu.png
 tags: [Transparentnost]
 ---

@@ -1,12 +1,11 @@
 ---
 title: Doprava v Praze a okolí dostane novou sjednotící podobu
-author: Martin Štěrba
+author: Piráti Praha 8
 image: posts/mhd-novebarvy.jpg
 tags: [Doprava]
 ---
 
-
-Pražskou integrovanou dopravu sjednotíme do stejných barev, aby byla na první pohled rozpoznatelná! Teď tomu tak není. Jak vysvětloval náměstek pro dopravu **Adam Scheinherr** z uskupení Praha sobě, nyní můžete narazit až na 17 různých barevností. A pokud bychom nic neudělali, přibývaly by další. Místo toho jsme se ale rozhodli pro jednotný styl.
+**Pražskou integrovanou dopravu sjednotíme do stejných barev, aby byla na první pohled rozpoznatelná! Teď tomu tak není. Jak vysvětloval náměstek pro dopravu **Adam Scheinherr** z uskupení Praha sobě, nyní můžete narazit až na 17 různých barevností. A pokud bychom nic neudělali, přibývaly by další. Místo toho jsme se ale rozhodli pro jednotný styl.**
 
 > **K čemu je to dobré? Výhod je hned několik.** Cestující budou hned vědět, že tady platí jejich kupon na MHD. Díky tomu můžou zaplatit méně za jízdné v tarifu Pražské integrované dopravy (PID). Na nádraží poznáte na první pohled příměstský vlak a neuděláte si neplánovaný výlet rychlíkem někam do daleka.
 

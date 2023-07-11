@@ -1,6 +1,6 @@
 ---
 title: Poklonili jsme se těm, kteří zemřeli, abychom my mohli žít
-author: Martin Štěrba
+author: Piráti Praha 8
 image: posts/2022-05-27-anthropoid80/anthropoid09.jpg
 tags: [Anthropoid, Libeň]
 fancybox:

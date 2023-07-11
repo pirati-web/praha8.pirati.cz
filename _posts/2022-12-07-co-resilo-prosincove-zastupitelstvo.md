@@ -1,6 +1,6 @@
 ---
 title: "Co řešilo prosincové zastupitelstvo? Rozpočtové provizorium, uvolnění zastupitelů pro výkon funkce, změnu jednacího řádu a zrušení privatizace"
-author: Martin Štěrba
+author: Piráti Praha 8
 image: posts/zastupitelstvo_prosinec2022.jpg
 tags: [Zastupitelstvo, Majetek, Finance, Bydlení]
 ---

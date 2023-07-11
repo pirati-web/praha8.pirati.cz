@@ -1,6 +1,6 @@
 ---
 title: Sněmovna schválila na zahrádkářský zákon, ochrání i kolonie Prahy 8
-author: Martin Štěrba
+author: Piráti Praha 8
 image: posts/zahradky.png
 tags: [Životní prostředí, Piráti, Sněmovna]
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Zastupitelstvo MČ Praha 8 schválilo prověření firem spojených s aktéry kauzy Dozimetr"
-author: Martin Štěrba
+author: Piráti Praha 8
 image: posts/hlubucek-dozimetr.png
 tags: [Zastupitelstvo, Transparentnost]
 ---

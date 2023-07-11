@@ -1,6 +1,6 @@
 ---
 title: Ďáblice mají konečně svojí vizi budoucnosti
-author: Martin Štěrba
+author: Piráti Praha 8
 image: posts/dablice-sidliste2.png
 tags: [Krásné Kobylisy, Ďáblice, Územní rozvoj]
 ---
