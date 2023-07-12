@@ -1,6 +1,6 @@
 ---
 title: Holešovičky se mají stát městskou třídou, pod zem půjdou po dokončení městského okruhu
-author: Martin Štěrba
+author: Piráti Praha 8
 image: posts/holesovicky-zmena2022.png
 tags: [Doprava, Libeň, Magistrát, Holešovičky, Územní rozvoj]
 ---

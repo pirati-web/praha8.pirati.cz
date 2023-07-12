@@ -1,6 +1,6 @@
 ---
 title: Zastupitelstvo Prahy 8 řešilo dopravu, parkování na Velké Skále a čestné občanství
-author: Martin Štěrba
+author: Piráti Praha 8
 image: posts/zastupitelstvo_zari2021.jpg
 tags: [Doprava, Zastupitelstvo]
 ---

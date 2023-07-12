@@ -1,6 +1,6 @@
 ---
 title: Praha začala stavět Štvanickou lávku, hotovo bude na jaře 2023
-author: Martin Štěrba
+author: MHMP
 image: posts/2022-01-11-stvanickalavka/zahajeni-stavby-stvanicke-lavky7A.jpg
 tags: [Doprava, Karlín, Štvanická lávka (HolKa)]
 fancybox:

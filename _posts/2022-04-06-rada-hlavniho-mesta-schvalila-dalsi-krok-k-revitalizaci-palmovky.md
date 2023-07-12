@@ -1,6 +1,6 @@
 ---
 title: Rada hlavního města schválila další krok k revitalizaci Palmovky
-author: Martin Štěrba
+author: MHMP
 image: posts/2021-12-16-novapalmovka/novapalmovka08.jpeg
 tags: [Agentura EUSPA, Nová Palmovka, Palmovka, Magistrát]
 ---

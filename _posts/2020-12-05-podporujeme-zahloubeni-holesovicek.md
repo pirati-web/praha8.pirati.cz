@@ -1,6 +1,6 @@
 ---
 title: Dlouhodobě podporujeme zahloubení ulice V Holešovičkách. Co pro to děláme?
-author: Martin Štěrba
+author: Piráti Praha 8
 image: posts/holesovicky-bulovka.png
 tags: [Holešovičky, Libeň, Doprava, Veřejný prostor]
 ---
