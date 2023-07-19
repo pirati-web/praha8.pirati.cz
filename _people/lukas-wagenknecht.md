@@ -21,7 +21,7 @@ profiles:
   flickr:     https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=luk%C3%A1%C5%A1%20wagenknecht
 funkce:
   - senátor
-  - člen <a href="https://ppas.cz/o-nas">dozorčí rady Pražské plynárenské, a.s.</a>
+  - předseda <a href="https://www.psas.cz/organy-spolecnosti">dozorčí rady Pražské služby, a.s.</a>
 asistenti:
   - name: Ing. Karolína Ždárská
     position: Asistentka
