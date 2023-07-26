@@ -15,7 +15,9 @@ fancybox:
 
 **Zdá se, že dobrá věc se podařila. Spolek Velký Mlýn společně s dalšími dotáhl opravu Löwitova mlýna v podzámčí u Rokytky. Nově tady funguje kavárna i pobočka Městská knihovny. Otevřena bude sedm dní v týdnu, v pondělí od 13 do 20 hodin, v úterý až neděli pak od 9 do 20 hodin.**
 
-Díky zaslouží všichni, kteří o úpravu a rekonstrukci zasloužili. Věříme, že se mlýn společně se Studio ALTA stane do budoucna jedním z center osmičkové kultury. Podzámčí si to určitě zaslouží. 
+Díky zaslouží všichni, kteří o úpravu a rekonstrukci zasloužili. A i když jsme na osmičce v opozici, umíme uznat, že tohle se starostovi Ondřeji Grosovi a místostostarostovi Jiřímu Vítkovi povedlo. 
+
+Věříme, že se mlýn společně se Studio ALTA stane do budoucna jedním z center osmičkové kultury. Podzámčí si to určitě zaslouží. 
 
 {% for galery in page.fancybox %}
 <div class="mt-4">
