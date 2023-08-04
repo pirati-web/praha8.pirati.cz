@@ -2,7 +2,7 @@
 title: Oblouky Negrelliho viaduktu parkování patřit nebudou
 author: Martin Štěrba
 image: posts/negrelliho-viadukt.png
-tags: [Doprava, Karlín, ODS]
+tags: [Doprava, Negrelliho viadukt, Karlín, ODS]
 ---
 
 **Možná jste [zaznamenali diskuzi](https://www.facebook.com/groups/libenkarlin/posts/4133078633412970/), kdy jeden z pražských pirátských příznivců označil ODS Praha 8, že se pokouší pomocí odboru dopravy změnit plány na využití prostoru pod karlínským Negrelliho viaduktem z podniků pro občany na parkovací místa.**
