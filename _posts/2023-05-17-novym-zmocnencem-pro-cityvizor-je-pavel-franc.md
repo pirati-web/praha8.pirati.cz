@@ -2,7 +2,7 @@
 title: "Novým zmocněncem Prahy 8 pro Cityvizor je Pavel Franc"
 author: Martin Štěrba
 image: posts/cityvizor-grafika.png
-tags: [CityVizor, Transparentnost, Zastupitelstvo]
+tags: [Cityvizor, Transparentnost, Zastupitelstvo]
 ---
 
 **Zastupitelstvo Prahy 8 schválilo můj návrh usnesení k připojení MČ Praha 8 k aplikaci Cityvizor. Pro hlasovali téměř všichni členové zastupitelstva.**

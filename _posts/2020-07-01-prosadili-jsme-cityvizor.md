@@ -2,7 +2,7 @@
 title: Prosadili jsme zavedení aplikace CityVizor, Praha 8 bude mít rozklikávací rozpočet
 author: Piráti Praha 8
 image: posts/cityvizor-grafika.png
-tags: [CityVizor, Transparentnost, Zastupitelstvo]
+tags: [Cityvizor, Transparentnost, Zastupitelstvo]
 ---
 
 **Na dnešním zastupitelstvu MČ Praha 8 bylo schváleno, že se městská část Praha 8 připojí k aplikaci Cityvizor. Stalo se tak díky práci našich zastupitelů. Pro hlasovali všichni přítomní zastupitelé napříč politickým spektrem, tedy kromě nás i zástupci ODS, TOP 09, STAN, ANO, Osmička žije, Patrioti pro Prahu 8 a Osmička sobě (KDU-ČSL a Strana zelených).**

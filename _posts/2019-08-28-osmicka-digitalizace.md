@@ -2,9 +2,8 @@
 title: Záznamy by se měly vést především elektronicky
 author: Jan Hamal Dvořák
 image: posts/osmicka_digitalizace.jpg
-tags: [Digitalizace, Časopis Osmička, CityVizor]
+tags: [Digitalizace, Časopis Osmička, Cityvizor]
 ---
-
 
 Jsem informatik s velmi bohatou fantazií a to, jak pomalu si veřejná správa osvojuje užitečné technologie, mne mrzí. Líbilo by se mi, kdyby nad silnicemi a chodníky v noci létaly drony a laserovým paprskem hledaly výmoly, kdyby se zastupitelé s úředníky a místními spolky bavili o územních změnách nad interaktivní 3D mapou a občané si mohli věci vyřídit pomocí mobilu cestou metrem do práce. Nemyslím si ale, že by Úřad městské části Praha 8 měl začít s přípravou zakázky na pořízení dronů, a nevěřím, že by se přes noc stal hlavním partnerem Ministerstva vnitra v zavádění Portálu občana. Přesto jsem však přesvědčen, že by měl změnit svůj přístup k nakládání s informacemi.
 

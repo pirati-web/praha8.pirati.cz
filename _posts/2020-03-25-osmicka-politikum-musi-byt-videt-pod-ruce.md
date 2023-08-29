@@ -2,7 +2,7 @@
 title: Politikům musí být vidět pod ruce
 author: Jan Hamal Dvořák
 image: posts/cityvizor-praha.png
-tags: [CityVizor, Časopis Osmička]
+tags: [Cityvizor, Časopis Osmička]
 ---
 
 Politikům i úředníkům musí být vidět pod ruce. V demokracii máme právo vědět, jak námi volení zástupci hospodaří s našimi daněmi.

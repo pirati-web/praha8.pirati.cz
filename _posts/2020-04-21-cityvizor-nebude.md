@@ -2,7 +2,7 @@
 title: Transparentnost podle koalice – aplikace CityVizor se nedočkáme
 author: Piráti Praha 8
 image: posts/cityvizor-praha.png
-tags: [Zastupitelstvo, Transparentnost, CityVizor]
+tags: [Zastupitelstvo, Transparentnost, Cityvizor]
 ---
 
 **Zastupitelstvo MČ Praha 8 nesouhlasilo se zařazením našeho bodu ohledně spuštění CityVizoru a to navzdory osobnímu apelu ze strany primátora hlavního města Prahy Zdeňka Hřiba, který se dnešního jednání zastupitelstva také zúčastnil. Pro zařazení byla pouze opozice, ostatní se zdrželi.**

@@ -2,7 +2,7 @@
 title: Zavedení Cityvizoru se o rok posouvá, koalice chtěla všechno nebo nic
 author: Jan Hamal Dvořák
 image: posts/cityvizor-kalkulacka.png
-tags: [CityVizor, Transparentnost, Zastupitelstvo]
+tags: [Cityvizor, Transparentnost, Zastupitelstvo]
 ---
 
 **Koalice ODS, TOP09, STAN a Patriotů hledá důvody, proč není možné dle [původní domluvy nasadit rozklikávací rozpočet Cityvizor](https://praha8.pirati.cz/aktuality/prosadili-jsme-cityvizor.html).** Navzdory tomu, že usnesení zastupitelstva z minulého roku znělo jasně: „Nasadit na úřadě i všech podřízených organizacích“, tak kolegové z ODS jej interpretovali po svém jako "všechno nebo nic".

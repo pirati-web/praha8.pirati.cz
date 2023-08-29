@@ -1,7 +1,7 @@
 ---
 title: Otevřený dopis radnímu pro kulturu Švarcovi
 author: Martin Staněk
-image: posts/dopis2.jpg
+image: posts/martinstanek.jpg
 tags: [Komise pro kulturu, Patrioti, Transparentnost]
 ---
 
