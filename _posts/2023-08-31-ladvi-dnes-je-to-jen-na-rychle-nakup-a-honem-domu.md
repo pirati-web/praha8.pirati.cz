@@ -1,5 +1,5 @@
 ---
-title: "Dnes je to jen na rychlý nákup a honem domů"
+title: "Náměstí na Ládví: Dnes je to jen na rychlý nákup a honem domů"
 author: Petr Bísek
 image:  posts/ladvi1.jpg
 tags:   [Časopis Osmička, Ládví]
