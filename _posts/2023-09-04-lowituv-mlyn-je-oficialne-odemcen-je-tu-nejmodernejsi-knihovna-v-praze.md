@@ -2,6 +2,7 @@
 title: "Löwitův mlýn je oficiálně odemčen, je tu i nejmodernější knihovna v Praze"
 author: Martin Štěrba
 image:  posts/2023-09-04-mlyn/mlyn5.jpg
+tags:   [Libeň, Löwitův mlýn, Městská knihovna]
 fancybox:
   - name: Odemknutí Velkého mlýna
     img:
