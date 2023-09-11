@@ -25,6 +25,6 @@ Teď je jeho odpovědí na územní studii, která výslovně nedoporučuje byto
 
 Proto je nutné si neustále opakovat okolnosti případu a historické souvislosti. Proto bylo a je nutné bojovat za zachování sídliště, alespoň do doby, než Radovan Vítek a jeho CPI, tak jako ostatní zúčastnění, nepřistoupí na nějaký smysluplný kompromis.
 
-[Česká pirátská strana od začátku podporovala místní spolky](https://praha8.pirati.cz/aktuality/dotaznik-pro-krasne-kobylisy.html), která bojují za zachování hodnoty sídliště a kvality života v něm a svým dílem přispěla i k realizaci územní studie. A i nadále stojíme na straně občanů, kteří zde žijí.
+[Česká pirátská strana od začátku podporovala místní spolky](https://praha8.pirati.cz/aktuality/dotaznik-pro-krasne-kobylisy.html), které bojují za zachování hodnoty sídliště a kvality života v něm a svým dílem přispěla i k realizaci územní studie. A i nadále stojíme na straně občanů, kteří zde žijí.
 
 *s přispěním Michaely Krupičkové*
