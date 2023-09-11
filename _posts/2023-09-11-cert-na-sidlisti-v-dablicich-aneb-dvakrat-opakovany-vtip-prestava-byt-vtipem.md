@@ -1,7 +1,7 @@
 ---
 title: "Čert na Sídlišti v Ďáblicích aneb dvakrát opakovaný vtip přestává být vtipem"
 author: Tomáš Mařík
-image: posts/2022-05-19-prochazka-dablice/dablice8.jp
+image: posts/2022-05-19-prochazka-dablice/dablice8.jpg
 tags: [Ďáblice, Krásné Kobylisy, Územní rozvoj]
 ---
 
