@@ -10,7 +10,7 @@ tags: [Ďáblice, Krásné Kobylisy, Územní rozvoj]
 Třešničkou na pomyslném dortu byl fakt, že sídliště takto komerčně vytěžit plánoval člověk, který objekty občanské vybavenosti získal takzvaným nepřátelským převzetím v roce 1997.
 
 Obyvatelé sídliště se proti tomuto bezohlednému postupu vzbouřili a petici proti výstavbě výškových budov podepsala víc než polovina dospělých obyvatel sídliště.
-Tak začala i jednání s polickou reprezentací a renomovanými architekty.
+Tak začala i jednání s politickou reprezentací a renomovanými architekty.
 
 Na konci roku 2018 se s požadavky místních spolků ztotožnilo jak vedení městské části, tak naprostá většina politické reprezentace městské části i hlavního města Prahy.
 
