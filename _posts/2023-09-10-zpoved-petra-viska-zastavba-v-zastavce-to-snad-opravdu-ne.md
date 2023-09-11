@@ -2,7 +2,7 @@
 title: "Zpověď Petra Bíska: Zástavba v zástavbě, to snad opravdu ne"
 author: Petr Bísek
 image: posts/portrety-2022/petr-bisek.jpg
-tags:   [Ládví, Krásné Kobylisy]
+tags: [Ďáblice, Ládví, Krásné Kobylisy]
 ---
 
 **K námětu této mé "zpovědi" mě ponoukal článek v Lidových novinách z 13. srpna Nezešílet ve městech, který konstatuje, že život ve městě přináší mnoho výhod, ale je také "...spojen se zvýšeným rizikem rozvoje psychických poruch". Článek se především věnuje problému neuspokojivého duševního stavu osamělých lidí, především seniorů, ale stále se zvyšující koncentrace lidí není vhodná pro psychicky stav kohokoli.**
