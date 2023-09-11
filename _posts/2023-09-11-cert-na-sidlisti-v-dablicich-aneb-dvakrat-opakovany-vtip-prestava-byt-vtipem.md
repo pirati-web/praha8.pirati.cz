@@ -1,5 +1,5 @@
 ---
-title: "Čert na Sídlišti v Ďáblicích aneb dvakrát opakovaný vtip přestává být vtipem"
+title: "Čert na sídlišti v Ďáblicích aneb dvakrát opakovaný vtip přestává být vtipem"
 author: Tomáš Mařík
 image: posts/dablice-tanvaldska.jpg
 tags: [Ďáblice, Krásné Kobylisy, Územní rozvoj]
