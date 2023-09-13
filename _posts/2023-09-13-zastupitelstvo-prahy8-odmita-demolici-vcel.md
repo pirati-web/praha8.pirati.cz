@@ -1,5 +1,5 @@
 ---
-title: "Zastupitelstvo Prahy 8 na návrh Pirátů odmítá demolici "Včel" v Ďáblicích a žádá CPI Reality, aby dodržovala platnou územní studii"
+title: "Zastupitelstvo Prahy 8 na návrh Pirátů odmítá demolici Včel v Ďáblicích a žádá CPI Reality, aby dodržovala platnou územní studii"
 author: Martin Štěrba
 image: posts/dablice-tanvaldska2.jpg
 tags: [Krásné Kobylisy, Ďáblice, Územní rozvoj, Zastupitelstvo]
