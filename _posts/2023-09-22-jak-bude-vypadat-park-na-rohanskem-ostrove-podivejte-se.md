@@ -39,10 +39,7 @@ Na tento a dalších dvacet čtyři projektů se můžete těšit v nové výsta
   <div class="inline-flex flex-col space-y-2">
     <span class="alert alert--black">
       <i class="alert__icon ico--pirati"></i>
-      <span><b>Vítězný tým představil velmi přesvědčivý a proveditelný návrh parku, který je mimořádně inovativní v přístupu řešení protipovodňové ochrany. Návrh zvítězil díky vyváženosti nabídky - vysoce kvalitnímu, srozumitelnému a dobře proveditelnému návrhu, efektivitě navrhovaného procesu a výhodné cenové nabídce. Podrobnější hodnocení komise si můžete přečíst zde. </span>
+      <span><b>Tramvajový okruh</b><br />Plánovaný tramvajový okruh propojí čtveřici nádraží - Podbabu, Dejvice, Smíchovské nádraží a Eden, a také všechny linky metra. V současné době chybí 19 kilometrů tramvajových tratí k jeho dokončení. Celkové náklady odhadují Piráti na 14 miliard korun. Projekt by podle nich mohl být dokončen v roce 2035. Okruh by měl nabídnout alternativu k autům - na jihu například k jízdě po Jižní spojce. </span>
     </span>
   </div>
 </div>
-
-
-
