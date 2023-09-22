@@ -14,7 +14,7 @@ fancybox:
       - { src: posts/vizualizace/park-rohansky-ostrov/Rohan6.jpg, title: Vítězný návrh parku (OMGEVING+FISER+VRV+SINDLAR (BE/CZ)) }
 ---
 
-**Na území 56 hektarů vznikne povodňový park, který propojí člověka s řekou, zachová tamní biodiverzitu a efektivně přispěje k protipovodňové ochraně města. **
+**Na území 56 hektarů vznikne povodňový park, který propojí člověka s řekou, zachová tamní biodiverzitu a efektivně přispěje k protipovodňové ochraně města.**
 
 >"Holešovický meandr je unikátním přírodním jevem. V rámci Pražské kotliny i celých Čech. Na celém toku Vltavy nenajdeme podobný prostor takto velkoryse utvářený v tak náhlém kontrastu k hluboce sevřeným kaňonům na jih i sever od Prahy. Sílu původního krajinného obrazu zásadně přetvořeného regulací říčního koryta navrhujeme připomenout kouskem "mezivodí" po letech opět definovaného dynamickým rytmem řeky. Nabízíme hybridní prostorovou mozaiku nepředurčených příběhů pokaždé prožívaných trochu jinak," píše [Institut plánování a rozvoje hl. města Prahy na svém webu](https://iprpraha.cz/projekt/38/rohansky-ostrov).
 
@@ -39,7 +39,7 @@ Na tento a dalších dvacet čtyři projektů se můžete těšit v nové výsta
   <div class="inline-flex flex-col space-y-2">
     <span class="alert alert--black">
       <i class="alert__icon ico--pirati"></i>
-      <span><b>Vítězný tým představil velmi přesvědčivý a proveditelný návrh parku, který je mimořádně inovativní v přístupu řešení protipovodňové ochrany. Návrh zvítězil díky vyváženosti nabídky - vysoce kvalitnímu, srozumitelnému a dobře proveditelnému návrhu, efektivitě navrhovaného procesu a výhodné cenové nabídce. <a href="https://iprpraha.cz/assets/files/files/377706c352e90055007bbbcd40472d97.pdf">Podrobnější hodnocení komise si můžete přečíst zde.</a></span>
+      <span><b>Vítězný tým představil velmi přesvědčivý a proveditelný návrh parku, který je mimořádně inovativní v přístupu řešení protipovodňové ochrany. Návrh zvítězil díky vyváženosti nabídky - vysoce kvalitnímu, srozumitelnému a dobře proveditelnému návrhu, efektivitě navrhovaného procesu a výhodné cenové nabídce. [Podrobnější hodnocení komise si můžete přečíst zde](https://iprpraha.cz/assets/files/files/377706c352e90055007bbbcd40472d97.pdf)</span>
     </span>
   </div>
 </div>
