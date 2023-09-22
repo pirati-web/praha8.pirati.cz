@@ -39,7 +39,7 @@ Na tento a dalších dvacet čtyři projektů se můžete těšit v nové výsta
   <div class="inline-flex flex-col space-y-2">
     <span class="alert alert--black">
       <i class="alert__icon ico--pirati"></i>
-      <span><b>Vítězný tým představil velmi přesvědčivý a proveditelný návrh parku, který je mimořádně inovativní v přístupu řešení protipovodňové ochrany. Návrh zvítězil díky vyváženosti nabídky - vysoce kvalitnímu, srozumitelnému a dobře proveditelnému návrhu, efektivitě navrhovaného procesu a výhodné cenové nabídce. [Podrobnější hodnocení komise si můžete přečíst zde](https://iprpraha.cz/assets/files/files/377706c352e90055007bbbcd40472d97.pdf)</span>
+      <span><b>Vítězný tým představil velmi přesvědčivý a proveditelný návrh parku, který je mimořádně inovativní v přístupu řešení protipovodňové ochrany. Návrh zvítězil díky vyváženosti nabídky - vysoce kvalitnímu, srozumitelnému a dobře proveditelnému návrhu, efektivitě navrhovaného procesu a výhodné cenové nabídce. Podrobnější hodnocení komise si můžete přečíst zde. </span>
     </span>
   </div>
 </div>
