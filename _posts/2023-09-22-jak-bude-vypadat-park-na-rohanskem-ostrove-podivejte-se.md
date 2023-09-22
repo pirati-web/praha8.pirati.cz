@@ -34,12 +34,16 @@ fancybox:
 
 Na tento a dalších dvacet čtyři projektů se můžete těšit v nové výstavě v CAMP - Centrum architektury a městského plánování, která začne 22. 9. 2023 slavnostní vernisáží. Výsledkům soutěžního dialogu se v CAMP věnuje i samostatná expozice v Bílém sále. Najdete zde návrhy 4 soutěžních týmů a vyjádření poroty, které přiblíží, jak byly návrhy hodnoceny a v čem spočívá jejich kvalita.
 
-### Hodnocení komise
 <div class="inline-flex flex-col sm:flex-row space-y-8 sm:space-y-0 sm:space-x-8">
   <div class="inline-flex flex-col space-y-2">
     <span class="alert alert--black">
       <i class="alert__icon ico--pirati"></i>
-      <span><b>Tramvajový okruh</b><br />Plánovaný tramvajový okruh propojí čtveřici nádraží - Podbabu, Dejvice, Smíchovské nádraží a Eden, a také všechny linky metra. V současné době chybí 19 kilometrů tramvajových tratí k jeho dokončení. Celkové náklady odhadují Piráti na 14 miliard korun. Projekt by podle nich mohl být dokončen v roce 2035. Okruh by měl nabídnout alternativu k autům - na jihu například k jízdě po Jižní spojce. </span>
+      <span><b>Hodnocení komise</b><br />Vítězný tým představil velmi přesvědčivý a proveditelný návrh parku, který je mimořádně inovativní v přístupu řešení protipovodňové ochrany. Návrh zvítězil díky vyváženosti nabídky - vysoce kvalitnímu, srozumitelnému a dobře proveditelnému návrhu, efektivitě navrhovaného procesu a výhodné cenové nabídce. </span>
     </span>
   </div>
 </div>
+
+### Co je to vlastně park Maniny?
+> Park Maniny, povodňový park na řece Vltavě, je jedním z posledních velkých projektů, který má potenciál zlepšit protipovodňovou ochranu v Praze. Původní projekt vzniku nového kanálu, který měl již několik let stavební povolení, byl právě v rámci soutěžního dialogu prověřován. Vítězný návrh dokázal najít vhodnější a efektivnější přístup k území, a to v kontextu současných majetkoprávních vztahů a za dostupných finančních prostředků. Počítá s výrazně nižšími odkopy terénu, tedy i s nižšími náklady na realizaci, přičemž efektivita protipovodňového opatření je zachována. Spolu se stavbou libeňského inundačního (povodňového) mostu se tak naplní funkce protipovodňové ochrany území, které poskytne větší plochu pro rozliv vody a zpomalí proud řeky během povodní. Území Rohanského ostrova je poslední místo v Praze, kde se dá protipovodňová ochrana centra města významně
+
+[Další informace najdete přímo na webu Institut plánování a rozvoje hlavního města Prahy.](https://iprpraha.cz/projekt/38/rohansky-ostrov)
