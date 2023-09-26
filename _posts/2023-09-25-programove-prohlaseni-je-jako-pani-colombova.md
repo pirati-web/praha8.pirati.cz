@@ -2,7 +2,7 @@
 title: "Programové prohlášení vedení Prahy 8 je jako paní Colombová"
 author: Martin Štěrba
 image: posts/libensky-zamek4.jpg
-tags: [Časopis Osmička]
+tags: [Časopis Osmička, ODS, Hnutí ANO, TOP09, STAN, Patrioti]
 ---
 
 **Od voleb uběhl rok, jsme tím pádem ve čtvrtině volebního období. Je proto zvláštní, že koalice ODS, ANO, TOP09, STAN a Patriotů nepředstavila své programové prohlášení. Dá se říct, že ten dokument je jako paní Colombová - mluví se o něm, ale nikdo ho neviděl. Na základě čeho tedy rada pracuje? Jaký je její plán a vize? Co chce v tomto volebním období dokázat? Nebo nám neexistencí programového prohlášení koalice chce říct, že vlastně žádný plán a vizi nemá?** 

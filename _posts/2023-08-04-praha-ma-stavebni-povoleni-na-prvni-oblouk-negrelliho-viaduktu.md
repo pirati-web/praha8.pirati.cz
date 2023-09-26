@@ -2,7 +2,7 @@
 title: "Praha má stavební povolení na oživení prvního oblouku Negrelliho viaduktu"
 author: Piráti Praha 8
 image:  posts/negrelliho-viadukt-1oblouk.jpg
-tags:   [Karlín, Negrelliho viadukt, Magistrát Územní rozvoj]
+tags:   [Karlín, Negrelliho viadukt, Magistrát, Územní rozvoj]
 ---
 
 **Tohle je dobrá zpráva. Magistrát nedávno oznámil, že má stavební povolení na oživení prvního z oblouků Negrelliho viaduktu, a v těchto dnech se na tom začíná pracovat.**
