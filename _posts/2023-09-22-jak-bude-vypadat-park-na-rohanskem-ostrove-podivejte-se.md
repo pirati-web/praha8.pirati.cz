@@ -2,7 +2,7 @@
 title: "Jak bude vypadat nový park na Rohanském ostrově? Podívejte se"
 author: Piráti Praha 8
 image: posts/vizualizace/park-rohansky-ostrov/Rohan4.jpg
-tags: [Park Maniny, Životní prostředí, IPR]
+tags: [Park Maniny, Životní prostředí, IPR, Rohanský ostrov]
 fancybox:
   - name: Vizualizace nového parku na Rohanském ostrově
     img:
