@@ -28,5 +28,5 @@ Není naším cílem někomu říkat, jak má či nemá své děti vozit do ško
 **Co si o tom myslíte vy?** 
 **Kde by podle vás na osmičce mohly školní ulice vzniknout?**
 
-### [Hlasujete na našem Facebooku.](https://www.facebook.com/piratipraha8/posts/pfbid0z4dCD3F4KaRcG2TCjSgY7kKxc9xKkHAHKgjNeRV2MKcYUFxKArNb5qqCSNKqGGE8l?__cft__[0]=AZXWVBCB1hghutk1cN4WsScZwjdX1Gp8rZUWW4wXgljfUdR_qA4yWRLCYXlGjV9aa5zTD6ZksZhozMJxI486GoaiZnTIof2M2cjkNO4RF20lVt8xBnPv-xfqND_Ccb771URfy7AGY1P5fF254uEEh3WM&__tn__=%2CO%2CP-R)
+### [Hlasujte na našem Facebooku.](https://www.facebook.com/piratipraha8/posts/pfbid0z4dCD3F4KaRcG2TCjSgY7kKxc9xKkHAHKgjNeRV2MKcYUFxKArNb5qqCSNKqGGE8l?__cft__[0]=AZXWVBCB1hghutk1cN4WsScZwjdX1Gp8rZUWW4wXgljfUdR_qA4yWRLCYXlGjV9aa5zTD6ZksZhozMJxI486GoaiZnTIof2M2cjkNO4RF20lVt8xBnPv-xfqND_Ccb771URfy7AGY1P5fF254uEEh3WM&__tn__=%2CO%2CP-R)
 
