@@ -2,7 +2,7 @@
 title: "Školní ulice mají zajistit bezpečnější příchod dětí do školy. Vzniknou i na Praze 8?"
 author: Piráti Praha 8
 image: posts/skolniulice.jpg
-tags: [Komise pro dopravu, Školství, Bezpečnost]
+tags: [Komise pro dopravu, Bezpečnost, Doprava, Školství]
 ---
 
 **Zdá se, že vznik prvních školních ulic na Praze 8 je na spadnutí. Alespoň takový je závěr pondělního jednání komise pro dopravu.**
