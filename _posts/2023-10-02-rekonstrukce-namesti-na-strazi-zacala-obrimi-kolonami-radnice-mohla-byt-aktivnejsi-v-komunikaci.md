@@ -1,5 +1,5 @@
 ---
-title: "Začala rekonstrukce Náměstí Na Stráži na Bulovce, radnice mohla být aktivnější v komunikaci"
+title: "Rekonstrukce Náměstí Na Stráži na Bulovce začala obřími kolonami, radnice mohla být aktivnější v komunikaci"
 author: Martin Štěrba
 image: posts/kolona-bulovka.jpg
 tags: [Doprava]
