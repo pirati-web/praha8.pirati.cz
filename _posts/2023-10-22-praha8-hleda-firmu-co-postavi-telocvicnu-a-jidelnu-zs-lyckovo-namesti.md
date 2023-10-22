@@ -6,11 +6,11 @@ tags: [Karlín, Školství]
 fancybox:
   - name: Dostavba ZŠ Lyčkovo náměstí
     img:
-      - { src: posts/vizualizace/dostavba-lyckovo-namesti/dostavba-zs-lyckovo1.jpg, title: Dostavba ZŠ Lyčkovo náměstí (vizualizace: Architektonický ateliér Aleš) }
-      - { src: posts/vizualizace/dostavba-lyckovo-namesti/dostavba-zs-lyckovo2.jpg, title: Dostavba ZŠ Lyčkovo náměstí (vizualizace: Architektonický ateliér Aleš) }
-      - { src: posts/vizualizace/dostavba-lyckovo-namesti/dostavba-zs-lyckovo3.jpg, title: Dostavba ZŠ Lyčkovo náměstí (vizualizace: Architektonický ateliér Aleš) }
-      - { src: posts/vizualizace/dostavba-lyckovo-namesti/dostavba-zs-lyckovo4.jpg, title: Dostavba ZŠ Lyčkovo náměstí (vizualizace: Architektonický ateliér Aleš) }
-      - { src: posts/vizualizace/dostavba-lyckovo-namesti/dostavba-zs-lyckovo5.jpg, title: Dostavba ZŠ Lyčkovo náměstí (vizualizace: Architektonický ateliér Aleš) }
+      - { src: posts/vizualizace/dostavba-lyckovo-namesti/dostavba-zs-lyckovo1.jpg, title: 'Dostavba ZŠ Lyčkovo náměstí (vizualizace: Architektonický ateliér Aleš)' }
+      - { src: posts/vizualizace/dostavba-lyckovo-namesti/dostavba-zs-lyckovo2.jpg, title: 'Dostavba ZŠ Lyčkovo náměstí (vizualizace: Architektonický ateliér Aleš)' }
+      - { src: posts/vizualizace/dostavba-lyckovo-namesti/dostavba-zs-lyckovo3.jpg, title: 'Dostavba ZŠ Lyčkovo náměstí (vizualizace: Architektonický ateliér Aleš)' }
+      - { src: posts/vizualizace/dostavba-lyckovo-namesti/dostavba-zs-lyckovo4.jpg, title: 'Dostavba ZŠ Lyčkovo náměstí (vizualizace: Architektonický ateliér Aleš)' }
+      - { src: posts/vizualizace/dostavba-lyckovo-namesti/dostavba-zs-lyckovo5.jpg, title: 'Dostavba ZŠ Lyčkovo náměstí (vizualizace: Architektonický ateliér Aleš)' }
 ---
 
 **Radnice nedávno vypsala po tendru na Novou Palmovku největší zakázku na stavbu ve své historii. Předmětem je výstavba tělocvičny a jídelny s předpokládanou hodnotou veřejné zakázky ve výši 179.507.870,- Kč bez DPH.**
