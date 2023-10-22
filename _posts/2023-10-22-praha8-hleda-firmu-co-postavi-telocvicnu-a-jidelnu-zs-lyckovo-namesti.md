@@ -4,7 +4,7 @@ author: Piráti Praha 8
 image: posts/vizualizace/dostavba-lyckovo-namesti/dostavba-zs-lyckovo4.jpg
 tags: [Karlín, Školství]
 fancybox:
-  - name: Jak bude dostavba školy vypadat? Podívejte se!
+  - name: Dostavba ZŠ Lyčkovo náměstí
     img:
       - { src: posts/vizualizace/dostavba-lyckovo-namesti/dostavba-zs-lyckovo1.jpg, title: Dostavba ZŠ Lyčkovo náměstí (vizualizace: Architektonický ateliér Aleš) }
       - { src: posts/vizualizace/dostavba-lyckovo-namesti/dostavba-zs-lyckovo2.jpg, title: Dostavba ZŠ Lyčkovo náměstí (vizualizace: Architektonický ateliér Aleš) }
