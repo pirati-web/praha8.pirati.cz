@@ -54,6 +54,8 @@ main:
         link: "https://www.pragozor.cz/"
       - name: Praha zítra (Nové stavební projekty)
         link: "https://praha.camp/praha-zitra/"
+      - name: Dětská hřiště V MČ Praha 8
+        link: "https://www.praha8.cz/Detska-hriste-ve-sprave-mestske-casti-Praha-8-1.html"
   - link: /kontakt/
     name: Kontakt
 
