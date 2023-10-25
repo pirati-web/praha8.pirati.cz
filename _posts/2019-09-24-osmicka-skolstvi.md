@@ -1,5 +1,5 @@
 ---
-title: Praha 8 rezignovala na změny ve školství!
+title: "Praha 8 rezignovala na změny ve školství!"
 author: Pavel Franc
 image: posts/osmicka_skolstvi.jpg
 tags: [Školství, Časopis Osmička]

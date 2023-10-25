@@ -8,6 +8,7 @@ tags: [Rada MČ Praha 8, Studio ALTA, Školství, Kultura]
 **Co dnes schválila na jednání pětikoalice ODS, ANO, TOP 09, STAN a Patriotů? Pojďme se na to podívat.**
 
 Rada schválila nájemní smlouvy se Studiem ALTA a to do 30. 11. 2035. Jedná se o velmi podobnou smlouvu jako byla uzavřena v případě Löwitova mlýna. Altě bude odpuštěna část nájemného za to, že budovu bývalého pivovaru opraví.
+
 Praha 8 bude mít v adventu vánoční výzdobu. Byla podepsána smlouva s firmou Technologie hlavního města Prahy, a.s., první vánoční světla se rozsvítí na osmičce koncem listopadu. Kromě toho rada dnes schválila i darovací smlouvy na tři velké vánoční stromy, budou u Löwitova mlýna, na Karlínském náměstí a u KD Krakov.
 
 Byl schválen harmonogram přípravy rozpočtu městské části na rok 2024. V lednu by jej měl schválit finanční výbor, 21. února pak rozpočet projedná i zastupitelstvo městské části.
