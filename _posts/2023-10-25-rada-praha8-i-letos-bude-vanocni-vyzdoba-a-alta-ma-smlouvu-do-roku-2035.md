@@ -1,7 +1,7 @@
 ---
 title: "Z Rady: Praha 8 bude mít i letos vánoční výzdobu a Studio Alta bude v Libni do roku 2035"
 author: Martin Štěrba
-image: posts/libensky-zamek-vanoce.jpg
+image: posts/libensky-zamek.jpg
 tags: [Rada MČ Praha 8, Studio ALTA, Školství, Kultura]
 ---
 
