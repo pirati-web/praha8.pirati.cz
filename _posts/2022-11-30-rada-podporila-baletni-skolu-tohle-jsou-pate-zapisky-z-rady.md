@@ -1,7 +1,7 @@
 ---
 title: "Rada podpořila mimořádnou dotaci pro baletní školu"
 author: Martin Štěrba
-image: posts/libensky-zamek-vanoce.JPG
+image: posts/libensky-zamek-vanoce.jpg
 tags: [Rada MČ Praha 8]
 ---
 
