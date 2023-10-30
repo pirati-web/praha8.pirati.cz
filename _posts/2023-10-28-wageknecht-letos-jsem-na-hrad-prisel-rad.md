@@ -1,6 +1,6 @@
 ---
 title: "Wagenknecht: Letos jsem na Pražský hrad přišel moc rád!"
-author: Martin Štěrba
+author: Lukáš Wagenknecht
 image: posts/wagenknecht-hrad.jpg
 tags: [Pražský hrad, Senát]
 ---
