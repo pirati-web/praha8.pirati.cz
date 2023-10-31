@@ -9,4 +9,4 @@ tags: [Doprava, Tramvaj do Zdib]
 
 Jedním z nejvýraznějších plánů, která plyne z dohody s obcí Zdiby, je výstavba nové komunikace Nová Průběžná, která povede po jižní straně obce. Zaústěna bude do ulice Chaberské. Současná ulice Průběžná již kapacitně nestačí zejména autobusové dopravě. 
 
-Středočeský kraj chce do budoucna tramvaje ještě dál. Ve hře je prodloužení tramvajové tratě přes Odolenu Vodu až do Líbeznic.
+Středočeský kraj chce do budoucna tramvaje ještě dál. Ve hře je prodloužení tramvajové tratě do Odoleny Vody a do Líbeznic.
