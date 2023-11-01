@@ -1,5 +1,5 @@
 ---
-title: "Hrozí, že se kvůli existenci lanovky zpozdí výstavba tramvajové trati mezi Bohnicemi a Podbabou. To nechceme."
+title: "Hrozí, že se kvůli existenci lanovky zpozdí výstavba tramvajové trati mezi Bohnicemi a Podbabou. To nechceme!"
 author: Michal Novák
 image: posts/lanovka-projednavani-mhmp.jpg
 tags: [Bohnice, Doprava, Lanovka Bohnice–Podbaba, Magistrát]
