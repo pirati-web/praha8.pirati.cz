@@ -5,7 +5,7 @@ image: posts/karlin-plnaulice.jpg
 tags: [Karlín, Školní ulice, Doprava]
 ---
 
-**Řidiči nesmí ohrožovat děti u škol. Tenhle příspěvek[Karla Ptáčka](http://praha8.pirati.cz/lide/kare-ptacek.html) ve skupině [LIBEŇ, KARLÍN, Praha 8 - Libeňáci a Karlíňáci sobě](https://www.facebook.com/groups/libenkarlin/posts/6748973625156778/) jasně ukazuje, proč je dobré zřídit v Praze 8 školní ulice - tedy místa, ve kterých bude od půl osmé do osmi ráno, tedy půl hodinu před začátkem vyučováním, zákaz vjezdu aut.**
+**Řidiči nesmí ohrožovat děti u škol. Tenhle příspěvek [Karla Ptáčka](http://praha8.pirati.cz/lide/kare-ptacek.html) ve skupině [LIBEŇ, KARLÍN, Praha 8 - Libeňáci a Karlíňáci sobě](https://www.facebook.com/groups/libenkarlin/posts/6748973625156778/) jasně ukazuje, proč je dobré zřídit v Praze 8 školní ulice - tedy místa, ve kterých bude od půl osmé do osmi ráno, tedy půl hodinu před začátkem vyučováním, zákaz vjezdu aut.**
 
 >"Dnes ráno si před ZŠ Lyčkovo nám vyzkoušelo několik desítek řidičů z celé Prahy jaké to je, když se omezí průjezd okolo školy. Většina jich počkala, někteří to vzali po chodníku a málem srazili několik dětí jako řidič bílého Hyundai. Jestli to čteš, tak se fakt styď. Takovouhle bezohlednost bych nečekal - rozjet se proti dětem a ještě na chodníku." 
 
