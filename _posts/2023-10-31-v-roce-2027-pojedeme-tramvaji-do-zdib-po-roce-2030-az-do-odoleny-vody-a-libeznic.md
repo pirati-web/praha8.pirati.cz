@@ -4,7 +4,7 @@ author: Martin Štěrba
 image: posts/tramvaje-zdiby2.jpg
 tags: [Doprava, Tramvaj do Zdib]
 fancybox:
-  - name: Jak bude vypadat dostavba ZŠ Lyčkovo náměstí? Podívejte se!
+  - name: Jak bude vypadat tramvaj z Kobylis do Zdib a Sedlece?
     img:
       - { src: posts/2023-10-31-tramvaj-zdiby/tramvaj-zdiby-01.jpg, title: 'Zákres vedení tramvaje v Dolních Chabrech' }
       - { src: posts/2023-10-31-tramvaj-zdiby/tramvaj-zdiby-02.jpg, title: 'Zákres vedení tramvaje ve Zdibech)' }
