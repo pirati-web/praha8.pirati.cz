@@ -22,7 +22,7 @@ profiles:
 funkce:
   - senátor
   - předseda <a href="https://www.psas.cz/organy-spolecnosti">dozorčí rady Pražské služby, a.s.</a>
-  - člen <a href="https://www.ppas.cz/o-nas>dozorčí rady Pražská plynárenská, a.s.</a>
+  - člen <a href="https://www.ppas.cz/o-nas">dozorčí rady Pražská plynárenská, a.s.</a>
 asistenti:
   - name: Ing. Karolína Ždárská
     position: Asistentka
