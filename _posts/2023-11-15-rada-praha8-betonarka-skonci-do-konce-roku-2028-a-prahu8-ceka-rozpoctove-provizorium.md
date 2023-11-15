@@ -9,7 +9,7 @@ tags: [Rada MČ Praha 8, Rohanský ostrov, Karlín, Libeň, Ďáblice, Finance, 
 
 Městská část bude stejně jako v minulých letech první dva měsíce hospodařit v rozpočtovém provizoriu, a to z důvodu, že nestačí schválit svůj rozpočet pro rok 2024. Přesně před rokem jsem žádal členy tehdy nastupující koalice, aby zvážili, aby se prosincové jednání zastupitelstva zabývalo rozpočtem pro další rok. Jde to v jiných částech, mohlo by to jít u nás. Jsme ale tam, kde jsme. Rozpočet pro rok 2024 budeme na zastupitelstvo projednávat až v únoru.
 
-Rada nesouhlasila se stavbou veřejného dětského hřiště s drobným zázemím a malým zahradním bistrem při ulici Horoměřická. Jako důvod uvedla, že si nepřeje rozšiřování plochy zastavitelného území do krajiny.
+Rada nesouhlasila se stavbou veřejného dětského hřiště s drobným zázemím a malým zahradním bistrem při ulici Hovorčovická. Jako důvod uvedla, že si nepřeje rozšiřování plochy zastavitelného území do krajiny.
 
 Praha 8 zásadně nesouhlasí s předloženou projektovou dokumentací na bytový dům Frýdlantská a bytový dům Střelničná. Ty chce CPI Reality stavět na místě bývalých včel. Projekty jsou v přímém rozporu s územní studií sídliště Ďáblice. 
 
