@@ -9,7 +9,7 @@ tags: [Transparentnost, Kontrolní výbor]
 
 >Ne, nevěřili jsme, že to nová Rada Prahy 8 myslí s otevřeným přístupem k občanům a k opozici vážně. Ano, slyšeli jsme sice jejich ujišťování (hlavně v rámci povolebního vyjednávání), že jsou pro otevřenou radnici, pro transparentnost v místní politice. Z úst tradičních stran ale znělo velmi nedůvěryhodně. A ejhle. Kdeže loňské sněhy jsou!
 
-Co jiného nám také tehdy měli říci, že? Brali jsme vyjádření o transparentnosti z úst ODS Praha 8, ANO, tohle je Praha 8, TOP 09 Praha 8 a STAN Praha 8 jen jako vyjednávací nástroj, jako prázdnou proklamaci. A pouze tou to také celou dobu bylo.
+Co jiného nám také tehdy měli říci, že? Brali jsme vyjádření o transparentnosti z úst ODS, ANO, TOP 09, STAN a Patriotů jen jako vyjednávací nástroj, jako prázdnou proklamaci. A pouze tou to také celou dobu bylo.
 
 Ještě minulé pondělí 18. února 2019 jsme na kontrolním výboru plánovali návštěvy jednání mezi odbory úřadu MČ s jednotlivými organizacemi. Bral jsem to jako příležitost, v krátké době osobně poznat řadu vedoucích pracovníků, kteří dennodenně a často již dlouhá léta pracují pro občany Prahy 8. A ptát se jich na to, co ve školách nebo třeba seniorských domech, které vedou funguje a co ne.
 
@@ -19,5 +19,5 @@ Ještě minulé pondělí 18. února 2019 jsme na kontrolním výboru plánovali
 
 **Ano, jednou bude líp. Ale na Praze 8 ne s koalicí starých pořádků mezi ODS, ANO a jejich partnery.**
 
-Budeme se mezitím ptát po možnosti potkat zástupce organizací osobně, mimo zrušená otevřená jednání. Velké naděje si neděláme. I s našimi opozičními partnery jsme v kontrolním výboru v menšině. Ale také neházíme flintu do žita. #držímekurz.
+Budeme se mezitím ptát po možnosti potkat zástupce organizací osobně, mimo zrušená otevřená jednání. Velké naděje si neděláme. I s našimi opozičními partnery jsme v kontrolním výboru v menšině. Ale také neházíme flintu do žita.
 
