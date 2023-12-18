@@ -26,6 +26,7 @@ fancybox:
   </div>
 </div>
 {% endfor %}
+<br/>
 
 Kromě kompletní opravy celé mostní konstrukce v délce 1200 metrů dojde také k úpravě podmostí podle dochovaných skic původního autora mostu Pavla Janáka. V podmostí tak vznikne příležitost pro vznik kaváren, obchůdků a dalších služeb. Počítáme i s novými přístupy k řece. 
 
