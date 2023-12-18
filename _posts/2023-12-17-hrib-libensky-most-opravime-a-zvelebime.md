@@ -2,7 +2,7 @@
 title: "Hřib: Libeňský most opravíme, vylepšíme a zvelebíme jeho okolí"
 author: Zdeněk Hřib
 image: posts/vizualizace/libensky-most-2023/most1.jpg
-tags: [Kontrolní výbor, Digitalizace]
+tags: [Libeňský most, Doprava, Veřejný prostor]
 fancybox:
   - name: Vizualizace nového parku na Rohanském ostrově
     img:
@@ -26,7 +26,6 @@ fancybox:
   </div>
 </div>
 {% endfor %}
-<br/>
 
 Kromě kompletní opravy celé mostní konstrukce v délce 1200 metrů dojde také k úpravě podmostí podle dochovaných skic původního autora mostu Pavla Janáka. V podmostí tak vznikne příležitost pro vznik kaváren, obchůdků a dalších služeb. Počítáme i s novými přístupy k řece. 
 
