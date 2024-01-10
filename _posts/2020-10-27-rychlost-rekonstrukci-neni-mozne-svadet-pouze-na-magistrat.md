@@ -2,7 +2,7 @@
 title: Rychlost rekonstrukcí není možné svádět pouze na magistrát
 author: Martin Štěrba
 image: posts/zenklova-oprava.png
-tags: [Časopis Osmička, Doprava, Magistrát]
+tags: [Časopis Osmička, TSK, Doprava, Magistrát]
 ---
 
 *“Musíme to opravit, omlouváme se za komplikace.”* Tohle je spojení, které nerad čte při cestování autem či MHD nikdo z nás. Ale leckdy to bohužel jinak nejde.

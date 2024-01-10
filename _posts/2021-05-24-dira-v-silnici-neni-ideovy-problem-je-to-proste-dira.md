@@ -2,7 +2,7 @@
 title: Díra v silnici není ideový problém. Je to prostě díra
 author: Martin Štěrba
 image: posts/oprava-proseckaulice.jpg
-tags: [Časopis Osmička, Doprava, Magistrát]
+tags: [Časopis Osmička, TSK, Doprava, Magistrát]
 ---
 
 **Jak se vám líbí stav komunikací po zimě? Stará se o ně magistrát dobře?** Tak zní otázka, na kterou se v novém čísle časopisu Osmička ptá ODS. Za nás odpovídá předseda místního sdružení [Martin Štěrba](https://praha8.pirati.cz/lide/martin-sterba.html).
