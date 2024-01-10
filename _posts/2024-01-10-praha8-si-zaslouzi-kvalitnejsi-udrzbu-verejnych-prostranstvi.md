@@ -1,5 +1,5 @@
 ---
-title: "Praha 8 si zaslouží kvalitnější údržbu veřejných prostranství
+title: "Praha 8 si zaslouží kvalitnější údržbu veřejných prostranství"
 author: Tomáš Mařík
 image: posts/zima-snehulak.jpg
 tags: [Časopis Osmička, TSK, Veřejný prostor]
