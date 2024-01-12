@@ -17,4 +17,4 @@ Po téměř devadesáti letech naprosto zanedbané údržby si most dovolil na j
 
 Naopak, že těch závad je tak málo, je jasným důkazem mimořádně kvalitního provedení stavby Libeňského mostu v 20. letech 20. století a nutnosti jeho zachování.
 
-Kdo hledá viníka, nechť se porozhlédne po bývalých nečinných porevolučních vedeních města
+Kdo hledá viníka, nechť se porozhlédne po bývalých nečinných porevolučních vedeních města.
