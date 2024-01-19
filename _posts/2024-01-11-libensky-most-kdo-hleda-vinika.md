@@ -1,5 +1,5 @@
 ---
-title: "Mařík: Kdo hledá viníka za stav Libeňského mostu, ať se porozhlédne po bývalých nečinných vedeních města" 
+title: "Kdo hledá viníka za stav Libeňského mostu, ať se porozhlédne po bývalých nečinných vedeních města" 
 author: Tomáš Mařík
 image: posts/libenskymost-leden2024.jpg
 tags: [Libeňský most, Doprava]
