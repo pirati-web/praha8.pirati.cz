@@ -81,6 +81,12 @@ vybory:
   members:
     - { uid: martin.sterba, description: předseda kontrolního výboru ZMČP8 }
     - { uid: jakub.jiran, description: člen finančního výboru ZMČP8 }
+skolske-rady:
+  name: Školské rady
+  members:
+    - { uid: pavel.franc, description: člen školní rady ZŠ U Školské zahrady }
+    - { uid: andrea.vildova, description: členka školské rady SŠ designu a umění, knižní kultury a ekonomiky Náhorní }
+    - { uid: jan.kolator, description: člen školské rady ZŠ LOPES Čimice }
 met.doprava:
   name: Doprava
   members:

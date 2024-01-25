@@ -12,7 +12,9 @@ mail:
 profiles:
   facebook: https://www.facebook.com/andrea.valova.3
 funkce:
+ - členka člen školské rady SŠ designu a umění, knižní kultury a ekonomiky Náhorní
 mastodon:
+
 ---
 Narodila jsem se v Hustopečích v roce 1987 a vyrůstala v malé vesničce kousek od Vyškova. Po studiích geografie a občanské nauky na PedF a etnologie na FF Masarykovy univerzity v Brně jsem 4 roky studovala a pracovala ve španělském Bilbau.
 
