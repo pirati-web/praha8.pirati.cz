@@ -20,25 +20,24 @@ pms:
 clenove:
   name: Členové MS Praha 8
   members:
-    - andrea.vildova
-    - ivo.slavka
-    - jakub.jiran
-    - jan.hamal.dvorak
-    - jitka.novotna
-    - karel.ptacek
-    - karolina.gattermayerova
-    - kveta.marikova
-    - lukas.wagenknecht
-    - michal.schwarzkopf
-    - ondrej.profant
     - petr.bisek
+    - karolina.gattermayerova
+    - jan.hamal.dvorak
+    - jakub.jiran
     - tomas.marik
+    - kveta.marikova
+    - jitka.novotna
+    - ondrej.profant
+    - karel.ptacek
+    - michal.schwarzkopf
+    - ivo.slavka
+    - andrea.vildova
+    - lukas.wagenknecht
 regp:
   name: Registrovaní příznivci a podporovatelé MS Praha 8
   members:
     - alix.guillard
     - { name: Benjamin Wolf }
-    - { name: David Šimek }
     - { name: Denisa Nováková }
     - iva.nachtmannova
     - { name: Jakub Vojtíšek }
@@ -46,12 +45,15 @@ regp:
     - { name: Jindřiška Netrestová }
     - { name: Ladislav Povýšil }
     - { name: Jakub Vojtíšek }
+    - { name: Jakub Kočí }
     - lukas.kost
     - martin.vavra
     - miroslav.jahoda
     - ondrej.kliment
     - { name: Radim Anton }
     - { name: Theodor Draksl }
+    - { name: Josef Gajdoš}
+    - { name: Dan Kobr }
     - tomas.lempera
     - vojtech.blahos
 zastupitele:
@@ -84,9 +86,9 @@ vybory:
 skolske-rady:
   name: Školské rady
   members:
-    - { uid: pavel.franc, description: člen školní rady ZŠ U Školské zahrady }
-    - { uid: andrea.vildova, description: členka školské rady SŠ designu a umění, knižní kultury a ekonomiky Náhorní }
-    - { uid: jan.kolator, description: člen školské rady ZŠ LOPES Čimice }
+    - { uid: pavel.franc, description: ZŠ U Školské zahrady }
+    - { uid: andrea.vildova, description: SŠ designu a umění, knižní kultury a ekonomiky Náhorní }
+    - { uid: jan.kolator, description: ZŠ LOPES Čimice }
 met.doprava:
   name: Doprava
   members:
