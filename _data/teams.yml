@@ -87,7 +87,7 @@ skolske-rady:
   name: Školské rady
   members:
     - { uid: pavel.franc, description: ZŠ U Školské zahrady }
-    - { uid: andrea.vildova, description: SŠ designu a umění, knižní kultury a ekonomiky Náhorní }
+    - { uid: andrea.vildova, description: "SŠ designu a umění, knižní kultury a ekonomiky Náhorní" }
     - { uid: jan.kolator, description: ZŠ LOPES Čimice }
 met.doprava:
   name: Doprava
