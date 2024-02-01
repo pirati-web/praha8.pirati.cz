@@ -4,7 +4,7 @@ author: Zdeněk Hřib
 image: posts/vizualizace/libensky-most-2023/most1.jpg
 tags: [Libeňský most, Doprava, Veřejný prostor]
 fancybox:
-  - name: Vizualizace nového parku na Rohanském ostrově
+  - name: Vizualizace Libeňského mostu
     img:
       - { src: posts/vizualizace/libensky-most-2023/most2.jpg, title: Libeňský most (návrh Petra Teje) }
       - { src: posts/vizualizace/libensky-most-2023/most3.jpg, title: Libeňský most (návrh Petra Teje) }
