@@ -1,5 +1,5 @@
 ---
-title: "Děkujeme místostarostce Ludkové (ODS), že plní pirátský program" 
+title: "Místostarostka Ludková (ODS) plní pirátský program, zaslouží za to dík" 
 author: Piráti Praha 8
 image: posts/seniortaxi.jpg
 tags: [Sociální služby, ODS]
