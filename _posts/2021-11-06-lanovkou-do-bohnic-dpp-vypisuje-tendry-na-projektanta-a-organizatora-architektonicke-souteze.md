@@ -1,6 +1,6 @@
 ---
 title: Lanovkou do Bohnic? Dopravní podnik vypisuje tendry na projektanta a organizátora architektonické soutěže
-author: Martin Štěrba
+author: Piráti Praha 8
 image: posts/vizualizace/lanovka-bohnice-podbaba/vizualizace3.jpg
 tags: [Bohnice, Doprava, Lanovka Bohnice–Podbaba, Magistrát]
 fancybox:

@@ -1,6 +1,6 @@
 ---
 title: "Lanovka z Bohnic do Podbaby má finální podobu. Podívejte se!"
-author: Martin Štěrba
+author: Piráti Praha 8
 image: posts/vizualizace/lanovka-bohnice-podbaba/lanovka-final2.jpeg
 tags: [Lanovka Bohnice–Podbaba, Doprava, Magistrát, Bohnice]
 fancybox:
