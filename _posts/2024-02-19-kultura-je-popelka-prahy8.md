@@ -1,5 +1,5 @@
 ---
-title: "Kultura je taková Popelka Prahy 8, ale i Popelka je akční a má své novinky."
+title: "Kultura je taková Popelka Prahy 8, ale i Popelka je akční a má své novinky"
 author: Karolína Gattermayerová
 image: posts/karlin-kultura1.jpg
 tags: [Kultura, Dotace, Inspirováno Hrabalem]
