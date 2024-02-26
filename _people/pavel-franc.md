@@ -38,5 +38,5 @@ Během své profesní kariéry prošel několika IT firmami (Seznam, Jyxo, GoodD
 
 >"Přál bych si Prahu 8, kde rodiče s dětmi budou rádi trávit volný čas venku, protože úklid bude vidět nejen na fakturách, ale i v realitě. Přál bych si, aby se rodiče nemuseli bát, že se jejich dítě nedostane do mateřské školky, protože Praha 8 bude podporovat vznik dětských skupin. Aby všechny naše základky byly na vysoké úrovni, protože MČ pomůže ředitelům s administrativou a sdílením dobré praxe. Aby se ve školních jídelnách vařilo zdravě. Aby děti mohly jezdit do školy na kole. Aby Praha 8 podporovala nejen známé kluby, ale veškeré pohybové aktivity dětí včetně vybudování sportovišť typu skejtpark, hřiště na pétanque nebo ping-pong."
 
-Pavel je tří dvou kluků, a zejména proto se zajímá o možnosti vzdělávání a volnočasových aktivit na Praze 8. Mimo tuto oblast řeší i téma dopravy a otevřené radnice.
+Pavel je tří kluků, a zejména proto se zajímá o možnosti vzdělávání a volnočasových aktivit na Praze 8. Mimo tuto oblast řeší i téma dopravy a otevřené radnice.
 
