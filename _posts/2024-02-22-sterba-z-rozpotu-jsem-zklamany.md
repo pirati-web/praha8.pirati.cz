@@ -9,7 +9,8 @@ tags: [Finance, Zastupitelstvo]
 
 Koalice v čele s ODS a ANO si ho samozřejmě schválila po vlastní ose. Oproti loňsku bude městská část hospodařit s více než 1,1 miliardou korun. Pouze třetina peněz poputuje na investice.
 
-Opravdu alarmující je navýšení finančních prostředků v kapitole Městská infrastruktura. Navýšit peníze na péči o vzhled obce a veřejnou zeleň o 35 milionů, tedy o 166 procent oproti loňsku je úplně mimo. Když se podívám do ulic, tak ty vynaložené peníze nejsou vidět. Sorry jako. Navýšení finančních prostředků na zimní údržbu pěších cest a to v době klimatické změny a faktu, že téměř není zima o víc než polovinu, je také mimo. 🌲
+Opravdu alarmující je navýšení finančních prostředků v kapitole Městská infrastruktura. Navýšit peníze na péči o vzhled obce a veřejnou zeleň o 35 milionů, tedy o 166 procent oproti loňsku je úplně mimo. Když se podívám do ulic, tak ty vynaložené peníze nejsou vidět. Sorry jako. Navýšení finančních prostředků na zimní údržbu pěších cest a to v době klimatické změny a faktu, že téměř není zima o víc než polovinu, je také mimo.
+
 Doprava v Praze 8 jako jedna z mála oblastí má menší rozpočet než v loňském roce. Proč? Nebere koalice dopravu jako svou prioritu? Možná jo, možná ne - ale my to nevíme, protože stále jsme nedostali programové prohlášení. 
 
 Oblasti školství, zdravotnictví a sociální oblast mají víceméně stejný rozpočet jako vloni. Na školácích a seniorech tedy budeme šetřit a místo toho vyhodíme 40 milionů za sběr větví a úklid bordelu v ulicích? To jako vážně? 
