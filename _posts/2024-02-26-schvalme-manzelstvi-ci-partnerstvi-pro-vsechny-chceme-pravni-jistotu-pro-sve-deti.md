@@ -9,7 +9,7 @@ tags: [Manželství pro všechny, Sněmovna]
 
 Rodinu našeho zastupitele [Iva Slávky](https://praha8.pirati.cz/lide/ivo-slavka.html) s jeho partnerem Kubou náš stát jako plnohodnotnou nebere. Jsou registrovaní partneři, vzít se nemohou. Dva chlapce mají v pěstounské péči, rádi by si je osvojili, to ale zákon umožňuje jen jednomu z nich. Zmiňují nejistotu, když by se třeba jednomu z partnerů něco stalo.
 
-![Ivo Slávka s partnerem v Událostech České televize](/assets/img/ivoslavka-udalosti2.jpg)
+![Ivo Slávka s partnerem v Událostech České televize](/assets/img/posts/ivoslavka-udalosti2.jpg)
 
 Pro nedělní Události České televize Ivo s Jakubem řekli, že jsou normální lidé, kteří chodí do práce, a chtějí mít stejná práva jako všichni ostatní. 
 
