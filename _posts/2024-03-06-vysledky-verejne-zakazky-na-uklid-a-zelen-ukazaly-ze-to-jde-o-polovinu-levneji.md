@@ -1,5 +1,5 @@
 ---
-title: "Výsledky veřejné zakázky na pravidelnou údržbu ploch a veřejné zeleně v Praze ukázaly, že to jde o polovinu levněji"
+title: "Výsledky veřejné zakázky na údržbu ploch a veřejné zeleně v Praze 8 ukázaly, že to jde o polovinu levněji"
 author: Piráti Praha 8
 image: posts/zivotniprostredi-stromy2.jpg
 tags: [Životní prostředí, Veřejné zakázky]
