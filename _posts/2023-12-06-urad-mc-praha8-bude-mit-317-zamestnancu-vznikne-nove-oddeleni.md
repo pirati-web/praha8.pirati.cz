@@ -2,7 +2,7 @@
 title: "Úřad MČ Praha 8 bude mít od ledna 317 zaměstnanců, vznikne nové oddělení dopravně správních činností"
 author: Martin Štěrba
 image: posts/libensky-zamek5-snih.jpg
-tags: [Rada MČ Praha 8, Doprava]
+tags: [Rada MČ Praha 8, Doprava, Veřejné zakázky]
 ---
 
 **Dnes opět jednala rada naší městské části, a já jsem si to jako tradičně nenechal ujít. Pojďme si projít, co osmičková pětikoalice v čele s ODS a ANO projednala.**

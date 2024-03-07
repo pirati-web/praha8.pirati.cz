@@ -2,7 +2,7 @@
 title: "Zakázka na sekání trávy za čtvrt miliardy, která se už jednou nepovedla"
 author: Jakub Jiran
 image: posts/zivotniprostredi-stromy2.jpg
-tags: [Životní prostředí, Časopis Osmička]
+tags: [Životní prostředí, Časopis Osmička, Veřejné zakázky]
 ---
 
 **Před nedávnem jsme na naší facebookové stránce Piráti Praha 8 spustili debatu o přiměřenosti ceny veřejné zakázky na údržbu ploch a veřejné zeleně v naší městské části. Předpokládaná hodnota zakázky je stávající radou v čele s ODS určena ve výši necelých 222 milionů Kč bez DPH na období dalších 4 let.** Někteří si myslí, že je to moc, někteří že málo a někteří, že za takové peníze by se městské části vyplatilo udržovat plochy a zeleň vlastními silami, což je cesta, kterou se vydaly mnohé obce v České republice. Diskuzi na toto téma vítáme a je třeba ji vést i do budoucna.

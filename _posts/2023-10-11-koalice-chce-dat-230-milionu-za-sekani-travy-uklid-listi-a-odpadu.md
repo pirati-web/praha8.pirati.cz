@@ -2,7 +2,7 @@
 title: "Koalice chce dát 230 milionů za sekání trávy, úklid listí a odpadu. To je trochu moc, ne?"
 author: Martin Štěrba
 image: posts/zivotniprostredi-stromy2.jpg
-tags: [Rada MČ Praha 8, Životní prostředí]
+tags: [Rada MČ Praha 8, Životní prostředí, Veřejné zakázky]
 ---
 
 **Skoro čtvrt miliardy za pravidelné sekání trávy, zimní údržbu, úklid listí a odpadu v ulicích. Tolik peněz chce radnice v čele s ODS, ANO, TOP09, STAN a Patriotů zaplatit v příštích čtyřech letech. Rada schválila vypsání otevřené veřejné zakázky.** 
