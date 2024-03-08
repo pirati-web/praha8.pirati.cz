@@ -1,5 +1,5 @@
 ---
-title: "Senát schválil nový volební zákon, stanovuje nově pevný termín komunálních voleb"
+title: "Senát schválil nový volební zákon, nově stanovuje pevný termín komunálních voleb"
 author: Piráti Praha 8
 image: posts/wagenknecht-libensky-zamek.jpg
 tags: [Senát, Volby 2026]
