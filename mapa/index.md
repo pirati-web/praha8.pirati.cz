@@ -1,35 +1,52 @@
----
-layout: default
-mapycz_api: true
----
-<div id="mapa" class="h-screen w-screen max-w-full"></div>
-<style type="text/css">
-.card-header { font-weight: bold; }
-.card-body { margin: 10px 0 10px 0; }
-.card-footer a {text-decoration:underline; }
-</style>
-<script type="text/javascript">
-  var data = {{ site.data.map.posts | jsonify }}
-  var center = SMap.Coords.fromWGS84(14.44, 50.11);
-  var m = new SMap(JAK.gel("mapa"), center, 13);
-  var l = new SMap.Layer.Marker();
+# Náhled HTML kódu
 
-  m.addDefaultLayer(SMap.DEF_BASE).enable();
-  m.addDefaultControls();
-  var c = []
-  var layer = new SMap.Layer.Marker();
-  for (const d in data) {
-    var md = data[d]
-    var coords = SMap.Coords.fromWGS84(md['coord']);
-    c.push(coords)
-    var marker = new SMap.Marker(coords);
-    var card = new SMap.Card();
-    card.getHeader().innerHTML = md['title'];
-    card.getBody().innerHTML = md['text'];
-    card.getFooter().innerHTML = 'Související <a href="/aktuality/stitky/' + md['slug'] + '/">aktuality</a> (' + md['size'] + ')';
-    marker.decorate(SMap.Marker.Feature.Card, card);
-    layer.addMarker(marker);
+Zde je HTML kód s původními informacemi v češtině:
+
+```html
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mapa</title>
+</head>
+<body>
+
+<!-- Obsah mapy -->
+<div id="mapa"></div>
+
+<!-- Styly CSS -->
+<style type="text/css">
+  .card-header { font-weight: bold; } /* Nadpis karty */
+  .card-body { margin: 10px 0; } /* Tělo karty */
+  .card-footer a { text-decoration: underline; } /* Odkazy v patičce karty */
+</style>
+
+<!-- Skript JavaScript -->
+<script type="text/javascript">
+  var data = {{ site.data.map.posts | jsonify }}; /* Data mapy */
+  var střed = SMap.Coords.fromWGS84(14.44, 50.11); /* Střed mapy */
+  var mapa = new SMap(JAK.gel("mapa"), střed, 13); /* Vytvoření mapy */
+  var vrstvaZnaček = new SMap.Layer.Marker(); /* Vytvoření vrstvy značek */
+  mapa.addDefaultLayer(SMap.DEF_BASE).enable(); /* Přidání výchozí vrstvy */
+  mapa.addDefaultControls(); /* Přidání výchozích ovládacích prvků */
+  var souřadniceZnaček = []; /* Pole pro ukládání souřadnic značek */
+  var vrstva = new SMap.Layer.Marker(); /* Vytvoření vrstvy */
+  for (const klíč in data) {
+    var md = data[klíč];
+    var souřadnice = SMap.Coords.fromWGS84(md['coord']);
+    souřadniceZnaček.push(souřadnice);
+    var značka = new SMap.Marker(souřadnice);
+    var karta = new SMap.Card();
+    karta.getHeader().innerHTML = md['titulek'];
+    karta.getBody().innerHTML = md['text'];
+    karta.getFooter().innerHTML = 'Související aktualitní <a href="/aktuality/stitky/' + md['slug'] + '/">' + md['size'] + '</a>';
+    značka.decorate(SMap.Marker.Feature.Card, karta);
+    vrstva.addMarker(značka);
   }
-  var center = m.computeCenterZoom(c);
-  m.addLayer(layer).enable();
+  var novýStřed = mapa.computeCenterZoom(souřadniceZnaček);
+  mapa.addLayer(vrstva).enable();
 </script>
+
+</body>
+</html>
