@@ -41,7 +41,8 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     age: 39
     city: Kobylisy
     partyUid: pirati
-  - uid: jan.hamal.dvorak
+  - name: Jan Hamal Dvořák
+    img: people/jan-hamal-dvorak.jpg
     profession: informatik
     age: 31
     city: Kobylisy
