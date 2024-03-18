@@ -2,9 +2,9 @@
 title: "Botanická zahrada letos začne s výstavbou vzdělávacího centra"
 author: Jana Komrsková
 image: posts/vizualizace/botanicka-zahrada-pueblo/botanicka2.jpg
-tags: [Botanická zahrada, Životní prostředí]
+tags: [Bohnice, Botanická zahrada, Životní prostředí]
 fancybox:
-  - name: Vizualizace Libeňského mostu
+  - name: Vizualizace nové expozice v botanické zahradě
     img:
       - { src: posts/vizualizace/botanicka-zahrada-pueblo/botanicka1.jpg, title: Nová expozice bude umístěna v Horní zahradě, tedy v areálu v blízkosti vstupu od Sídliště Bohnice. }
       - { src: posts/vizualizace/botanicka-zahrada-pueblo/botanicka2.jpg, title: Nová expozice bude umístěna v Horní zahradě, tedy v areálu v blízkosti vstupu od Sídliště Bohnice. }
