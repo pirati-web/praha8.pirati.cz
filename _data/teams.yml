@@ -14,7 +14,6 @@ pms:
   members:
     - { uid: martin.sterba, description: předseda MS Praha 8 }
     - { uid: jan.kolator, description: 1. místopředseda MS Praha 8 }
-    - { uid: veronika.siftova, description: místopředsedkyně MS Praha 8 }
     - { uid: michal.novak, description: místopředseda MS Praha 8 }
     - { uid: pavel.franc, description:  místopředseda MS Praha 8 }
 clenove:

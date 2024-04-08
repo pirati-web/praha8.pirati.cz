@@ -46,7 +46,8 @@ head:
     city: Praha 8 – Karlín
     partyUid: pirati
 # 8
-  - uid: veronika.siftova
+  - name: Ing. Veronika Šiftová
+   img: people/veronika-siftova-2022.jpg
     profession: ministerský rada Ministerstva vnitra ČR
     age: 33
     city: Praha 8 – Kobylisy
