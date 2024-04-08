@@ -16,7 +16,7 @@ Byly schváleny úpravy rozpočtu - téměř 60 tisíc půjde na výkon pěstoun
 
 Praha 8 podpoří dvě významné kulturní akce - finanční dotaci získal tradiční festival Miri Gili, který pořádá organizace Romodrom a pak festival Mezi ploty, který se pořádá organizace Nedomysleno v areálu psychiatrické nemocnice v Bohnicích. 
 
-Novým nájemcem kavárny v Sokolovské 118 v Karlíně bude společnost Karini, s.r.o. I nadále by zde měla být kavárna, je to součástí smlouvy. ☕
+Novým nájemcem kavárny v Sokolovské 118 v Karlíně bude společnost Karini, s.r.o. I nadále by zde měla být kavárna, je to součástí smlouvy.
 
 Městská část vyhlašuje další výběrová řízení na ředitele mateřských škol - jedná o se MŠ Šiškova a MŠ Libčická.
 
