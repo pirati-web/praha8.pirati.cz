@@ -1,6 +1,6 @@
 ---
 title: "Takhle vypadá kulturní mapa Prahy 8! Ukazuje, po čem lidé v kultuře touží"
-author: Piráti Praha 8
+author: Karolína Gattermayerová
 image: posts/mapk.jpg
 tags: [Kultura]
 ---
