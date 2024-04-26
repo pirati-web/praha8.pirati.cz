@@ -47,7 +47,7 @@ head:
     partyUid: pirati
 # 8
   - name: Ing. Veronika Šiftová
-   img: people/veronika-siftova-2022.jpg
+    img: people/veronika-siftova-2022.jpg
     profession: ministerský rada Ministerstva vnitra ČR
     age: 33
     city: Praha 8 – Kobylisy
