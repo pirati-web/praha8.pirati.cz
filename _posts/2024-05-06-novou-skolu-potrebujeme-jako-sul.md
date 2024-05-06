@@ -1,5 +1,5 @@
 ---
-title: "Je dobře, že se ZŠ Rohan nepodcenila, aby projekt neskončil jako Nová Palmovka"
+title: "Je dobře, že se ZŠ Rohan nepodcenila. Není možné, aby to skončilo jako Nová Palmovka"
 author: Martin Štěrba
 image: posts/vizualizace/zs-rohan-2-misto/2.jpg
 tags: [Karlín, Rohanský ostrov, Školství, Územní rozvoj, Základní škola Rohan]
