@@ -18,7 +18,7 @@ fancybox:
 
 Rada dnes na mimořádném jednání schválila smlouvu na vytvoření projektové dokumentace, vytvoření informačního modelu stavby metodou BIM, vytvoření návrhu interiéru, výkon inženýrské činnosti a autorského dozoru.
 
-Nová škola bude mít kapacitu až 810 žáků, vznikne v ní 3x9 kmenových tříd a 13 speciálních tříd a dílen. Součástí školy by měla být také jídelna se školní kuchyní. 🙂
+Nová škola bude mít kapacitu až 810 žáků, vznikne v ní 3x9 kmenových tříd a 13 speciálních tříd a dílen. Součástí školy by měla být také jídelna se školní kuchyní.
 
 {% for galery in page.fancybox %}
 <div class="mt-4">
