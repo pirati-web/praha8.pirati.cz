@@ -9,7 +9,7 @@ tags: [Volby 2022]
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpiratipraha8%2Fposts%2Fpfbid0DAdNjv4SWDt5eB89TU5hZRjwC9dhw5ogSGaWqd9aJys1JPd1epz56DpHBCMnnyLFl&show_text=false&width=500" width="500" height="498" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
-V novém zastupitelstvu budeme mít šest zastupitelů – jsou to [Martin Štěrba](http://praha8.pirati.cz/lide/martin-sterba.html), [Michal Novák](http://praha8.pirati.cz/lide/michal-novak.html), [Jan Kolátor](http://praha8.pirati.cz/lide/jan-kolator.html), [Pavel Franc](http://praha8.pirati.cz/lide/pavel-franc.html), [Ivo Slávka](http://praha8.pirati.cz/lide/ivo-slavka.html) a [Jakub Jiran](http://praha8.pirati.cz/lide/jakub-jiran).
+V novém zastupitelstvu budeme mít šest zastupitelů – jsou to [Martin Štěrba](http://praha8.pirati.cz/lide/martin-sterba.html), [Michal Novák](http://praha8.pirati.cz/lide/michal-novak.html), [Jan Kolátor](http://praha8.pirati.cz/lide/jan-kolator.html), [Pavel Franc](http://praha8.pirati.cz/lide/pavel-franc.html), [Ivo Slávka](http://praha8.pirati.cz/lide/ivo-slavka.html) a [Jakub Jiran](http://praha8.pirati.cz/lide/jakub-jiran.html).
 
 Gratulujeme ODS Praha 8 k vítězství ve volbách. Náš lídr Martin Štěrba ještě v noci pogratuloval i všem ostatním k úspěchu ve volbách.
 
