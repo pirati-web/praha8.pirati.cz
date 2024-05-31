@@ -6,5 +6,5 @@ tags: [Komise pro kulturu, Kultura, Zažít město jinak]
 ---
 **Tohle si musíme odložit i sem na web. Když budete v příštích volbách hledat stranu, která podporuje sousedská akce u nás v Praze 8, tak ať víte, že naše členka Karolína Gattermayerová byla jako jediná z celé osmičkové kulturní komise PROTI nulové podpoře akce Zažít město jinak, který připravuje spolek AutoMat.**
 
-![Piráti byli jediní, kteří chtěli zabránit nulové podpoře akce Zažít město jinak](https://scontent.fprg5-1.fna.fbcdn.net/v/t39.30808-6/445756888_865523925614640_1676227854685447748_n.jpg)
+![Piráti byli jediní, kteří chtěli zabránit nulové podpoře akce Zažít město jinak](/assets/img/posts/zazitmestojinak-citace.jpg)
 
