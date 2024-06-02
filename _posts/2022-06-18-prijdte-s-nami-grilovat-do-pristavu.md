@@ -1,6 +1,6 @@
 ---
 title: Zveme vás na grilování s Piráty do Přístavu 186 00
-author: Martin Štěrba
+author: Piráti Praha 8
 image: posts/pozvanka_grilovanispiraty2022.png
 tags: [Piráti]
 ---
