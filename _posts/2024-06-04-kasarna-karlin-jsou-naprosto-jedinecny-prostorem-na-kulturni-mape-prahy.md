@@ -1,5 +1,5 @@
 ---
-title: "Kasárna Karlín jsou naprostor jedinečným prostorem na kulturní mapě Prahy"
+title: "Kasárna Karlín jsou naprosto jedinečným prostorem na kulturní mapě Prahy"
 author: Karolína Gattermayerová
 image: posts/kasarna-karlin.jpg
 tags: [Kasárna Karlín, Kultura]
