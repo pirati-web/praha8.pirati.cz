@@ -1,5 +1,5 @@
 ---
-title: My už odvoleno máme. A co vy?"
+title: "My už odvoleno máme. A co vy?"
 author: Piráti Praha 8
 image: posts/volby2024-odvoleno.jpg
 tags: [Piráti, Evropská unie, Volby 2024]
