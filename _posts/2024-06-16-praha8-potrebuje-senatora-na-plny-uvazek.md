@@ -13,3 +13,5 @@ tags: [Piráti, Senát, Volby 2024]
 >"V Senátu vždy hlasuji přesně podle toho, co jsem slíbil před volbami. Každý si to může ověřit a dohledat. Nikdo mi nediktuje, jak mám hlasovat a co mám říkat. Mám jasné hodnoty a postoje, ze kterých neuhýbám. S vámi občany jsem řešil vše od kácení stromů, až po necitlivé developery. Mým cílem je vždy prosazovat zájmy občanů, které zastupuji. Jsem zde, abych vás reprezentoval a hájil nejen v Senátu."
 
 Česká pirátská strana v neděli představila všechny své senátorské kandidáty, v Praze jdou do boje o Senát pod pirátskou vlajkou také Marek Hilšer v Praze 2, Jiří Drahoš v Praze 4 a Eva Tylová v Praze 12.
+
+### Další informace najdete na [www.lukaswagenknecht.cz](http://www.lukaswagenknecht.cz).
