@@ -3,7 +3,7 @@ uid: lukas.wagenknecht
 name: Lukáš Wagenknecht
 titles:
   before: Ing.
-img: people/lukas-wagenknecht.jpg
+img: people/lukas-wagenknecht-2024.jpg
 heroImg: posts/praha8-zvysky.png
 profession: ekonom, interní auditor
 partyUid: pirati
@@ -20,7 +20,7 @@ profiles:
   wikipedia:  https://cs.wikipedia.org/wiki/Luk%C3%A1%C5%A1_Wagenknecht
   flickr:     https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=luk%C3%A1%C5%A1%20wagenknecht
 funkce:
-  - senátor
+  - senátor za Prahu 8 a okolí
   - předseda <a href="https://www.psas.cz/organy-spolecnosti">dozorčí rady Pražské služby, a.s.</a>
   - člen <a href="https://www.ppas.cz/o-nas">dozorčí rady Pražská plynárenská, a.s.</a>
 asistenti:
