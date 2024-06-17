@@ -24,7 +24,7 @@ main:
         link: /lide/mistni-expertni-tymy/
   - name: Volby
     submenu:
-      - name: Senátní volby 2018
+      - name: Senátní volby 2024
         link: "https://lukaswagenknecht.cz/volby-2024/"
       - name: Komunální volby 2022
         link: /volby/2022-komunalni.html
