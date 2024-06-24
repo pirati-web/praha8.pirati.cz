@@ -1,5 +1,5 @@
 ---
-title: "Praha 8 potřebuje senátora na plný úvazek, naším kandidátem je Lukáš Wagenknecht"
+title: "Praha 8 potřebuje senátora na plný úvazek, naším kandidátem je znova Lukáš Wagenknecht"
 author: Piráti Praha 8
 image: posts/volby2024-zahajeni.jpg
 tags: [Piráti, Senát, Volby 2024]
