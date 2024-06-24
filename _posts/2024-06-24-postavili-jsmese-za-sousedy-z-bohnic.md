@@ -1,6 +1,6 @@
 ---
 title: "Postavili jsme se za sousedy z Bohnic a odmítli jsme výstavbu v Pomořanské ulici"
-author: Martin Štěrba
+author: Piráti Praha 8
 image: posts/vizualizace/bohnice-pomoranska/pomoranska3.jpg
 tags: [Bohnice, Územní rozvoj, Zastupitelstvo]
 fancybox:
