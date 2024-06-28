@@ -9,7 +9,7 @@ tags: [Školství]
 
 Koncem května skončilo funkční období zástupců zřizovatele, Rada městské části Praha 8 proto jmenovala na své 52. schůzi dne 26. 6. 2021 jmenovala nové členy školských rad. Většina zástupců ve svých funkcích pokračuje, objevili se mezi nimi i noví zástupci. Piráty budou ve školských radách za zřizovatele zastupovat [Pavel Franc](https://praha8.pirati.cz/lide/pavel-franc.html) a [Tomáš Mařík](https://praha8.pirati.cz/lide/tomas-marik.html).
 
-| ZŠ Lyčkovo náměstí | Ing. Tomáš Hřebík, Ph.D. (STAN)] |
+| ZŠ Lyčkovo náměstí | Ing. Tomáš Hřebík, Ph.D. (STAN) |
 | ZŠ Petra Strozziho | Mgr. Martin Roubíček (ODS) |
 | ZŠ Palmovka | Mgr. Tomáš Mařík (Piráti) |
 | ZŠ Bohumila Hrabala | Anna Issová, DiS. (ANO) |
@@ -17,7 +17,7 @@ Koncem května skončilo funkční období zástupců zřizovatele, Rada městsk
 | ZŠ Na Slovance | Jan Štorek (ANO) |
 | ZŠ Burešova | Mgr. Bc. Jana Dvořáková (SPD) |
 | ZŠ Žernosecká | Ing. Tomáš Slabihoudek (TOP 09) |
-| ZŠ Hovorčovická | Mgr. et Mgr. BcA Jana Solomonová (ANO)] |
+| ZŠ Hovorčovická | Mgr. et Mgr. BcA Jana Solomonová (ANO) |
 | ZŠ Na Šutce | PhDr. Barbora Musilová (8Žije a Praha sobě) |
 | ZŠ Ústavní | Mgr. Michal Janovský (Patrioti pro Prahu 8) |
 | ZŠ Dolákova | Mgr. Dana Kvačková (TOP 09) | 
