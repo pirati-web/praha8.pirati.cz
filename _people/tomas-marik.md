@@ -11,6 +11,7 @@ mail:
   - tomas.marik@pirati.cz
 funkce:
   - člen komise RMČP8 pro životní prostředí
+  - člen školské rady ZŠ Palmovka
 profiles:
   facebook: https://www.facebook.com/tomas.marik.129
   instagram: https://www.instagram.com/ma.ruei
