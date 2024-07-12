@@ -16,9 +16,9 @@ Nácvik byl několikaměsíční proces. Dojížděl jsem z Ládví přes celou 
 Ovšem největší zátěž nás teprve čekala. Tou byl vlastní týden všesokolského sletu, který proběhl první červencový týden v areálu fotbalového klubu Slavia Praha v Edenu. Po nedělním průvodu Prahou z Václavského náměstí na Staroměstské začal nácvik seniorů a seniorek z celé republiky, první dva dny ráno od sedmé hodiny na seřadišti, od středy až do pátečního závěrečného vystoupení na hlavním stadionu.
 
 <figure class="figure">
-  <img src="posts/slet2024-2.jpg" alt="16x9 Image" />
+  <img src="https://praha8.pirati.cz/assets/img/posts/slet2024-2.jpg"/>
   <figcaption>
-Seniorky Sokola Spořilov při sokolském průvodu 30. června 2024. Zprava Věra, Romana, Zde- na, cvičitelka Jana, Zdeňka, Jitka, Zuzana, Lenka a autor článku
+Seniorky Sokola Spořilov při sokolském průvodu 30. června 2024. Zprava Věra, Romana, Zdena, cvičitelka Jana, Zdeňka, Jitka, Zuzana, Lenka a autor článku
   </figcaption>
 </figure>
 
