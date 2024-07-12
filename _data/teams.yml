@@ -14,6 +14,7 @@ pms:
   members:
     - { uid: martin.sterba, description: předseda MS Praha 8 }
     - { uid: jan.kolator, description: 1. místopředseda MS Praha 8 }
+    - { uid: veronika.siftova, description: místopředsedkyně MS Praha 8 }
     - { uid: michal.novak, description: místopředseda MS Praha 8 }
     - { uid: pavel.franc, description:  místopředseda MS Praha 8 }
 clenove:
@@ -34,26 +35,29 @@ clenove:
 regp:
   name: Registrovaní příznivci a podporovatelé MS Praha 8
   members:
-    - alix.guillard
-    - { name: Benjamin Wolf }
-    - { name: Denisa Nováková }
-    - iva.nachtmannova
-    - { name: Jakub Vojtíšek }
-    - { name: Jan Brandejs }
-    - { name: Jindřiška Netrestová }
-    - { name: Ladislav Povýšil }
-    - { name: Jakub Vojtíšek }
-    - { name: Jakub Kočí }
-    - lukas.kost
-    - martin.vavra
-    - miroslav.jahoda
-    - ondrej.kliment
     - { name: Radim Anton }
+    - vojtech.blahos
+    - { name: Jan Borovička }
+    - { name: Jan Brandejs }
     - { name: Theodor Draksl }
     - { name: Josef Gajdoš}
+    - alix.guillard
+    - miroslav.jahoda
+    - ondrej.kliment
     - { name: Dan Kobr }
+    - { name: Jakub Kočí }
+    - lukas.kost
     - tomas.lempera
-    - vojtech.blahos
+    - iva.nachtmannova
+    - { name: Jindřiška Netrestová }
+    - { name: Denisa Nováková }
+    - { name: Michal Pech }
+    - { name: Václav Pokorný }
+    - { name: Ladislav Povýšil }
+    - { name: Klára Přibáňová }
+    - martin.vavra
+    - { name: Jakub Vojtíšek }
+    - { name: Benjamin Wolf }
 zastupitele:
   name: Zastupitelský klub Pirátů
   members:
