@@ -31,7 +31,7 @@ main:
       - name: Komunální volby 2018
         link: /volby/2018-komunalni.html
       - name: Senátní volby 2018
-        link: "https://lukaswagenknecht.cz/"
+        link: "https://lukaswagenknecht.cz/prace-senatora/kampan/"
   - name: Rozcestník
     submenu:
       - name: MČ Praha 8
