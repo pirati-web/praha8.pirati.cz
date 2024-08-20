@@ -231,13 +231,13 @@ tail:
   - uid: tomas.marik
     profession: knihkupec
     age: 48
-    city: Praha 8 - Libeň
+    city: Praha 8 – Libeň
     partyUid: pirati
 # 39
   - name: Ing. Jan Finger
     profession: pojišťovací makléř
     age: 43
-    city: Praha 8 - Karlín
+    city: Praha 8 – Karlín
     partyUid: bezpp
 # 40
   - name: Nicola Samcová

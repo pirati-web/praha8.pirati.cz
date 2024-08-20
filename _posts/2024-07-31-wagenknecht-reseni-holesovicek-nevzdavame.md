@@ -2,7 +2,7 @@
 title: "Lukáš Wagenknecht: Řešení Holevoviček nevzdáváme, chceme zařídit měření emisí"
 author: Lukáš Wagenknecht
 image: posts/wagenknecht-holesovicky.jpg
-tags: [Holeovičiky, Volby 2024, Životní prostředí]
+tags: [Holešovičky, Volby 2024, Životní prostředí]
 ---
 
 **Holešovičky. Každý je známe. Kdysi tudy prošly dějiny, dnes touto de facto dálnicí v hustě obydlené čtvrti projíždí 100 000 aut denně. Auta, zácpy, kamiony, hluk a znečištění. Tím vším trpí především místní obyvatelé.**
