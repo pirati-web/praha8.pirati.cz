@@ -1,5 +1,5 @@
 ---
-title: "ODS chce, aby ročník kupon na MHD stál 7 000 Kč"
+title: "ODS chce, aby roční kupon na MHD stál 7 000 Kč"
 author: Martin Štěrba
 image: posts/tramvaje-praha.jpg
 tags: [Časopis Osmička, ODS, Doprava]
