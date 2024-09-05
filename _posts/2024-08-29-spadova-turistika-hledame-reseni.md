@@ -2,7 +2,7 @@
 title: "Wagenknecht: Spádová turistika na osmičkových školách? Hledáme řešení!"
 author: Lukáš Wagenknecht
 image: posts/wagenknecht-skola.jpg
-tags: [Školství, Karlín]
+tags: [Školství, Karlín, Volby 2024]
 ---
 
 **Zápisy prvňáčků na základní školy. Pro většinu rodin radostná událost. Mnohé děti s rodiči, ale i ředitelé a jejich školy, místo toho naráží na problémy s nedostatkem míst ve školách nebo i se spádovou turistikou, kdy někteří rodiče (třeba i z druhé strany Prahy) účelově mění bydliště dětí kvůli spádovosti, aby se dostali na jimi preferovanou školu. Jednou z takových škol je i ZŠ Lyčkovo náměstí v Karlíně, kde se situace v loňském roce vyhrotila natolik, že hrozilo losování žáků, kteří budou na školu zapsáni.** To staví do velmi nepříjemné a nespravedlivé pozice ty, kteří ve spádové lokalitě opravdu žijí. Již tehdy, v roce 2023, mě oslovilo několik rodičů, abych pomohl situaci řešit i na legislativní úrovni.
