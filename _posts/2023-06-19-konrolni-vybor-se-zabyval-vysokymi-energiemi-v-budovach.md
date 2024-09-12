@@ -2,7 +2,7 @@
 title: "Kontrolní výbor se zabýval vysokými energiemi v budovách"
 author: Martin Štěrba
 image:  posts/finance1.jpg
-tags:   [Kontrolní výbor, Energetická krize]
+tags:   [Kontrolní výbor, Energetika]
 ---
 
 **V květnu jsme v kontrolním výboru měli v plánu kontrolu hospodaření s energiemi v objektech svěřených do majetku naší městské části. Vzhledem k tomu, že v poslední dvou letech nás vlivem energetické krize a války na Ukrajině trápí drahé energie, zajímalo nás srovnání za poslední dvě topné sezóny.**

@@ -2,7 +2,7 @@
 title: "Krok k energetické soběstačnosti. Městské domy v Libni mají na střechách solární elekrárny"
 author: Martin Štěrba
 image: posts/martin-sterba/solarnipanely.jpg
-tags: [Energetická soběstačnost, Životní prostředí]
+tags: [Energetika, Životní prostředí]
 ---
 
 **Na osmičkových střechách se objevují sluneční elektrárny. Jedná se o pilotní projekty na třech městských bytových domech v ulici Karla Hlaváčka v Libni.**
