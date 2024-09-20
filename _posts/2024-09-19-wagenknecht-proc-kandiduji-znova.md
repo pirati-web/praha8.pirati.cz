@@ -17,8 +17,6 @@ tags: [Senát, Volby 2024]
 
 Za šest let v Senátu jsem si potvrdil, že to je práce na plný úvazek. Nesmí to být odměna za dlouholeté politické služby, přilepšení na důchod ani jedna z mnoha placených pozic. Práci senátora beru jako důležité poslání a příležitost podílet se na zkvalitňování legislativy v rámci Parlamentu, ale také jako závazek vůči obyvatelům v obvodu. Senátor musí mít občanům ze svého obvodu k dispozici. Žádný jejich problém pro něj nemůže být příliš malý.
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FWagenknechtLuk%2Fposts%2Fpfbid02kCGfWCshMMmk654WodurLJmVwrwWANWiwPVoUQpK2tLUGkWFLSEGxrUUBDJsyKu3l&show_text=true&width=500" width="500" height="615" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
 ### Jednou přijdou, jednou ne
 Někteří politici totiž Senát bohužel vnímají jako hezký přivýdělek a ne práci na plný úvazek. To se pak negativně projevuje na nízké aktivitě a špatné docházce části senátorů na plénu. Účast některých z nich se pohybuje lehce nad padesáti procenty. Někteří mají účast dokonce pouze kolem 20 %. A víte proč? Protože kumulují jen těžko pochopitelné množství funkcí.
 
