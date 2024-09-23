@@ -1,5 +1,5 @@
 ---
-title: "Wagenknecht: Děkuji všem, kteří jste přihšli k volbám a dali mi svůj hlas"
+title: "Wagenknecht: Děkuji všem, kteří jste přišli k volbám a dali mi svůj hlas. Tentokrát to těsně nevyšlo"
 author: Lukáš Wagenknecht
 image: posts/wagenknecht-vysledky.jpg
 tags: [Senát, Volby 2024]
