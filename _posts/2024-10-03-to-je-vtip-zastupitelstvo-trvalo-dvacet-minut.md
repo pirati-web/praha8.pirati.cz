@@ -1,5 +1,5 @@
 ---
-title: "To je vtip Jednání zastupitelstva trvalo dvacet minut"
+title: "To je vtip? Jednání zastupitelstva Prahy 8 trvalo dvacet minut"
 author: Martin Štěrba
 image: posts/zastupitelstvo_prosinec2022
 tags: [Zastupitelstvo]
