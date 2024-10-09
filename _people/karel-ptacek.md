@@ -7,7 +7,7 @@ titles:
 img: people/karel-ptacek-2022-1.jpg
 heroImg: posts/invadlidovna-cechie.jpg
 profession: projektový manažer
-partyUid: pirati
+partyUid: bezpp
 mail:
   - karel.ptacek@pirati.cz
 profiles:
