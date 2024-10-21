@@ -12,7 +12,6 @@ mail:
   - martin.sterba@pirati.cz
 profiles:
   facebook:  https://www.facebook.com/sterbamartin.praha8
-  mastodon:  https://mastodon.pirati.cz/@sterbamartin
   twitter:   https://twitter.com/sterbamartin
   linkedin:  https://linkedin.com/in/sterbamartin/
   instagram: https://www.instagram.com/sterbamartin__
@@ -32,15 +31,16 @@ funkce:
 
 V komunálních volbách 2022 jsem kandidoval jako lídr Pirátů do zastupitelstva MČ Praha 8. Piráti získali šest mandátů a já jsem se stal zastupitelem a následně i předsedou našeho pirátského zastupitelského klubu. Zastupitelstvo MČ Praha 8 mě na svém ustanovujícím jednání 2. listopadu 2022 zvolilo předsedou kontrolního výboru. Kromě toho jsem také členem komise pro dopravu a členem redakční rady časopisu Osmička. Na magistrátu jsem byl jmenován předsedou komise pro veřejnou dopravu.
 
-V rámci Pirátské strany jsem od ledna 2021 předsedou místního sdružení Praha 8. 
+V rámci Pirátské strany jsem od ledna 2021 předsedou místního sdružení Praha 8, v letech 2019 až 2021 jsem byl místopředsedou. 
 
->Vedu diskuze s občany na sociálních sítích i mimo ně. Poslouchám jejich problémy a snažím se je pomáhat řešit. Jsem rád, že se mi společně s [Ivem Slávkou](https://praha8.pirati.cz/lide/ivo-slavka.html) podařilo sepsat [aktualizaci jednacího řádu zastupitelstva městské části Praha 8](https://praha8.pirati.cz/aktuality/zastupitele-budou-moci-jednat-online.html), aby se jednání zastupitelstva mohli účastnit on-line i zastupitelé, kteří mají nařízenou karanténu. Angažoval jsem se v [záchraně oblíbeného koupaliště Stírka](https://praha8.pirati.cz/aktuality/stitky/koupaliste-stirka/), jako tehdejší poradce primátora Hřiba jsem se také věnoval [budoucnosti nedostavěné budovy Nová Palmovka](https://praha8.pirati.cz/aktuality/stitky/nova-palmovka/) – snažili jsme se najít takový způsob, aby došlo k vyřešení problému, a oblast Palmovky, která je celopražský významná, se mohla konečně začít rozvíjet. Jsem rád, že zastupitelstvo městské části i zastupitelstvo hlavního města Prahy odsouhlasilo převod pozemku s budovou pod správu hlavního města, trojstrannou dohodu s Metrostavem i dotační smlouvu pro Prahu 8. Na začátku září 2023 jsem pak vyjednal přijetí usnesení zastupitelstva MČ Praha 8, aby se [městská část postavila za občany a odmítla demolice okrskových center občanské vybavenosti (tzv. Včel)](https://praha8.pirati.cz/aktuality/zastupitelstvo-prahy8-odmita-demolici-vcel.html) na sídlišti Ďáblice.
+>Vedu diskuze s občany na sociálních sítích i mimo ně. Poslouchám jejich problémy a snažím se je pomáhat řešit. Angažoval jsem se v [záchraně oblíbeného koupaliště Stírka](https://praha8.pirati.cz/aktuality/stitky/koupaliste-stirka/) a jako tehdejší poradce primátora Hřiba jsem se také věnoval [budoucnosti nedostavěné budovy Nová Palmovka](https://praha8.pirati.cz/aktuality/stitky/nova-palmovka/), protože se celopražsky významná oblast Palmovky začala konečně rozvíjet. Na začátku září 2023 jsem pak vyjednal přijetí usnesení zastupitelstva MČ Praha 8, aby se [městská část postavila za občany a odmítla demolice okrskových center občanské vybavenosti (tzv. Včel)](https://praha8.pirati.cz/aktuality/zastupitelstvo-prahy8-odmita-demolici-vcel.html) na sídlišti Ďáblice. Společně se spolkem Krásné Kobylisy teď pracujeme na tom, aby tady vznikla důstojná občanská vybavenost. 
+
 
 **Krátce o mně**
 Narodil jsem se v roce 1987 v Plzni a do Prahy se finálně přestěhoval v roce 2013. Vystudoval jsem pedagogickou fakultu ZČU v Plzni (obor informatika se zaměřením na vzdělávání) a Univerzitu J.A. Komenského v Praze (obor sociální a mediální komunikace). Celý svůj profesní život se věnuji marketingu, médiím a komunikaci. Pracoval jsem ve velkých mediálních domech (TV Nova, Empressa Media, Economia, Seznam.cz), na „volné noze“, a mám zkušenosti i z neziskového sektoru. On-line marketingu se věnuji od roku 2013 – vedl jsem týmy pro sociální sítě hlavního města Prahy, TV Barandov či internetové televize Stream.cz, spolurozjížděl MALL.TV, spolupracoval na kampaních pro Adidas, Hyundai či Škoda Auto, byl jsem šéfem mezinárodního týmu zaměřeného na Twitter komunikaci na světovém skautském jamboree v USA a také jsem sepsal celou řadu strategií a analýz komunikace. Od ledna 2019 do února 2022 jsem byl poradcem primátora hlavního města Prahy Zdeňka Hřiba. Od podzimu 2022 pak kromě jiného vedu marketingový tým festivalu United Islands of Prague. [Všechny mé pracovní zkušenosti najdete na mém profilu na LinkedIn.](https://www.linkedin.com/in/sterbamartin)
 
 Ve volném čase mám rád knihy, filmy, hudbu, sociální sítě, cestování do neznáma, jízdu vlakem a festivaly. Od svých dvanácti let jsem skautem, dlouhá léta jsem s přáteli organizoval a budoval skautský festival Obrok a šest let jsme se skautským projektem Svojsíkův sen dívali s heslem "Budoucnost začíná nyní" do let příštích. Chtěli jsme v České republice uspořádat světové skautské jamboree pro 50 tisíc mladých lidí z téměř dvou set zemí. 
 
-Právě ve skautu jsem se naučil, že od rozdělané práce se neodchází, proto se nikdy nespokojím s polovičním výsledkem. A toho se držím, v práci i v životě.
+Právě ve skautu jsem se naučil, že od rozdělané práce se neodchází, proto se nikdy nespokojím s polovičním výsledkem. Dlouhodobě se snažím hledat možnosti, jak věci zlepšovat a nikoliv hledat důvody, proč to nejde. Toho se držím, v práci, v politice i v životě.
 
 **Více informací z mé práce najdete na mých sociálních sítích.**
