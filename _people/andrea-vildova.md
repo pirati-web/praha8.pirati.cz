@@ -12,7 +12,9 @@ mail:
 profiles:
   facebook: https://www.facebook.com/andrea.valova.3
 funkce:
- - členka člen školské rady SŠ designu a umění, knižní kultury a ekonomiky Náhorní
+ - členka školské rady SŠ designu a umění, knižní kultury a ekonomiky Náhorní
+ - členka školské rady Gymnázia Ústavní
+
 mastodon:
 
 ---

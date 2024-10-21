@@ -11,6 +11,7 @@ profiles:
 funkce:
   - člen komise RMČP8 pro sport a grantovou politiku
   - člen dozorčí rady Střediska Diakonie ČCE Praha
+  - člen školské rady Karlínského gymnázia
 ---
 
 Petr Bísek je publicista, bývalý krajanský činovník a představitel v USA, veslař-veterán a trenér a typograf. Je také emeritním ředitelem washingtonské organizace [American Friends of the Czech Republic](https://www.afocr.org/).

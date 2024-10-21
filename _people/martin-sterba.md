@@ -27,6 +27,7 @@ funkce:
   - předseda komise RHMP pro veřejnou dopravu 
   - místopředseda Redakční rady časopisu Osmička
   - člen komise RMČP8 pro dopravu
+  - člen školské rady ZŠ a MŠ při FN Bulovka
 ---
 
 V komunálních volbách 2022 jsem kandidoval jako lídr Pirátů do zastupitelstva MČ Praha 8. Piráti získali šest mandátů a já jsem se stal zastupitelem a následně i předsedou našeho pirátského zastupitelského klubu. Zastupitelstvo MČ Praha 8 mě na svém ustanovujícím jednání 2. listopadu 2022 zvolilo předsedou kontrolního výboru. Kromě toho jsem také členem komise pro dopravu a členem redakční rady časopisu Osmička. Na magistrátu jsem byl jmenován předsedou komise pro veřejnou dopravu.
