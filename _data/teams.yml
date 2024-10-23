@@ -53,6 +53,7 @@ regp:
     - { name: Václav Pokorný }
     - { name: Ladislav Povýšil }
     - { name: Klára Přibáňová }
+    - { name: Tomáš Szczepanski }
     - martin.vavra
     - { name: Jakub Vojtíšek }
     - { name: Benjamin Wolf }
@@ -90,9 +91,8 @@ skolske-rady:
     - { uid: tomas.marik, description: ZŠ Palmovka }
     - { uid: jan.kolator, description: ZŠ LOPES Čimice }
     - { uid: martin.sterba, description: "ZŠ a MŠ při FN Bulovka" }
-    - { uid: andrea.vildova, description: "Gymnázium Ústavní" }
     - { uid: petr.bisek, description: "Karlínské gymnázium" }
-    - { uid: andrea.vildova, description: "SŠ designu a umění, knižní kultury a ekonomiky Náhorní" }
+    - { uid: andrea.vildova, description: "Gymnázium Ústavní, SŠ designu a umění, knižní kultury a ekonomiky Náhorní" }
 
 met.doprava:
   name: Doprava
