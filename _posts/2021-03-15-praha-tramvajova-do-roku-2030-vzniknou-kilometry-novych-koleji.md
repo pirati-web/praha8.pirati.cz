@@ -2,7 +2,7 @@
 title: Praha tramvajová! Do roku 2030 vzniknou kilometry nových kolejí
 author: Ladislav Povýšil
 image: posts/tramvaje-palmovka.jpg
-tags: [Doprava, Kobylisy, Bohnice, Tramvaj do Bohnic, Tramvaj do Zdib]
+tags: [Doprava, Kobylisy, Bohnice, Tramvaj Kobylisy-Bohnice-Podbaba, Tramvaj do Zdib]
 ---
 
 **Hlavní město Praha prostřednictvím svého územního plánování dlouhodobě vyjadřuje podporu rozvoji ekologické tramvajové dopravy. A že se nejedná jen o teoretické vize dokazuje Praha zejména faktickým zadáváním projektů a následné samotné realizace nových tramvajových tratí.**

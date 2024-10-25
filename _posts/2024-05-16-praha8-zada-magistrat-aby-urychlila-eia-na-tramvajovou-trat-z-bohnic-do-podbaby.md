@@ -2,7 +2,7 @@
 title: "Praha 8 žádá Magistrát, aby bylo urychleno řízení EIA na tramvajovou trať z Bohnic do Podbaby"
 author: Martin Štěrba
 image: posts/tramvaje-bohnice2.jpg
-tags: [Doprava, Bohnice, Magistrát, Tramvaj do Bohnic, Tramvaj Bohnice–Podbaba]
+tags: [Doprava, Bohnice, Magistrát, Tramvaj Kobylisy-Bohnice-Podbaba]
 ---
 
 **Asi se shodneme na tom, že cestování z Bohnic do Podbaby - tedy z osmičky na šestku dobré není. Nejlepším řešením by bylo, kdyby v této trase konečně začaly jezdit tramvaje.**

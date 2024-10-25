@@ -2,7 +2,7 @@
 title: Podporujeme rozvoj tramvajových tratí! Kam pojedeme na osmičce tramvají?
 author: Martin Štěrba
 image: posts/tramvaj-bohnice2.png
-tags: [Doprava, Tramvaj do Bohnic, Tramvaj do Zdib]
+tags: [Doprava, Tramvaj Kobylisy-Bohnice-Podbaba, Tramvaj do Zdib]
 ---
 
 **Trojkou z Ďáblic do Letňan, sedmnáctkou a devatenáctkou do Bohnic, desítkou do Zdib a devětadvacítkou z Karlína přes Holešovice do Tróji. [Pražská integrovaná doprava aktualizovala plán rozvoje linek MHD do roku 2032.](https://pid.cz/rozvoj-linek-2022-2032)** Je mezi nimi i celá řada linek, které se dotýkají naší městské části. Takto budeme moci zřejmě koncem tohoto desetiletí jezdit tramvajemi v rámci naší městské části.

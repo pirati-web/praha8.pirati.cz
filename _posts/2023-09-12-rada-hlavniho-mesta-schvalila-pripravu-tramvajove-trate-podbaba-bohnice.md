@@ -2,7 +2,7 @@
 title: "Rada hlavního města schválila zahájení přípravy tramvajové tratě Podbaba–Bohnice"
 author: Martin Štěrba
 image: posts/tramvaje-liben.jpg
-tags: [Doprava, Bohnice, Magistrát, Tramvaj do Bohnic, Tramvaj Bohnice–Podbaba]
+tags: [Doprava, Bohnice, Magistrát, Tramvaj Kobylisy-Bohnice-Podbaba]
 ---
 
 **Rada hlavního města Prahy schválila zahájení projektové přípravy tramvajové trati "Podbaba – Troja – Bohnice". Není tajemstvím, že tato variantu upřednostňuji víc než lanovku. Výhodou je, že nebude nutné přestupovat a nová trať bude součástí tramvajového okruhu, který jsme s Piráti Praha měli ve svém volebním programu.**

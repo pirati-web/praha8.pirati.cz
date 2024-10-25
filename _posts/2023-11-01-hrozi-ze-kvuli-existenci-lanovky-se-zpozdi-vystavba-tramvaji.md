@@ -2,7 +2,7 @@
 title: "Hrozí, že se kvůli existenci lanovky zpozdí výstavba tramvajové trati mezi Bohnicemi a Podbabou. To nechceme!"
 author: Michal Novák
 image: posts/lanovka-projednavani-mhmp.jpg
-tags: [Bohnice, Doprava, Lanovka Bohnice–Podbaba, Magistrát]
+tags: [Bohnice, Doprava, Tramvaj Kobylisy-Bohnice-Podbaba, Lanovka Bohnice–Podbaba, Magistrát]
 fancybox:
   - name: Takhle by lanovka z Bohnic do Podbaby měla vypadat
     img:
