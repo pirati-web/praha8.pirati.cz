@@ -1,5 +1,5 @@
 ---
-title: "Zastupitelstvo hlavního města chce jednat o směně ďáblických Včel"
+title: "Zastupitelstvo rozhodlo, hlavní město bude jednat o směně ďáblických Včel"
 author: Martin Štěrba
 image: posts/martin-sterba/magistrat-krasne-kobylisy.jpg
 tags: [Ďáblice, Krásné Kobylisy, Magistrát, Územní rozvoj]
@@ -13,4 +13,4 @@ V krátkosti jsem řekl, že MČ Praha 8 ani obyvatele Ďáblic věžáky v okol
 
 Aby mě někdo nenařkl z nymbismu, tak bych chtěl říct, že nejsem proti výstavbě jako takové. Nejde mi ani o zakonzervování současného stavu. Chci, aby Včely byly opraveny, a aby nezmizela tolik důležitá občanská vybavenost. Měla by být v objektu, který bude podle územní studie, tedy v objektu maximálně se dvěmi či třemi patry.
 
-Chtěl bych poděkovat zastupitelům a zastupitelkám hlavního města, že navržené usnesení přijali. Jsem rád, že kolegové Tomáš Slabihoudek Radomír Nepil se jasně postavili za zájmy naší městské části. 
+Chtěl bych poděkovat zastupitelům a zastupitelkám hlavního města, že navržené usnesení přijali. Jsem rád, že kolegové Tomáš Slabihoudek a Radomír Nepil se jasně postavili za zájmy naší městské části. 
