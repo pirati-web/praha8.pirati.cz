@@ -1,7 +1,7 @@
 ---
 title: "Zastupitelstvo hlavního města chce jednat o směně ďáblických Včel"
 author: Martin Štěrba
-image: posts/magistrat-krasne-kobylisy.jpg
+image: posts/martin-sterba/magistrat-krasne-kobylisy.jpg
 tags: [Ďáblice, Krásné Kobylisy, Magistrát, Územní rozvoj]
 ---
 
