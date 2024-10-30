@@ -1,6 +1,6 @@
 ---
 title: "Pavel Franc: Proč za některé projekty bojujeme a jiné tiše schvalujeme?"
-author: Martin Štěrba
+author: Pavel Franc
 image: posts/chabry-cimice.jpg
 tags: [Časopis Osmička, Doprava, Územní rozvoj]
 ---
