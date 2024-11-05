@@ -23,10 +23,6 @@ funkce:
   - předseda <a href="https://www.psas.cz/organy-spolecnosti">dozorčí rady Pražské služby, a.s.</a>
   - člen <a href="https://www.ppas.cz/o-nas">dozorčí rady Pražská plynárenská, a.s.</a>
 asistenti:
-  - name: Ing. Karolína Ždárská
-    position: Asistentka
-    mail: k.zdarska@gmail.com
-    mob: +420 736 513 283
 ---
 <div class="mb-4">
 {% include buttons/icon.html href="https://lukaswagenknecht.cz/" cta="Přejít na lukaswagenknecht.cz" icon="ico--globe" class="content-block--nostyle btn--hoveractive btn--to-orange-300" %}
