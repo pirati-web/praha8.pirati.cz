@@ -2,11 +2,11 @@
 uid: jan.borovicka
 name: Jan Borovička
 titles:
-  before:
+  before: Bc.
 img: people/jan-borovicka.jpg
 heroImg: posts/praha8-zvysky.png
 profession: asistent proděkana pro studijní a pedagogickou činnost VŠE
-partyUid: bezpp
+partyUid: pirati
 mail:
 profiles:
   facebook: https://www.facebook.com/HonzaBorovicka1712

@@ -20,6 +20,7 @@ clenove:
   name: Členové MS Praha 8
   members:
     - petr.bisek
+    - jan.borovicka
     - karolina.gattermayerova
     - jakub.jiran
     - tomas.marik
@@ -35,7 +36,6 @@ regp:
   members:
     - { name: Radim Anton }
     - vojtech.blahos
-    - jan.borovicka
     - { name: Jan Brandejs }
     - { name: Theodor Draksl }
     - { name: Josef Gajdoš}
@@ -116,6 +116,7 @@ met.skolstvi:
     - { uid: pavel.franc, description: "vedoucí, garant oblasti školství" }
     - { uid: karolina.gattermayerova, description: garantka oblasti kultury }
     - { uid: petr.bisek, description: garant oblasti sportu }
+    - jan.borovicka
     - andrea.vildova
     - { name: Theodoros Draksl }
     - tomas.marik
