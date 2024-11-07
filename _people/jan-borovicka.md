@@ -7,6 +7,7 @@ img: people/jan-borovicka.jpg
 heroImg: posts/praha8-zvysky.png
 profession: asistent proděkana pro studijní a pedagogickou činnost VŠE
 partyUid: pirati
+mail: jan.borovicka@pirati.cz
 mail:
 profiles:
   facebook: https://www.facebook.com/HonzaBorovicka1712
