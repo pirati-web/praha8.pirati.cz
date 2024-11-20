@@ -25,7 +25,6 @@ clenove:
     - jakub.jiran
     - tomas.marik
     - kveta.marikova
-    - jitka.novotna
     - ondrej.profant
     - michal.schwarzkopf
     - ivo.slavka
@@ -50,6 +49,7 @@ regp:
     - iva.nachtmannova
     - { name: Jindřiška Netrestová }
     - { name: Denisa Nováková }
+    - jitka.novotna
     - { name: Ladislav Palán }
     - { name: Michal Pech }
     - { name: Václav Pokorný }
