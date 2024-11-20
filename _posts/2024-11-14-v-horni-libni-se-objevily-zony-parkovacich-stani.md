@@ -11,4 +11,4 @@ Od 4. listopadu je zpoplatněna oblast 8.3, tedy nad ulicí V Holešovičkách. 
 
 Díky modrým zónám se tak nemělo stávat, že místní nebudou mít kde zaparkovat.
 
-Veškeré informace o zónách najdete na webu parking.praha.eu.
+Veškeré informace o zónách najdete na webu [parking.praha.eu](http://parking.praha.eu).
