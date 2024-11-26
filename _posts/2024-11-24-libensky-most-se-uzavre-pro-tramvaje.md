@@ -1,7 +1,7 @@
 ---
 title: "TV Nova: Libeňský most se od pondělí uzavře pro tramvaje"
 author: Martin Štěrba
-image: posts/nova-libensky-most.jpg
+image: posts/martin-sterba/nova-libensky-most.jpg
 tags: [Doprava, Libeňský most]
 ---
 
