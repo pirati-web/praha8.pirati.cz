@@ -7,27 +7,28 @@
 contact:
   name: Kontaktní informace
   members:
-   - { uid: martin.sterba, description: kontakt pro média }
-   - { uid: jan.kolator, description: kontakt pro nováčky }
+   - { uid: martin.sterba, description: předseda místního sdružení Praha 8}
 pms:
   name: Předsednictvo MS Praha 8
   members:
     - { uid: martin.sterba, description: předseda MS Praha 8 }
-    - { uid: jan.kolator, description: 1. místopředseda MS Praha 8 }
+    - { uid: jakub.jiran, description: 1. místopředseda MS Praha 8 }
+    - { uid: karolina.gattermayerova, description: místopředsedkyně MS Praha 8 }
+    - { uid: jan.kolator, description: místopředseda MS Praha 8 }
     - { uid: michal.novak, description: místopředseda MS Praha 8 }
-    - { uid: pavel.franc, description:  místopředseda MS Praha 8 }
+
 clenove:
   name: Členové MS Praha 8
   members:
     - petr.bisek
     - jan.borovicka
-    - karolina.gattermayerova
-    - jakub.jiran
+    - pavel.franc
     - tomas.marik
     - kveta.marikova
     - ondrej.profant
     - michal.schwarzkopf
     - ivo.slavka
+    - veronika.siftova
     - andrea.vildova
     - lukas.wagenknecht
 regp:

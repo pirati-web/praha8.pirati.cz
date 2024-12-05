@@ -17,7 +17,6 @@ profiles:
   odmeny:    https://nalodeni.pirati.cz/odmeny/pavel.franc
 funkce:
   - zastupitel MČ Praha 8
-  - místopředseda MS Praha 8
   - zmocněnec MČ Praha 8 pro CityVizor
   - zástupce MČ Praha 8 v projektu “Budujeme Evropu se zástupci místních samospráv”
   - člen komise RMČP8 pro školství

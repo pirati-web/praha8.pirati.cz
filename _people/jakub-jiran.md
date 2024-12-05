@@ -14,6 +14,7 @@ profiles:
   instagram: https://www.instagram.com/jakub.jiran.33
 funkce:
   - zastupitel MČ Praha 8
+  - 1. místopředseda MS Praha 8
   - člen finančního výboru ZMČP8
   - člen komise RHMP pro parkování a silniční dopravu 
   - člen dozorčí rady <a href="https://www.dpp.cz/spolecnost/o-spolecnosti/organizacni-struktura">Dopravního podniku hl. města Prahy</a>
