@@ -8,6 +8,7 @@ contact:
   name: Kontaktní informace
   members:
    - { uid: martin.sterba, description: předseda místního sdružení Praha 8}
+   - { uid: jakub.jiran, description: 1. místopředseda místního sdružení Praha 8}
 pms:
   name: Předsednictvo MS Praha 8
   members:
