@@ -2,7 +2,7 @@
 title: "Kolik peněz je moc peněz, paní senátorko Ludková?"
 author: Martin Štěrba
 image: posts/ludkova-senat-a-penize.jpg
-tags: [Senát, ODS]
+tags: [ODS, Senát, Zastupitelstvo]
 ---
 
 **Senátorka a také místostostarostka Ludková z ODS chce za své kumulování funkcí víc peněz. Jako uvolněné místostarostce a zároveň senátorce jí totiž byla ze zákona druhá odměna krácena o 60 procent. Kromě stopadesátitisícové odměny za senátorování dostávala za místostarostování „pouhých“ 42 316 Kč.**
