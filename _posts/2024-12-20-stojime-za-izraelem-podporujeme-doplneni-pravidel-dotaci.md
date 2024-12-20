@@ -1,5 +1,5 @@
 ---
-title: "Usnesení Prahy 8 mělo být ve smyslu, že podporuje Izrael a odsuzuje činnost palestinských teroristů"
+title: "Usnesení zastupitelstva Prahy 8 mělo být ve smyslu, že podporuje Izrael a odsuzuje činnost palestinských teroristů"
 author: Piráti Praha 8
 image: posts/izrael-podpora.jpg
 tags: [Zastupitelstvo]
