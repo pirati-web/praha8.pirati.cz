@@ -7,11 +7,11 @@ fancybox:
   - name: Základní škola Rohanský ostrov
     img:
       - { src: posts/vizualizace/zs-rohan-prosinec2024/skola1.jpg, title: Návrh od studia IGLOO ARCHITEKTI }
-      - { src: posts/vizualizace/zs-rohan-prosinec2024/skola1.jpg, title: Návrh od studia IGLOO ARCHITEKTI }
-      - { src: posts/vizualizace/zs-rohan-prosinec2024/skola1.jpg, title: Návrh od studia IGLOO ARCHITEKTI }
-      - { src: posts/vizualizace/zs-rohan-prosinec2024/skola1.jpg, title: Návrh od studia IGLOO ARCHITEKTI }
-      - { src: posts/vizualizace/zs-rohan-prosinec2024/skola1.jpg, title: Návrh od studia IGLOO ARCHITEKTI }
-      - { src: posts/vizualizace/zs-rohan-prosinec2024/skola1.jpg, title: Návrh od studia IGLOO ARCHITEKTI }
+      - { src: posts/vizualizace/zs-rohan-prosinec2024/skola2.jpg, title: Návrh od studia IGLOO ARCHITEKTI }
+      - { src: posts/vizualizace/zs-rohan-prosinec2024/skola3.jpg, title: Návrh od studia IGLOO ARCHITEKTI }
+      - { src: posts/vizualizace/zs-rohan-prosinec2024/skola4.jpg, title: Návrh od studia IGLOO ARCHITEKTI }
+      - { src: posts/vizualizace/zs-rohan-prosinec2024/skola5.jpg, title: Návrh od studia IGLOO ARCHITEKTI }
+      - { src: posts/vizualizace/zs-rohan-prosinec2024/skola6.jpg, title: Návrh od studia IGLOO ARCHITEKTI }
 ---
 
 Nová škola na Rohanském ostrově bude skvělá, pevně v to doufáme. Na středečním zastupitelstvu jsme řešili aktuální stav příprav a máme radost z toho, že jsme napříč politickým spektrem odsouhlasili návrh stavby. Posouváme se tak do další fáze a to zadání dokumentace pro stavební povolení.
