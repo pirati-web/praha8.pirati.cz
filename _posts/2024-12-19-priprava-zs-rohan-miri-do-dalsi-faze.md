@@ -4,7 +4,7 @@ author: Piráti Praha 8
 image: posts/vizualizace/zs-rohan-prosinec2024/skola1.jpg
 tags: [Karlín, Rohanský ostrov, Zastupitelstvo, Školství, Územní rozvoj, Základní škola Rohan]
 fancybox:
-  - name: Základní škola Rohanský ostrov
+  - name: Takhle bude nová škola vypadat. Co na ní říkáte?
     img:
       - { src: posts/vizualizace/zs-rohan-prosinec2024/skola1.jpg, title: Návrh od studia IGLOO ARCHITEKTI }
       - { src: posts/vizualizace/zs-rohan-prosinec2024/skola2.jpg, title: Návrh od studia IGLOO ARCHITEKTI }
@@ -15,8 +15,6 @@ fancybox:
 ---
 
 Nová škola na Rohanském ostrově bude skvělá, pevně v to doufáme. Na středečním zastupitelstvu jsme řešili aktuální stav příprav a máme radost z toho, že jsme napříč politickým spektrem odsouhlasili návrh stavby. Posouváme se tak do další fáze a to zadání dokumentace pro stavební povolení.
-
-### Takhle to bude vypadat.
 
 {% for galery in page.fancybox %}
 <div class="mt-4">
