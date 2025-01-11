@@ -16,11 +16,11 @@ organization:
 
 contactSummaryItems:
   - type: custom
-    body: Emailová adresa předsednictva
+    body: e-mailová adresa předsednictva
     label: praha8@pirati.cz
     iconClass: ico--envelope
   - type: custom
-    body: Emailová adresa zastupitelů
+    body: e-mailová adresa zastupitelů
     label: pirati@praha8.cz
     iconClass: ico--envelope
 

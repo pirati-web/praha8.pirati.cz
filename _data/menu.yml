@@ -36,6 +36,10 @@ main:
     submenu:
       - name: MČ Praha 8
         link: "https://www.praha8.cz/"
+      - name: Dětská hřiště v MČ Praha 8
+        link: "https://www.praha8.cz/Detska-hriste-ve-sprave-mestske-casti-Praha-8-1.html"
+      - name: Praha zítra (Nové stavební projekty)
+        link: "https://praha.camp/praha-zitra/"
       - name: Portál Pražana
         link: "https://www.portalprazana.cz/"
       - name: PID Lítačka
@@ -50,14 +54,11 @@ main:
         link: "https://www.prahaskolska.eu/"
       - name: Bezpečnost.Praha.eu
         link: "https://bezpecnost.praha.eu/"
-      - name: Praha v číslech - Pragozor
-        link: "https://www.pragozor.cz/"
-      - name: Praha zítra (Nové stavební projekty)
-        link: "https://praha.camp/praha-zitra/"
-      - name: Dětská hřiště v MČ Praha 8
-        link: "https://www.praha8.cz/Detska-hriste-ve-sprave-mestske-casti-Praha-8-1.html"
+  - link: /podporte-nas
+    name: Podpořte nás
   - link: /kontakt/
     name: Kontakt
+
 
 bottom:
   - class: small-12 medium-4
@@ -66,9 +67,9 @@ bottom:
       - link: /kontakt/
         name: Dej nám vědět
       - link: "https://nalodeni.pirati.cz/"
-        name:  Nalodění
+        name:  Naloďte se mezi Piráty
   - class: small-12 medium-4
-    title: Makáme
+    title: Makáme pro Osmičku
     links:
       - link: /aktuality/
         name: Aktuality
