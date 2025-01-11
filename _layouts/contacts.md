@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="container container--default pt-0 lg:py-24">
+<div class="container container--default pt-8 lg:py-24">
   <article class="space-y-8 lg:space-y-16">
     <div class="lg:flex lg:mt-8 space-y-16 lg:space-y-0 lg:space-x-8 xl:space-x-16">
       <section class="lg:w-3/5 xl:w-2/3">
