@@ -10,7 +10,7 @@ layout: default
         <div class="content-block w-full lg:mt-8">
           {{ content }}
         </div>
-        <<br/>>
+        <br/>
         <h1 class="head-alt-md md:head-alt-lg max-w-5xl mb-8">Ozvěte se nám</h1>
         {% assign team = site.data.teams.contact %}
         {% if team.members.size > 0 %}
