@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Podpořte nás – darujte s odvahou"
 ---
 
