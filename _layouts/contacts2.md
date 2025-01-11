@@ -29,7 +29,6 @@ layout: default
           {% endfor %}
         </div>
         {% endif %}
-
         <div class="content-block w-full lg:mt-8">
           {{ content }}
         </div>

@@ -67,9 +67,9 @@ bottom:
       - link: /kontakt/
         name: Dej nám vědět
       - link: "https://nalodeni.pirati.cz/"
-        name:  Naloďte se mezi Piráty
+        name:  Naloďte se
   - class: small-12 medium-4
-    title: Makáme pro Osmičku
+    title: Makáme
     links:
       - link: /aktuality/
         name: Aktuality
