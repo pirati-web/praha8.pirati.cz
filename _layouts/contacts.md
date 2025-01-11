@@ -6,10 +6,10 @@ layout: default
   <article class="space-y-8 lg:space-y-16">
     <div class="lg:flex lg:mt-8 space-y-16 lg:space-y-0 lg:space-x-8 xl:space-x-16">
       <section class="lg:w-3/5 xl:w-2/3">
-        <div class="content-block w-full lg:mt-8">
+        <h1 class="head-alt-md md:head-alt-lg max-w-5xl mb-8">{{ page.title }}</h1>
+               <div class="content-block w-full lg:mt-8">
           {{ content }}
         </div>
-        <h1 class="head-alt-md md:head-alt-lg max-w-5xl mb-8">{{ page.title }}</h1>
         {% assign team = site.data.teams.contact %}
         {% if team.members.size > 0 %}
         <div class="space-y-8">
