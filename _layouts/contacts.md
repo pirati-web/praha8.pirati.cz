@@ -25,14 +25,21 @@ layout: default
             {% else %}
               {% assign person=member %}
             {% endunless %}
-            {% include people/profile-badge.html item=person description=member.description %}
-          {% endfor %}
+            <div>
+              <div class="card elevation-3">
+                <div class="card__body">
+                  {% include people/profile-badge.html item=person %}
+                </div>
+              </div>
+            </div>
+         {% endfor %}
           </div>
         </div>
        </section>
        {% endif %}
       </section>
-      <section class="lg:w-2/5 xl:w-1/3 lg:pt-0">
+      
+<section class="lg:w-2/5 xl:w-1/3 lg:pt-0">
         <div class="lg:card lg:elevation-10">
           <div class="lg:card__body content-block">
             <h2>Základní údaje</h2>
