@@ -12,7 +12,15 @@ layout: default
         </div>
       </section>
       <section class="lg:w-2/5 xl:w-1/3 lg:pt-0">
-        <img src="https://dary.pirati.cz/media/images/crowd-3513217_1280.width-500.jpg" alt="Darujte Pirátům]" width="450">
+        <div class="lg:card lg:elevation-10">
+          <div class="lg:card__body content-block">
+            <h2>Základní údaje</h2>
+            <div class="space-y-4">
+              {% include contacts/summary-table.html %}
+    		      <p>Každý člen strany má email ve tvaru: <tt>jmeno.prijmeni@pirati.cz</tt></p>
+            </div>
+          </div>
+        </div>
       </section>
     </div>
     {% include social.html %}
