@@ -11,5 +11,5 @@ Přidejte se k našim pravidelným dárcům a staňte se klíčovou součástí 
 [![Chci darovat!](/assets/img/button-chci-darovat.png)](https://dary.pirati.cz/podpor-kraj/praha/adresne-dary-pro-ks-praha/?p=110108)
 
 <div class="mb-4">
-{% include buttons/icon.html href="https://dary.pirati.cz/podpor-kraj/praha/adresne-dary-pro-ks-praha/?p=110108" cta="Chci darovat" icon="ico--donation-outline" class="content-block--nostyle btn--hoveractive btn--to-red-300" %}
+{% include buttons/icon.html href="https://dary.pirati.cz/podpor-kraj/praha/adresne-dary-pro-ks-praha/?p=110108" cta="Chci darovat" icon="ico--donation-outline" class="content-block--nostyle btn--hoveractive btn--to-blue-300" %}
 </div>
