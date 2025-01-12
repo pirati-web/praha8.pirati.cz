@@ -22,9 +22,10 @@ profiles:
   odmeny:    https://nalodeni.pirati.cz/odmeny/martin.sterba
   kalendar:  https://outlook.office365.com/calendar/published/6344ef480955484988e621ec1e641e9b@praha8.cz/512551528c9b4dfc9e8a048dbbb8f76a10339014100241533638/calendar.html
 funkce:
-  - zastupitel MČ Praha 8
   - předseda MS Praha 8
   - předseda zastupitelského klubu
+funkce-verejne:
+  - zastupitel MČ Praha 8
   - předseda kontrolního výboru ZMČP8
   - předseda komise RHMP pro veřejnou dopravu 
   - místopředseda Redakční rady časopisu Osmička
