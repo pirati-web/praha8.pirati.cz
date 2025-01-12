@@ -9,6 +9,7 @@ profession: systémový knihovník
 partyUid: pirati
 mail:
   - jan.kolator@pirati.cz
+mob: +420 728 880 157
 profiles:
   facebook: https://www.facebook.com/jan.kolator.1
   odmeny:   https://nalodeni.pirati.cz/odmeny/jan.kolator

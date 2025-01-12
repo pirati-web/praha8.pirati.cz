@@ -9,6 +9,7 @@ profession: copywriterka, scenáristka
 partyUid: pirati
 mob:
 mail: karolina.gattermayerova@pirati.cz
+mob: +420 777 864 247
 profiles:
   facebook:  https://www.facebook.com/kaja.litschova
   linkedin:  https://cz.linkedin.com/in/karol%C3%ADna-gattermayerov%C3%A1-a4b454131

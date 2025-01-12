@@ -9,6 +9,7 @@ profession: nezávislý konzultant
 partyUid: pirati
 mail:
   - michal.novak@pirati.cz
+mob: +420 603 170 430
 profiles:
   facebook:  https://www.facebook.com/icydicey
   twitter:   https://twitter.com/xelagem

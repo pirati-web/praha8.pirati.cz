@@ -8,6 +8,7 @@ heroImg: posts/praha8-zvysky.png
 profession: právník, člen dozorčí rady
 partyUid: pirati
 mail: jakub.jiran@pirati.cz
+mob: +420 602 724 273
 profiles:
   facebook: https://www.facebook.com/jakub.jiran.33
   linkedin: https://www.linkedin.com/in/jakub-jiran-83341095/
