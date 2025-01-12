@@ -15,6 +15,7 @@ layout: default
       <div class="flag head-alt-base bg-red-600 text-white">
       <a href="https://dary.pirati.cz/podpor-kraj/praha/adresne-dary-pro-ks-praha/?p=110108">Chci darovat</a>
     </div>
+    <br />
       </section>
       <section class="lg:w-2/5 xl:w-1/3 lg:pt-0">
         <img src="https://dary.pirati.cz/media/images/crowd-3513217_1280.width-500.jpg" alt="Darujte Pirátům]">
