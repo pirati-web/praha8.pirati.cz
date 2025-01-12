@@ -12,7 +12,7 @@ layout: default
         </div>
       </section>
       <section class="lg:w-2/5 xl:w-1/3 lg:pt-0">
-        <img src="https://dary.pirati.cz/media/images/crowd-3513217_1280.width-500.jpg" alt="Darujte Pirátům]" width="450">
+        <img src="https://dary.pirati.cz/media/images/crowd-3513217_1280.width-500.jpg" alt="Darujte Pirátům]">
       </section>
     </div>
     {% include social.html %}
