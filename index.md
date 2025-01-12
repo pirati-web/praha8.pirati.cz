@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<article class="hero hero--image " style="--image-url: url(http://praha8.pirati.cz/assets/img/hero-home-pozadi.jpg)">
+<article class="hero hero--image " style="--image-url: url(http://praha8.pirati.cz/assets/video/video-intro.mp4)">
   <div class="container grid lg:grid-rows-4 lg:grid-cols-7 gap-2 items-center">
     <div class="lg:row-span-4 lg:col-span-3 order-1">
       <h1 class="head-alt-md md:head-alt-xl">Jsme Pirátky<br />a Piráti z osmičky.<br />Máme odvahu dělat, co je správné!</h1>
