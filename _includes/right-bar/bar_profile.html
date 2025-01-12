@@ -42,7 +42,7 @@
     <div class="space-y-4">
       {% if page.mob %}
         <div>
-          <<h1 class="head-alt-2xs">Telefon</h1>
+          <h1 class="head-alt-2xs">Telefon</h1>
           {% capture href %}tel:{{ page.mob }}{% endcapture %}
           {% include contact-line.html icon="ico--phone" href=href caption=page.mob %}
         </div>
@@ -56,7 +56,7 @@
       {% endif %}
       {% if page.profiles.odmeny or page.profiles.evidence or page.profiles.report %}
         <div>
-          <h1 class="head-alt-sm">Pirátské přehledy/h1>
+          <h1 class="head-alt-xs">Pirátské přehledy/h1>
           {% if page.profiles.kalendar %}{% include contact-line.html icon="ico--calendar" href=page.profiles.kalendar caption="Otevřený kalendář" %}{% endif %}
           {% if page.profiles.odmeny %}{% include contact-line.html icon="ico--xxx bi bi-credit-card-fill" href=page.profiles.odmeny caption="Příjmy z veřejných financí" %}{% endif %}
           {% if page.profiles.evidence %}{% include contact-line.html icon="ico--xxx bi bi-people-fill" href=page.profiles.evidence caption="Evidence kontaktů a schůzek" %}{% endif %}
@@ -67,7 +67,7 @@
 
   {% if page.asistenti %}
     <hr />
-    <h1 class="head-alt-sm">Asistenti/h1>
+    <h1 class="head-alt-xs">Asistenti/h1>
     <div class="space-y-4 mt-4">
       {% for asistent in page.asistenti %}
         {% include people/profile-badge.html class="badge--condensed" item=asistent description=asistent.position hideAvatar=true %}
@@ -78,7 +78,7 @@
   {% if page.office %}
     <hr />
     {% assign kancl = page.office | first %}
-    <h1 class="head-alt-sm">Kancelář</h1>
+    <h1 class="head-alt-xs">Kancelář</h1>
     <iframe
       height="150"
       frameborder="0"
