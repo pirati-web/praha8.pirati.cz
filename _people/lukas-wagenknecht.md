@@ -19,7 +19,8 @@ profiles:
   web:        https://lukaswagenknecht.cz/
   wikipedia:  https://cs.wikipedia.org/wiki/Luk%C3%A1%C5%A1_Wagenknecht
   flickr:     https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=luk%C3%A1%C5%A1%20wagenknecht
-funkce:
+funkce-strana:
+funkce-verejne:
   - předseda <a href="https://www.psas.cz/organy-spolecnosti">dozorčí rady Pražské služby, a.s.</a>
   - člen <a href="https://www.ppas.cz/o-nas">dozorčí rady Pražská plynárenská, a.s.</a>
 asistenti:

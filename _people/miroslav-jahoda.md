@@ -11,7 +11,8 @@ profiles:
   facebook: https://www.facebook.com/jahodamira
   linkedin: https://www.linkedin.com/in/mirajahoda/
   web:      https://mirajahoda.cz/
-funkce:
+funkce-strana:
+funkce-verejne:
 ---
 
 Jsem markeťák, kterému nedá politika spát. Specializuju se na marketingové strategie, sociální sítě a obsahový marketing.

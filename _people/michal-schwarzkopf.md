@@ -10,7 +10,8 @@ profession: finanční konzultant
 partyUid: pirati
 mail:
   - michal.schwarzkopf@pirati.cz
-profiles:
+funkce-strana:
+funkce-verejne:
 ---
 
 Michal Schwarzkopf je od roku 2018 součástí místního sdružení na Praze 8. Vystudoval střední průmyslovou školu dopravní v Praze a posléze pokračoval vysokoškolským studiem na České zemědělské univerzitě kde získal titul Ing. a Ph.D. V průběhu studia se specializoval na oblast dopravy.

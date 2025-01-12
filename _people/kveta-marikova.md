@@ -10,7 +10,8 @@ profession: knihovnice
 partyUid: pirati
 mail:
   - kveta.marikova@pirati.cz
-funkce:
+funkce-strana:
+funkce-verejne:
   - členka komise RMČP8 pro sociální věci a zdravotnictví
 profiles:
   facebook: https://www.facebook.com/kveta.kvitek

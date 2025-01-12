@@ -10,7 +10,8 @@ partyUid: bezpp
 mail:
 profiles:
   facebook:  https://www.facebook.com/jitka.novotna.7528
-funkce:
+funkce-strana:
+funkce-verejne:
 ---
 
 Studovala na matematickém gymnáziu v Bílovci a následně Matfyz, obor Informatika, zaměření Diskrétní modely a algoritmy. Následně pracovala jako testerka v SUSE Linuxu a studovala doktorát na ČVUT. Je dlouholetou uživatelkou Linuxu, organizovala šifrovačku PoŠkole. Mezi její další zájmy patří larpy, cestování a horolezectví.

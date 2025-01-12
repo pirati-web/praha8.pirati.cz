@@ -11,7 +11,8 @@ mail:
  - andrea.vildova@pirati.cz
 profiles:
   facebook: https://www.facebook.com/andrea.valova.3
-funkce:
+funkce-strana:
+funkce-verejne:
  - členka školské rady SŠ designu a umění, knižní kultury a ekonomiky Náhorní
  - členka školské rady Gymnázia Ústavní
 

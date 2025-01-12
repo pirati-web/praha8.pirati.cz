@@ -9,7 +9,8 @@ profession: obchodní manažer
 partyUid: bezpp
 mail:
 profiles:
-funkce:
+funkce-strana:
+funkce-verejne:
 ---
 
 Vystudoval jsem práva, ale po škole jsem zakotvil ve světě technologií a pracuji v mezinárodní firmě, kde mám na starosti obchod.

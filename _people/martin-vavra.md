@@ -8,6 +8,8 @@ heroImg: posts/praha8-zvysky.png
 profession: programátor mobilních aplikací
 partyUid: bezpp
 mail:
+funkce-strana:
+funkce-verejne:
 profiles:
   - facebook: https://www.facebook.com/martin.vavra.56
 ---

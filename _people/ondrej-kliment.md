@@ -11,6 +11,8 @@ partyUid: pirati
 mail:
   - ondrej.kliment@pirati.cz
 profiles:
+funkce-strana:
+funkce-verejne:
 ---
 
 **Ondřej Kliment** (1987) je člen Pirátské strany od dubna 2018. Ondřej pochází z Prahy a žije v Praze 8 - Kobylisích.

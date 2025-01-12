@@ -12,7 +12,8 @@ mail:
 profiles:
   facebook: https://www.facebook.com/profile.php?id=100005366627938
   twitter:  https://twitter.com/VBlahos
-funkce:
+funkce-strana:
+funkce-verejne:
 ---
 
 Je mi 20 let a jsem studentem na fakultě mezinárodních vztahů VŠE. Studuji zde mezinárodní studia a diplomacii, což je obor, kterému bych se chtěl v budoucnu profesně věnovat. Celý život bydlím v Bohnicích.

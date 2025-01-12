@@ -10,7 +10,8 @@ partyUid: bezpp
 mail:
 profiles:
   - facebook: https://www.facebook.com/lukas.kost.94
-funkce:
+funkce-strana:
+funkce-verejne:
 ---
 
 Lukáš Kost pracuje jako učitel na základní a střední škole. Je registrovaným příznivcem Pirátů, kandidoval za ně v komunálních volbách 2018 do Zastupitelstva městské části Praha 8 a po volbách se stal členem komise pro sport, mládež a grantovou politiku Rady městské části.

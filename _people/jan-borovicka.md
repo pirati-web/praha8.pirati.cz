@@ -12,7 +12,8 @@ profiles:
   facebook: https://www.facebook.com/HonzaBorovicka1712
   instagram: https://www.instagram.com/pirathonza
   linkedin: https://www.linkedin.com/in/jan-borovicka/
-funkce:
+funkce-strana:
+funkce-verejne:
 ---
 
 Členem Pirátů jsem od listopadu 2024, registrovaným příznivcem jsem se stal o pár měsíců dříve. Zajímám se o hudbu, focení, natáčení a sociální sítě, dopravu a nová efektivní řešení. V těchto oblastech také pomáhám Pirátům. Rád objevuji nová místa a zajímavé kavárny. Pracovně se pohybuji na pomezí vzdělávání, administrativy a marketingu.

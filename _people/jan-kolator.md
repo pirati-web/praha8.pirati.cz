@@ -13,9 +13,10 @@ profiles:
   facebook: https://www.facebook.com/jan.kolator.1
   odmeny:   https://nalodeni.pirati.cz/odmeny/jan.kolator
   linkedin: https://www.linkedin.com/in/jan-kol%C3%A1tor-a05499a1/
-funkce:
-  - zastupitel MČ Praha 8
+funkce-strana:
   - místopředseda MS Praha 8
+funkce-verejne:
+  - zastupitel MČ Praha 8
   - člen komise RMČP8 pro bezpečnost
   - člen komise RMČP8 pro informatiku
   - člen školské rady ZŠ LOPES Čimice

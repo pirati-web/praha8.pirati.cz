@@ -9,7 +9,8 @@ profession: překladatel, knihkupec
 partyUid: pirati
 mail:
   - tomas.marik@pirati.cz
-funkce:
+funkce-strana:
+funkce-verejne:
   - člen komise RMČP8 pro životní prostředí
   - člen školské rady ZŠ Palmovka
 profiles:

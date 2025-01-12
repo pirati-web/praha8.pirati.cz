@@ -15,7 +15,8 @@ profiles:
   linkedin:  https://www.linkedin.com/in/franc/
   instagram: https://www.instagram.com/pfranc/
   odmeny:    https://nalodeni.pirati.cz/odmeny/pavel.franc
-funkce:
+funkce-strana:
+funkce-verejne:
   - zastupitel MČ Praha 8
   - zmocněnec MČ Praha 8 pro CityVizor
   - zástupce MČ Praha 8 v projektu “Budujeme Evropu se zástupci místních samospráv”

@@ -17,11 +17,12 @@
 {% if page.partyUid or page.funkce %}
   <hr />
   {% if page.partyUid %}{% include party.html uid=page.partyUid %}{% endif %}
-  {% if page.funkce %}
+  {% if page.funkce-strana %}
+  <hr />
   <div class="mt-4">
      <h1 class="head-alt-2xs">Stranické funkce</h1>
-    {% for funkce in page.funkce %}
-      {% include contact-line.html icon="ico--xxx bi bi-rocket-takeoff" caption=funkce %}
+    {% for funkce-strana in page.funkce-strana %}
+      {% include contact-line.html icon="ico--xxx bi bi-rocket-takeoff" caption=funkce-strana %}
     {% endfor %}
   </div>
   {% endif %}

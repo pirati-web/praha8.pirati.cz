@@ -14,7 +14,8 @@ profiles:
   facebook: https://www.facebook.com/karel.ptacek.praha8
   evidence:  https://evidence.pirati.cz/author/608/
   odmeny:   https://nalodeni.pirati.cz/odmeny/karel.ptacek
-funkce:
+funkce-strana:
+funkce-verejne:
   - člen komise RMČP8 pro územní rozvoj
 ---
 

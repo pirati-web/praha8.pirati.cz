@@ -12,7 +12,9 @@ mail: karolina.gattermayerova@pirati.cz
 profiles:
   facebook:  https://www.facebook.com/kaja.litschova
   linkedin:  https://cz.linkedin.com/in/karol%C3%ADna-gattermayerov%C3%A1-a4b454131
-funkce:
+funkce-strana:
+  - místopředsedkyně MS Praha 8
+funkce-verejne:
   - členka komise RMČP8 pro kulturu
   - členka správní rady ústavu <a href="https://www.kreativnipraha.eu">Kreativní Praha</a>
 ---

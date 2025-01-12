@@ -11,8 +11,8 @@ mail:
   - alix@guillard.fr
 profiles:
   web: https://alix.guillard.fr
-
-funkce:
+funkce-strana:
+funkce-verejne:
 ---
 
 Jsem francouzským občanem, který už šest let bydlí trvale v Praze 8. Pracuji jako vývojář a rád bych ukázal, že i cizinci mohou kandidovat v komunálních volbách.

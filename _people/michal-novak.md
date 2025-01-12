@@ -13,10 +13,11 @@ profiles:
   facebook:  https://www.facebook.com/icydicey
   twitter:   https://twitter.com/xelagem
   linkedin:  https://www.linkedin.com/in/michalnovakmba/
-funkce:
-  - zastupitel MČ Praha 8
+funkce-strana:
   - místopředseda MS Praha 8
   - místopředseda zastupitelského klubu
+funkce-verejne:
+  - zastupitel MČ Praha 8
   - poradce radního hl. města Prahy pro VVI a vědecko-technologický park 
   - člen komise RMČP8 pro obecní majetek
   - člen komise RMČP8 pro výstavbu ZŠ Rohan

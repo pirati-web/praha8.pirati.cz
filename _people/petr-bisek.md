@@ -8,7 +8,8 @@ profession: publicista, emeritní ředitel American Friends of the Czech republi
 partyUid: pirati
 mail: petr.bisek@pirati.cz
 profiles:
-funkce:
+funkce-strana:
+funkce-verejne:
   - člen komise RMČP8 pro sport a grantovou politiku
   - člen dozorčí rady Střediska Diakonie ČCE Praha
   - člen školské rady Karlínského gymnázia

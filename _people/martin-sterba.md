@@ -21,7 +21,7 @@ profiles:
   evidence:  https://evidence.pirati.cz/author/357/
   odmeny:    https://nalodeni.pirati.cz/odmeny/martin.sterba
   kalendar:  https://outlook.office365.com/calendar/published/6344ef480955484988e621ec1e641e9b@praha8.cz/512551528c9b4dfc9e8a048dbbb8f76a10339014100241533638/calendar.html
-funkce:
+funkce-strana:
   - předseda MS Praha 8
   - předseda zastupitelského klubu
 funkce-verejne:

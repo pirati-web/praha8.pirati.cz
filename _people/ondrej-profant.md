@@ -20,8 +20,8 @@ profiles:
   flickr:    https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=ond%C5%99ej%20profant
   evidence:  https://evidence.pirati.cz/author/8/
   odmeny:    https://nalodeni.pirati.cz/odmeny/ondrej.profant
-funkce:
-  - náměstek ministra pro legislativu ČR
+funkce-strana:
+funkce-verejne:
 mastodon:
   instance: 'https://mastodon.pirati.cz'
   profile: https://mastodon.pirati.cz/@keddie

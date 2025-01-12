@@ -9,7 +9,8 @@ profession: právník na Ministerstvu průmyslu a obchodu
 partyUid: pirati
 mail:
   - ivo.slavka@pirati.cz
-funkce:
+funkce-strana:
+funkce-verejne:
   - zastupitel MČ Praha 8
   - člen komise RMČP8 pro obecní byty
   - člen komise RMČP8 pro bytová družstva a SVJ
