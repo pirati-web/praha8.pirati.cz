@@ -16,9 +16,7 @@ layout: default
         <h2 class="head-alt-md md:head-alt-lg max-w-5xl mb-8">Ozvěte se</h2>
         {% assign team = site.data.teams.contact %}
         {% if team.members.size > 0 %}
-        <section class="bg-black py-4 lg:py-12">
-        <div class="container container--default">
-          <div class="grid gap-4 grid-cols-1 md:grid-cols-2 xl:grid-cols-3">
+        <div class="space-y-8">
           {% for member in team.members %}
             {% unless member.first %}
               {% assign person=site.people | where: "uid", member | first %}
@@ -27,12 +25,17 @@ layout: default
             {% else %}
               {% assign person=member %}
             {% endunless %}
-            {% include people/profile-badge.html item=person description=member.description %}
+            <div>
+              <h2 class="head-heavy-sm mb-2 lg:mb-4">{{ member.description }}</h2>
+              <div class="card elevation-3">
+                <div class="card__body">
+                  {% include people/profile-badge.html item=person %}
+                </div>
+              </div>
+            </div>
           {% endfor %}
-          </div>
         </div>
-       </section>
-       {% endif %}
+        {% endif %}
       </section>
       <section class="lg:w-2/5 xl:w-1/3 lg:pt-0">
         <div class="lg:card lg:elevation-10">
