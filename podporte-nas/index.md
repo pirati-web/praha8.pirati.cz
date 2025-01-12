@@ -13,6 +13,7 @@ Přidejte se k našim pravidelným dárcům a staňte se klíčovou součástí 
     <div class="flag head-alt-base bg-red-600 text-white">
       <a href="https://dary.pirati.cz/podpor-kraj/praha/adresne-dary-pro-ks-praha/?p=110108">Chci darovat</a>
 </div>
+<br/>
 
 ### Proč podporovat Piráty?
 **Sdílíme Vaše hodnoty:** Bojujeme za svobodu, spravedlnost a transparentnost.
