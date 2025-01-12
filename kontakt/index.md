@@ -1,6 +1,6 @@
 ---
 layout: contacts
-title: Přidejte se k nám
+title: Přidejte se k Pirátům
 ---
 
 ### Zajímá vás co děláme na osmičce, a chtěli byste se zapojit?

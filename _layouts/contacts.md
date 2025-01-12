@@ -13,7 +13,7 @@ layout: default
         <br/>
         <br/>
         <br/>
-        <h2 class="head-alt-md md:head-alt-lg max-w-5xl mb-8">Ozvěte se nám</h2>
+        <h2 class="head-alt-md md:head-alt-lg max-w-5xl mb-8">Ozvěte se</h2>
         {% assign team = site.data.teams.contact %}
         {% if team.members.size > 0 %}
         <div class="space-y-8">
