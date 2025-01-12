@@ -8,6 +8,6 @@ title: "Podpořte nás – darujte s odvahou"
 ### Pravidelné dary: Základ naší nezávislosti
 Přidejte se k našim pravidelným dárcům a staňte se klíčovou součástí naší cesty za lepší budoucností. Vaše pravidelné dary nám dávají stabilitu a jistotu. Díky nim můžeme plánovat a realizovat dlouhodobé projekty a kampaně. 🚀
 
-<div class="mb-4">
+<div class="mb-5">
 {% include buttons/icon.html href="https://dary.pirati.cz/podpor-kraj/praha/adresne-dary-pro-ks-praha/?p=110108" cta="Chci darovat" icon="ico--donation-outline" class="content-block--nostyle btn--hoveractive btn--to-blue-300" %}
 </div>
