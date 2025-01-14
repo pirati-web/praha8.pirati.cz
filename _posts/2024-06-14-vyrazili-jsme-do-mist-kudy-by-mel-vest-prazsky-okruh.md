@@ -2,7 +2,7 @@
 title: "Vyrazili jsme do míst, kudy by měl vést Pražský okruh. Chceme, aby byl veden v tunelech"
 author: Martin Štěrba
 image: posts/2024-06-13-prochazka-drahanske-udoli/vychazka-drahan-8.jpg
-tags: [Dálnice D0 - pražský okruh, Doprava, Bohnice, Čimice]
+tags: [Pražský okruh (dálnice D0), Doprava, Bohnice, Čimice]
 fancybox:
   - name: Vycházka Draháňským údolím
     img:

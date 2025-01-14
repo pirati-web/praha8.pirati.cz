@@ -2,7 +2,7 @@
 title: Zástupci vedení Prahy jednali s premiérem Babišem o vnitřním okruhu a Nemocnici Na Bulovce
 author: MHMP
 image: posts/okruh-ukrize.png
-tags: [Bulovka, Doprava, Magistrát]
+tags: [Bulovka, Doprava, Městský okruh, Magistrát]
 ---
 
 **Představitelé vedení hlavního města v čele s primátorem Zdeňkem Hřibem ve středu diskutovali s premiérem ČR Andrejem Babišem několika důležitých tématech, která se týkala majetkových směn se státem.** V souvislosti s pozemky v Letňanech bylo dohodnuto, že bude prověřen alternativní způsob financování Městského okruhu státem. Podíl na financování vnitřního Městského okruhu byl od začátku jednou z podmínek realizace majetkových směn ze strany hlavního města Prahy. V návaznosti na to byly řešeny i majetkové poměry Nemocnice Na Bulovce, která potřebuje další rozvoj a nachází se zde důležitá infekční klinika.

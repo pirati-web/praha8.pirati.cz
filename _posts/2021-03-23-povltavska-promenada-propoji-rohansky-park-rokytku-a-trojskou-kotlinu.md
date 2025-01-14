@@ -2,7 +2,7 @@
 title: Povltavská promenáda propojí Rohanský park, Rokytku a Trojskou kotlinu, magistrát řeší studii
 author: MHMP
 image: posts/okruh-povltavska.jpg
-tags: [Povltavská promenáda, Libeň, Životní prostředí, Magistrát]
+tags: [Povltavská promenáda, Libeň, Životní prostředí, Magistrát, Městský okruh]
 ---
 
 **Pražští radní pověřili Institut plánování a rozvoje hl. m. Prahy (IPR) vypracováním studie na tzv. Povltavskou promenádu Nyní je ulice Povltavská frekventovaná dopravní spojka, která vede z tunelu Blanka směrem do Libně.** Ovšem až dojde k prodloužení Městského okruhu pomocí tunelů v úseku Pelc Tyrolka - Balabenka, bude možné ji výrazně zklidnit. Studie, která bude dokončena v lednu příštího roku, proto bude prověřovat možnosti vzniku budoucí promenády a zeleného propojení s okolními parky.
