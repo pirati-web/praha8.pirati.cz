@@ -2,7 +2,7 @@
 title: "Kumulantům už v české politice pšenka nepokvete, dostanou jen 40 procent platu"
 author: Piráti Praha 8
 image: posts/michalek-snemovna.jpg
-tags: [Sněmovna, ODS, Senát]]
+tags: [Sněmovna, ODS, Senát]
 ---
 
 **To naštve, co? Sněmovna rozhodla, že za druhou funkci dostanou kumulanti maximálně 40% a týkat se to bude i tzv. neuvolněných funkcí skrze které se to mnozí, včetně naší osmičkové místostarostky a senátorky Vladimíry Ludkové, snažili obcházet.**
