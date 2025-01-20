@@ -1,7 +1,7 @@
 ---
 title: "Kumulantům už v české politice pšenka nepokvete, dostanou jen 40 procent platu"
 author: Piráti Praha 8
-image: posts/michalek-snemovna.jpg
+image: posts/jakubmichalek-snemovna.jpg
 tags: [Sněmovna, ODS, Senát]
 ---
 
