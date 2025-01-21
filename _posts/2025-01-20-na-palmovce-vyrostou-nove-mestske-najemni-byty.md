@@ -2,7 +2,8 @@
 title: "Na Palmovce začnou růst nové městské nájemní byty, v budoucnu jich má být až dva tisíce"
 author: Karel Ptáček
 image: posts/vizualizace/palmovka-rohovy-dum/Palmovka_Zenklova_2_MS.jpeg
-tags: [Palmovka, Územní rozvoj, Bydlení]fancybox:
+tags: [Palmovka, Územní rozvoj, Bydlení]
+fancybox:
   - name: Takhle bude nový dům na Palmovce vypadat
     img:
       - { src: posts/vizualizace/palmovka-rohovy-dum/Palmovka_Zenklova_1_MS.jpeg, title: Vizualizace - Pražská developerská společnost }
@@ -22,7 +23,7 @@ tags: [Palmovka, Územní rozvoj, Bydlení]fancybox:
 
 >"Jeden z pilotních projektů nájemního bydlení připravuje Pražská developerská společnost přímo na Palmovce. Moderní objekt má nabídnout kvalitní bydlení se zaměřením na potřebné profese a cílem je podpořit rozvoj nájemního bydlení v Praze. Tento rok se očekává vydání stavebního povolení a následně realizace stavby," říká pirátský zástupce v osmičkové komisi pro územní rozvoj [Karel Ptáček](http://praha8.pirati.cz/lide/karel-ptacek.html).
 
-###Ať už se, prosíme, ta Palmovka konečně začne měnit k lepšímu.
+### Ať už se, prosíme, ta Palmovka konečně začne měnit k lepšímu.
 
 {% for galery in page.fancybox %}
 <div class="mt-4">
