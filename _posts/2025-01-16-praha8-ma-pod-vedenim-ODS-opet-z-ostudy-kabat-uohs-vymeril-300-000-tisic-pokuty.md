@@ -2,7 +2,7 @@
 title: "Praha 8 má kvůli ODS z ostudy kabát, ÚOHS uložil úřadu pokutu 300 tisíc za nedodržování pravidel při zadávání veřejných zakázek"
 author: Piráti Praha 8
 image: posts/zivotniprostredi-uohs.jpg
-tags: [ODS, Životní prostředí]
+tags: [ODS, ÚOHS, Životní prostředí]
 ---
 
 **Praha 8 má pod vedením ODS opět z ostudy kabát. Úřad pro ochranu hospodářské soutěže uložil naší městské části Praha 8 pokutu ve výši 300 tisíc korun za nedodržení pravidel zadávání veřejných zakázek.**
