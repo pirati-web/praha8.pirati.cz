@@ -13,7 +13,7 @@ fancybox:
       - { src: dokumenty/mimoradne-zastupitelstvo-2025-02/obr5.jpeg, title: Mimořádné zastupitelstvo MČ Praha 8}
 ---
 
-**Děkujeme starostovi @Ondřej Gros z ODS za rychlé svolání mimořádného zastupitelstva naší městské části. Uskuteční se ve čtvrtek 6. 2. 2025 od 10 hodin v Bílém domě.**
+**Děkujeme starostovi Ondřeji Grosovi z ODS za rychlé svolání mimořádného zastupitelstva naší městské části. Uskuteční se ve čtvrtek 6. 2. 2025 od 10 hodin v Bílém domě.**
 
 ![Svolání zastupitelstva](/assets/img/dokumenty/zmc-pozvanka-2025-02-25.jpg)
 
