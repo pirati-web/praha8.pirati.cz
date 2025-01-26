@@ -1,7 +1,7 @@
 ---
 title: "Praha urychlí přípravu Městského okruhu a Libeňské spojky"
 author: MHMP
-image: posts/zokruh-ukrize.png
+image: posts/okruh-ukrize.png
 tags: [Doprava, Městský okruh, Magistrát]
 ---
 
