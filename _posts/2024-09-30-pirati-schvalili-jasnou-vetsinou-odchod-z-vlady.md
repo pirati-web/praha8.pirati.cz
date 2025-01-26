@@ -1,6 +1,6 @@
 ---
 title: "Piráti schválili jasnou většinou odchod z vlády kvůli porušení koaliční smlouvy premiérem"
-author: Piráti
+author: Piráti Praha 8
 image: posts/pirati-snemovna.jpg
 tags: [Piráti, Sněmovna]
 ---
