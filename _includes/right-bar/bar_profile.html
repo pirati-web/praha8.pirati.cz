@@ -19,7 +19,7 @@
   {% if page.partyUid %}{% include party.html uid=page.partyUid %}{% endif %}
   {% if page.funkce-strana %}
   <div class="mt-4">
-    <h1 class=""head-alt-xs">Stranické funkce</h1>
+    <h1 class="head-alt-xs">Stranické funkce</h1>
     {% for funkce-strana in page.funkce-strana %}
     {% include contact-line.html icon="ico--xxx bi bi-rocket-takeoff" caption=funkce-strana %}
     {% endfor %}
@@ -28,7 +28,7 @@
   <br/>
   {% if page.funkce-verejne %}
   <div class="mt-4">
-    <h1 class=""head-alt-xs">Veřejné funkce</h1>
+    <h1 class="head-alt-xs">Veřejné funkce</h1>
     {% for funkce-verejne in page.funkce-verejne %}
     {% include contact-line.html icon="ico--xxx bi bi-rocket-takeoff" caption=funkce-verejne %}
     {% endfor %}
