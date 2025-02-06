@@ -5,7 +5,7 @@ image: posts/pirati-8zije.jpg
 tags: [Zastupitelstvo, ODS, ÚOHS, Piráti, Osmička žije]
 ---
 
-**Na dnešním jednání zastupitelstva naší městské části se kluby Pirátů a Osmičky žije společně jasně postavily za to, že máme projednat nedodržování pravidel zadávání veřejných zakázek v letech 2021 až 2023 a a nedávné pravomocné udělení pokuty ve výši 300 000 Kč městské části na základě rozhodnutí ÚOHS.
+**Na dnešním jednání zastupitelstva naší městské části se kluby Pirátů a Osmičky žije společně jasně postavily za to, že máme projednat nedodržování pravidel zadávání veřejných zakázek v letech 2021 až 2023 a a nedávné pravomocné udělení pokuty ve výši 300 000 Kč městské části na základě rozhodnutí ÚOHS.**
 
 Ceníme si toho, že starosta Gros oznámil, že pokutu uhradil 3. 2. ze svého, nicméně jiná možnost mu ani nezbývala – jinak mu hrozil osud někdejšího starosty Prahy 2 za ODS, [jemuž v roce 2015 uhrazení pokuty od ÚOHS nařídil přímo soud](https://zpravy.aktualne.cz/domaci/prvni-starosta-ma-platit-za-zmanipulovanou-zakazku/r~2ece6c40353a11e595f70025900fea04/). Především však máme za to, že to je jen střípek celého problému: nejde jen o pokutu, ale především o to, že jakmile se zakázky zadávají v otevřené soutěži, jejich ceny klesají. Není nadále možné, aby Praha 8 rozdávala veřejné zakázky jen tak z ruky jako na běžícím páse jako se tomu dělo v letech 2021 až 2023. 
 
