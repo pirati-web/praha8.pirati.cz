@@ -82,7 +82,7 @@ komise:
     - { uid: kveta.marikova, description: komise pro sociální věci a zdravotnictví }
     - { uid: jan.kolator, description: komise pro informatiku }
     - { uid: karolina.gattermayerova, description: komise pro kulturu }
-    - { uid: michal.novak, description: "komise pro obecní majetek"
+    - { uid: michal.novak, description: komise pro obecní majetek }
     - { uid: ivo.slavka, description: komise pro obecní byty }
     - { uid: petr.bisek, description: komise pro sport a grantovou politiku }
     - { uid: pavel.franc, description: komise pro školství }
