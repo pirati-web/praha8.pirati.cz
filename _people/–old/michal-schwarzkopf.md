@@ -7,7 +7,7 @@ titles:
 img: people/michal-schwarzkopf-2022.jpg
 heroImg: posts/praha8-zvysky.png
 profession: finanční konzultant
-partyUid: pirati
+partyUid: bezpp
 mail:
   - michal.schwarzkopf@pirati.cz
 funkce-strana:

@@ -10,6 +10,7 @@ contact:
    - { uid: martin.sterba, description: předseda místního sdružení Praha 8}
    - { uid: karolina.gattermayerova, description: kontakt pro nováčky}
    - { uid: jakub.jiran, description: kontakt pro nováčky}
+
 pms:
   name: Předsednictvo MS Praha 8
   members:
@@ -32,6 +33,7 @@ clenove:
     - veronika.siftova
     - andrea.vildova
     - lukas.wagenknecht
+
 regp:
   name: Registrovaní příznivci a podporovatelé MS Praha 8
   members:
@@ -62,6 +64,7 @@ regp:
     - martin.vavra
     - { name: Jakub Vojtíšek }
     - { name: Benjamin Wolf }
+
 zastupitele:
   name: Zastupitelský klub Pirátů
   members:
@@ -71,24 +74,32 @@ zastupitele:
     - { uid: pavel.franc, description: "gesce školství, sport, volný čas a kultura" }
     - { uid: ivo.slavka, description: gesce byty a sociální oblast }
     - { uid: jakub.jiran, description: gesce finance a transparentnost }
+
 komise:
-  name: Komise Rady MČ Praha 8
+  name: Naši zástupci v komisích Rady MČ Praha 8
   members:
-    - { uid: ivo.slavka, description: "člen komise RMČP8 pro obecní byty, člen komise RMČP8 pro bytová družstva a SVJ" }
-    - { uid: jan.kolator, description: "člen komise RMČP8 pro bezpečnost, člen komise RMČP8 pro informatiku" }
-    - { uid: karel.ptacek, description: "člen komise RMČP8 pro územní rozvoj" }
-    - { uid: karolina.gattermayerova, description: členka komise RMČP8 pro kulturu }
-    - { uid: martin.sterba, description: "člen komise RMČP8 pro dopravu, místopředseda Redakční rady časopisu Osmička" }
-    - { uid: michal.novak, description: "člen komise RMČP8 pro obecní majetek, člen komise RMČP8 pro výstavbu ZŠ Rohan" }
-    - { uid: pavel.franc, description: "člen komise RMČP8 pro školství, člen komise RMČP8 pro výstavbu ZŠ Rohan" }
-    - { uid: petr.bisek, description: člen komise RMČP8 pro sport a grantovou politiku }
-    - { uid: kveta.marikova, description: členka komise RMČP8 pro sociální věci a zdravotnictví }
-    - { uid: tomas.marik, description: člen komise RMČP8 pro životní prostředí }
+    - { uid: jan.kolator, description: komise pro bezpečnost }
+    - { uid: kveta.marikova, description: komise pro sociální věci a zdravotnictví }
+    - { uid: jan.kolator, description: komise pro informatiku }
+    - { uid: karolina.gattermayerova, description: komise pro kulturu }
+    - { uid: michal.novak, description: "komise pro obecní majetek"
+    - { uid: ivo.slavka, description: komise pro obecní byty }
+    - { uid: petr.bisek, description: komise pro sport a grantovou politiku }
+    - { uid: pavel.franc, description: komise pro školství }
+    - { uid: martin.sterba, description: komise pro dopravu }
+    - { uid: karel.ptacek, description: komise pro územní rozvoj }
+    - { uid: michal.novak, description: komise pro výstavbu ZŠ Rohan }
+    - { uid: pavel.franc, description: komise pro výstavbu ZŠ Rohan }
+    - { uid: tomas.marik, description: komise pro životní prostředí }
+    - { uid: ivo.slavka, description: komise pro bytová družstva a SVJ }
+    - { uid: martin.sterba, description: Redakční rada časopisu Osmička }
+
 vybory:
-  name: Výbory Zastupitelstva MČ Praha 8
+  name: Naši zástupci ve výborech Zastupitelstva MČ Praha 8
   members:
-    - { uid: martin.sterba, description: předseda kontrolního výboru ZMČP8 }
-    - { uid: jakub.jiran, description: člen finančního výboru ZMČP8 }
+    - { uid: martin.sterba, description: kontrolní výbor ZMČP8 }
+    - { uid: jakub.jiran, description: finanční výboru ZMČP8 }
+
 skolske-rady:
   name: Školské rady
   members:
@@ -98,38 +109,3 @@ skolske-rady:
     - { uid: martin.sterba, description: "ZŠ a MŠ při FN Bulovka" }
     - { uid: petr.bisek, description: "Karlínské gymnázium" }
     - { uid: andrea.vildova, description: "Gymnázium Ústavní, SŠ designu a umění, knižní kultury a ekonomiky Náhorní" }
-
-met.doprava:
-  name: Doprava
-  members:
-    - { uid: martin.sterba, description: "vedoucí, garant oblasti doprava" }
-    - jakub.jiran
-    - michal.novak
-    - pavel.franc
-    - tomas.marik
-met.majetek:
-  name: Majetek a územní rozvoj
-  members:
-    - { uid: michal.novak, description: "vedoucí, garant oblasti majetek" }
-    - { uid: karel.ptacek, description: "garant oblasti územní rozvoj" }
-    - martin.sterba
-    - ivo.slavka
-    - tomas.marik
-met.skolstvi:
-  name: Školství, sport, volný čas a kultura
-  members:
-    - { uid: pavel.franc, description: "vedoucí, garant oblasti školství" }
-    - { uid: karolina.gattermayerova, description: garantka oblasti kultury }
-    - { uid: petr.bisek, description: garant oblasti sportu }
-    - jan.borovicka
-    - andrea.vildova
-    - { name: Theodoros Draksl }
-    - tomas.marik
-    - veronika.siftova
-met.none:
-  name: Oblasti bez expertního týmu
-  members:
-    - { uid: ivo.slavka, description: garant oblasti bytové politiky }
-    - { uid: jan.kolator, description: garant oblasti bezpečnosti a IT }
-    - { uid: kveta.marikova, description: garantka oblasti sociální politiky }
-    - { uid: tomas.marik, description: garant oblasti životní prostředí }
