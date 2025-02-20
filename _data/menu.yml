@@ -14,11 +14,10 @@ main:
     name: Vaši lidé
     submenu:
       - name: Místní sdružení Praha 8
-        link: /lide/mistni-sdruzeni-praha-8/
+        link: /lide/pirati-praha-8/
       - name: Zastupitelstvo MČ Praha 8
-        link: /lide/mestska-cast-praha-8/
-      - name: Místní expertní týmy
-        link: /lide/mistni-expertni-tymy/
+        link: /lide/zastupitelstvo-praha8/
+
   - name: Volby
     submenu:
       - name: Senátní volby 2024
