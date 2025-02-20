@@ -98,14 +98,15 @@ vybory:
   name: Naši zástupci ve výborech Zastupitelstva MČ Praha 8
   members:
     - { uid: martin.sterba, description: kontrolní výbor ZMČP8 }
-    - { uid: jakub.jiran, description: finanční výboru ZMČP8 }
+    - { uid: jakub.jiran, description: finanční výbor ZMČP8 }
 
 skolske-rady:
-  name: Školské rady
+  name: Zástupci zřizovatele ve školských radách
   members:
     - { uid: pavel.franc, description: ZŠ U Školské zahrady }
     - { uid: tomas.marik, description: ZŠ Palmovka }
     - { uid: jan.kolator, description: ZŠ LOPES Čimice }
-    - { uid: martin.sterba, description: "ZŠ a MŠ při FN Bulovka" }
-    - { uid: petr.bisek, description: "Karlínské gymnázium" }
-    - { uid: andrea.vildova, description: "Gymnázium Ústavní, SŠ designu a umění, knižní kultury a ekonomiky Náhorní" }
+    - { uid: martin.sterba, description: ZŠ a MŠ při FN Bulovka }
+    - { uid: petr.bisek, description: Karlínské gymnázium" }
+    - { uid: andrea.vildova, description: Gymnázium Ústavní }
+    - { uid: andrea.vildova, description: "SŠ designu a umění, knižní kultury a ekonomiky Náhorní" }

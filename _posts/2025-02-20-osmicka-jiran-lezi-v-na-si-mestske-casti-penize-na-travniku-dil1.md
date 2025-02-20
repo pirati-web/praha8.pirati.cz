@@ -1,7 +1,7 @@
 ---
 title: "Jakub Jiran: Leží v naší městské části peníze na trávníku?"
 author: Jakub Jiran
-image: posts/zivotniprostredi-stromy2
+image: posts/zivotniprostredi-stromy2.jpg
 tags: [Zastupitelstvo, ODS, ÚOHS, Časopis Osmička]
 ---
 
