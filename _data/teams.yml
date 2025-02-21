@@ -45,7 +45,6 @@ regp:
     - alix.guillard
     - miroslav.jahoda
     - ondrej.kliment
-    - { name: Dan Kobr }
     - { name: Jakub Kočí }
     - lukas.kost
     - tomas.lempera
@@ -55,11 +54,13 @@ regp:
     - { name: Denisa Nováková }
     - jitka.novotna
     - { name: Ladislav Palán }
+    - karel.ptacek
     - { name: Michal Pech }
     - { name: Václav Pokorný }
     - { name: Ladislav Povýšil }
     - { name: Klára Přibáňová }
     - { name: Daniel Rexa }
+    - michal.schwarzkopf
     - { name: Tomáš Szczepanski }
     - martin.vavra
     - { name: Jakub Vojtíšek }
