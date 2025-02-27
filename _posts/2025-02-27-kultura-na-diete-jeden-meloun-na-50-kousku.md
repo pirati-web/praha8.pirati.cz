@@ -5,7 +5,7 @@ image: posts/kultura-karlin1.jpg
 tags: [Komise pro kulturu, Kultura, Dotace, Granty a dotace, Finance]
 ---
 
-**V loňském roce se komise pro kulturu Prahy 8 [usnesla, že "balík" na kulturní dotace](https://www.praha8.cz/file/JrM/KK-22-10-2024-zapis.pdf) by se měl navýšit – a přesto je tam opět jen smutný 1.000.000 Kč. Nemusíte být zrovna velký fanda do umění, aby vás to štvalo. Nevěříte?**
+**V loňském roce se komise pro kulturu Prahy 8 [usnesla, že "balík" na kulturní dotace](https://www.praha8.cz/file/JrM/KK-22-10-2024-zapis.pdf) by se měl navýšit – a přesto je tam opět jen smutný 1 000 000 Kč. Nemusíte být zrovna velký fanda do umění, aby vás to štvalo. Nevěříte?**
 
 Nejedná se totiž o peníze určené jen profesionálním projektům. Tyto dotace pomáhají třeba i místním pěveckým sborům, dětským představením či akcím pro seniory. Loni se tak jeden "meloun" musel rozkrájet mezi 50 žadatelů, a tudíž se k některým z nich dostaly opravdu jen drobky. Vyvstává pak otázka, nakolik jim tyto dotace skutečně pomáhají a nakolik jim pouze přidělávají práci, která se přijatými penězi pomalu ani nepokryje.
 
