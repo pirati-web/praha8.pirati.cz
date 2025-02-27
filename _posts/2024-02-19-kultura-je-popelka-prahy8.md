@@ -2,7 +2,7 @@
 title: "Kultura je taková Popelka Prahy 8, ale i Popelka je akční a má své novinky"
 author: Karolína Gattermayerová
 image: posts/karlin-kultura1.jpg
-tags: [Kultura, Dotace, Inspirováno Hrabalem]
+tags: [Kultura, Granty a dotace, Inspirováno Hrabalem]
 ---
 
 Opět se blíží výběr osobností pro udělení čestných občanství naší městské části. Znáte souseda či sousedku, kteří vás motivovali ve škole, sportu, umění? Kteří pomáhali ostatním? Nebo kteří se zasloužili o slávu Bohnic, Karlína či Kobylis i za hranicemi naší městské části? Nominujte je nebo nám napište, abychom vám s jejich nominací pomohli. 

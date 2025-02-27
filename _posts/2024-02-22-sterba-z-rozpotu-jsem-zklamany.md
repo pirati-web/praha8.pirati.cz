@@ -1,5 +1,5 @@
 ---
-title: "Štěrba: Z rozpočtu pro rok 2024 jsem zklamaný, finance místo investic prožíráme"
+title: "Martin Štěrba: Z rozpočtu pro rok 2024 jsem zklamaný, finance místo investic prožíráme"
 author: Martin Štěrba
 image: posts/libensky-zamek-penize.jpg
 tags: [Finance, Zastupitelstvo]
