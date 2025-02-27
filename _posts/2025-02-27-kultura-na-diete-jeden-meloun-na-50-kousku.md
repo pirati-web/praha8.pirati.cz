@@ -1,5 +1,5 @@
 ---
-title: "Kultura na dietě. Jeden 'meloun' na 50 kousků"
+title: "Kultura na dietě. Jeden 'meloun' na padesát kousků"
 author: Karolína Gattermayerová
 image: posts/kultura-karlin1.jpg
 tags: [Komise pro kulturu, Kultura, Dotace, Granty a dotace, Finance]
