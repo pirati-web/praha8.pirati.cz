@@ -1,7 +1,7 @@
 ---
 title: "Martin Štěrba: Praha 8 má koncem února konečně rozpočet pro letošní rok! Já z něj ale rozhodně nadšený nejsem"
 author: Martin Štěrba
-image: posts/finance2.png
+image: posts/finance1.jpg
 tags: [Zastupitelstvo, Finance]
 ---
 
