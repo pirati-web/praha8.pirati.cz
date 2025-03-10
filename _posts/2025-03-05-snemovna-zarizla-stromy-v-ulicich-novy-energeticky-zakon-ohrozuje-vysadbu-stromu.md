@@ -1,7 +1,7 @@
 ---
 title: "Sněmovna zařízla stromy v ulicích, nový energetický zákon ohrožuje výsadbu stromů"
 author: Martin Štěrba
-image: posts/ekrizikova-googlemaps.jpg
+image: posts/krizikova-googlemaps.jpg
 tags: [Sněmovna, Životní prostředí]
 ---
 
