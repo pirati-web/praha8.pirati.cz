@@ -8,7 +8,6 @@ heroImg: posts/praha8-zvysky.png
 profession: IT manažer
 partyUid: bezpp
 mail:
- - pavel.franc@pirati.cz
 profiles:
   facebook:  https://www.facebook.com/pfranc
   mastodon:  https://mastodon.pirati.cz/@pfranc
