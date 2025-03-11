@@ -6,7 +6,7 @@ titles:
 img: people/pavel-franc-2022.jpg
 heroImg: posts/praha8-zvysky.png
 profession: IT manažer
-partyUid: pirati
+partyUid: bezpp
 mail:
  - pavel.franc@pirati.cz
 profiles:
@@ -30,7 +30,7 @@ mastodon:
   limit: 5
 ---
 
-Pavel je členem Pirátské strany a místního sdružení Praha 8. Pavel pochází z Liberce a od roku 2006 žije trvale (přechodně už od 1996) v Praze 8 - Kobylisích. Od roku 2018 je zastupitelem městské části Praha 8.
+Pavel pochází z Liberce a od roku 2006 žije trvale (přechodně už od 1996) v Praze 8 - Kobylisích. Od roku 2018 je zastupitelem městské části Praha 8.
 
 Vystudoval magisterský obor Matematické struktury na MFF UK. Rovněž studoval matematiku dva roky na KSU v USA, kde získal titul M.S.
 
