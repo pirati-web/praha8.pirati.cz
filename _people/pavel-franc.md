@@ -22,11 +22,6 @@ funkce-verejne:
   - člen komise RMČP8 pro školství
   - člen komise RMČP8 pro výstavbu ZŠ Rohan
   - člen školské rady ZŠ U Školské zahrady
-mastodon:
-  instance: 'https://mastodon.pirati.cz'
-  profile: https://mastodon.pirati.cz/@pfranc
-  userId: '109331454016420420'
-  limit: 5
 ---
 
 Pavel pochází z Liberce a od roku 2006 žije trvale (přechodně už od 1996) v Praze 8 - Kobylisích. Od roku 2018 je zastupitelem městské části Praha 8.
