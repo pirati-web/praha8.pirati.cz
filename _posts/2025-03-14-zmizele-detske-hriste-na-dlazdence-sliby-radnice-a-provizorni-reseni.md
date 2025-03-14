@@ -2,7 +2,7 @@
 title: "Zmizelé dětské hřiště na Dlážděnce – Sliby radnice a provizorní řešení"
 author: Andrea Vildová
 image: posts/park-dlazdenka-2.jpg
-tags: [Park Dlážděnka, Kobylisy, Životní prostředí]
+tags: [Časopis Osmička, Park Dlážděnka, Kobylisy, Životní prostředí]
 ---
 
 Kdysi oblíbené dětské hřiště v parku Dlážděnka zmizelo při rekonstrukci parku, která začala v roce 2022. Po slibech radnice o jeho návratu při druhé etapě opravy přišlo dlouhé čekání, rozsáhlá petice, zájem médií, soudní spory a nakonec… malé provizorní hřišťátko pro menší děti, které je sice nové, ale tak nešťastně umístěné, že v létě připomíná spíš horkou plotnu než místo pro dětské hry.
