@@ -1,10 +1,10 @@
 ---
 title: "Palmovka díky sousedskému úklidu prokoukla"
 author: Piráti Praha á
-image: posts/2025-03-16-uklid-palmovky/uklid-palmovka3.jpg
+image: posts/2025-03-16-uklid-palmovky/uklid-palmovka2.jpg
 tags: [Palmovka, Životní prostředí]
 fancybox:
-  - name: Takhle bude nový dům na Palmovce vypadat
+  - name: Stačilo málo, podívejte se
     img:
       - { src: posts/2025-03-16-uklid-palmovky/uklid-palmovka1.jpg, title: Sousedská akce na Palmovce }
       - { src: posts/2025-03-16-uklid-palmovky/uklid-palmovka2.jpg, title: Sousedská akce na Palmovce }
