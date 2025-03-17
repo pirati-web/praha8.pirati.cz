@@ -16,7 +16,7 @@ fancybox:
 
 **Palmovka vypadá zase o kousek líp než dřív. Dnes ráno jsme se do toho pustili s našimi sousedy, ale také s lidmi z kavárny Pauza Palmovka a kolegy z opozičních stran Osmička žije, Mourek a Zelení. Naplnili jsme spoustu pytlů s odpadky, odstranili náletové křoviny a také upravili cesty. Mimochodem mají tu skvělou kávu, tak se tu také stavte.**
 
-"Palmovka prokoukla. A rád jsem tomu trošku pomohl. Do dnešní nedělní úklidové sousedské akce se zapojily desítky lidí, kterým není jedno, jak to u nás na osmičce vypadá," říká předseda osmičkových Pirátů Martin Štěrba. 
+>"Palmovka prokoukla. A rád jsem tomu trošku pomohl. Do dnešní nedělní úklidové sousedské akce se zapojily desítky lidí, kterým není jedno, jak to u nás na osmičce vypadá," říká předseda osmičkových Pirátů Martin Štěrba. 
 
 {% for galery in page.fancybox %}
 <div class="mt-4">
