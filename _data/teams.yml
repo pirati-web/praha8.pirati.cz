@@ -33,39 +33,6 @@ clenove:
     - andrea.vildova
     - lukas.wagenknecht
 
-regp:
-  name: Registrovaní příznivci a podporovatelé MS Praha 8
-  members:
-    - { name: Radim Anton }
-    - vojtech.blahos
-    - { name: Jan Brandejs }
-    - { name: Theodor Draksl }
-    - pavel.franc
-    - { name: Josef Gajdoš}
-    - alix.guillard
-    - miroslav.jahoda
-    - ondrej.kliment
-    - { name: Jakub Kočí }
-    - lukas.kost
-    - tomas.lempera
-    - { name: Pavel Mitošinka }
-    - iva.nachtmannova
-    - { name: Jindřiška Netrestová }
-    - { name: Denisa Nováková }
-    - jitka.novotna
-    - { name: Ladislav Palán }
-    - karel.ptacek
-    - { name: Michal Pech }
-    - { name: Václav Pokorný }
-    - { name: Ladislav Povýšil }
-    - { name: Klára Přibáňová }
-    - { name: Daniel Rexa }
-    - michal.schwarzkopf
-    - { name: Tomáš Szczepanski }
-    - martin.vavra
-    - { name: Jakub Vojtíšek }
-    - { name: Benjamin Wolf }
-
 zastupitele:
   name: Zastupitelský klub Pirátů
   members:
