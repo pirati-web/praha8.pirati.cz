@@ -6,12 +6,12 @@ tags: [Palmovka, Životní prostředí]
 fancybox:
   - name: Takhle bude nový dům na Palmovce vypadat
     img:
-      - { src: 2025-03-16-uklid-palmovky/uklid-palmovka1.jpg, title: Sousedská akce na Palmovce }
-      - { src: 2025-03-16-uklid-palmovky/uklid-palmovka2.jpg, title: Sousedská akce na Palmovce }
-      - { src: 2025-03-16-uklid-palmovky/uklid-palmovka3.jpg, title: Sousedská akce na Palmovce }
-      - { src: 2025-03-16-uklid-palmovky/uklid-palmovka4.jpg, title: Sousedská akce na Palmovce }
-      - { src: 2025-03-16-uklid-palmovky/uklid-palmovka5.jpg, title: Sousedská akce na Palmovce }
-      - { src: 2025-03-16-uklid-palmovky/uklid-palmovka6.jpg, title: Sousedská akce na Palmovce }
+      - { src: posts/2025-03-16-uklid-palmovky/uklid-palmovka1.jpg, title: Sousedská akce na Palmovce }
+      - { src: posts/2025-03-16-uklid-palmovky/uklid-palmovka2.jpg, title: Sousedská akce na Palmovce }
+      - { src: posts/2025-03-16-uklid-palmovky/uklid-palmovka3.jpg, title: Sousedská akce na Palmovce }
+      - { src: posts/2025-03-16-uklid-palmovky/uklid-palmovka4.jpg, title: Sousedská akce na Palmovce }
+      - { src: posts/2025-03-16-uklid-palmovky/uklid-palmovka5.jpg, title: Sousedská akce na Palmovce }
+      - { src: posts/2025-03-16-uklid-palmovky/uklid-palmovka6.jpg, title: Sousedská akce na Palmovce }
 ---
 
 **Palmovka vypadá zase o kousek líp než dřív. Dnes ráno jsme se do toho pustili s našimi sousedy, ale také s lidmi z kavárny Pauza Palmovka a kolegy z opozičních stran Osmička žije, Mourek a Zelení. Naplnili jsme spoustu pytlů s odpadky, odstranili náletové křoviny a také upravili cesty. Mimochodem mají tu skvělou kávu, tak se tu také stavte.**
