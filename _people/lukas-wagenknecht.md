@@ -6,7 +6,7 @@ titles:
 img: people/lukas-wagenknecht-2024.jpg
 heroImg: posts/praha8-zvysky.png
 profession: ekonom, auditor
-partyUid: pirati
+partyUid: bezpp
 mob: +420 608 303 542
 mail:
  - wagenknechtl@senat.cz
