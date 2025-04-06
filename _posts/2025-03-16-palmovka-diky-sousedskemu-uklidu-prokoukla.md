@@ -1,6 +1,6 @@
 ---
 title: "Palmovka díky sousedskému úklidu prokoukla"
-author: Piráti Praha á
+author: Piráti Praha 8
 image: posts/2025-03-16-uklid-palmovky/uklid-palmovka2.jpg
 tags: [Palmovka, Životní prostředí]
 fancybox:
