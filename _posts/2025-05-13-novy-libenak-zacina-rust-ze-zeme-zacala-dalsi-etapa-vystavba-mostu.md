@@ -8,13 +8,12 @@ fancybox:
     img:
       - { src: posts/2025-05-13-zahajeni-libensky-most/libenak_1.jpg, title: Zahájení stavby 1. etapy nového Libeňského mostu }
       - { src: posts/2025-05-13-zahajeni-libensky-most/libenak_2.jpg, title: Zahájení stavby 1. etapy nového Libeňského mostu }
-      - { src: posts/2025-05-13-zahajeni-libensky-most/libenak_3.jpg, title: Zahájení stavby 1. etapy nového Libeňského mostu }
+      - { src: posts/2025-05-13-zahajeni-libensky-most/libenak_9.jpg, title: Zahájení stavby 1. etapy nového Libeňského mostu }
       - { src: posts/2025-05-13-zahajeni-libensky-most/libenak_4.jpg, title: Zahájení stavby 1. etapy nového Libeňského mostu }
       - { src: posts/2025-05-13-zahajeni-libensky-most/libenak_5.jpg, title: Zahájení stavby 1. etapy nového Libeňského mostu }
       - { src: posts/2025-05-13-zahajeni-libensky-most/libenak_6.jpg, title: Zahájení stavby 1. etapy nového Libeňského mostu }
       - { src: posts/2025-05-13-zahajeni-libensky-most/libenak_7.jpg, title: Zahájení stavby 1. etapy nového Libeňského mostu }
       - { src: posts/2025-05-13-zahajeni-libensky-most/libenak_8.jpg, title: Zahájení stavby 1. etapy nového Libeňského mostu }
-      - { src: posts/2025-05-13-zahajeni-libensky-most/libenak_9.jpg, title: Zahájení stavby 1. etapy nového Libeňského mostu }
 ---
 
 **Most pro budoucí generace. Dnes začala další etapa výstavby nového Libeňského mostu – konkrétně na naší osmičkové části. Vzniká nový tzv. inundační most a přemostění Štorchovy ulice. Postupně už začíná růst do výšky.**
