@@ -10,7 +10,6 @@ fancybox:
       - { src: posts/2021-11-24-florenc21/florenc4.jpg, title: Budoucí podoba Florence podle architektů }  
       - { src: posts/2021-11-24-florenc21/florenc7.jpg, title: Budoucí podoba Florence podle architektů }  
       - { src: posts/2021-11-24-florenc21/florenc8.png, title: Budoucí podoba Florence podle architektů }  
-
 ---
 
 **Na Florenci vyroste úplně nová čtvrť. Na středečním zastupitelstvu Prahy 8 jsem podpořil velkou věc – a to  usnesení, které umožňuje zastavět areál autobusového nádraží na Florenci. Nejpozději do roku 2041 tady díky změně územnímu plánu najdou nový domov tisíce lidí. Praha 8 získá od developera novou čtyřtřídní školku a také několik menších dostupných bytů, které budeme moci nabídnout těm, kteří je skutečně potřebují.** 
