@@ -15,14 +15,12 @@ tags: [Piráti, Sněmovna, Volby 2025]
 
 <iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Fceska.piratska.strana%2Fvideos%2F911790744387127%2F&show_text=true&width=380&t=0" width="380" height="591" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
-Hlavní programové priority Pirátů jsou:
-- Nižší daně pro 90 % rodin – víc peněz lidem, méně byrokracie.
-- 200 000 nových domovů – dostupné bydlení pro mladé, seniory i studenty.
-- Nové čtvrti krátkých vzdáleností – městské nájemní byty u dopravních uzlů.
-- Dostupné vzdělání bez školného – ať mají děti i studenti šanci bez ohledu na příjem rodiny.
-- Bezpečnost i obrana – moderní stát musí chránit své občany.
-- Boj s korupcí a daňovými úniky – žádné peníze do černých děr, ale do škol, nemocnic a služeb.
-
-Máme odborníky a tváře, kteří vědí, jak nakopnout Prahu!
+### Hlavní programové priority Pirátů jsou:
+- **Nižší daně pro 90 % rodin** – víc peněz lidem, méně byrokracie.
+- **200 000 nových domovů** – dostupné bydlení pro mladé, seniory i studenty.
+- **Nové čtvrti krátkých vzdáleností** – městské nájemní byty u dopravních uzlů.
+- **Dostupné vzdělání bez školného** – ať mají děti i studenti šanci bez ohledu na příjem rodiny.
+- **Bezpečnost i obrana** – moderní stát musí chránit své občany.
+- **Boj s korupcí a daňovými úniky** – žádné peníze do černých děr, ale do škol, nemocnic a služeb.
 
 ### Budeme rádi, pokud 3. a 4. října budete do Sněmovny volit Piráty. A když budete chtít, můžete kroužkovat třeba i kandidátky z osmičky. Nakopneme to!
