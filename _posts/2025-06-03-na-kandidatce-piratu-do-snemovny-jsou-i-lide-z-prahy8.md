@@ -1,5 +1,5 @@
 ---
-title: "Z osmičky až do Sněmovny? Na pirátské kandidátce jsou i lidé z Prahy 8"
+title: "Z osmičky až do Sněmovny? Na pražské pirátské kandidátce jsou i lidé z Prahy 8"
 author: Piráti Praha 8
 image: posts/volby2025_snemovna-praha8.jpg
 tags: [Piráti, Sněmovna, Volby 2025]

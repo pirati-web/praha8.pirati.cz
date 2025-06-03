@@ -1,5 +1,5 @@
 ---
-title: "Ideální parking na Florenci vyparkován!"
+title: "Ideální parking na Florenci konečně vyparkován!"
 author: Zdeněk Hřib
 image: posts/zdenekhrib-florenc.jpg
 tags: [Doprava, Florenc]
