@@ -5,7 +5,7 @@ image: posts/volby2025_snemovna-praha8.jpg
 tags: [Piráti, Sněmovna, Volby 2025]
 ---
 
-**Na pirátské kandidátce do Sněmovny bude mít zastoupená i osmička. V čele kandidátce jsou Zdeněk Hřib, Olga Richterová, Václav Vislous, Libor Dušek a mnozí další. A právě jim budou na kandidátce krýt záda i tři tváře z osmičky.**
+**Na pirátské kandidátce do Sněmovny bude mít zastoupení i osmička. V čele kandidátce jsou Zdeněk Hřib, Olga Richterová, Václav Vislous, Libor Dušek a mnozí další. A právě jim budou na kandidátce krýt záda i tři tváře z osmičky.**
 
 **Ptr Bísek (číslo 25)** – publicista, emeritní ředitel American Friends of the Czech Republic, který má výraznou zásluhu na tom, že Česko vstoupilo do NATO. 
 
