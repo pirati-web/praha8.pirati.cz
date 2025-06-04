@@ -14,4 +14,4 @@ Společně můžeme probrat, co má kdo na srdci, a co koho zajímá. A je jedno
 
 Vezměte své známé, kamarády, přátelé, rodinu a dorazte si užít fajn odpoledne. 
 
-###[Přidejte se k eventu na Facebooku.](https://www.facebook.com/events/1858754774909307)
+### [Přidejte se k eventu na Facebooku.](https://www.facebook.com/events/1858754774909307)
