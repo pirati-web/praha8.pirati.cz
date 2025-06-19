@@ -1,5 +1,5 @@
 ---
-title: "V Kasárna Karlín se od ledna zabydlení studenti a UMPRUM"
+title: "Je třeba řešit bezpečnost v okolí stanic metra a pracovat s lidmi, kteří se dopouští vandalismu"
 author: Jakub Jiran
 image: posts/jakubjiran-metro.jpg
 tags: [Doprava, Bezpečnost]
