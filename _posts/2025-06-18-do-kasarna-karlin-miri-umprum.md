@@ -1,5 +1,5 @@
 ---
-title: "Už nestačí, aby sídliště sloužila jen k bydlení, zaslouží si naši péči"
+title: "V Kasárna Karlín se od ledna zabydlení studenti a UMPRUM"
 author: Martin Štěrba
 image: posts/kasarna-karlin-cerven2025.jpg
 tags: [Kasárna Karlín, Územní rozvoj]
