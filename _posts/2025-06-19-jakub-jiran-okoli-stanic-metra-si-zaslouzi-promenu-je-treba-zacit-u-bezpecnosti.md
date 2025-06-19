@@ -1,5 +1,5 @@
 ---
-title: "Jakub Jiran: V okolí stanic metra je třeba řešit bezpečnosti a pracovat s lidmi, kteří se dopouští vandalismu"
+title: "V okolí stanic metra je třeba řešit bezpečnosti a pracovat s lidmi, kteří se dopouští vandalismu"
 author: Jakub Jiran
 image: posts/jakubjiran-metro.jpg
 tags: [Doprava, Bezpečnost, Životní prostředí]
