@@ -1,8 +1,8 @@
 ---
-title: "V okolí stanic metra je třeba řešit bezpečnosti a pracovat s lidmi, kteří se dopouští vandalismu"
+title: "V Kasárna Karlín se od ledna zabydlení studenti a UMPRUM"
 author: Jakub Jiran
 image: posts/jakubjiran-metro.jpg
-tags: [Doprava, Bezpečnost, Životní prostředí]
+tags: [Doprava, Bezpečnost]
 ---
 
 **Okolí stanic metra na osmičce si zaslouží proměnu. Kobylisy, Palmovka ani Ládví bohužel nepatří mezi výkladní skříně našeho města. Pojďme to změnit.**
