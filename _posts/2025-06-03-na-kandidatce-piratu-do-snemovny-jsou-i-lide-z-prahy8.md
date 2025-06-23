@@ -11,7 +11,7 @@ tags: [Piráti, Sněmovna, Volby 2025]
 
 **Martin Štěrba (číslo 26)** – zastupitel a předseda kontrolního výboru Prahy 8, manažer a stratég on-line komunikace, který má podíl na tom, že Piráti jsou silným opozičním hlasem zastupitelstva Prahy 8.
 
-**Karolína Gattermayerová (číslo 29)** – copywriterka a scenáristka, členka komise pro kultury Prahy , která stojí třeba za seriálem Spolu & Hladoví a projektem Film Naživo. 
+**Karolína Gattermayerová (číslo 29)** – copywriterka a scenáristka, členka komise pro kultury Prahy 8, která stojí třeba za seriálem Spolu & Hladoví a projektem Film Naživo. 
 
 <iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Fceska.piratska.strana%2Fvideos%2F911790744387127%2F&show_text=true&width=380&t=0" width="380" height="591" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
