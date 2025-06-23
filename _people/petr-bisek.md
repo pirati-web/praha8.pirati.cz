@@ -9,6 +9,8 @@ partyUid: pirati
 mail: petr.bisek@pirati.cz
 profiles:
 funkce-strana:
+  - předseda <a href="https://seniori.pirati.cz/">Seniorů na palubě</a>
+
 funkce-verejne:
   - člen komise RMČP8 pro sport a grantovou politiku
   - člen dozorčí rady Střediska Diakonie ČCE Praha
