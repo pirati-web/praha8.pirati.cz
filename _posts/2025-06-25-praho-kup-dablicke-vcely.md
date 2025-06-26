@@ -1,5 +1,5 @@
 ---
-title: "Praho, kup ďáblické Včely"
+title: "Praho, kup ďáblické Včely!"
 author: Martin Štěrba
 image: posts/dablice-tanvaldska3.jpg
 tags: [Ďáblice, Krásné Kobylisy, Územní rozvoj, Zastupitelstvo]
