@@ -6,18 +6,18 @@ tags: [Piráti, Volby 2025]
 fancybox:
   - name: Jaké to bylo v Kobylisích? Mrkněte na fotky.
     img:
-      - { src: posts/2025-06-28-mate-prani/mateprani1.jpg, title: Máte přání?}
-      - { src: posts/2025-06-28-mate-prani/mateprani2.jpg, title: Máte přání?}
-      - { src: posts/2025-06-28-mate-prani/mateprani3.jpg, title: Máte přání?}
-      - { src: posts/2025-06-28-mate-prani/mateprani4.jpg, title: Máte přání?}
-      - { src: posts/2025-06-28-mate-prani/mateprani5.jpg, title: Máte přání?}
-      - { src: posts/2025-06-28-mate-prani/mateprani6.jpg, title: Máte přání?}
-      - { src: posts/2025-06-28-mate-prani/mateprani7.jpg, title: Máte přání?}
-      - { src: posts/2025-06-28-mate-prani/mateprani8.jpg, title: Máte přání?}
-      - { src: posts/2025-06-28-mate-prani/mateprani9.jpg, title: Máte přání?}
-      - { src: posts/2025-06-28-mate-prani/mateprani10.jpg, title: Máte přání?}
-      - { src: posts/2025-06-28-mate-prani/mateprani12.png, title: Máte přání?}
-      - { src: posts/2025-06-28-mate-prani/mateprani13.png, title: Máte přání?}
+      - { src: posts/2025-06-28-mate-prani/mateprani1.jpg, title: 'Máte přání?'}
+      - { src: posts/2025-06-28-mate-prani/mateprani2.jpg, title: 'Máte přání?'}
+      - { src: posts/2025-06-28-mate-prani/mateprani3.jpg, title: 'Máte přání?'}
+      - { src: posts/2025-06-28-mate-prani/mateprani4.jpg, title: 'Máte přání?'}
+      - { src: posts/2025-06-28-mate-prani/mateprani5.jpg, title: 'Máte přání?'}
+      - { src: posts/2025-06-28-mate-prani/mateprani6.jpg, title: 'Máte přání?'}
+      - { src: posts/2025-06-28-mate-prani/mateprani7.jpg, title: 'Máte přání?'}
+      - { src: posts/2025-06-28-mate-prani/mateprani8.jpg, title: 'Máte přání?'}
+      - { src: posts/2025-06-28-mate-prani/mateprani9.jpg, title: 'Máte přání?'}
+      - { src: posts/2025-06-28-mate-prani/mateprani10.jpg, title: 'Máte přání?'}
+      - { src: posts/2025-06-28-mate-prani/mateprani12.png, title: 'Máte přání?'}
+      - { src: posts/2025-06-28-mate-prani/mateprani13.png, title: 'Máte přání?'}
 ---
 
 **Nakopneme bydlení v Česku! V Kobylisích u metra jsme Vám tento týden představili naše plány na dostupné bydlení, boj proti korupci a také se zeptali na vaše přání! Připojili se k nám i předseda Pirátů Zdeněk Hřib a místopředsedkyně Sněmovny Olga Richterová.**
