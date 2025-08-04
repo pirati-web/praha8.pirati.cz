@@ -16,7 +16,7 @@ fancybox:
 
 Vítězem soutěže se stali Stráský, Hustý a partneři a Studio acht. Podle poroty nabídli nejlepší architektonické i technické řešení mostu i obou předmostí – a zároveň návrh nejméně narušuje charakter Vltavského údolí.
 
-To ale ještě neznamená, že se most postaví právě podle vítězného návrhu. V dalších fázích se bude rozhodovat mezi pěti nejlepšími, a do hry vstoupí i náklady na výstavbu a provoz.
+To ale ještě neznamená, že se most postaví právě podle vítězného návrhu. V dalších fázích se bude rozhodovat mezi pěti nejlepšími, a do hry vstoupí i náklady na výstavbu a provoz. [Kompletní výsledky najdete na webu České komory architektů.](https://www.cka.cz/souteze/databaze/d0-stavba-519-suchdol-brezineves-most-pres-vltavu?fbclid=IwY2xjawL9loRleHRuA2FlbQIxMABicmlkETFqbkc0VURnTGk1Z0toekRxAR7wg5aDUtCwlCkJDwDsEFX8crVsfaaqQx7YXHSs-jvpdAuph-2kSqiR7y-xRg_aem_gxvNgjUyJjza92CwLrZ_Jg)
 
 **Co na návrh říkáte vy? Já z toho mám celkem dobrý pocit.**
 
