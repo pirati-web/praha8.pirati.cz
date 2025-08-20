@@ -4,7 +4,7 @@ uid: 2018-komunalni
 number: 9 # číslo kandidátky
 leader:
   name: Alice Hamalová
-  img: people/alice-hamalova.jpg
+  img: people/_old/alice-hamalova.jpg
   age: 28
   city: Kobylisy
   profession: chemik, technolog laboratoří
@@ -31,7 +31,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     city: Kobylisy
     partyUid: pirati
   - name: Anna Filínová
-    img: people/anna-filinova.jpg
+    img: people/_old/anna-filinova.jpg
     profession: projektová manažerka
     age: 36
     city: Libeň
@@ -42,7 +42,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     city: Kobylisy
     partyUid: pirati
   - name: Jan Hamal Dvořák
-    img: people/jan-hamal-dvorak.jpg
+    img: people/_old/jan-hamal-dvorak.jpg
     profession: informatik
     age: 31
     city: Kobylisy
