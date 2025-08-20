@@ -74,7 +74,7 @@ tail:
     partyUid: bezpp
     age: 31
   - name: Jan Horn
-    img: people/jan-horn.jpg
+    img: people/_old/jan-horn.jpg
     profession:     kovář
     partyUid: bezpp
     age: 39
