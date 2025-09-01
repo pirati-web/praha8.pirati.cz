@@ -2,7 +2,7 @@
 title: "Kousek od Palmovky by mohly být dvě nové dětské skupiny"
 author: Martin Štěrba
 image: posts/skolka-deti.jpeg
-tags: [Libeň, Palmovka, Školství]
+tags: [Dětská skupina, Libeň, Palmovka, Školství]
 ---
 
 **V přízemí nového domu nedaleko Palmovky zvaného Rezidence Zenklova by mohly vzniknout dvě nové dětské skupiny, každá pro 12 dětí ve věku 2-3 let. To je dobrá zpráva.**
