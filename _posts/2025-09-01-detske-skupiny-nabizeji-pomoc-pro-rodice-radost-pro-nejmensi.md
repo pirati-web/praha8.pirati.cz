@@ -1,5 +1,5 @@
 ---
-title: "Dětské skupiny nabízejí pomoc rodiče, radost pro nejmenší"
+title: "Dětské skupiny nabízejí pomoc pro rodiče, radost pro nejmenší"
 author: Andrea Vildová
 image: posts/detska-skupina-ilustracni.jpg
 tags: [Školství, Dětské skupiny, Libeň, Palmovka]
