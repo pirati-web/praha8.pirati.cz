@@ -1,5 +1,5 @@
 ---
-title: "Máme společného víc, než si myslíte. Nakopneme změnu!"
+title: "Máme společného víc, než si myslíte. Máme společného víc, než si myslíte. Piráti zahájili horkou fázi kampaně do Sněmovny!"
 author: Piráti Praha 8
 image: posts/volby2025-nakopnemeto.jpg
 tags: [Piráti, Volby 2025]
