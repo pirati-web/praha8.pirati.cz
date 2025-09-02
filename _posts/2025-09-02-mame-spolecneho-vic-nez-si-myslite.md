@@ -9,7 +9,7 @@ tags: [Piráti, Volby 2025]
 
 >„Někteří politici nám tvrdošíjně říkají, že česká společnost je nepřekonatelně rozdělena – že město nerozumí vesnici a mladí se přou se starými. My Piráti si ale myslíme pravý opak: máme společného víc, než si myslíte. Všichni přece chceme, aby mladí lidé měli šanci založit rodinu a aby se jim dobře žilo. Všichni chceme, aby peníze neodtékaly do kapes oligarchů, ale aby za ně vznikl moderní stát se silným školstvím a zdravotnictvím. A všichni chceme žít v bezpečné zemi, kde se nemusíme obávat, že nám do domu narazí tank nebo dron. Proto máme plán na prvních 100 pracovních dnů vlády, který lidem konkrétně pomůže,“ prohlásil předseda a celostátní lídr Pirátů Zdeněk Hřib.
 
-Piráti představili deset konkrétních kroků, které chtějí prosadit hned po vstupu do vlády:
+**Piráti představili deset konkrétních kroků, které chtějí prosadit hned po vstupu do vlády:**
 1. více domovů pro občany – vznik akceleračních zón pro rychlejší výstavbu, méně regulací, 20 miliard korun ročně navíc do bytové výstavby, zákon pro řešení krizové situace a konec spekulací,
 2. úlevy na daních – zvýšení slevy na poplatníka i částek na děti, rodičovský příspěvek 420 tisíc a balíček daňových úlev, který rodinám ušetří desetitisíce korun,
 3. levnější potraviny – snížení DPH na základní potraviny a hygienické potřeby, zásah proti kartelům a online sledování cen,
