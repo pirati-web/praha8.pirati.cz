@@ -21,7 +21,7 @@ Piráti představili deset konkrétních kroků, které chtějí prosadit hned p
 9. méně byrokracie – odstranění nesmyslných regulací, zbytečného papírování a duplicitních kontrol, digitalizace služeb státu,
 10. regulovaný trh s konopím – přínos až 3 miliardy korun ročně do rozpočtu, konec kriminalizace běžných uživatelů, naopak přitvrzení vůči dealerům prodávajícím dětem.
 
-„Naše země má na to, aby špičkově fungovala. Jen ji musíme vyvést ze stojatých vod, kde se roky nic neděje. My máme odvahu, energii i experty, a díky lidem, kteří nás podporují, teď i šanci to změnit. Chceme získat víc než 25 poslanců, přeskočit SPD a stát se třetí nejsilnější stranou v Parlamentu,“ dodal Hřib.
+>„Naše země má na to, aby špičkově fungovala. Jen ji musíme vyvést ze stojatých vod, kde se roky nic neděje. My máme odvahu, energii i experty, a díky lidem, kteří nás podporují, teď i šanci to změnit. Chceme získat víc než 25 poslanců, přeskočit SPD a stát se třetí nejsilnější stranou v Parlamentu,“ dodal Hřib.
 
 Celá akce se nesla ve festivalovém duchu. Politici se mísili s lidmi v davu, na pódiu se střídali DJs a kapely a návštěvníci si mohli odnést nový pirátský merch. „Tohle není o romantice na moři, ale o konkrétním boji s drahotou, korupcí a byrokracií. Proto jsme tady a proto to společně dokážeme,“ uzavřel Hřib.
 
