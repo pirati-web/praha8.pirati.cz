@@ -8,7 +8,7 @@ img: people/ladislav-palan.jpg
 heroImg: posts/praha8-zvysky.png
 profession: hydrolog a hydraulik
 partyUid: pirati
-mail:
+mail: ladislav.palan@pirati.cz
 profiles:
   facebook: https://www.facebook.com/ladislav.palan
   linkedin:  https://www.linkedin.com/in/ladislav-palan/
