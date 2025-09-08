@@ -5,7 +5,7 @@ image: posts/koupaliste-nastirce4.jpg
 tags: [Koupaliště Stírka, Kobylisy, Magistrát, Sport]
 ---
 
-Makali jsme na tom několik let. A vyplatilo se to — zachránili jsme koupaliště Stírka v Kobylisích. Bude patřit Praze, dnes dopoledne to schválila Rada hlavního města.
+**Makali jsme na tom několik let. A vyplatilo se to — zachránili jsme koupaliště Stírka v Kobylisích. Bude patřit Praze, dnes dopoledne to schválila Rada hlavního města.**
 
 Materiál byl předkládán na základě jednání mezi hlavním městem Prahou, Úřadem pro zastupování státu ve věcech majetkových a Českou republikou, která má právo hospodařit s majetkem státu prostřednictvím Ředitelství silnic a dálnic.
 V rámci těchto vícestranných jednání došlo k dohodě o směně pozemků. Jedná se mimo jiné o pozemky v Kobylisích, na nichž se nachází koupaliště Stírka.
