@@ -3,7 +3,7 @@ uid: daniel.rexa
 name: Daniel "Dany" Rexa
 titles:
   before: PhDr.
-img: people/daniel-rexa.jpg
+img: people/daniel-rexa-2025.jpg
 heroImg: posts/praha8-zvysky.png
 profession: odborník na územní rozvoj, bývalý ředitel Nadace Václava Havla
 partyUid: pirati

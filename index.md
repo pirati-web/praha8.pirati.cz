@@ -23,7 +23,7 @@ layout: default
       </div>
     </div>
     <div class="lg:row-span-5 lg:col-span-4 order-2">
-      <img src="/assets/img/home-hero-tvare2022_new.png" />
+      <img src="/assets/img/home-hero-tvare2025_new.png" />
     </div>
   </div>
 </article>

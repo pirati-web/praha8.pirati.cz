@@ -3,7 +3,7 @@ uid: jan.borovicka
 name: Jan Borovička
 titles:
   before: Bc.
-img: people/jan-borovicka.jpg
+img: people/jan-borovicka-new.jpg
 heroImg: posts/praha8-zvysky.png
 profession: student, moderátor, administrátor sociálních sítí
 partyUid: pirati

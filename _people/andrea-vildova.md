@@ -3,7 +3,7 @@ uid: andrea.vildova
 name: Andrea Vildová
 titles:
   before: Mgr.
-img: people/andrea-vildova.jpg
+img: people/andrea-vildova-new.jpg
 heroImg: posts/praha8-zvysky.png
 profession: učitelka
 partyUid: pirati

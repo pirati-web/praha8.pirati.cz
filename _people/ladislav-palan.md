@@ -4,7 +4,7 @@ name: Ladislav Palán
 titles:
   before: Ing.
   after: Ph.D.
-img: people/ladislav-palan.jpg
+img: people/ladislav-palan-2025-new.jpg
 heroImg: posts/praha8-zvysky.png
 profession: hydrolog a hydraulik
 partyUid: pirati
