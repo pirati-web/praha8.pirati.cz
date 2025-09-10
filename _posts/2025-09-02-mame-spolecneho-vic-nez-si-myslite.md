@@ -1,9 +1,10 @@
 ---
-title: "Máme společného víc, než si myslíte. Máme společného víc, než si myslíte. Piráti zahájili horkou fázi kampaně do Sněmovny!"
+title: "Máme společného víc, než si myslíte. Piráti zahájili horkou fázi kampaně do Sněmovny!"
 author: Piráti Praha 8
 image: posts/volby2025-nakopnemeto.jpg
 tags: [Piráti, Volby 2025]
 ---
+
 
 **Piráti dnes oficiálně odstartovali horkou část své kampaně v duchu myšlenky „Máme společného víc, než si myslíte“. Představili konkrétní plán prvních 100 dnů vlády: dostupnější bydlení, nižší daně pro rodiny, tvrdý boj proti korupci, modernizaci státu. Nová meta stanovena: porazit extremistickou SPD a stát se třetí nejsilnější stranou v Poslanecké sněmovně.**
 
