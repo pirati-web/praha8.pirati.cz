@@ -90,7 +90,7 @@ tail:
     city: Praha 8 – Libeň
     partyUid: bezpp
 # 15
-  - uid: miroslav.jahoda
+  - name: Miroslav Jahoda
     profession: marketér na volné noze
     age: 34
     city: Praha 8 – Kobylisy
