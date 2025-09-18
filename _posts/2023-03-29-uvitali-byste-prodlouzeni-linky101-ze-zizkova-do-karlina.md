@@ -1,6 +1,6 @@
 ---
 title: "Uvítali byste prodloužení linky 101 ze Žižkova do Karlína?"
-author: Pavel Franc
+author: Martin Štěrba
 image: posts/mhd-linka101.jpg
 tags: [Karlín, Doprava, Komise pro dopravu]
 ---
