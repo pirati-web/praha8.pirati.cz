@@ -14,9 +14,10 @@ Zástupci osmičkové koalice ve složení ODS, ANO, TOP09, STAN a Patrioti měl
 Z opozice jsme měli navrženo konstruktivní usnesení, které by zavazovalo kontrolní výbor, aby jednou ročně kontrolovat zadávání veřejných zakázek, a to včetně přípravných procesů a také zavázalo Radu městské části Praha 8, aby zajistila přezkoumání odpovědnosti a navrhla opatření, aby se to nestávalo. 
 
 **Za Piráty:**
-Martin Štěrba, Jakub Jiran, Michal Novák, Pavel Fran a Jan Kolátor
+Martin Štěrba, Jakub Jiran, Michal Novák, Pavel Franc a Jan Kolátor
 
 **Za 8Žije/Praha sobě**
 Ilona Tůmová, Tomáš Němeček, Vladislava Vojtíšková, Michal Trník, Václav Stránský, Dana Blahunková, Barbora Musilová a Jan Šimbera
+
 
 
