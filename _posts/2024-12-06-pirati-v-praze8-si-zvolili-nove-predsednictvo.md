@@ -2,8 +2,9 @@
 title: "Piráti v Praze 8 si zvolili nové předsednictvo, předsedou zůstává Martin Štěrba"
 author: Piráti Praha 8
 image: posts/predsednictvo2024.jpg
-tags: [Karlín, Územní rozvoj, Magistrát, Negrelliho viadukt]
+tags: [Piráti]
 ---
+
 
 **Piráti v Praze 8 si zvolili nové předsednictvo. Předsedou místního sdružení zůstává [Martin Štěrba](https://praha8.pirati.cz/lide/martin-sterba.html), prvním místopředsedou bude nově [Jakub Jiran](https://praha8.pirati.cz/lide/jakub-jiran.html). Dalšími místopředsedy pak byli zvoleni [Karolína Gattermayerová](https://praha8.pirati.cz/lide/karolina-gattermayerova.html), [Jan Kolátor](https://praha8.pirati.cz/lide/jan-kolator.html) a [Michal Novák](https://praha8.pirati.cz/lide/michal-novak.html).**
 
