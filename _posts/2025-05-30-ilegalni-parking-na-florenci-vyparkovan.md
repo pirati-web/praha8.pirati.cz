@@ -1,5 +1,5 @@
 ---
-title: "Ideální parking na Florenci konečně vyparkován!"
+title: "Ilegální parking na Florenci konečně vyparkován!"
 author: Zdeněk Hřib
 image: posts/zdenekhrib-florenc.jpg
 tags: [Doprava, Florenc]
@@ -10,6 +10,7 @@ tags: [Doprava, Florenc]
 Prostor je nově zahrazený sloupky a parkování je tu umožněno jen kolům. Hlavně se ale zásadně zlepšila pěší prostupnost na trase z centra směrem k hlavnímu autobusovému nádraží.
 
 Přitom samozřejmě víme, že prostory pod magistrálou ještě zdaleka nejsou ideální. Okolí Florence ale čeká v budoucnu velká revitalizace, která tomuhle místu vrátí prestiž, jakou si zaslouží!
+
 
 ### Děkujeme za sdílení
 
