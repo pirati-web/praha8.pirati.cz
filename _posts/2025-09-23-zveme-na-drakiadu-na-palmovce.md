@@ -1,7 +1,7 @@
 ---
 title: "Zveme Vás na pirátskou Drakiádu na Palmovce"
 author: Piráti Praha 8
-image: posts/opalmovka-drakiada.jpg
+image: posts/palmovka-drakiada.jpg
 tags: [Piráti, Palmovka]
 ---
 
